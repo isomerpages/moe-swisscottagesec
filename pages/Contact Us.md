@@ -24,7 +24,8 @@ description: ""
 0600 to 1800
 
 **MRT**  
-Nearest MRT StationBukit Gombak
+Nearest MRT Station  
+Bukit Gombak
 
 **Buses**  
 945, 187, 188, 985
