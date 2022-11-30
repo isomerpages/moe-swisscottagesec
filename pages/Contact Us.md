@@ -23,8 +23,8 @@ description: ""
 **Office Hours**  
 0600 to 1800
 
-**MRT**  
-Nearest MRT Station  
+
+**Nearest MRT Station**  
 Bukit Gombak
 
 **Buses**  
