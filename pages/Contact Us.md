@@ -3,6 +3,7 @@ title: Contact Us
 permalink: /contact-us-page/
 description: ""
 ---
+# one map cannot be embedded, use google map
 # CONTACT US
 
 ### Swiss Cottage Secondary
