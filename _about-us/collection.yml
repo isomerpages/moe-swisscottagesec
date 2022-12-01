@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - School Song & School Crest.md
       - Vision, Mission, Values, Motto.md
+      - School Song & School Crest.md
