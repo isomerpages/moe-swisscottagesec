@@ -17,5 +17,3 @@ description: ""
  Mr Liu Earnler (Dec 2007 – Dec 2012)  
  Mr Heng Yew Seng (Dec 2012 – Dec 2017)  
  Mr Sherwin Cheng (Dec 2017 – Present)
- 
- 
