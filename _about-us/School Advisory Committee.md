@@ -25,13 +25,13 @@ description: ""
     <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S1774572G-220x300.jpg"></td>
   </tr>
   <tr>
-    <td width="187"></td>
-    <td width="187"></td>
-    <td width="187"></td>
+    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S7780169C-260x300.jpg"></td>
+    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S7717412E-161x300.jpg"></td>
+    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S8636681I.jpg"></td>
   </tr>
   <tr>
-    <td width="187"></td>
-    <td width="187"></td>
+    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S6804524Z-225x300.jpg"></td>
+    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S7316886D.jpg"></td>
     <td width="187"></td>
   </tr>
 </tbody>
@@ -41,8 +41,8 @@ description: ""
 |---|---|---|
 |   |  |   |
 | <img height="249" width="187" sizes="(max-width: 187px) 100vw, 187px" src="g">  |  ![]() |![]()   |
-|  ![](/images/About%20us/School%20Advisory%20Committee/S7780169C-260x300.jpg) | ![](/images/About%20us/School%20Advisory%20Committee/S7717412E-161x300.jpg)  |  ![](/images/About%20us/School%20Advisory%20Committee/S8636681I.jpg) |
-|  ![](/images/About%20us/School%20Advisory%20Committee/S6804524Z-225x300.jpg) | ![](/images/About%20us/School%20Advisory%20Committee/S7316886D.jpg)  |   |
+|  ![]() | ![]()  |  ![]() |
+|  ![]() | ![]()  |   |
 
 
 <table width="704">
