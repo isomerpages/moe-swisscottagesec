@@ -30,7 +30,7 @@ third_nav_title: Achievements Archive
 <tr>
 <td>National Police Cadet Corp</td>
 <td>SPF-NPCC Badge</td>
-<td>Raja Jawahar Vignesh 4E1 Chng Sen You Corwin 4N1</td>
+<td>Raja Jawahar Vignesh 4E1<br> Chng Sen You Corwin 4N1</td>
 </tr>
 <tr>
 <td>National Cadet Corp (Air)</td>
