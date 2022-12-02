@@ -24,11 +24,13 @@ description: ""
  
  ![](/images/About%20us/Principal_3.jpg)
  
-<a href="http://www.youtube.com/watch?v=ZAH-VwoMIhI&feature=youtu.be" target="_blank"> Documentary on School History and Principals</a>
+<a href="http://www.youtube.com/watch?v=ZAH-VwoMIhI&feature=youtu.be" target="_blank">Documentary on School History and Principals</a>
+
 
  ## History
  
 <br>
+
 <img src="/images/About%20us/history%20final.jpg"
      style="width:50%;float:left;padding:20px">
 
