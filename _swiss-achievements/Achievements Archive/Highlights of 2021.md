@@ -16,12 +16,12 @@ third_nav_title: Achievements Archive
 <tr>
 <td>Girl Guides</td>
 <td>Baden-Powell Award</td>
-<td>Baskar Shruti 4E3 Bernyce Leng Kit Yen(Lian Jie&rsquo;en) 4E4</td>
+<td>Baskar Shruti 4E3 <br>Bernyce Leng Kit Yen(Lian Jie&rsquo;en) 4E4</td>
 </tr>
 <tr>
 <td rowspan="2">Boys&rsquo; Brigade</td>
 <td>Founder&rsquo;s Award</td>
-<td>Chan Yi Liang 4E4 Sean Go 4E5</td>
+<td>Chan Yi Liang 4E4<br> Sean Go 4E5</td>
 </tr>
 <tr>
 <td>The Boys' Brigade Character Quest</td>
