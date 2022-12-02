@@ -2,8 +2,6 @@ collections:
   swiss-achievements:
     output: true
     order:
-      - Achievements Archive/Achievements Archive.md
-      - Achievements Archive/.keep
       - Swiss Achievements.md
       - Swiss Success Stories/.keep
       - Swiss Success Stories/Swiss Success Stories.md
@@ -17,3 +15,5 @@ collections:
       - Swiss Success Stories/2018 O Level Success Stories.md
       - Swiss Success Stories/2017 N Level Success Stories.md
       - Swiss Success Stories/2017 O Level Success Stories.md
+      - Achievements Archive/.keep
+      - Achievements Archive/Achievements Archive.md
