@@ -137,8 +137,7 @@ Over the year, Guan Jia displayed much humility and developed the ability to foc
 
 “I plan to take psychology in Ngee Ann Polytechnic,” remarked Guan Jia, who has developed a keen interest in human behaviour. We wish him all the best!
 
-**BERNAL TIZIANA PARINAS\[4N2\]  
-**
+**BERNAL TIZIANA PARINAS\[4N2\]**
 
 Zia was the Committee Head for Sports Leader Game Planning team. As a leader she was known to be empathetic because she actively took care of her friends, and stood up for others when needed. Additionally, she showed a deep passion for learning; she would be proactive in her studies and showed much motivation to do well. What was even more commendable was her positive outlook and her attempts to spread her positivity to the people around her.
 
@@ -194,9 +193,9 @@ Jamsyir plans to take up culinary courses. He has an interest in cooking and is 
 
 “I want to open up a restaurant, and help poor people by cooking food and giving them money,” revealed a thoughtful Jamsyir.
 
-**KOH RUI XUAN \[4T1\]  
-  
-**Rui Xuan could not have been more thrilled. She achieved 4 points and 3 distinctions. Now, she can move on to pursue bigger dreams.
+**KOH RUI XUAN \[4T1\]**
+
+Rui Xuan could not have been more thrilled. She achieved 4 points and 3 distinctions. Now, she can move on to pursue bigger dreams.
 
 In her years in Swiss Cottage, she had contributed much of her leadership as IC for Publicity in the National Civil Defence Cadet Corps (NCDCC). She was known as a thoughtful student who would display empathy for others by expressing care. Always be willing to share, she was often seen helping her classmates with their revision after school. She also showed maturity in decision-making and took the needs of others into account. An all-rounded student, she was active in Taekwondo and participated in tournaments both locally and overseas.
 
