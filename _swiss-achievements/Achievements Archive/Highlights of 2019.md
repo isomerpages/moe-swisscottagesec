@@ -133,24 +133,18 @@ third_nav_title: Achievements Archive
 <tr>
 <td rowspan="2">National Police Cadet Corps</td>
 <td>SPF-NPCC Badge</td>
-<td>Truman Tan Zhe Hong 4N2
-<p>Truman Sng Cheng Kang 4N2</p>
+<td>Truman Tan Zhe Hong 4N2<br><br>Truman Sng Cheng Kang 4N2
 </td>
 </tr>
 <tr>
 <td>.22 Revolver Shoot 5th out of 134 Teams (Boys)</td>
-<td>Ng Jun Ren 3E1
-<p>Jovan Ng Wei Jun 3E1</p>
-<p>D.H. Muhd. Ismaeel 3E3</p>
-<p>Truman Sng Cheng Kang 4N2</p>
+<td>Ng Jun Ren 3E1<br><br>Jovan Ng Wei Jun 3E1<br><br>D.H. Muhd. Ismaeel 3E3<br><br>Truman Sng Cheng Kang 4N2
 </td>
 </tr>
 <tr>
 <td>The Boys&rsquo; Brigade</td>
 <td>Founder&rsquo;s Award</td>
-<td>Tan Dong Yi 4E5
-<p>Yee Rong Kun 4E4</p>
-<p>Pang Ang Sheng Asher 4E1</p>
+<td>Tan Dong Yi 4E5<br><br>Yee Rong Kun 4E4<br><br>Pang Ang Sheng Asher 4E1
 </td>
 </tr>
 <tr>
@@ -178,8 +172,7 @@ third_nav_title: Achievements Archive
 <tr>
 <td>Girl Guides</td>
 <td>Baden Powell Award</td>
-<td>Isabelle Hakim 4E5
-<p>Nadyah Bte Wira 4E1</p>
+<td>Isabelle Hakim 4E5<br><br>Nadyah Bte Wira 4E1
 </td>
 </tr>
 <tr>
@@ -195,15 +188,7 @@ third_nav_title: Achievements Archive
 <tr>
 <td>St John Brigade</td>
 <td>St John Brigade Chief Commissioner Badge</td>
-<td>Nanditha Kumar 4E1
-<p>Chloe Lim Jingxuan 4E3</p>
-<p>Chua Ming Ker, Charles 4E4</p>
-<p>Issac Tan Boon Keat 4E4</p>
-<p>Liew Cheng Zhen 4E4</p>
-<p>Lim Fang Yu 4E5</p>
-<p>Yeo Teng Shin 4E5</p>
-<p>Nur Sabrina Bte Mohd Rani 4N2</p>
-<p>Tan Xuan Hui 4N2</p>
+<td>Nanditha Kumar 4E1<br><br>Chloe Lim Jingxuan 4E3<br><br>Chua Ming Ker, Charles 4E4<br><br>Issac Tan Boon Keat 4E4<br><br>Liew Cheng Zhen 4E4<br><br>Lim Fang Yu 4E5<br><br>Yeo Teng Shin 4E5<br><br>Nur Sabrina Bte Mohd Rani 4N2<br><br>Tan Xuan Hui 4N2
 </td>
 </tr>
 <tr>
