@@ -44,7 +44,8 @@ On top of her academic goals and focus in her final year, Jacelyn was also a stu
 
 When asked about the way forward, she shared that she planned to pursue her education at the Higher NITEC level in Accounting.
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/04/Nakeisha-Grace-Chong-4T1.jpg)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Nakeisha-Grace-Chong-4T1.jpg" style="width:20%;float:left"><br clear="left">
+
 
 **Nakeisha Grace Chong \[4T1\]**
 
@@ -66,7 +67,7 @@ Nakeisha felt that it was important for her to be a role model for her peers in 
 
 Having a keen eye for Art, Nakeisha shared that she had a deep desire to pursue studies in the area of architectural technology in the Institute of Technical Education (ITE). Expectedly, she hopes to be an architect in the future.
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/04/Chng-Sen-You-Corwin-4N1.jpg)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Chng-Sen-You-Corwin-4N1.jpg" style="width:20%;float:left"><br clear="left">
 
 **Chng Sen You Corwin \[4N1\]**
 
@@ -84,7 +85,7 @@ To overcome moments of weaknesses during his pursuit of academic excellence, Cor
 
 Corwin has not decided on his desired course of study. But he was sure that he would definitely apply for the Poly Foundation Programme. He thanked his teachers for guiding him through these four years and he will definitely miss his friends who stood by with him through thick and thin.
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/04/Chua-Bing-Rong-Zachary-4N1.jpg)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Chua-Bing-Rong-Zachary-4N1.jpg" style="width:20%;float:left"><br clear="left">
 
 **Chua Bing Rong Zachary \[4N1\]**
 
@@ -102,7 +103,8 @@ Even so, Zachary feared that he might run away from challenges instead of facing
 
 The gratified Zachary shared that he was still undecided about his course of study but added that he was inclined to pursue nursing as a vocation. We wish Zachary all the best for his future endeavours!
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/04/Jacob-Wong-Wen-Le-4N2.jpg)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Jacob-Wong-Wen-Le-4N2.jpg" style="width:20%;float:left"><br clear="left">
+
 
 **Jacob Wong Wen Le \[4N2\]**
 
@@ -122,7 +124,7 @@ When asked what advice he would give his juniors, Jacob quipped, “Well, I thin
 
 Jacob plans to continue his education in Swiss Cottage in 2022 for his Secondary Five year, following which he intends to further his education in a junior college. When asked if he had advice for his juniors, Jacob had this to say: “Believe that it is possible to do well, and just put your mind to it!”
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/04/Lui-Yu-Kai-4N1.jpg)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Lui-Yu-Kai-4N1.jpg" style="width:20%;float:left"><br clear="left">
 
 **Lui Yu Kai \[4N1\]**
 
@@ -142,7 +144,8 @@ A firm believer in the humility to reach out when you need support, Yu Kai has t
 
 He has plans to pursue a course in Business Studies in Ngee Ann Polytechnic and eventually start his own business upon graduation. He has some words of advice for his juniors before he ended the interview:
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/04/Matthew-Anthony-Style-4N2.jpg)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Matthew-Anthony-Style-4N2.jpg" style="width:20%;float:left"><br clear="left">
+
 
 **Matthew Anthony Style \[4N2\]**
 
@@ -162,7 +165,8 @@ As a reflective thinker and learner, Matthew also shared how he had assiduously 
 
 Matthew would be keen to pursue his studies in either biomedical sciences or pharmaceutical research, which are areas of study that he has a keen passion and interest in. Matthew thanked all teachers who have made his success possible and hopes that he has made them proud.
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/04/Muhd-Akif-4N1.jpg)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Muhd-Akif-4N1.jpg" style="width:20%;float:left"><br clear="left">
+
 
 **Muhammad Akif Taruna Bin Jafataruna \[4N1\]**
 
@@ -180,7 +184,7 @@ Akif aspires to work in the medical field to save lives and help others in need.
 
 “To all my juniors, cherish your time in Swiss cause because you will miss it,” quipped Akif, who believes in making the most of the time one has, to fully engage on the opportunities that come in one’s way.
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/04/Yong-Haiwen-John-4N1.jpg)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Yong-Haiwen-John-4N1.jpg" style="width:20%;float:left"><br clear="left">
 
 **Yong Haiwen John \[4N1\]**
 
