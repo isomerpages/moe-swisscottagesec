@@ -26,7 +26,7 @@ It was a significant moment on the day of the N levels when he realized that he 
 
 Cruz Abiel Aquino has always had aspirations to become a film producer. If his school life were to be featured as a movie, it would depict a good ending for him in Swiss. He hoped to pursue a video production course in the Institute of Education.
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/04/Lim-Jia-Ying-Jacelyn-4T1.jpg)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Lim-Jia-Ying-Jacelyn-4T1.jpg" style="width:20%;float:left"><br clear="left">
 
 **Lim Jia Ying Jacelyn \[4T1\]**
 
