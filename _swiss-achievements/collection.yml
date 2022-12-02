@@ -1,4 +1,5 @@
 collections:
   swiss-achievements:
     output: true
-    order: []
+    order:
+      - Swiss Achievements.md
