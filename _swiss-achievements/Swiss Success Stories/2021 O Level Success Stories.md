@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Swiss Success Stories
 ---
 # 2021 O-Level Success Stories
-
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Teo-Yi-Ting-4E5.png)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Teo-Yi-Ting-4E5.png" style="width:20%;float:left"><br clear="left">
 
 **Teo Yi Ting (4E5)**
 
