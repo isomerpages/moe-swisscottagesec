@@ -40,12 +40,10 @@ third_nav_title: Achievements Archive
 <tr>
 <td>National Civil Defence Cadet Corps</td>
 <td>
-<p>Infographic Design Competition</p>
-<p>Unit Overall Proficiency Award</p>
+Infographic Design Competition<br><br>Unit Overall Proficiency Award
 </td>
 <td>
-<p>1st Place</p>
-<p>Gold Award</p>
+<br>1st Place<br><br><br>Gold Award
 </td>
 </tr>
 </tbody>
@@ -127,7 +125,7 @@ third_nav_title: Achievements Archive
 <td colspan="2">NDP 2021 Theme Song &ldquo;The Road Ahead&rsquo; Virtual Collaboration with the Singapore Armed Forces Band</td>
 </tr>
 <tr>
-<td colspan="2">54<sup>th</sup>&nbsp;Civilian War Memorial Service (War Memorial Park)</td>
+<td colspan="2">54<sup>th</sup>Civilian War Memorial Service (War Memorial Park)</td>
 </tr>
 </tbody>
 </table>
