@@ -5,13 +5,13 @@ description: ""
 ---
 # Open House 2022
 
-![](/images/Open%20House%202022/Open-House-22-Banner1-1024x394.jpg)
+<a href="https://sites.google.com/moe.edu.sg/scssopenhouse2022/home" target = "_blank"> <img src="/images/Open%20House%202022/Open-House-22-Banner1-1024x394.jpg"></a>
 
 (Click on banner to access the Open House 2022 microsite)
 
 **Open House E-brochure**
 
-![](/images/Open%20House%202022/2022_Open-House-QR-Code-1024x1024.jpeg)
+<img src="/images/Open%20House%202022/2022_Open-House-QR-Code-1024x1024.jpeg" style="width:35%; float: left"><br clear="left">
 
 **Programme of the Day**
 
