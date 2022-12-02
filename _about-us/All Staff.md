@@ -13,8 +13,8 @@ description: ""
 <tr>
 <td><strong>Class</strong></td>
 <td><strong>Form Teacher</strong></td>
-<td><strong>Form Teacher&nbsp;</strong></td>
-<td><strong>Form Teacher&nbsp;</strong></td>
+<td><strong>Form Teacher</strong></td>
+<td><strong>Form Teacher</strong></td>
 <td><strong>Year Heads</strong></td>
 </tr>
 <tr>
@@ -198,8 +198,8 @@ description: ""
 
 |                                                    |                          |
 |----------------------------------------------------|--------------------------|
-| ALLIED EDUCATOR (COUNSELLING)                      | MS MANDY WONG SOO PING   |
-| ALLIED EDUCATOR (LEARNING AND BEHAVIOURAL SUPPORT) | MS SHARLENE TAN LEE WOON |
+| **ALLIED EDUCATOR (COUNSELLING)**                      | MS MANDY WONG SOO PING   |
+| **ALLIED EDUCATOR (LEARNING AND BEHAVIOURAL SUPPORT)** | MS SHARLENE TAN LEE WOON |
 
 
 |   |
