@@ -17,7 +17,7 @@ description: ""
 
 ![](/images/Open%20House%202022/2022-Programme-of-the-Day.jpg)
 
-[Live Sessions (Performing Arts CCAs](https://youtu.be/HV7QlS72THE))
+<a href="https://youtu.be/HV7QlS72THE/" target="_blank">Live Sessions (Performing Arts CCAs</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HV7QlS72THE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
