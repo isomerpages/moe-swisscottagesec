@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Brochure.md
       - Vision, Mission, Values, Motto.md
       - School Song & School Crest.md
       - School History and Principals.md
       - School Advisory Committee.md
       - School Management Committee.md
+      - School Brochure.md
       - School Yearbook.md
