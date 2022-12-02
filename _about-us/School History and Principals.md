@@ -27,9 +27,12 @@ description: ""
 
 <a href="http://www.youtube.com/watch?v=ZAH-VwoMIhI&feature=youtu.be" target="_blank">Documentary on School History and Principals</a>
 
- ## History
+###  History
  
+<br>
 
+<img src="/images/About%20us/history%20final.jpg"
+     style="width:50%;float:left;padding:20px">
 
 Swiss Cottage celebrated its 50th Anniversary in 2013. Fifty years of establishment is a significant milestone for a school in a young country like Singapore. Today Swiss Cottage is recognised as one of the most esteemed government schools in Singapore. It is a school with a rich heritage, well-established educational practices and multitudes of school, group and individual achievements including academic, character development and community service awards. The success of Swiss Cottage is attributed to the past 50 years of school-building by its school leaders, staff, students and school community in developing the Swiss Spirit.
 
