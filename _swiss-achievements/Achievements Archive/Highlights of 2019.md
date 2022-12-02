@@ -359,17 +359,12 @@ third_nav_title: Achievements Archive
 <td rowspan="6">Science and Technology</td>
 <td>Jurong Pioneer JC Math and Science Challenge &ndash; Champion</td>
 <td>Winners:
-<p>Qian Xin 3E1</p>
-<p>Le Tu Quoc Dat 3E2</p>
-<p>Naveen Senthuran Subramanian 3E2</p>
-<p>Warren Branson Tanaka 3E2</p>
+<br><br>Qian Xin 3E1<br><br>Le Tu Quoc Dat 3E2<br><br>Naveen Senthuran Subramanian 3E2<br><br>Warren Branson Tanaka 3E2
 </td>
 </tr>
 <tr>
 <td>Marine and Offshore Challenge</td>
-<td>Winners:
-<p>Bharanidharan Aathish 3E2</p>
-<p>Narayanamurthy Sriram 3E3</p>
+<td>Winners: <br><br>Bharanidharan Aathish 3E2<br><br>Narayanamurthy Sriram 3E3<br>
 </td>
 </tr>
 <tr>
@@ -396,13 +391,13 @@ third_nav_title: Achievements Archive
 <tr>
 <td rowspan="5">Mathematics</td>
 <td rowspan="3">Singapore Mathematical Olympiads Competition</td>
-<td>Junior Category &ndash; 1 Silver, 1 Bronze, 6 Honourable Mentions</td>
+<td>Junior Category - 1 Silver, 1 Bronze, 6 Honourable Mentions</td>
 </tr>
 <tr>
-<td>Senior Category &ndash; 1 Silver, 3 Bronze, 2 Honourable Mentions</td>
+<td>Senior Category - 1 Silver, 3 Bronze, 2 Honourable Mentions</td>
 </tr>
 <tr>
-<td>Open Category &ndash; 1 Bronze</td>
+<td>Open Category - 1 Bronze</td>
 </tr>
 <tr>
 <td>International Mathematical Modeling Challenge (Singapore)</td>
@@ -410,10 +405,7 @@ third_nav_title: Achievements Archive
 </tr>
 <tr>
 <td>International Competitions &amp; Assessments for Schools (Maths)</td>
-<td>3 High Distinction
-<p>21 Distinction</p>
-<p>24 Credit</p>
-<p>9 Merit</p>
+<td>3 High Distinction<br><br>21 Distinction<br><br>24 Credit<br><br>9 Merit<br>
 </td>
 </tr>
 <tr>
@@ -423,25 +415,25 @@ third_nav_title: Achievements Archive
 </tr>
 <tr>
 <td rowspan="2">Thirukkural Vizha 2019 Tamil Literary Competition</td>
-<td>&nbsp;First Prize</td>
-<td>&nbsp;Nandha Krishnan 1E4</td>
+<td>First Prize</td>
+<td>Nandha Krishnan 1E4</td>
 </tr>
 <tr>
-<td>&nbsp;Motivational Prize</td>
-<td>&nbsp;Suresh Smrutha 1E1</td>
+<td>Motivational Prize</td>
+<td>Suresh Smrutha 1E1</td>
 </tr>
 <tr>
 <td rowspan="3">19th National Chinese Calligraphy Competition</td>
-<td>&nbsp;2nd Place (Secondary School Category)</td>
-<td>&nbsp;Li Haozhen 4E1</td>
+<td>2nd Place (Secondary School Category)</td>
+<td>Li Haozhen 4E1</td>
 </tr>
 <tr>
-<td>&nbsp;3rd Place (Secondary School Category)</td>
-<td>&nbsp;Wang Yifan 4E2</td>
+<td>3rd Place (Secondary School Category)</td>
+<td>Wang Yifan 4E2</td>
 </tr>
 <tr>
-<td>&nbsp;Distinction (Secondary School Category)</td>
-<td>&nbsp;Yang Jingru 4E2</td>
+<td>Distinction (Secondary School Category)</td>
+<td>Yang Jingru 4E2</td>
 </tr>
 </tbody>
 </table>
