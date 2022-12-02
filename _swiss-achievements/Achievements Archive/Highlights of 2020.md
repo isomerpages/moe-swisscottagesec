@@ -72,7 +72,9 @@ third_nav_title: Achievements Archive
 </tbody>
 </table>
 </div>
-<p><strong>On the Performing Arts Front</strong></p>
+
+**On the Performing Arts Front**
+
 <div>
 <table border="7">
 <tbody>
@@ -94,7 +96,10 @@ third_nav_title: Achievements Archive
 </tbody>
 </table>
 </div>
-<p><strong>On the Talent Development Front</strong></p>
+
+
+**On the Talent Development Front**
+
 <figure>
 <div>
 <table border="7">
@@ -140,7 +145,7 @@ third_nav_title: Achievements Archive
 <tr>
 <td>Finalists for NXplorers 2020 (Championed by Science Centre Singapore &amp; SHELL Singapore)</td>
 	<td></td>
-<td>&nbsp;Vijakumar Tanooj Kumar 3E1 Ramesh Kumar Harish Rahul 3E1 Arka Arun 3E2 Tan Ze Kai 3E1 Commandur Srinivasan adarsh 3E1</td>
+<td>Vijakumar Tanooj Kumar 3E1 Ramesh Kumar Harish Rahul 3E1 Arka Arun 3E2 Tan Ze Kai 3E1 Commandur Srinivasan adarsh 3E1</td>
 </tr>
 <tr>
 <td rowspan="2">Global Issues Problem Solving</td>
