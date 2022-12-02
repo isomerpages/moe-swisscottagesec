@@ -20,7 +20,7 @@ description: ""
 <tr>
 <td>S1-1</td>
 <td>MDM TAN POH KIM (CHEN BAOJIN)</td>
-<td>MDM NURFARIHAH BINTE AHMAD RIFA&rsquo;EH</td>
+<td>MDM NURFARIHAH BINTE AHMAD RIFA'EH</td>
 <td>MDM LEE SI WEI</td>
 <td rowspan="8">MDM STEPHANIE HNGH SZE HUI</td>
 </tr>
@@ -28,6 +28,7 @@ description: ""
 <td>S1-2</td>
 <td>MR TEGUH DANIEL TAMPEMAWA</td>
 <td>MISS HON SOO SIEN</td>
+<td></td>
 </tr>
 <tr>
 <td>S1-3</td>
