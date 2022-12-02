@@ -5,9 +5,10 @@ description: ""
 third_nav_title: Swiss Success Stories
 ---
 # 2019 O-Level Success Stories
+
 **ONG SHU TING GLENDA \[5N2\]**
 
-**Glenda achieved an L1B4 of 9 points with three distinctions.** A hardworking and focused individual, she had always striven to excel in her academia.
+**Glenda achieved an L1B4 of 9 points with three distinctions.** A hardworking and focused individual, she had always striven to excel in her academia.
 
 She was described as a student who took pride in her work. Determined to follow her heart, Glenda made a rare decision to offer the Food & Nutrition subject only when she was in Sec 5.  Always positive, cheerful, and not deterred by challenges or setbacks, her grit paid off and she scored an A1 for the subject.
 
