@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Swiss Success Stories
 ---
 # 2020 O-Level Success Stories
+
 **Ang Chee Siang       \[S5N1\]**
 
 Chee Siang achieved three distinctions at the GCE O level examinations. His teachers described him as someone who was very consistent with his work, spending free time revising his studies since the start of Sec 4N. He would make notes and consult his teachers to clarify his doubts. He took part in Singapore Junior Biology Olympiad, exhibiting both passion and resilience.
