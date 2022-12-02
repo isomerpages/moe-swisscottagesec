@@ -2,4 +2,5 @@ collections:
   swiss-achievements:
     output: true
     order:
+      - Swiss Success Stories/.keep
       - Swiss Achievements.md
