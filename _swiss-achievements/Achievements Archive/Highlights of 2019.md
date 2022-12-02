@@ -315,34 +315,27 @@ third_nav_title: Achievements Archive
 <td>Singapore Round &ndash; 1 Honour</td>
 </tr>
 <tr>
-<td>Senior Division (Team 2)
-<p>Individual Awards</p>
-<p>Srinvasan Nan Dhitha Shree 3E2</p>
+<td>Senior Division (Team 2)<br><br>
+Individual Awards<br><br>Srinvasan Nan Dhitha Shree 3E2
 </td>
-<td>Singapore Round &ndash; 1 Honour and 1 Gold
-<p>Beijing Round &ndash; 2 Honour</p>
+<td>Singapore Round &ndash; 1 Honour and 1 Gold<br><br>Beijing Round - 2 Honour
+</td>
+</tr>
+<tr>
+<td>Senior Division (Team 2)<br><br>Individual Awards<br><br>H'ng Jun Ying 3E2
+</td>
+<td>Singapore Round - 1 Gold<br>Beijing Round - 1 Honour
 </td>
 </tr>
 <tr>
 <td>Senior Division (Team 2)
-<p>Individual Awards</p>
-<p>H&rsquo;ng Jun Ying 3E2</p>
-</td>
-<td>Singapore Round &ndash; 1 Gold
-<p>Beijing Round &ndash; 1 Honour</p>
-</td>
-</tr>
-<tr>
-<td>Senior Division (Team 2)
-<p>Individual Awards</p>
-<p>Ryzka Siti Insyira 2E3</p>
+Individual Awards<br><br>Ryzka Siti Insyira 2E3
 </td>
 <td>Singapore Round &ndash; 1 Honour</td>
 </tr>
 <tr>
 <td>Senior Division (Team 2)
-<p>Individual Awards</p>
-<p>Muhammad Hazim Bin Ahmad Zahid 3E3</p>
+<br>Individual Awards<br><br>Muhammad Hazim Bin Ahmad Zahid 3E3
 </td>
 <td>Beijing Round &ndash; 1 Honour and 1 Gold</td>
 </tr>
