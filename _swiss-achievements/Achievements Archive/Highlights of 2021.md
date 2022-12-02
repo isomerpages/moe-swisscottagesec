@@ -145,9 +145,9 @@ third_nav_title: Achievements Archive
 <td rowspan="4">Science &amp; Technology Club</td>
 <td>First Lego League Champion for Best Innovative Solution</td>
 <td>Florian Viorel Tanely 4E1Selvam Kishore 4E1
-<p>Bryan Tan Yi Jun 4E1</p>
-<p>Ananthkumar Arumugam 4E5</p>
-<p>Ng Zi Cheng 2S7</p>
+<br><br><br>Bryan Tan Yi Jun 4E1<br><br>
+Ananthkumar Arumugam 4E5<br><br>
+Ng Zi Cheng 2S7
 </td>
 </tr>
 <tr>
@@ -157,26 +157,25 @@ third_nav_title: Achievements Archive
 <tr>
 <td>Merit in Presentations Robocup Singapore Open 2021</td>
 <td>Lam Jing Xuan, 2S1
-<p>Thiruppathi Bala, 3E2</p>
-<p>Nguyen Ngoc Quyet, 3E1</p>
-<p>Ng Zi Cheng, 2S7</p>
+<br><br><br><br>Thiruppathi Bala, 3E2
+<br><br>Nguyen Ngoc Quyet, 3E1
+<br><br>Ng Zi Cheng, 2S7
 </td>
 </tr>
 <tr>
 <td>Computational and Algorithmic Thinking 2021</td>
 <td>Wan Mia (Yin Meiya), 1S5 (Credit)S Lakshan Siva Kumar, 4E2 (Credit)
-<p>Nguyen Ngoc Quyet, 3E1(Distinction)</p>
-<p>Tran Doan Duy Phuc, 3E2 (Distinction)</p>
-<p>Florian Viorel Tanely, 4E1 (Distinction)</p>
+<br><br><br>Nguyen Ngoc Quyet, 3E1(Distinction)
+<br><br>Tran Doan Duy Phuc, 3E2 (Distinction)<br><br>Florian Viorel Tanely, 4E1 (Distinction)
 </td>
 </tr>
 <tr>
 <td>Swiss Naturalists</td>
 <td>School Green Awards
-<p>Community In Bloom Award</p>
+<br><br><br>Community In Bloom Award
 </td>
 <td>Yellow Flame Award
-<p>Silver Award</p>
+<br><br><br><br>Silver Award
 </td>
 </tr>
 </tbody>
