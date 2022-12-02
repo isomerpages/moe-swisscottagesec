@@ -50,7 +50,7 @@ third_nav_title: Achievements Archive
 <td width="126">Boys&rsquo; Brigade</td>
 <td colspan="2" width="162">Founder&rsquo;s Award</td>
 <td width="336">ETHAN SHIA YEONG RUI, 4E3
-<p>EARNEST CHOO, 4N2</p>
+<br><br>EARNEST CHOO, 4N2<br>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ third_nav_title: Achievements Archive
 <td width="126">National Cadet Corps (Air)</td>
 <td colspan="2" width="162">Outstanding Cadet Award</td>
 <td width="336">DAKSHINAMOORTHI THIYAGESWARAN, 4E3
-<p>MUHAMMAD NAZRY BIN ROHAIZAD, 4E4</p>
+<br><br>MUHAMMAD NAZRY BIN ROHAIZAD, 4E4
 </td>
 </tr>
 </tbody>
