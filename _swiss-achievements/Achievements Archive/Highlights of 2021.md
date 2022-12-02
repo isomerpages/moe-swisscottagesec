@@ -4,7 +4,9 @@ permalink: /swiss-achievements/Achievements-Archive/highlights-of-2021/
 description: ""
 third_nav_title: Achievements Archive
 ---
-<p><strong>On the Uniform Groups Front</strong></p>
+
+**On the Uniform Groups Front**
+
 <figure>
 <div>
 <table border="7">
@@ -48,7 +50,9 @@ third_nav_title: Achievements Archive
 </table>
 </div>
 </figure>
-<p><strong>On the Sports Front</strong></p>
+
+**On the Sports Front**
+
 <figure></figure>
 <div>
 <table border="7">
@@ -68,7 +72,9 @@ third_nav_title: Achievements Archive
 </tbody>
 </table>
 </div>
-<p><strong>On the Performing Arts Front</strong></p>
+
+**On the Performing Arts Front**
+
 <figure>
 <div>
 <table border="7">
@@ -79,26 +85,32 @@ third_nav_title: Achievements Archive
 <tr>
 <td>Chinese Dance</td>
 <td>Distinction</td>
+	<td></td>
 </tr>
 <tr>
 <td>Chinese Orchestra</td>
 <td>Distinction</td>
+	<td></td>
 </tr>
 <tr>
 <td>Malay Dance</td>
 <td>Accomplishment</td>
+	<td></td>
 </tr>
 <tr>
 <td>Drama</td>
 <td>Accomplishment</td>
+	<td></td>
 </tr>
 <tr>
 <td>NCC Command Band</td>
 <td>Accomplishment</td>
+	<td></td>
 </tr>
 <tr>
 <td>Show Choir</td>
 <td>Special Provision</td>
+	<td></td>
 </tr>
 <tr>
 <td>Chinese Orchestra</td>
@@ -120,7 +132,9 @@ third_nav_title: Achievements Archive
 </div>
 </figure>
 <figure></figure>
-<p><strong>On the Clubs and Societies Front</strong></p>
+
+**On the Clubs and Societies Front**
+
 <figure><br />
 <div>
 <table border="7">
