@@ -21,7 +21,8 @@ description: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HV7QlS72THE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Live Sessions on School Programmes](https://youtu.be/HAODzExSJBU)
+<a href="https://youtu.be/HAODzExSJBU" target="_blank">Live Sessions on School Programmes</a>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HAODzExSJBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
