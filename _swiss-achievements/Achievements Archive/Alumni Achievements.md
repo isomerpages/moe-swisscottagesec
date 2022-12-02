@@ -17,8 +17,10 @@ third_nav_title: Achievements Archive
 ![](/images/Swiss%20Achievements/Brigitte%20Ong.png)
 
 *   Congratulations to our ex-Swiss student, **Brigitte Ong (2009),**  for her outstanding academic performance at Singapore Polytechnic. She was awarded the **Model Students for School of Business 2013, HSBC Prize and Diploma with Merit**. Brigitte has done exceptionally well over the past three years. As a Model Student, she has truly developed herself holistically in both academic and CCA. She has achieved an impressive result and also Gold with Honours for her CCA participation.
-*   We would like to congratulate our alumni who were conferred the title of  the **President’s Man for their achievements in the Boys’ Brigade**. ****2005: Ang Chang Wee Joseph and Lee Zai Yong, 2006: Chiang Wing Kain Terrence, 2007: Eric Sor.****
-*   Ngee Ann Poly (NP) 2003 Award Winners from SCSS. Eight ex-Swiss students received a number of awards upon their graduation from NP. The Diploma with Merit is awarded to the top 10% of the NP graduates in each course:
+
+*   We would like to congratulate our alumni who were conferred the title of  the **President’s Man for their achievements in the Boys’ Brigade**. **2005: Ang Chang Wee Joseph and Lee Zai Yong, 2006: Chiang Wing Kain Terrence, 2007: Eric Sor.**
+
+*  Ngee Ann Poly (NP) 2003 Award Winners from SCSS. Eight ex-Swiss students received a number of awards upon their graduation from NP. The Diploma with Merit is awarded to the top 10% of the NP graduates in each course:
 
 **Lim Hong Kiat (2003, S5N1)**
 
