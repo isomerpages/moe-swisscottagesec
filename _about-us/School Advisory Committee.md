@@ -16,16 +16,16 @@ description: ""
 <tbody>
   <tr>
     <td> </td>
-    <td  width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S1103956A-225x300.jpg"> </td>
+    <td  width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S1103956A-225x300.jpg"><p style="text-align: center;">Mr Nguyen Van Vang<br>Chairperson</p></td>
     <td></td>
   </tr>
   <tr>
-    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/Victor_Bay_(OBC).jpg"></td>
-    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/Terence%20Pic%202.jpg"></td>
-    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S1774572G-220x300.jpg"></td>
+    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/Victor_Bay_(OBC).jpg"><p style="text-align: center;">Mr Victor Bay <br>Committee Member</p></td>
+    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/Terence%20Pic%202.jpg"><p style="text-align: center;">Mr Chen Nam Hin Terence<br>Committee Member</p></td>
+    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S1774572G-220x300.jpg"><p style="text-align: center;">Mdm Lim Bee Gean Alice<br>Committee Member</p></td>
   </tr>
   <tr>
-    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S7780169C-260x300.jpg"></td>
+    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S7780169C-260x300.jpg"><p style="text-align: center;">Mr Chan Seng Fai<br>Committee Member</p></td>
     <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S7717412E-161x300.jpg"></td>
     <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S8636681I.jpg"></td>
   </tr>
@@ -37,35 +37,16 @@ description: ""
 </tbody>
 </table>
 
-|   |   |   |
-|---|---|---|
-|   |  |   |
-| <img height="249" width="187" sizes="(max-width: 187px) 100vw, 187px" src="g">  |  ![]() |![]()   |
-|  ![]() | ![]()  |  ![]() |
-|  ![]() | ![]()  |   |
 
 
-<table width="704">
-<tbody>
-<tr>
-<td><img height="249" width="187" sizes="(max-width: 187px) 100vw, 187px" src="/images/About%20us/School%20Advisory%20Committee/S1103956A-225x300.jpg">
-<p>Mr Nguyen Van Vang<br>Chairperson</p>
-</td>
-</tr>
-<tr>
-<td><img height="208" width="178" alt="Victor_Bay_(OBC).jpg" src="">
-<p>Mr Victor Bay<br>Committee Member</p>
-</td>
-<td><img height="212" width="205" alt="Terence Pic 2.jpg" src="https://swisscottagesec.moe.edu.sg/wp-content/uploads/qql/slot/u252/About%20Swiss/School%20Advisory%20Committee/Terence%20Pic%202.jpg">
-<p>Mr Chen Nam Hin Terence<br>Committee Member</p>
-</td>
-<td><img height="252" width="185" alt="Alice Lim" srcset="/wp-content/uploads/2017/04/S1774572G-220x300.jpg 220w, /wp-content/uploads/2017/04/S1774572G-768x1049.jpg 768w, /wp-content/uploads/2017/04/S1774572G-750x1024.jpg 750w, /wp-content/uploads/2017/04/S1774572G.jpg 955w" sizes="(max-width: 185px) 100vw, 185px" src="https://swisscottagesec.moe.edu.sg/wp-content/uploads/2017/04/S1774572G-220x300.jpg">
-<p>Mdm Lim Bee Gean Alice<br>Committee Member</p>
+
+src="https://swisscottagesec.moe.edu.sg/wp-content/uploads/2017/04/S1774572G-220x300.jpg">
+<p></p>
 </td>
 </tr>
 <tr>
 <td><img height="202" width="175" alt="Chan Seng Fai" srcset="/wp-content/uploads/2017/04/S7780169C-260x300.jpg 260w, /wp-content/uploads/2017/04/S7780169C.jpg 374w" sizes="(max-width: 175px) 100vw, 175px" src="https://swisscottagesec.moe.edu.sg/wp-content/uploads/2017/04/S7780169C-260x300.jpg">
-<p>Mr Chan Seng Fai<br>Committee Member</p>
+<p></p>
 </td>
 <td><img height="250" width="134" alt="Lim Fung Yee Danny" srcset="/wp-content/uploads/2017/04/S7717412E-161x300.jpg 161w, /wp-content/uploads/2017/04/S7717412E.jpg 284w" sizes="(max-width: 134px) 100vw, 134px" src="https://swisscottagesec.moe.edu.sg/wp-content/uploads/2017/04/S7717412E-161x300.jpg">
 <p>Mr Lim Fung Yee Danny<br>Committee Member</p>
