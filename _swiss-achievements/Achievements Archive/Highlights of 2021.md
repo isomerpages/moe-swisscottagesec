@@ -4,6 +4,8 @@ permalink: /swiss-achievements/Achievements-Archive/highlights-of-2021/
 description: ""
 third_nav_title: Achievements Archive
 ---
+# Highlights of 2021
+### **Swiss’s Achievements for Year 2021**
 
 **On the Uniform Groups Front**
 
