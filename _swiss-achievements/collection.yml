@@ -2,6 +2,7 @@ collections:
   swiss-achievements:
     output: true
     order:
+      - Achievements Archive/Achievements Archive.md
       - Achievements Archive/.keep
       - Swiss Achievements.md
       - Swiss Success Stories/.keep
