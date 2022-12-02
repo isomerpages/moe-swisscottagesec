@@ -139,6 +139,7 @@ third_nav_title: Achievements Archive
 </tr>
 <tr>
 <td>Finalists for NXplorers 2020 (Championed by Science Centre Singapore &amp; SHELL Singapore)</td>
+	<td></td>
 <td>&nbsp;Vijakumar Tanooj Kumar 3E1 Ramesh Kumar Harish Rahul 3E1 Arka Arun 3E2 Tan Ze Kai 3E1 Commandur Srinivasan adarsh 3E1</td>
 </tr>
 <tr>
