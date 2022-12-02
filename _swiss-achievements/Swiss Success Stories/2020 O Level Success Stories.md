@@ -23,8 +23,7 @@ He advises his juniors to find their passion and work towards their goals – no
 
 Chee Siang shared that he would like to take courses related to Medicine, as he would want to extend him to others the way his eye doctor supported him.
 
-**  
-Mohammad Syafiq B Adnan \[5N2\]**
+**Mohammad Syafiq B Adnan \[5N2\]**
 
 Syafiq was an exemplary leader who juggled his multiple responsibilities well. He was the Head of Logistics, NCC (Air), and had a positive influence over his peers. He tutored his peers despite his tight schedule, and exhibited Honour and Resilience.
 
