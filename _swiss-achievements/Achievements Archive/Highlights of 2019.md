@@ -276,41 +276,31 @@ third_nav_title: Achievements Archive
 <tr>
 <td rowspan="10">Worlds Scholars Cup
 </td>
-<td>Senior Division (Team 1)
-<p>Team Awards</p>
+<td>Senior Division (Team 1)<br><br>Team Awards
 </td>
-<td>Singapore Round &ndash; 1 Gold
-<p>Beijing Round &ndash; 1 Honour and 1 Gold</p>
+<td>Singapore Round &ndash; 1 Gold<br><br>Beijing Round &ndash; 1 Honour and 1 Gold
 </td>
 </tr>
 <tr>
-<td>Senior Division (Team 1)
-<p>Individual Awards</p>
-<p>Rebecca Grace Tolentino Tabile 3E5</p>
+<td>Senior Division (Team 1)<br><br>Individual Awards<br><br>Rebecca Grace Tolentino Tabile 3E5
 </td>
-<td>Singapore Round &ndash; 2 Honour and 2 Gold
-<p>Beijing Round &ndash; 2 Honour and 3 Gold</p>
+<td>Singapore Round &ndash; 2 Honour and 2 Gold<br><br>Beijing Round &ndash; 2 Honour and 3 Gold
 </td>
 </tr>
 <tr>
-<td>Senior Division (Team 1)
-<p>Individual Awards</p>
-<p>Gan Chze Rae 3E2</p>
+<td>Senior Division (Team 1)<br><br>Individual Awards<br><br>Gan Chze Rae 3E2
 </td>
-<td>Singapore Round &ndash; 1 Honour
-<p>Beijing Round &ndash; 1 Honour</p>
+<td>Singapore Round &ndash; 1 Honour<br><br>Beijing Round &ndash; 1 Honour
 </td>
 </tr>
 <tr>
-<td>Senior Division (Team 1)
-<p>Individual Award</p>
-<p>Lee Kit Yee 2E3</p>
+<td>Senior Division (Team 1)<br><br>Individual Award<br><br>Lee Kit Yee 2E3
 </td>
 <td>Beijing Round &ndash; 1 Honour and 1 Gold</td>
 </tr>
 <tr>
 <td>Senior Division (Team 2)
-<p>Team Awards</p>
+<br><br>Team Awards
 </td>
 <td>Singapore Round &ndash; 1 Honour</td>
 </tr>
