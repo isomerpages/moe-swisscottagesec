@@ -46,7 +46,7 @@ Ever the inquisitive student, Toh Boon aims to pursue the study of the sciences,
 
 He advised his juniors who would be sitting for the national examinations this year to “Stay calm and collected while trying to think of solutions to problems.”
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Cheng-Jing-Fei-4E5.png)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Cheng-Jing-Fei-4E5.png" style="width:20%;float:left"><br clear="left">
 
 **Cheng Jing Fei (4E5)**
 
@@ -72,7 +72,8 @@ Her teachers described her as an individual who is humble and always willing to 
 
 Jing Fei urged all her juniors who will be sitting for the O level examinations this year to take good care of their mental health so as to achieve the best results that they can be capable of.
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Anders-Phoon-Hui-Kai-4E5.png)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Anders-Phoon-Hui-Kai-4E5.png" style="width:20%;float:left"><br clear="left">
+
 
 **Anders Phoon Hui Kai (4E5)** 
 
@@ -100,7 +101,7 @@ This translates loosely to how the sharpness of a sword’s blade comes from rep
 
 Anders’ hopes that his words would inspire his juniors to persevere in the face of adversity and motivate them to strive to do their best for their national examinations.
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Sean-Go-4E5.png)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Sean-Go-4E5.png" style="width:20%;float:left"><br clear="left">
 
 **Sean Go (4E5)** 
 
@@ -124,7 +125,7 @@ Besides thanking his teachers Mr Lim Jun Li and Mr Tan Zi Jie for their support 
 
 Yet, even as pursued his own goals, Sean’s empathy and patience whenever he was working with others shined through, showcasing his sense of humility.
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Natalie-Ong-Wen-Sim-4E4.png)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Natalie-Ong-Wen-Sim-4E4.png" style="width:20%;float:left"><br clear="left">
 
 **Natalie Ong Wen Sim (4E4)**
 
@@ -150,7 +151,7 @@ Natalie has some good advice to share with her juniors in the form of a favourit
 
 She shared, “Aim for the moon. If you miss, you may hit a star.”
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Ammar-Abdul-Jabar-4E4.png)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Ammar-Abdul-Jabar-4E4.png" style="width:20%;float:left"><br clear="left">
 
 **Ammar Abdul Jabar (4E4)** 
 
@@ -172,7 +173,7 @@ When asked to encapsulate his experience in Swiss, he said “making mistakes is
 
 We wish Ammar all the best in his future endeavours.
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Yeo-Min-Zhou-Jabin-4E3.png)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Yeo-Min-Zhou-Jabin-4E3.png" style="width:20%;float:left"><br clear="left">
 
 **Yeo Min Zhou, Jabin (4E3)** 
 
@@ -200,7 +201,7 @@ Jabin shared on his aspirations for the future. “I am currently exploring the 
 
 We wish Jabin all the best!
 
- **![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Jefferson-Ng-5N2.png)**
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Jefferson-Ng-5N2.png" style="width:20%;float:left"><br clear="left">
 
 **Jefferson Ng (5N2)** 
 
@@ -220,7 +221,7 @@ When asked about his plans for the future, he shared that he wants to put his pa
 
 Jefferson had some words of advice for his juniors when he said, “if you want to go farther, go with friends because they make the journey easier!”
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Commandur-Srinivasan-Adarsh-4E1.png)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Commandur-Srinivasan-Adarsh-4E1.png" style="width:20%;float:left"><br clear="left">
 
 **Commandur Srinivasan Adarsh (4E1)** 
 
@@ -250,7 +251,7 @@ When asked about his future plans, he shared candidly that he was not fully cert
 
 ‘I am not that sure yet but I think I am interested in the science stream. The STDP programmes in Swiss had inspired me to study science in the future. STEM is one of the skills that I would never forget for the rest of my life and I thank Swiss for giving me an opportunity to learn it.’
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Joel-Yap-Ze-Xian-4E2-1.png)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Joel-Yap-Ze-Xian-4E2-1.png" style="width:20%;float:left"><br clear="left">
 
 **Joel Yap Ze Xian (4E2)**  
 
@@ -270,7 +271,7 @@ Joel exhibited honour, being highly responsible and encouraging, and having cont
 
 When asked about his plans for the future, Joel shared that he was wants to pursue his studies in a junior college because he wants to become a neurosurgeon to save live.
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Keef-Sng-4E3.png)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Keef-Sng-4E3.png" style="width:20%;float:left"><br clear="left">
 
 **Keef Sng Rui En from 4E3 scored 6 points with 7 distinctions.**  
 
@@ -300,7 +301,7 @@ Keef shared that there were definitely challenges and setbacks that he faced alo
 
 ‘Appreciate the time you spend with your peers and work hard for the goals that you want to achieve, it will all be worthwhile!’
 
-**![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Lee-Xin-Hui-Richelle-4E2.png)**
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Lee-Xin-Hui-Richelle-4E2.png" style="width:20%;float:left"><br clear="left">
 
 **Lee Xin Hui Richelle (4E2)** 
 
@@ -326,7 +327,7 @@ With an all-round set of developments under her belt, Richelle shared that she h
 
 “I believe that if you believe in yourself and have the motivation to work hard, you will be able to reach your goals because ‘If it wasn’t hard, anyone can do it!’ “
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Sheik-Daiyan-5N1.png)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Sheik-Daiyan-5N1.png" style="width:20%;float:left"><br clear="left">
 
 **Sheik Daiyan Bin Shaik Ahmed Rifaei (5N1)** 
 
@@ -350,7 +351,8 @@ He shared that he had big dreams to chase as he would like to study more about A
 
 ‘I would like to pursue my studies in Aeronautical engineering. After overcoming this challenging year in Secondary 5, I now have renewed confidence that I can take on any challenge that comes my way in the future. I urge all current graduating students to work hard and persevere. You can do it!’
 
-**![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Baskar-Sruthi-4E3.png)**
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Baskar-Sruthi-4E3.png" style="width:20%;float:left"><br clear="left">
+
 
  **Baskar Sruthi (4E3)** 
 
@@ -378,7 +380,7 @@ She shared her plans to pursue her studies in a Junior College. She encourages h
 
 “There will be moments when you would feel like giving up but always remember your end goals and persevere on. But make sure not to get burnout and stay healthy!’
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Rushil-Srinath-4E5.png)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Rushil-Srinath-4E5.png" style="width:20%;float:left"><br clear="left">
 
 **Rushil Srinath (4E5)**
 
