@@ -23,7 +23,8 @@ Yi Ting was still undecided in her choice of course in the polytechnic but she e
 
 Ever the grateful and thoughtful leader, Yi Ting expressed her thanks to her Form Teachers, Mr Tan Zi Jie and Ms Tan Rou Jing for their encouragement and belief. To her juniors, Yi Ting’s  advice was to work hard and play hard.
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/Ang-Toh-Boon-4E1.png)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Ang-Toh-Boon-4E1.png" style="width:20%;float:left"><br clear="left">
+
 
 **Ang Toh Boon (4E1)** 
 
