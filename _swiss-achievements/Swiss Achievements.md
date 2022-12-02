@@ -138,9 +138,7 @@ description: ""
 </td>
 <td>Champion</td>
 <td>
-<p>Ilyas Husaini Bin Ahmad Farid 4E4</p>
-<p>Purinita Danielle Justine Jay Kaur D/O Gurmit Singh 4E3 (Best Translator Award)</p>
-<p>Muhd Syukri Shah S/O Muhd Fitri Vetri 4E2</p>
+<br>Ilyas Husaini Bin Ahmad Farid 4E4<br><br>Purinita Danielle Justine Jay Kaur D/O Gurmit Singh 4E3 (Best Translator Award)<br><br>Muhd Syukri Shah S/O Muhd Fitri Vetri 4E2
 </td>
 </tr>
 </tbody>
