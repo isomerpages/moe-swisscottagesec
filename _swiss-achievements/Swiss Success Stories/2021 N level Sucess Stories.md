@@ -6,7 +6,7 @@ third_nav_title: Swiss Success Stories
 ---
 # 2021 N-level Sucess Stories
 
-![Cruz Abiel Aquino 4t1](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/04/Cruz-Abiel-Aquino-4T1.jpg)
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Cruz-Abiel-Aquino-4T1.jpg" style="width:20%;float:left"><br clear="left">
 
 **Cruz Abiel Aquino \[4T1\]**
 
