@@ -141,7 +141,7 @@ third_nav_title: Achievements Archive
 <tr>
 <td>Destination Imgination</td>
 <td>1st Place Team (Science Challenge)</td>
-<td>&nbsp;Bryan Tan Yi Jun 2E1 Joy Tan Jia-yu 2E1 Ranjanaa Baskaran 2E1 Sai Thet Aung Htut 2E3 Lee Xin Hui Richelle 2E4 Jeslyn Chan Xuan Lin 2E4 Ng Jing Qi 2E4</td>
+<td>Bryan Tan Yi Jun 2E1 <br>Joy Tan Jia-yu 2E1<br> Ranjanaa Baskaran 2E1<br> Sai Thet Aung Htut 2E3 <br>Lee Xin Hui Richelle 2E4 <br>Jeslyn Chan Xuan Lin 2E4<br> Ng Jing Qi 2E4</td>
 </tr>
 <tr>
 <td>Finalists for NXplorers 2020 (Championed by Science Centre Singapore &amp; SHELL Singapore)</td>
