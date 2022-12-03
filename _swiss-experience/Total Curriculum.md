@@ -29,7 +29,7 @@ To successfully access their values to make responsible decisions, our Thoughtfu
 
 **Our Future Ready Total Curriculum**
 
-<p style="text-align: justify;"><i>Note: R3ICH values (Respect, Responsibility, Resilience, Integrity, Care and Harmony) are fundamental to the Character and Citizenship syllabus because they are derived from Our Shared Values, the Singapore Family Values, the Singapore 21 Vision and National Education messages.</i></p>   
+<p style="text-align: justify;"><i>Note: R<sup>3</sup>ICH values (Respect, Responsibility, Resilience, Integrity, Care and Harmony) are fundamental to the Character and Citizenship syllabus because they are derived from Our Shared Values, the Singapore Family Values, the Singapore 21 Vision and National Education messages.</i></p>   
 
 **Our Future Ready Total Curriculum**
 
