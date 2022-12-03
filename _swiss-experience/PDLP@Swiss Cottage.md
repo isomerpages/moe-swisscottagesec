@@ -12,10 +12,12 @@ description: ""
 The intended outcomes of PDLP@Swiss are:
 
 1\.  <b><u>Enhance teaching and learning</u> – PLDs harness technology for greater effectiveness in teaching and learning, enabled by teachers’ use of e-Pedagogy to provide learning experiences for students.</b>
+   
+2\.  <b><u>Support self-directed and collaborative learning</u> – PLDs enable students to learn online according to their needs and interests and to collaborate with each other, anytime and anywhere.</b> 
+	 
+3\.  <b><u>Enhance teaching and learning</u> – PLDs harness technology for greater effectiveness in teaching and learning, enabled by teachers’ use of e-Pedagogy to provide learning experiences for students.</b>
     
-2.  #### **Support self-directed and collaborative learning –** PLDs enable students to learn online according to their needs and interests and to collaborate with each other, anytime and anywhere.
-    
-3.  #### **Support the Development of Digital Literacies through the PACKAGE FRAMEWORK–** PLDs provide an immersive environment for students to develop the dispositions, knowledge and skills to thrive in the digital environment. The PACKAGE Framework (see below) guides the school in:
+
     
     1.  #### Designing tiered skill development of students;
         
