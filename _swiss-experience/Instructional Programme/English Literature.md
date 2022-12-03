@@ -10,11 +10,11 @@ third_nav_title: Instructional Programme
 
 **Rationale**
 
-The study of Literature provides opportunities for students in the Express and Normal Academic courses to explore various types of literary texts to appreciate the ways in which writers view the world as well as how they express their ideas. By using the text as a window into multiple worlds, students navigate areas of human concern and achieve a greater understanding of themselves and others. Expectedly, the programme also helps students appreciate the power of words and its contribution to their aesthetic and imaginative growths.
+<p style="text-align: justify;">The study of Literature provides opportunities for students in the Express and Normal Academic courses to explore various types of literary texts to appreciate the ways in which writers view the world as well as how they express their ideas. By using the text as a window into multiple worlds, students navigate areas of human concern and achieve a greater understanding of themselves and others. Expectedly, the programme also helps students appreciate the power of words and its contribution to their aesthetic and imaginative growths.</p>
 
 **Details of the Programme**
 
-In Swiss, Literature in English is offered in the Upper Secondary – both as a core and elective subject, in the Express and Normal Academic courses. Regardless of whether a student reads Literature as a discipline in the Upper Secondary course, they would, through the Lower Secondary programme:
+<p style="text-align: justify;">In Swiss, Literature in English is offered in the Upper Secondary – both as a core and elective subject, in the Express and Normal Academic courses. Regardless of whether a student reads Literature as a discipline in the Upper Secondary course, they would, through the Lower Secondary programme:</p>
 
 *   have read works from the three literary genres (i.e. poetry, prose and drama);
 *   have read literature from different parts of the world, including Singapore;
@@ -23,15 +23,15 @@ In Swiss, Literature in English is offered in the Upper Secondary – both as a 
 *   be able to give a personal response to a text and its concerns; and
 *   be able to apply skills of literary appreciation to read new/unseen material.
 
-Students are encouraged to explore the ideas in texts through reflective processes such as dialogue and writing as well as through connections with their worlds – through their own life experiences, other texts that they have encountered and the world at large.
+<p style="text-align: justify;">Students are encouraged to explore the ideas in texts through reflective processes such as dialogue and writing as well as through connections with their worlds – through their own life experiences, other texts that they have encountered and the world at large.</p>
 
 **Lower Secondary**
 
-Open book examinations are used in the Lower Secondary Literature Programme, i.e., to heighten the student focus on quality of thought relative to the use of memorisation and recall of information in the text. These alternative assessment modes are complemented with explorative questions, novel performance tasks, theatre exposure and the use of SOLO Taxonomy as a framework to organise discrete tasks for better synthesis and understanding of an entire text.
+<p style="text-align: justify;">Open book examinations are used in the Lower Secondary Literature Programme, i.e., to heighten the student focus on quality of thought relative to the use of memorisation and recall of information in the text. These alternative assessment modes are complemented with explorative questions, novel performance tasks, theatre exposure and the use of SOLO Taxonomy as a framework to organise discrete tasks for better synthesis and understanding of an entire text.</p>
 
 **Upper Secondary**
 
-Thinking routines are used in Upper Secondary Literature programme to encourage independent thought and the construction of a well-considered response. Responses are co-constructed through group work, online and class discussions as well as close/ dramatic reading.
+<p style="text-align: justify;">Thinking routines are used in Upper Secondary Literature programme to encourage independent thought and the construction of a well-considered response. Responses are co-constructed through group work, online and class discussions as well as close/ dramatic reading.</p>
 
 **_Year 1 – Introduction to Literature as a Discipline_**
 
