@@ -2,7 +2,6 @@ collections:
   swiss-experience:
     output: true
     order:
-      - PDLP@Swiss Cottage.md
       - Total Curriculum.md
       - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme.md
@@ -34,5 +33,6 @@ collections:
       - Talent Development/.keep
       - Talent Development/Talent Development and Enrichment Programme.md
       - Full Subject Based Banding.md
+      - PDLP@Swiss Cottage.md
       - Blended Learning.md
       - 2022 Sec 2 Subject Combination.md
