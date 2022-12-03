@@ -4,16 +4,15 @@ permalink: /swiss-experience/Instructional-Programme/technology-for-learning/
 description: ""
 third_nav_title: Instructional Programme
 ---
-Technology for Learning (TfL)
-=============================
+# Technology for Learning (TfL)
 
-### Goals
+### <b><u>Goals</u></b>
 
 1.  **Staff Excellence Culture** – Staff Excellence marked by highly competent staff as Designers of Learning, Experiences and Environments, who leverage ICT effectively and purposely in T&L.
 2.  **Student Intellect Culture & Wellness Culture** – Every student is a self-directed and collaborative learner who maximises ICT to enhance their learning as guided by teachers, grounded in cyber wellness.
 3.  **Effectiveness and efficiency in school administration** through use of ICT.
 
-### Our Programme
+### <b><u>Our Programme</u></b>
 
 #### Curricular Programme
 
@@ -26,7 +25,7 @@ Technology for Learning (TfL)
 *   ICT professional development for Staff
 *   IT/AV support for School (through student volunteers)
 
-**Our Team**
+### <b><u>Our Team</u></b>
 
 | ICT & Computer Applications |                                   |
 |-----------------------------|-----------------------------------|
@@ -39,8 +38,7 @@ Technology for Learning (TfL)
 | Ms Chew Jia Xuan            | Desktop Engineer                  |
 
 
-**ICT Facilities for Teaching and Learning  
-**
+<b><u>ICT Facilities for Teaching and Learning</u></b>
 
 *   4 Computer Laboratories of one full-class capacity each
 *   5 mobile carts equipped with 20 notebook PCs each
@@ -48,7 +46,7 @@ Technology for Learning (TfL)
 *   8 computer kiosks in the Library for student use
 *   Wireless Internet/LAN throughout school compound
 
-**Useful Links**
+	<b><u>Useful Links</u></b>
 
 **Ministry of Education**
 
