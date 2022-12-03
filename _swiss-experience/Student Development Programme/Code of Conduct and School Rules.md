@@ -51,7 +51,7 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 *   Keep my school free from tobacco-related products, non-prescribed drugs, undesirable print and non-print materials, weapons and weapon-like objects.
 *   Keep my school safe from external dangers.
 
-**SWISS CODE OF CONDUCT**
+### <b><u>SWISS CODE OF CONDUCT</u></b>
 
 **The Swiss Code of Conduct is guided by two principles:**
 
