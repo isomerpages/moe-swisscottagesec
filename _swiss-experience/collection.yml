@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Total Curriculum.md
-      - Instructional Programme/Physical Education.md
       - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme.md
       - Instructional Programme/English Language.md
@@ -13,3 +12,4 @@ collections:
       - Instructional Programme/Humanities.md
       - Instructional Programme/Sciences.md
       - Instructional Programme/Craft and Technology.md
+      - Instructional Programme/Physical Education.md
