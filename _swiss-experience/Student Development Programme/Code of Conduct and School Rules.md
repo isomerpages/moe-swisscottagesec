@@ -184,7 +184,7 @@ We recognise that many students own a mobile phone, and that some parents/guardi
 
 <u>Consequence</u>
 
-It is the responsibility of students who bring mobile phones to school to abide by the rules outlined by the school. The decision to provide a mobile phone to their child should be made by parents/guardians. It is the duty of the parents to understand the potential use and/or misuse of mobile phones.
+<p style="text-align: justify;">It is the responsibility of students who bring mobile phones to school to abide by the rules outlined by the school. The decision to provide a mobile phone to their child should be made by parents/guardians. It is the duty of the parents to understand the potential use and/or misuse of mobile phones.</p>
 
 Mobile phones will be confiscated for 3 working days if students do not adhere to the rules.
 
@@ -194,13 +194,13 @@ In cases of emergency, the general office contact number remains a vital and app
 
 ### <b><u>CONDUCT GRADING AND DEMERIT POINT SYSTEM</u></b>
 
-The school recognises students who consistently display an excellent conduct and exhibit Honour and Humility throughout the semester. Acts of integrity and self-responsibility are also affirmed and acknowledged by the school.
+<p style="text-align: justify;">The school recognises students who consistently display an excellent conduct and exhibit Honour and Humility throughout the semester. Acts of integrity and self-responsibility are also affirmed and acknowledged by the school.</p>
 
-The school uses a demerit point system to help monitor and assign the Conduct Grades for students. Students who do not uphold any of the rules may be given demerit points, in addition to other appropriate consequences meted out by the Student Discipline Committee.
+<p style="text-align: justify;">The school uses a demerit point system to help monitor and assign the Conduct Grades for students. Students who do not uphold any of the rules may be given demerit points, in addition to other appropriate consequences meted out by the Student Discipline Committee.</p>
 
 **CONDUCT GRADING**
 
-A student’s Conduct Grade, as reflected in the Report Card, is related to the student’s conduct and behaviour throughout the year. The Conduct Grading takes into account the student’s attitude in his or her daily work such as whether there is respect for teachers and whether self-responsibility is exhibited by the student. The student’s attendance, punctuality in school and the number of demerit points accumulated are also important criteria in determining the student’s Conduct Grade.
+<p style="text-align: justify;">A student’s Conduct Grade, as reflected in the Report Card, is related to the student’s conduct and behaviour throughout the year. The Conduct Grading takes into account the student’s attitude in his or her daily work such as whether there is respect for teachers and whether self-responsibility is exhibited by the student. The student’s attendance, punctuality in school and the number of demerit points accumulated are also important criteria in determining the student’s Conduct Grade.</p>
 
 |           |                    |
 |-----------|---------|
@@ -219,7 +219,7 @@ Students who received a <u>FAIR/POOR</u> conduct grade will face the following
 
 **DEMERIT POINT SYSTEM**
 
-This table spells out the possible consequences of accumulating the number of demerit points for offences committed in the course of the semester.
+<p style="text-align: justify;">This table spells out the possible consequences of accumulating the number of demerit points for offences committed in the course of the semester.</p>
 
 | Number of Demerit Points  | Possible Actions Taken      |
 |----------------|-----------------------|
@@ -227,7 +227,7 @@ This table spells out the possible consequences of accumulating the number of de
 | 8 Demerit Points or more  | Year Head/Year Master will counsel student and parents will be informed.<br><br>Suspension from school & other appropriate consequences meted by the school to educate the student.                                                                                                 |
 | 10 Demerit Points or more | Family Conference with School Leaders<br><br>There will be implications on conduct grade and eligibilities for school trip and awards.<br><br>Student might need to attend a Conduct Upgrading programme.<br><br>Other appropriate consequences meted by the school to educate the student. |
 
-Relevant school personnel (School Leaders, Year Head/Year Master and Level Discipline Master) will step in on a case-by-case basis depending on severity of offences involved. 
+<p style="text-align: justify;">Relevant school personnel (School Leaders, Year Head/Year Master and Level Discipline Master) will step in on a case-by-case basis depending on severity of offences involved. </p>
 
 **Offences**
 
