@@ -43,41 +43,41 @@ The PE department will continue to innovate and inspire our students to live an 
 | Sec 3   | Creative Aerobics Routine (CAR). Frisbee, Softball, Touch Rugby | Creative Aerobics Routine (CAR)     |
 | Sec 4/5 | FIT4Life, Sport Education Programme, PHF/NAPFA                  | FIT4Life                            |
 
-**Secondary 1 Modules:**
+<b><u>Secondary 1 Modules:</u></b>
 
 Badminton, Outdoor Education, Football, CPR+AED Training
 
-APEX – Badminton
+<u>APEX – Badminton</u>
 
 Badminton is a popular game that is ideal for small social groups and is widely played in Singapore. The Badminton module exposes Secondary 1 students to both collaborative and competitive play, hence giving them a head start in movement, gameplay and social skills. At the end of the module, Assessment for PE eXcellence (APEX) is conducted for overhead high clear and singles gameplay, to ensure students have sufficient competency to play and interact with others in Badminton.
 
-**Secondary 2 Modules:**
+<b><u>Secondary 2 Modules:</u></b>
 
 Basketball, Floorball, Handball, PHF/NAPFA
 
-APEX – Basketball
+<u>APEX – Basketball</u>
 
 Secondary 2 students will be exposed to a series of invasion games. Basketball is assessed under the Assessment for Physical Education eXcellence (APEX) through self, peer and teacher feedback. This provides the students with an avenue to identify and address learning gaps in specific skills and concepts in invasion games and focuses on developing students’ ability to take intentional steps to improve. Students are taught important skills such as peer observation using personal mobile devices or school devices and use video analysis to critique their own and their peers’ performance. 
 
-**Secondary 3** **Modules:**
+<b><u>Secondary 3 Modules:</u></b>
 
 Creative Aerobics Routine (CAR), Softball, Frisbee, Touch Rugby 
 
-APEX – Creative Aerobics Routine
+<u>APEX – Creative Aerobics Routine</u>
 
 The Secondary 3 PE programme is designed to give Swiss students opportunities to build on their leadership skills and teamwork. The 10-week Creative Aerobic Routine (CAR) Module sees our students work in groups to create a 3-minute aerobic workout from scratch. This platform allows them to nurture their creativity, confidence and leadership. At the end of the 10 weeks, the routines are graded, and the best routine is used as part of the schools ACES Day in Term 3. This student-driven event allows students to take greater ownership and pride in their own creative learning.
 
-**Secondary 4/5 Modules:**
+<b><u>Secondary 4/5 Modules:</u></b>
 
 FIT4Life, Sport Education Programme, PHF/NAPFA
 
-APEX – FIT4Life
+<u>APEX – FIT4Life</u>
 
 The Secondary 4 PE programme is designed to develop Swiss students into self-directed learners and responsible citizens. The FIT4Life programme is a culmination of their 4 years spent in Swiss Cottage and develops students’ intrinsic motivation to exercise and pursue healthy living beyond their time in school. This module requires students to design and implement a training programme to achieve an optimal level of physical health and performance to enhance their quality of life. At the end of the module, students develop an understanding of how to plan, organise and conduct group workout sessions and experience the benefits of focused and intentional training. 
 
 **Leadership Programme**
 
-Sports Leaders
+<u>Sports Leaders</u>
 
 We develop students into Healthy and Fit Sports Ambassadors through the Sports Leaders Programme.
 
