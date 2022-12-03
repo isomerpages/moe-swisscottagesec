@@ -106,16 +106,24 @@ To support you in keeping your child safe online, you may refer to these resourc
 
 <b><u>Technical Support</u></b>
 
-1.  AsiaPac Technology Pte Ltd (school vendor for PDLP iPad)
-    1.  Help Desk number: 6270 8281
-    2.  Help Desk email: pdlpapple@asiapac.com.sg
-    3.  Help Desk operating hours: Mon-Thu 0830 to 1730, Fri 0830-1700. Closed on Sat, Sun & Public Holidays
-    4.  Website: [https://asiapac.com.sg/pld/apple](https://asiapac.com.sg/pld/apple) (for buying of accessories)
-2.  School-based Support
-    1.  Technical matters: email to g-ncs3304sde@ncs.com.sg
-    2.  Administrative matters: email to giam\_chin\_leong@moe.edu.sg
-    3.  Finance matters: email to scss@moe.edu.sg
-    4.  Telephone/Whatsapp messaging: 6631 9680 / 6631 9625
-    5.  Operating hours: school days from 8 am to 5 pm excluding weekends and public holidays
+<ol>
+<li>AsiaPac Technology Pte Ltd (school vendor for PDLP iPad)
+<ol style="list-style-type: lower-alpha;">
+<li>Help Desk number: 6270 8281</li>
+<li>Help Desk email: pdlpapple@asiapac.com.sg</li>
+<li>Help Desk operating hours: Mon-Thu 0830 to 1730, Fri 0830-1700. Closed on Sat, Sun &amp; Public Holidays</li>
+<li>Website:&nbsp;<a href="https://asiapac.com.sg/pld/apple">https://asiapac.com.sg/pld/apple</a>&nbsp;(for buying of accessories)</li>
+</ol>
+</li>
+<li>School-based Support
+<ol style="list-style-type: lower-alpha;">
+<li>Technical matters: email to g-ncs3304sde@ncs.com.sg</li>
+<li>Administrative matters: email to giam_chin_leong@moe.edu.sg</li>
+<li>Finance matters: email to scss@moe.edu.sg</li>
+<li>Telephone/Whatsapp messaging: 6631 9680 / 6631 9625</li>
+<li>Operating hours: school days from 8 am to 5 pm excluding weekends and public holidays</li>
+</ol>
+</li>
+</ol>
 
 <b><u>Resources for Parents/Students</u></b>
