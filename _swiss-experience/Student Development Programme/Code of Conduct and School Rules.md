@@ -209,3 +209,14 @@ A student’s Conduct Grade, as reflected in the Report Card, is related to the 
 | **Good**      | A student who is good in conduct displays <u>some</u> positive dispositions in character, learning and leadership.<br><br>He or she shows some HONOUR by making decisions with integrity, treating others with respect and creating a culture of honour <u>sometimes</u>.<br><br>He or she also shows HUMILITY <u>generally</u> by seeking personal improvement, taking into account the needs and challenges of others while embracing the world with open-mindedness <u>sometimes</u>.                        |
 | **Fair**      | A student who is fair in conduct is <u>developing</u> positive dispositions in character, learning and leadership.<br><br>He or she is <u>developing</u> **HONOUR** by <u>attempting</u> to **make decisions with integrity**, **treat others with respect** and **create a culture of honour**. <br><br>He or she also is <u>developing</u> **HUMILITY** by <u>attempting</u> to **seek personal improvement**, **take into account the needs and challenges of others** while **embrace the world with open-mindedness**.                             |
 | **Poor**      | A student who is poor in conduct needs to display more positive dispositions in character, learning and leadership.<br><br>He or she <u>needs to show more</u> **HONOUR** by **making decisions with integrity**, **treating others with respect** and **creating a culture of honour**.<br><br>He or she also <u>needs to show more</u> **HUMILITY** by **seeking personal improvement**, **taking into account the needs and challenges of others** while **embracing the world with open-mindedness**.                         |
+
+Students who received a <u>FAIR/POOR</u> conduct grade will face the following consequences:
+
+*   They will be barred from representing Swiss in any inter-school/international competitions for the following semester.
+*   They will be barred from any overseas trips or any other activities at the discretion of the school for the following semester.
+*   They will be required to attend a Conduct Upgrading programme, ranging from 1 to 5 days at the end of the semester so as to reset the Demerit points to ZERO for the following semester. Students who do not attend the Conduct Upgrading programme will have their demerit points accrued for the next semester.
+*   Lastly, students who received a FAIR/POOR Conduct Grade at the end of the year do not qualify for any monetary awards from MOE. 
+
+**DEMERIT POINT SYSTEM**
+
+This table spells out the possible consequences of accumulating the number of demerit points for offences committed in the course of the semester.
