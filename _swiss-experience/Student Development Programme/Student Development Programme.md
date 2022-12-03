@@ -4,12 +4,11 @@ permalink: /swiss-experience/Student-Development-Programme/
 description: ""
 third_nav_title: Student Development Programme
 ---
-Student Development Programme
-=============================
+# Student Development Programme
 
-The aim of the Student Development Programme is the holistic development of our students. Student development permeates all facets of school-life and is an integral part of the planning process in many of our programmes.
+<p style="text-align: justify;">The aim of the Student Development Programme is the holistic development of our students. Student development permeates all facets of school-life and is an integral part of the planning process in many of our programmes.</p>
 
-Our long-term character development framework marks out our plans to develop our students in personal responsibility, social responsibility and leadership development.
+<p style="text-align: justify;">Our long-term character development framework marks out our plans to develop our students in personal responsibility, social responsibility and leadership development.</p>
 
 Our Student Development Programme consists of:
 
