@@ -61,3 +61,19 @@ To support you in keeping your child safe online, you may refer to these resourc
 
 *   <p style="text-align: justify;"><u>Singapore Citizens</u> students whose gross household income (GHI) is $4,000 and below or whose per capita income (PCI) is $1000 and below, can apply for subsidies via the school. Students who are currently on MOE FA and school-based FA need not apply as the subsidies are provided to them automatically.</p>
 *   <p style="text-align: justify;"><u>Permanent residents (PR) and international students (IS)</u> should also approach the school for more information on financial assistance.</p>
+
+<b><u>Device Management Application (DMA)</u></b>
+
+<p style="text-align: justify;">In rolling out the PLD, MOE is acutely aware of concerns regarding students’ cyber-wellness. The DMA allows the school to manage this by</p>
+
+*   collecting data on usage by the student, such as the amount of time spent on each application,
+*   monitoring, filtering and limiting the type of websites accessible to the student, and
+*   placing restrictions on students’ screen time in order to prevent cyber addiction.
+
+<p style="text-align: justify;">When you purchase a PLD (iPad), the PLD will be pre-installed with a Device Management Application (DMA) known as Mobile Guardian. The DMA has a variety of functions that will support the use of the PLD in the classroom, as well as safeguard students’ cyber-wellness. The DMA has 3 main components:</p>
+
+<p style="text-align: justify;">(a) <b>Classroom Management Service.</b> This enables teachers to actively monitor and control the student’s use of the PLD during lesson time to improve student management and deliver effective teaching.</p>
+
+<p style="text-align: justify;">(b) <b>Mobile Device Management Service.</b> This facilitates the remote deployment of teaching and learning applications and comes with security patches. Schools may also leverage the Mobile Device Management Service to install the school’s teaching and learning resources.</p>
+
+<p style="text-align: justify;">(c) <b>Usage Management Service</b>. This addresses the stress to the student’s eyes from prolonged use and cyber wellness concerns, such as excessive and inappropriate use of the PLD.</p>
