@@ -22,4 +22,4 @@ The intended outcomes of PDLP@Swiss are:
     2.  #### Designing learning experiences that are focused on enabling students to participate in both Synchronous and Asynchronous learning;
         
 
-**PACKAGE Framework**
+<b><u>PACKAGE Framework</u></b>
