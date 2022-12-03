@@ -4,6 +4,8 @@ permalink: /swiss-experience/Student-Development-Programme/education-and-career-
 description: ""
 third_nav_title: Student Development Programme
 ---
+# link brokens: Journey with our children, Supporting their aspirations
+
 # Education and Career Guidance
 
 ### **Our Vision: Work Ready, World Ready**
@@ -18,6 +20,7 @@ third_nav_title: Student Development Programme
 
 **Resources for parents**
 
-1.  [Journey with our children, Supporting their aspirations](https://www.moe.gov.sg/microsites/ecg-parent-guide/index.html)
+1\.  [Journey with our children, Supporting their aspirations](https://www.moe.gov.sg/microsites/ecg-parent-guide/index.html)
 
-An overview of how parents may engage the child in exploring their interest / strength. There are plenty of tips suggestions given for you to start the conversation with them. Stay tune to check out relevant links you will find useful as you journey along with them at different key stages of your child’s life.
+<p style="text-align: justify;">An overview of how parents may engage the child in exploring their interest / strength. There are plenty of tips suggestions given for you to start the conversation with them. Stay tune to check out relevant links you will find useful as you journey along with them at different key stages of your child’s life.</p>
+
