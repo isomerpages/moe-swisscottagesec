@@ -27,3 +27,29 @@ third_nav_title: Instructional Programme
 <p style="text-align: justify;">Students explored the different aspects of the Tamil language, history and culture through an Amazing Race at Sentosa. Thus, they gain a better understanding of the historical significance of Sentosa as a former fishing village and British military base. This cultural camp also provided the platform for students to learn and express historical terms and concepts in Tamil language. These activities successfully kindled students’ interest to use MTL as they were immersed in a fun environment that encourages them to learn and use the language.</p>
 
 ### Our Team
+
+|                                       |                                                     |
+|---------------------------------------|-----------------------------------------------------|
+| Miss Toh Hui Jing                     | HOD Mother Tongue Languages                         |
+| Mr Koh Soon Liang                     | Subject Head / Chinese Language /Student Well-Being |
+| Mr Abdul Nasser S/O T A Mitten        | Lead Teacher / Tamil Language                       |
+| Mdm Xu Yiping                         | Senior Teacher / Chinese Language                   |
+| Mdm Noorhidaya Bte Abdul Karim        | Senior Teacher / Malay Language                     |
+| Miss Low Yu Hui                       | Chinese Language Teacher                            |
+| Mdm Tee Lay Kean                      | Chinese Language Teacher                            |
+| Ms Teo Lei Xin Alviena                | Chinese Language Teacher                            |
+| Mdm Li Xiaorong                       | Chinese Language Teacher                            |
+| Ms Tam Siew Kee                       | Chinese Language Teacher                            |
+| Ms Hon Soo Sien                       | Chinese Language Teacher                            |
+| Ms Fan Yunyun                         | Chinese Language Teacher                            |
+| Mdm Hu Fang                           | Flexi-Adjunct Teacher / Chinese Language            |
+| Miss Chua Hui Ling                    | Flexi-Adjunct Teacher / Chinese Language            |
+| Mdm Redha Nasuha Bte Mas’od           | Malay Language Teacher                              |
+| Mdm Siti Aishah Binti Mohamed Kamsani | Malay Language Teacher                              |
+| Mdm Taty Fairuwani Bte Hamwal         | Malay Language Teacher                              |
+| Mdm Nur Zuliana Bte Hamdan            | Malay Language Teacher                              |
+| Ms Norazela Bte Rosli                 | Malay Language Teacher                              |
+| Mdm Maheshwari Thangaiah              | Tamil Language Teacher                              |
+| Mdm Vijayaprabha Natarajan            | Tamil Language Teacher                              |
+| Mdm Thasradha Chandraleka             | Tamil Language Teacher                              |
+| Miss Durga Krishnamurthi              | Flexi-Adjunct Teacher / Tamil Language              |
