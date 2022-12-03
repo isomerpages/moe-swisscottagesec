@@ -2,6 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Contact Us.md
       - Student Initiated Project Making Hand Sanitiser.md
       - For Students.md
+      - Contact Us.md
