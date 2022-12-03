@@ -10,6 +10,8 @@ third_nav_title: Distinctive Programmes
 
 <p style="text-align: justify;">The school’s Learning for Life Programme in the Thoughtful Leadership Programme (TLP) which is driven by the Centre for Thoughtful Leadership (CTL).</p>
 
+<p style="text-align: justify;">The Swiss Thoughtful Leadership Programme (TLP) is the school Learning for Life Programme (LLP). It consists of three sub-programmes, namely, (i) Glocal Perspectives Programme, (ii) Values-In-Action Programme and (iii) Student Leadership Programme. The TLP drives the development of Thoughtful Leadership qualities in students where the taught curriculum across the three sub-programmes (Awareness) culminates in the VIA efforts (Action) of the students. The VIA projects serve as platforms for students to exercise their leadership qualities to plan and offer care to the beneficiaries. Through the process, students are developed in both competencies and a spirit of youth volunteerism (Advocacy).</p>
+
 ![](/images/Swiss%20Experience/Distinctive%20Programmes/TLP_Figure1.jpg)
 
 
@@ -34,4 +36,3 @@ At the end of the two years, we expect our students to be able to:
 
 <p style="text-align: justify;">The Swiss Student Leadership Programme (SLP) is based on a ‘Character First’ educational principle where good leadership stems from good character; it is about the leader’s impact and influence, not his or her position. The SLP has a two-tiered structure comprising a cohort programme and customised programmes for selected student leaders. For the cohort programme, the school delivers a student leadership curriculum that develops dispositions for Self-Leadership, Collaborative Leadership and Purpose-driven Leadership.  For selected student leaders, the customised programmes include mentoring by teacher mentors and pinnacle leadership training programmes such as leadership training camps and external leadership opportunities.</p>
 
-<p style="text-align: justify;">The Swiss Thoughtful Leadership Programme (TLP) is the school Learning for Life Programme (LLP). It consists of three sub-programmes, namely, (i) Glocal Perspectives Programme, (ii) Values-In-Action Programme and (iii) Student Leadership Programme. The TLP drives the development of Thoughtful Leadership qualities in students where the taught curriculum across the three sub-programmes (Awareness) culminates in the VIA efforts (Action) of the students. The VIA projects serve as platforms for students to exercise their leadership qualities to plan and offer care to the beneficiaries. Through the process, students are developed in both competencies and a spirit of youth volunteerism (Advocacy).</p>
