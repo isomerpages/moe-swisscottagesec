@@ -6,7 +6,7 @@ third_nav_title: Student Development Programme
 ---
 # Code of Conduct and School Rules
 
-**Swiss Cottage takes a Character First approach in developing our students. The school wishes to instil positive values in the students so that they can self-regulate, while at the same time affirm the good in every student through various platforms.**
+<b>Swiss Cottage takes a <u>Character First</u> approach in developing our students. The school wishes to instil positive values in the students so that they can self-regulate, while at the same time affirm the good in every student through various platforms.</b>
 
 **SWISS R.U.L.E.S.**
 
