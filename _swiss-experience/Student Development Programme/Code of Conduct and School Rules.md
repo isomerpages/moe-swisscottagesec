@@ -114,3 +114,91 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 |-------------------|--------------------|
 | ·       Do keep it neat. No tinting or colouring is allowed.<br><br>·       Tie up your hair neatly if it touches the collar of the shirt. Only black, white or grey hair accessories (hair clips/ribbons/elastic bands) are to be used.<br><br>·       Do not keep fanciful hairstyles.<br><br>·       Clip or tie up the fringe if it covers the eyebrow.<br> <br>  | ·       Do not tint or colour your hair.<br><br>·       Keep it short and neat and ensure that the fringe is above the eyebrow.<br><br>·       Ensure that the hair is cut above the ears and collar, with a slope at the back and of an appropriate style that is acceptable by the school.<br><br>·       Must be clean shaven. Beard, moustache or long side-burns are not allowed.<br><br>·       Do not keep a spiky or fanciful hairstyle. |
 | <img src="/images/Code%20of%20Conduct%20&%20Rules/Akansha-hair-cropped.png" style="width:80%">               | ![](/images/Code%20of%20Conduct%20&%20Rules/Dongyi-hair-cropped.jpg)             |
+
+6\.  **General Appearance**
+
+**Spectacles**
+
+*   Wear simple single-coloured spectacle frames.
+*   Do not wear multi-coloured and fanciful spectacle frames.
+*   Do not wear tinted glasses and coloured contact lenses in school.
+
+**Jewellery**
+
+*   Only girls are allowed to wear one simple pair of ear-stud (not more than ~ 0.5 cm in diameter) on each ear lobe.
+*   Do not wear jewellery or accessories of any kind.
+*   No rings or hand/ankle bands should be worn by students.
+
+**Fingernails**
+
+*   Keep fingernails short and clean.
+*   Do not polish or varnish fingernails.
+
+**Miscellaneous**
+
+*   Do not wear any headgear.
+*   Wear only plain black, white or dark-coloured sweaters, windbreakers or cardigans in class.
+*   Do not wear any make-up.
+*   Do not have any tattoos on your body.
+
+7\.  **Attendance**
+
+*   Inform your Form Teacher when you are unable to attend school due to illness or urgent family matters by **0715 hrs**. You could also inform your class chairman to help relay the information to your form teacher.
+*   **Students should report to the assembly ground before 0730 hrs (0800 hrs on Thursdays). If you are not in the assembly ground by 0730 hrs (0800 hrs on Thursdays), you will be considered late for school.**
+*   The school takes a serious view on late-coming and students who are late for morning assembly will face consequences.
+*   Submit a medical certificate (MC) to the form teacher on the day you return to the school. The school accepts letters from parents/guardians only on a case-by-case basis (a maximum of 2 letters per term).
+*   Students who do not submit MCs or the necessary documents will be marked as ‘Absent without valid reason’. The school will thus treat this as a case of truancy, if students are unable to explain their absence.
+*   Seek the approval of your form teacher if you need to leave the school premises before the end of the last lesson. You will need to sign in the ‘Permission to Leave Early’ slip in the General Office before you leave.
+*   Your parent or guardian needs to accompany you home if you leave school early.
+
+8\.  **Movement during Curriculum Time**
+
+*   Seek your teachers’ permission before leaving the classroom.
+*   Move quietly when moving to the next venue during curriculum time.
+*   Do not loiter along corridors at any time, including the breaks.
+
+9.  **Others**
+
+*   You are not allowed to have in possession any weapon. You are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
+
+**The school would like to develop in all students self-discipline.  
+The observance of school rules is one of the key pillars to achieve a fruitful school experience.**
+
+**Hence, to help students learn from and correct negative conduct when they misbehave or break school rules, appropriate consequences will be meted out to the students concerned.**
+
+**The school wishes all students a successful learning experience.**
+
+### <b><u>MOBILE PHONE POLICY</u></b>
+
+<u>Rationale</u>
+
+We recognise that many students own a mobile phone, and that some parents/guardians request that their child/ward to bring a mobile phone to school for safety and accountability purposes.  To ensure a conducive environment for our students, unnecessary distractions or disruptions should be avoided. Therefore, the school strongly discourages students from bringing mobile phones to school. However, if there is a need, students are allowed to use their mobile phones outside curriculum time (including CCA time) in the canteen or at the foyer unless authorised by a teacher.
+
+<u>Responsibility of Student</u>
+
+*   All mobile phones must be switched off during curriculum hours.
+
+*   Students are responsible for their mobile phones.
+*   Mobile phones brought to school are entirely at students’ own risk.
+*   The school accepts no responsibility for replacing lost, stolen or damaged mobile phones.
+
+<u>Consequence</u>
+
+It is the responsibility of students who bring mobile phones to school to abide by the rules outlined by the school. The decision to provide a mobile phone to their child should be made by parents/guardians. It is the duty of the parents to understand the potential use and/or misuse of mobile phones.
+
+Mobile phones will be confiscated for 3 working days if students do not adhere to the rules.
+
+Confiscated phones will be switched off and kept in a safe at the General Office.
+
+In cases of emergency, the general office contact number remains a vital and appropriate point of contact.
+
+### <b><u>CONDUCT GRADING AND DEMERIT POINT SYSTEM</u></b>
+
+The school recognises students who consistently display an excellent conduct and exhibit Honour and Humility throughout the semester. Acts of integrity and self-responsibility are also affirmed and acknowledged by the school.
+
+The school uses a demerit point system to help monitor and assign the Conduct Grades for students. Students who do not uphold any of the rules may be given demerit points, in addition to other appropriate consequences meted out by the Student Discipline Committee.
+
+**CONDUCT GRADING**
+
+A student’s Conduct Grade, as reflected in the Report Card, is related to the student’s conduct and behaviour throughout the year. The Conduct Grading takes into account the student’s attitude in his or her daily work such as whether there is respect for teachers and whether self-responsibility is exhibited by the student. The student’s attendance, punctuality in school and the number of demerit points accumulated are also important criteria in determining the student’s Conduct Grade.
+
