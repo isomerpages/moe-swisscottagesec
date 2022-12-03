@@ -77,3 +77,16 @@ To support you in keeping your child safe online, you may refer to these resourc
 <p style="text-align: justify;">(b) <b>Mobile Device Management Service.</b> This facilitates the remote deployment of teaching and learning applications and comes with security patches. Schools may also leverage the Mobile Device Management Service to install the school’s teaching and learning resources.</p>
 
 <p style="text-align: justify;">(c) <b>Usage Management Service</b>. This addresses the stress to the student’s eyes from prolonged use and cyber wellness concerns, such as excessive and inappropriate use of the PLD.</p>
+
+<b><u>Roll-Out of IT Applications as part of National Digital Literacy Programme (NDLP)</u></b>
+
+<p style="text-align: justify;">As part of the NDLP, schools have progressively rolled out IT applications that are vital to students’ learning experience and educational journey.</p>
+
+(a) **Student iCON:** every secondary school student is given an email address. This is a service provided by Google as part of Google Suite.
+
+(b) **Microsoft Pro Plus:** every secondary school is granted a licence to use Microsoft Office tools that include Word, PowerPoint and Excel.
+
+(c) **Zoom:** every secondary school student is given a free Zoom account with 40 minutes time limit using Student iCON for the schools’ video conferencing needs.
+
+<p style="text-align: justify;">The school needs to use your child/ward’s personal data such as his/her name and class to set up user accounts. Please refer to our Frequently Asked Questions section for more information on the collection of data via these applications.</p>
+
