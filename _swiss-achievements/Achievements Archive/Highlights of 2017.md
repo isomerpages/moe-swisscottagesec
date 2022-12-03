@@ -59,3 +59,12 @@ third_nav_title: Achievements Archive
 | St John Brigade             | Corps Achievement Award – *Gold Award*               |
 
 <b><u>On the Sports Front</u></b>
+
+
+|                |                                                         |
+|----------------|----------------------------|
+| Badminton      | West Zone Badminton Championship ‘B’ Division – *4th Position*<br><br>West Zone Badminton Championship ‘C’ Division – *4th Position*                                                                                                                                                                               |
+| Floorball      | National Schools Championship ‘C’ Division Boys – *1st Round in Singapore*<br>National Schools Championship ‘C’ Division Girls – *1st Round in Singapore*<br>National Schools Championship ‘B’ Division Boys – *1st Round in Singapore*<br>National Schools Championship ‘B’ Division Girls – *1st Round in Singapore* |
+| Tenpin Bowling | National Schools Championship ‘C’ Division Boys – *Top 8 in Singapore*                                                                                                                                                                                                                                           |
+| Football       | West Zone ‘B’ Division Inter-school Soccer 2017 – *1st Round*<br><br>West Zone ‘C’ Division Inter-school Soccer 2017 – *1st Round*                                                                                                                                                                                 |
+| Basketball     | B Division West Zone Basketball Competition – *2nd Round*<br><br>C Division West Zone Basketball Competition – *2nd Round*                                                                                                                                                                                         |
