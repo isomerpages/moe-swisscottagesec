@@ -13,7 +13,7 @@ third_nav_title: Talent Development
 |       |   |
 |-----------------|---|
 | Think<br>Students participate in programmes and competitions that develop students into critical and inventive thinkers who are cognizant of global issues and work towards finding positive solutions for change.<br> <br>Competitions include Global Issues Problem Solving (GIPS), World Scholar’s Cup (WSC), Destination Imagination (DI) as well as ignITE Challenge (for NA and NT students). Under the tutelage of the TDP teachers, the students have achieved much in the past few years: | ![]()  |
-|       |  ![](/images/Swiss%20Experience/Talent%20Dev%20&amp;%20Enrichment%20Prog/TDP-v2018-Pix2-300x169.jpg) |
+|       |  ![]() |
 | TDP also collaborates with other subject-specific talent units in the school to prepare students for other academic competitions, such as the International C. B. Paul Science Quiz, International Biomedical Quiz and Caduceus Cup.                                                     |  ![](/images/Swiss%20Experience/Talent%20Dev%20&amp;%20Enrichment%20Prog/TDP-v2018-Pix3-300x169.jpg) |
 |     |  ![](/images/Swiss%20Experience/Talent%20Dev%20&amp;%20Enrichment%20Prog/TDP-v2018-Pix4-300x225.jpg) |
 |      |  ![](/images/Swiss%20Experience/Talent%20Dev%20&amp;%20Enrichment%20Prog/TDP-v2018-Pix5-300x225.jpg) |
@@ -63,7 +63,7 @@ third_nav_title: Talent Development
 </li>
 </ul>
 </td>
-<td><img height="169" width="300" alt="TDP v2018 Pix2" srcset="/wp-content/uploads/2018/05/TDP-v2018-Pix2-300x169.jpg 300w, /wp-content/uploads/2018/05/TDP-v2018-Pix2-768x432.jpg 768w, /wp-content/uploads/2018/05/TDP-v2018-Pix2-1024x576.jpg 1024w, /wp-content/uploads/2018/05/TDP-v2018-Pix2.jpg 1029w" sizes="(max-width: 300px) 100vw, 300px" src=""></td>
+<td><img src="/images/Swiss%20Experience/Talent%20Dev%20&amp;%20Enrichment%20Prog/TDP-v2018-Pix2-300x169.jpg"></td>
 </tr>
 <tr>
 <td>TDP also collaborates with other subject-specific talent units in the school to prepare students for other academic competitions, such as the International C. B. Paul Science Quiz, International Biomedical Quiz and Caduceus Cup.</td>
