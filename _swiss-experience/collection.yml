@@ -2,9 +2,6 @@ collections:
   swiss-experience:
     output: true
     order:
-      - Distinctive Programmes/.keep
-      - Distinctive Programmes/Distinctive Programmes.md
-      - Distinctive Programmes/Thoughtful Leadership Programme.md
       - Total Curriculum.md
       - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme.md
@@ -28,5 +25,8 @@ collections:
       - Student Development Programme/After School Engagement.md
       - Student Development Programme/House Programme.md
       - Co Curricular Activities.md
+      - Distinctive Programmes/.keep
+      - Distinctive Programmes/Distinctive Programmes.md
+      - Distinctive Programmes/Thoughtful Leadership Programme.md
       - Blended Learning.md
       - 2022 Sec 2 Subject Combination.md
