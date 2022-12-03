@@ -12,11 +12,11 @@ third_nav_title: Talent Development
 
 |       |   |
 |-----------------|---|
-| Think<br>Students participate in programmes and competitions that develop students into critical and inventive thinkers who are cognizant of global issues and work towards finding positive solutions for change.<br> <br>Competitions include Global Issues Problem Solving (GIPS), World Scholar’s Cup (WSC), Destination Imagination (DI) as well as ignITE Challenge (for NA and NT students). Under the tutelage of the TDP teachers, the students have achieved much in the past few years: | ![]()  |
-|       |  ![]() |
-| TDP also collaborates with other subject-specific talent units in the school to prepare students for other academic competitions, such as the International C. B. Paul Science Quiz, International Biomedical Quiz and Caduceus Cup.                                                     |  ![](/images/Swiss%20Experience/Talent%20Dev%20&amp;%20Enrichment%20Prog/TDP-v2018-Pix3-300x169.jpg) |
-|     |  ![](/images/Swiss%20Experience/Talent%20Dev%20&amp;%20Enrichment%20Prog/TDP-v2018-Pix4-300x225.jpg) |
-|      |  ![](/images/Swiss%20Experience/Talent%20Dev%20&amp;%20Enrichment%20Prog/TDP-v2018-Pix5-300x225.jpg) |
+| Think<br>Students participate in programmes and competitions that develop students into critical and inventive thinkers who are cognizant of global issues and work towards finding positive solutions for change.<br> <br>Competitions include Global Issues Problem Solving (GIPS), World Scholar’s Cup (WSC), Destination Imagination (DI) as well as ignITE Challenge (for NA and NT students). Under the tutelage of the TDP teachers, the students have achieved much in the past few years: |   |
+|       |  |
+| TDP also collaborates with other subject-specific talent units in the school to prepare students for other academic competitions, such as the International C. B. Paul Science Quiz, International Biomedical Quiz and Caduceus Cup.                                                     |  |
+|     |  ![]( |
+|      |  ![]() |
 
 
 <div>
@@ -67,7 +67,7 @@ third_nav_title: Talent Development
 </tr>
 <tr>
 <td>TDP also collaborates with other subject-specific talent units in the school to prepare students for other academic competitions, such as the International C. B. Paul Science Quiz, International Biomedical Quiz and Caduceus Cup.</td>
-<td><img height="169" width="300" alt="TDP v2018 Pix3" srcset="/wp-content/uploads/2018/05/TDP-v2018-Pix3-300x169.jpg 300w, /wp-content/uploads/2018/05/TDP-v2018-Pix3-768x433.jpg 768w, /wp-content/uploads/2018/05/TDP-v2018-Pix3.jpg 983w" sizes="(max-width: 300px) 100vw, 300px" src="https://swisscottagesec.moe.edu.sg/wp-content/uploads/2018/05/TDP-v2018-Pix3-300x169.jpg"></td>
+<td><img src="/images/Swiss%20Experience/Talent%20Dev%20&amp;%20Enrichment%20Prog/TDP-v2018-Pix3-300x169.jpg"></td>
 </tr>
 <tr>
 </tr>
@@ -77,7 +77,7 @@ third_nav_title: Talent Development
 <p>In alignment with the school’s aim to nurture Thoughtful Leaders who act with an awareness of local and global contexts, TDP provides students the opportunity to advocate for positive change in society through service learning.</p>
 <p>For the past two years, we have partnered Hong Kah North SMC for students to volunteer at the Meet the People Sessions. The attachment allowed students to acquire both macro and grassroots perspectives that kindle a life-long passion to serve.</p>
 </td>
-<td><img height="225" width="300" alt="TDP v2018 Pix4" srcset="/wp-content/uploads/2018/05/TDP-v2018-Pix4-300x225.jpg 300w, /wp-content/uploads/2018/05/TDP-v2018-Pix4.jpg 685w" sizes="(max-width: 300px) 100vw, 300px" src="https://swisscottagesec.moe.edu.sg/wp-content/uploads/2018/05/TDP-v2018-Pix4-300x225.jpg"></td>
+<td><img src="/images/Swiss%20Experience/Talent%20Dev%20&amp;%20Enrichment%20Prog/TDP-v2018-Pix4-300x225.jpg"></td>
 </tr>
 <tr>
 </tr>
@@ -86,7 +86,7 @@ third_nav_title: Talent Development
 <h1>Lead</h1>
 <p>TDP works closely with the Student Leadership Committee to give students leadership experiences through the participation in leadership conferences and Model United Nations. These experiences develop students into responsible global citizens who are cognizant of pressing world issues and empower them to develop solutions to tackle world problems. In the process, the students develop their oratorical skills and confidence in their personal voice.</p>
 </td>
-<td><img height="225" width="300" alt="TDP v2018 Pix5" srcset="/wp-content/uploads/2018/05/TDP-v2018-Pix5-300x225.jpg 300w, /wp-content/uploads/2018/05/TDP-v2018-Pix5.jpg 693w" sizes="(max-width: 300px) 100vw, 300px" src="https://swisscottagesec.moe.edu.sg/wp-content/uploads/2018/05/TDP-v2018-Pix5-300x225.jpg"></td>
+<td><img src="/images/Swiss%20Experience/Talent%20Dev%20&amp;%20Enrichment%20Prog/TDP-v2018-Pix5-300x225.jpg"></td>
 </tr>
 </tbody>
 </table>
