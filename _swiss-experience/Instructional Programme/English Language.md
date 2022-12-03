@@ -45,7 +45,7 @@ We aim to
 
 2.  **Core Enrichment (managed by the Dept)**
 
-          **_WE-Comms/WE-Think Programme_**
+       **_WE-Comms/WE-Think Programme_**
 
 *   Sec 1- Choral Reading
 *   Sec 2- Presentation Skills
