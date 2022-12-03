@@ -37,7 +37,7 @@ Allergy patch test procedure:
 
 **Caution: Do not continue usage if you observe that you are allergic to IPA**.
 
-**Safety Precautions** 
+<span style = "color: #e31414"> <b><u>Safety Precautions</u></b> </span>
 
 *   Flammable. Keep away from all heat and ignition sources, including (but not limited to) sparks, open flames, any types of electrical outlets, switches or equipment.
 *   Store below 30ºC. Keep in cool and well-ventilated places.
@@ -46,6 +46,6 @@ Allergy patch test procedure:
 *   For children, use with supervision.
 *   In if eyes: Rinse cautiously with water for several minutes. Remove contact lenses if present and continue rinsing. If eye irritation persists, get medical attention.
 
-**Usage** 
+<span style = "color: #e31414"> <b><u>Usage</u></b> </span> 
 
 Spray a small amount of hand sanitiser on hands. Rub hands together until dry.
