@@ -11,3 +11,13 @@ third_nav_title: Distinctive Programmes
 **THE CONCEPT: SUSTAINABLE DEVELOPMENT**
 
 The [United Nations](http://en.wikipedia.org/wiki/United_Nations) [World Commission on Environment and Development](http://en.wikipedia.org/wiki/World_Commission_on_Environment_and_Development) released the report ‘[Our Common Future](http://en.wikipedia.org/wiki/Our_Common_Future)’ in 1987. The report included what is now one of the most widely recognised definitions: “Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs.” Sustainable development is a discipline that combines many fields in order to solve problems faced by mankind. It takes into account economic, environmental and social factors (3 pillars) in coming out with a solution.
+
+<figure>
+	<img src="/images/Swiss%20Experience/Distinctive%20Programmes/ALP_Figure1.jpg"
+     style="width:50%">
+<figcaption>
+	Rio+20 – United Nations Conference on<strong>  Sustainable Development</strong>
+	</figcaption>
+</figure>
+
+![](/images/Swiss%20Experience/Distinctive%20Programmes/ALP_Figure2.jpg)
