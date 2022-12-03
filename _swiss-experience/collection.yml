@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Total Curriculum.md
+      - Instructional Programme/Humanities.md
       - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme.md
       - Instructional Programme/English Language.md
