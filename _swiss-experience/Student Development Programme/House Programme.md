@@ -8,7 +8,7 @@ third_nav_title: Student Development Programme
 
 **Aim**
 
-The Swiss House System provides greater opportunities for interaction and team-building among students from different levels and streams. It also provides seniors the opportunity to develop their leadership abilities as they take on leadership roles and mentor their juniors.
+<p style="text-align: justify;">The Swiss House System provides greater opportunities for interaction and team-building among students from different levels and streams. It also provides seniors the opportunity to develop their leadership abilities as they take on leadership roles and mentor their juniors.</p>
 
 **Events**
 
