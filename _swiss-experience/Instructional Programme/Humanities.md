@@ -80,6 +80,6 @@ The subject comprises of two subjects:
 | Literature in Malay Elective   |                        |
 
 
-<p style="text-align: justify;">The study of Social Studies develops critical and valuable citizenship values. Students will learn current and contemporary local as well as global developments through 3 broad issues of **i) Exploring Citizenship and Governance, ii) Living in a Diverse Society** and **iii) Being Part of a Globalised World**. Through the exploration of these issues, the students will recognise the interconnectedness of Singapore and the world.</p>
+<p style="text-align: justify;">The study of Social Studies develops critical and valuable citizenship values. Students will learn current and contemporary local as well as global developments through 3 broad issues of <b>i) Exploring Citizenship and Governance, ii) Living in a Diverse Society</b> and <b>iii) Being Part of a Globalised World</b>. Through the exploration of these issues, the students will recognise the interconnectedness of Singapore and the world.</p>
 
 <p style="text-align: justify;">The subject will also allow the students to critically examine societal issues through an inquiry investigation. Through this process, the students can gain invaluable knowledge of research skills as well as develop constructive responses to societal issues; one of which is the integration of new citizens into our society. With these developments, our students can learn to contribute responsibly as informed, concerned and participative glocal citizens.</p>
