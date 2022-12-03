@@ -53,3 +53,11 @@ To support you in keeping your child safe online, you may refer to these resourc
 *   [gov.sg/better-internet-sg](http://gov.sg/better-internet-sg)
 *   [nlb.gov.sg/](http://nlb.gov.sg/)
 *   [help123.sg](http://help123.sg/)
+
+
+<b><u>Financial Assistance</u></b>
+
+<p style="text-align: justify;">To ensure the affordability of devices, MOE has provided Edusave top-ups of $200 in 2020 and $200 in May 2021 (as part of the Household Support Package announced in Budget 2021), to all eligible SC students in primary and secondary schools. This is on top of the annual $290 credited into the Edusave account for Secondary School students and $230 for Primary School students.</p>
+
+*   <p style="text-align: justify;">Singapore Citizens students whose gross household income (GHI) is $4,000 and below or whose per capita income (PCI) is $1000 and below, can apply for subsidies via the school. Students who are currently on MOE FA and school-based FA need not apply as the subsidies are provided to them automatically.</p>
+*   <p style="text-align: justify;">Permanent residents (PR) and international students (IS) should also approach the school for more information on financial assistance.</p>
