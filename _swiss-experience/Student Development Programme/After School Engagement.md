@@ -14,10 +14,10 @@ third_nav_title: Student Development Programme
 
 |                             |                                     |
 |-----------------|-----------------------|
-| #<br>Ascent<br><br>         | #<br>Bonding Time<br><br>           |
-| #<br>Coffee Corner<br><br>  | #<br>Crew Debrief Session<br><br>   |
+| ![](/images/Swiss%20Experience/After%20School%20Engagement/Chok_Ascent2-1024x683.jpg)<br>Ascent<br><br>         | ![](/images/Swiss%20Experience/After%20School%20Engagement/Chok_Bonding-time4-1024x768.jpeg)<br>Bonding Time<br><br>           |
+| ![](/images/Swiss%20Experience/After%20School%20Engagement/Chok_Coffee-Corner5-1024x497.jpeg)<br>Coffee Corner<br><br>  | ![](/images/Swiss%20Experience/After%20School%20Engagement/Chok_Crew-Debrief-session6-1024x576.jpeg)<br>Crew Debrief Session<br><br>   |
 
 |                             |                                     |
 |:-----------------:|:-----------------------:|
-|   #<br>Outdoor Programme 1  | #<br>Professional Standard<br><br>  |
-|         #<br>Absail         | #<br>Ready to serve                 |
+|   ![](/images/Swiss%20Experience/After%20School%20Engagement/Chok_Outdoor-Programme-17-1024x683.jpg)<br>Outdoor Programme 1  | ![](/images/Swiss%20Experience/After%20School%20Engagement/Chok_Professional-standard8-768x1024.jpeg)<br>Professional Standard<br><br>  |
+|         ![](/images/Swiss%20Experience/After%20School%20Engagement/Chok_Absail1-485x1024.jpg)<br>Absail         | ![](/images/Swiss%20Experience/After%20School%20Engagement/Chok_ready-to-serve9.jpeg)<br>Ready to serve                 |
