@@ -4,3 +4,73 @@ permalink: /swiss-experience/Instructional-Programme/technology-for-learning/
 description: ""
 third_nav_title: Instructional Programme
 ---
+Technology for Learning (TfL)
+=============================
+
+### Goals
+
+1.  **Staff Excellence Culture** – Staff Excellence marked by highly competent staff as Designers of Learning, Experiences and Environments, who leverage ICT effectively and purposely in T&L.
+2.  **Student Intellect Culture & Wellness Culture** – Every student is a self-directed and collaborative learner who maximises ICT to enhance their learning as guided by teachers, grounded in cyber wellness.
+3.  **Effectiveness and efficiency in school administration** through use of ICT.
+
+### Our Programme
+
+#### Curricular Programme
+
+*   Computer Applications
+
+#### ICT Programmes / Projects
+
+*   Personalised Digital Learning Programme (PDLP) – infusion of ICT into curriculum, pedagogy and assessment
+*   Infusion of cyber wellness into curriculum and CCE
+*   ICT professional development for Staff
+*   IT/AV support for School (through student volunteers)
+
+**Our Team**
+
+| ICT & Computer Applications |                                   |
+|-----------------------------|-----------------------------------|
+| Mr Wong Wai Kiong Terence   | HOD Technology for Learning (TfL) |
+| Mr Lim Junxuan Christopher  | Acting Subject Head / TfL         |
+| Mdm Shahada Bte Rahmat      | CPA Teacher                       |
+| Mr Wong Yin Kew             | CPA Teacher                       |
+| Mr Giam Chin Leong          | ICT Manager                       |
+| Mr Muhd Zuhairi Bin Zailani | Desktop Engineer                  |
+| Ms Chew Jia Xuan            | Desktop Engineer                  |
+
+
+**ICT Facilities for Teaching and Learning  
+**
+
+*   4 Computer Laboratories of one full-class capacity each
+*   5 mobile carts equipped with 20 notebook PCs each
+*   1 MacLab with 40 MacBook Pro
+*   8 computer kiosks in the Library for student use
+*   Wireless Internet/LAN throughout school compound
+
+**Useful Links**
+
+**Ministry of Education**
+
+*   [MOE ICT Masterplan 4](https://ictconnection.moe.edu.sg/masterplan-4)
+    
+
+*   [MOE – Cyber Wellness Information and Resources](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)
+
+**Teaching and Learning using ICT**
+
+OPAL (MOE)
+
+( [http://www.academyofsingaporeteachers.moe.gov.sg/](http://www.academyofsingaporeteachers.moe.gov.sg/) )
+
+ICT Connection (MOE)
+
+( [http://ictconnection.moe.edu.sg/](http://ictconnection.moe.edu.sg/) )
+
+Singapore Student Learning Space (SLS)
+
+([https://vle.learning.moe.edu.sg/](https://vle.learning.moe.edu.sg/))
+
+AskNLearn LMS Portal
+
+([http://lms.asknlearn.com/SCSS/logon\_new.aspx](http://lms.asknlearn.com/SCSS/logon_new.aspx))
