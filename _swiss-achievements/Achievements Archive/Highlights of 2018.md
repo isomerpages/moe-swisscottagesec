@@ -48,31 +48,31 @@ third_nav_title: Achievements Archive
 
 <b><u>On the Sports Front</u></b>
 
-|                |                                                                                                                                                                                                      |
-|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Badminton      | West Zone Badminton Championship ‘B’ Division Girls – 4th Position<br><br>West Zone Badminton Championship ‘C’ Division Girls – 4th Position                                                         |
-| Floorball      | National Schools Championship ‘B’ Division Boys – 1st Round<br>National Schools Championship ‘B’ Division Girls – 1st RoundNational Schools Championship ‘C’ Division Girls – National 1st Runner-up |
-| Tenpin Bowling | National Schools Championship ‘B’ Division Boys – National 7th                                                                                                                                       |
-| Football       | West Zone ‘B’ Division Inter-school Soccer 2018 – 2nd Round                                                                                                                                          |
-| Basketball     | B Division Boys West Zone Basketball Competition – 2nd Round<br><br>T Net Club Under-14 Level 2 Basketball Tournament – 1st Position                                                                 |
+|                |                                                         |
+|----------------|--------------|
+| Badminton      | West Zone Badminton Championship ‘B’ Division Girls – *4th Position*<br><br>West Zone Badminton Championship ‘C’ Division Girls – *4th Position*          |
+| Floorball      | National Schools Championship ‘B’ Division Boys – *1st Round*<br>National Schools Championship ‘B’ Division Girls – 1st RoundNational Schools Championship ‘C’ Division Girls – *National 1st Runner-up* |
+| Tenpin Bowling | National Schools Championship ‘B’ Division Boys – *National 7th*                                                                                                                                       |
+| Football       | West Zone ‘B’ Division Inter-school Soccer 2018 – *2nd Round*                                                                                                                                          |
+| Basketball     | B Division Boys West Zone Basketball Competition – *2nd Round*<br><br>T Net Club Under-14 Level 2 Basketball Tournament – 1st Position                                                                 |
 
 **On the Clubs and Societies Front**
 
 |                           |                                                                                       |
 |---------------------------|---------------------------------------------------------------------------------------|
-| Publications & Media Club | Media Challenge 2018 – Most Innovative Pitch Award                                    |
-|                           | Our Schools. Our Stories. Organised by Ministry of Education – Best Photo Story Award |
-|                           | By the Minute Photography Competition @ HortPark (Singapore) – Organising School      |
-|                           | The Straits Time National Youth Media Cmpetition – Finalist                           |
-| Science & Technology      | Science & Technology Challenge – 2nd & 3rd Team Placing                               |
-| Swiss Naturalist          | School Green Awards – Singapore Environment Council – Lotus Award                     |
-|                           | Southwest CDC – National Environment Agency Green Schools @ Southwest – Gold Award    |
-|                           | National Environment Quiz 2018 – 11th and 13th – Individual Category                  |
+| Publications & Media Club | Media Challenge 2018 – *Most Innovative Pitch Award*                                    |
+|                           | Our Schools. Our Stories. Organised by Ministry of Education – *Best Photo Story Award* |
+|                           | By the Minute Photography Competition @ HortPark (Singapore) – *Organising School*      |
+|                           | The Straits Time National Youth Media Cmpetition – *Finalist*                           |
+| Science & Technology      | Science & Technology Challenge – *2nd & 3rd Team Placing*                               |
+| Swiss Naturalist          | School Green Awards – Singapore Environment Council – *Lotus Award*                     |
+|                           | Southwest CDC – National Environment Agency Green Schools @ Southwest – *Gold Award*    |
+|                           | National Environment Quiz 2018 – *11th and 13th – Individual Category*                  |
 
 **On the Performing Arts Front**
 
 |             |                                      |
 |-------------|----------------------------|
-| Show Choir  | B-dazzled! – Singapore Show Choir Festival – Diamond Award (2nd), and Best Choreography Award |
-| Swiss Winds | National Day Parade 2018 at Floating Platform – Public Performance                            |
-| All PA      | Swiss Arts Expression 2018 – Public Performance                                               |
+| Show Choir  | B-dazzled! – Singapore Show Choir Festival – *Diamond Award (2nd), and Best Choreography Award* |
+| Swiss Winds | National Day Parade 2018 at Floating Platform – *Public Performance*                            |
+| All PA      | Swiss Arts Expression 2018 – *Public Performance*                                               |
