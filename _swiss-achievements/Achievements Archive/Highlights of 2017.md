@@ -37,6 +37,15 @@ third_nav_title: Achievements Archive
 
 <b><u>On the Performing Arts Front</u></b>
 
+|                   |                                  |
+|-------------------|-----------------------|
+| Chinese Dance     | Singapore Youth Festival 2017 – *Distinction*    |
+| Chinese Orchestra | Singapore Youth Festival 2017 – *Accomplishment* |
+| Choir             | Singapore Youth Festival 2017 – *Distinction*    |
+| Drama             | Singapore Youth Festival 2017 – *Commendation*   |
+| Malay Dance       | Singapore Youth Festival 2017 – *Distinction*    |
+| Swiss Winds       | Singapore Youth Festival 2017 – *Distinction*    |
+
 <b><u>On the Uniform Group Front</u></b>
 
 <b><u>On the Sports Front</u></b>
