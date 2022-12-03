@@ -87,7 +87,7 @@ Our Sports Leaders are also advocates for Joy of Healthy Living. Every morning, 
 
 **Other Department Programmes** 
 
-Swiss House Programme
+<u>Swiss House Programme</u>
 
 Events:
 
@@ -97,7 +97,7 @@ Events:
 *   Cheer and Dance Competition
 *   Team Challenge
 
-Facilities
+<u>Facilities</u>
 
 *   Indoor Sport Hall (with 2 Basketball Courts)
 *   Football Field
