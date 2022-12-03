@@ -46,11 +46,11 @@ third_nav_title: Instructional Programme
 *   8 computer kiosks in the Library for student use
 *   Wireless Internet/LAN throughout school compound
 
-	<b><u>Useful Links</u></b>
+<b><u>Useful Links</u></b>
 
 **Ministry of Education**
 
-*   [MOE ICT Masterplan 4](https://ictconnection.moe.edu.sg/masterplan-4)
+*   <a href="https://ictconnection.moe.edu.sg/masterplan-4" target="_blank">MOE ICT Masterplan 4</a>
     
 
 *   [MOE – Cyber Wellness Information and Resources](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)
