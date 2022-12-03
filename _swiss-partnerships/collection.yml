@@ -2,4 +2,5 @@ collections:
   swiss-partnerships:
     output: true
     order:
+      - Alumni/Alumni.md
       - Alumni/.keep
