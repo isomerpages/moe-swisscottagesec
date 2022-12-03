@@ -226,3 +226,25 @@ This table spells out the possible consequences of accumulating the number of de
 | 5 Demerit Points or more  | Level Discipline Master/Form Teachers will counsel student and parents will be informed.                                                                                            |
 | 8 Demerit Points or more  | Year Head/Year Master will counsel student and parents will be informed.<br><br>Suspension from school & other appropriate consequences meted by the school to educate the student.                                                                                                 |
 | 10 Demerit Points or more | Family Conference with School Leaders<br><br>There will be implications on conduct grade and eligibilities for school trip and awards.<br><br>Student might need to attend a Conduct Upgrading programme.<br><br>Other appropriate consequences meted by the school to educate the student. |
+
+Relevant school personnel (School Leaders, Year Head/Year Master and Level Discipline Master) will step in on a case-by-case basis depending on severity of offences involved. 
+
+**Offences**
+
+There are two categories of offences: Minor and Major.
+
+_Note that this list of offences is non-exhaustive._   
+For major offences, the student may be dealt with by the law of Singapore.
+
+**Prohibited Items**
+
+*   Tobacco products
+*   Pornographic and other undesirable materials
+*   Chewing gum
+*   Weapon or weapon-like objects
+
+**Prohibited items found in your possession will be confiscated by the school.**
+
+**In building a safe and positive school environment for all staff and students, the school takes a serious view on all offences. In the event of any occurrence of a major offence, the student will face severe consequences from the school and the case may be referred to the Police or relevant authorities based on the school’s prerogative.**
+
+**The student’s parents will also be informed and a family conference will be held so that there will be a joint partnership in re-educating and helping the student to change for the better.**
