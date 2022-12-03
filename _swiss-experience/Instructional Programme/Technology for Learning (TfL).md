@@ -62,10 +62,8 @@ OPAL (MOE)
 ICT Connection (MOE)   
 <a href="http://ictconnection.moe.edu.sg/" target="_blank">(http://ictconnection.moe.edu.sg/)</a>
 
-Singapore Student Learning Space (SLS)
-
+Singapore Student Learning Space (SLS)  
 ([https://vle.learning.moe.edu.sg/](https://vle.learning.moe.edu.sg/))
 
-AskNLearn LMS Portal
-
+AskNLearn LMS Portal  
 ([http://lms.asknlearn.com/SCSS/logon\_new.aspx](http://lms.asknlearn.com/SCSS/logon_new.aspx))
