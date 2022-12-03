@@ -6,7 +6,7 @@ third_nav_title: Student Development Programme
 ---
 # Code of Conduct and School Rules
 
-<b>Swiss Cottage takes a <u>Character First</u> approach in developing our students. The school wishes to instil positive values in the students so that they can self-regulate, while at the same time affirm the good in every student through various platforms.</b>
+<p style="text-align: justify;"><b>Swiss Cottage takes a <u>Character First</u> approach in developing our students. The school wishes to instil positive values in the students so that they can self-regulate, while at the same time affirm the good in every student through various platforms.</b></p>
 
 ### <b><u>SWISS R.U.L.E.S.</u></b>
 
@@ -161,18 +161,17 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 
 *   You are not allowed to have in possession any weapon. You are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
 
-**The school would like to develop in all students self-discipline.  
-The observance of school rules is one of the key pillars to achieve a fruitful school experience.**
+<p style="text-align: justify;"><b>The school would like to develop in all students self-discipline.<br>The observance of school rules is one of the key pillars to achieve a fruitful school experience.</b></p>
 
-**Hence, to help students learn from and correct negative conduct when they misbehave or break school rules, appropriate consequences will be meted out to the students concerned.**
+<p style="text-align: justify;"><b>Hence, to help students learn from and correct negative conduct when they misbehave or break school rules, appropriate consequences will be meted out to the students concerned.</b></p>
 
-**The school wishes all students a successful learning experience.**
+<p style="text-align: justify;"><b>The school wishes all students a successful learning experience.</b></p>
 
 ### <b><u>MOBILE PHONE POLICY</u></b>
 
 <u>Rationale</u>
 
-We recognise that many students own a mobile phone, and that some parents/guardians request that their child/ward to bring a mobile phone to school for safety and accountability purposes.  To ensure a conducive environment for our students, unnecessary distractions or disruptions should be avoided. Therefore, the school strongly discourages students from bringing mobile phones to school. However, if there is a need, students are allowed to use their mobile phones outside curriculum time (including CCA time) in the canteen or at the foyer unless authorised by a teacher.
+<p style="text-align: justify;">We recognise that many students own a mobile phone, and that some parents/guardians request that their child/ward to bring a mobile phone to school for safety and accountability purposes.  To ensure a conducive environment for our students, unnecessary distractions or disruptions should be avoided. Therefore, the school strongly discourages students from bringing mobile phones to school. However, if there is a need, students are allowed to use their mobile phones outside curriculum time (including CCA time) in the canteen or at the foyer unless authorised by a teacher.</p>
 
 <u>Responsibility of Student</u>
 
