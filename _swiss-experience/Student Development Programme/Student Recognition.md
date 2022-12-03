@@ -30,7 +30,7 @@ third_nav_title: Student Development Programme
 
 <p style="text-align: justify;">“I think what we did helped the situation in huge ways,” said Jiaxing. “How different would things be if we didn’t?”</p>
 
-<p style="text-align: justify;">Umeed agreed. “It’s normal to feel afraid, especially when you see blood. You might even fear being judged if you step into the situation. But you can’t let your own feelings get in the way.”
+<p style="text-align: justify;">Umeed agreed. “It’s normal to feel afraid, especially when you see blood. You might even fear being judged if you step into the situation. But you can’t let your own feelings get in the way.”</p>
 
 <p style="text-align: justify;">“Yes, just do what is right. At the very least, you can say that you’ve tried.” Said Joshua.</p>
 
