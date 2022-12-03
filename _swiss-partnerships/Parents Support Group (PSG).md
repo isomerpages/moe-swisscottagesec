@@ -36,3 +36,11 @@ We strive to achieve our mission through the following Areas of Focus:
 *   Co-organise and support School Events/Services
 *   Library Duties
 *   Field Trips Chaperones
+
+**[Swiss PSG Exco Message (click to view message)](/files/PSG/Swiss-PSG-Exco-Message-.pdf)** 
+
+**[Swiss PSG Exco Members (click to view message)](/files/PSG/Swiss-PSG-Exco-Members-2022.pdf)** 
+
+[**PSG Video**](https://onedrive.live.com/?authkey=%21AGzVsrwoJb4N1Cw&cid=CCC66450AF79773E&id=CCC66450AF79773E%214955&parId=root&o=OneUp)
+
+[**PSG Sign Up Form**](https://docs.google.com/forms/d/e/1FAIpQLSdnNUh5cYIODBT4jEMMqphJSoaYb_yfqieJSaigzYmUIdIkpg/viewform)
