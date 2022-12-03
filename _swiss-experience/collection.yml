@@ -2,6 +2,7 @@ collections:
   swiss-experience:
     output: true
     order:
+      - Talent Development/Talent Development and Enrichment Programme.md
       - Talent Development/.keep
       - Total Curriculum.md
       - Instructional Programme/.keep
