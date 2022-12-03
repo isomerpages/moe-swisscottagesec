@@ -57,7 +57,10 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 
 **(1) School Pride and (2) Self-Discipline**
 
-
+|                                                |                           |
+|----------------------------|------------------------|
+| **Swiss Cottage strives to build strong school pride in our students.** | **School prid**e is a love for the school, the feeling that we belong to Swiss Cottage – a special school. The Swiss values of **P**assion, **R**esilience, **I**ntegrity, **D**are to Try and **E**mpathy (P.R.I.D.E.), govern the way we Think, Care and Lead.<br><br>Students with a deep sense of pride in the school will conduct themselves with respect and responsibility towards the school, the staff and fellow Swiss students. Swiss students should strive to maintain full attendance, a smart appearance, a positive attitude, high aspirations and hence attain satisfying achievements. |
+| **Swiss Cottage strives to help students be self-disciplined.**         | A self-disciplined person is a master of himself who knows how to act with respect and responsibility. A self-disciplined person has the strength of mind to speak and act in ways that are appropriate, and to avoid speech and conduct that are inappropriate.<br><br>A self-disciplined person has the strength of character to persevere in spite of stress or setbacks, to press on to balance academics, CCAs, other school activities and core commitments to family/friends.                                                                                             |
 
 
 
@@ -89,4 +92,3 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 
 *   Students are to wear the prescribed school uniform. Modification to the uniform is not allowed.
 *   Purchase uniforms from the authorised supplier. They can be purchased from the bookshop vendor during school term.
-
