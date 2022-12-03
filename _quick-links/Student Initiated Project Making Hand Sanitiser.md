@@ -15,13 +15,13 @@ description: ""
 
 For more information on isopropyl alcohol and aloe vera gel, please scan these QR codes.
 
-70% isopropyl alcohol: ![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2020/03/IPA-QR-code_V1.png) aloe vera gel: ![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2020/03/aloe-vera-gel-QR-code_V1.png)
+70% isopropyl alcohol: <img src="/images/Student%20Initiated%20Project/IPA-QR-code_V1.png" style="width:20%"> aloe vera gel: <img src="/images/Student%20Initiated%20Project/aloe-vera-gel-QR-code_V1.png" style="width:20%">
 
-**Allergy Patch Test** 
+<span style = "color: #e31414"> <b><u>Allergy Patch Test</u></b> </span>
 
-One of the ingredients for the alcohol-based hand sanitiser is 70% isopropyl alcohol (IPA). Isopropyl alcohol is also known as isopropanol (or 2-propanol).
+<p style="text-align: justify;">One of the ingredients for the alcohol-based hand sanitiser is 70% isopropyl alcohol (IPA). Isopropyl alcohol is also known as isopropanol (or 2-propanol).</p>
 
-Under the Globally Harmonised System of Classification and Labelling of Chemicals (GHS), IPA is classified as a highly flammable volatile liquid which can cause eye and skin irritation. It also causes drowsiness or dizziness when inhaled.  It is harmful when ingested.
+<p style="text-align: justify;">Under the Globally Harmonised System of Classification and Labelling of Chemicals (GHS), IPA is classified as a highly flammable volatile liquid which can cause eye and skin irritation. It also causes drowsiness or dizziness when inhaled.  It is harmful when ingested.</p>
 
 **It is highly recommended that patch testing is carried out for first-time users of IPA hand sanitiser.** 
 
