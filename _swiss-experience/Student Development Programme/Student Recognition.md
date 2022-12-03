@@ -28,17 +28,17 @@ third_nav_title: Student Development Programme
 
 <p style="text-align: justify;">Once the paramedics arrived, the students made way for them and took the initiative to ask passers-by to step aside. They wanted to clear the path so that the paramedics could do their job. When the crowd dispersed, the students stayed on to clean up, picking up the blood-stained tissues and the used mask that was left behind.</p>
 
-“I think what we did helped the situation in huge ways,” said Jiaxing. “How different would things be if we didn’t?”
+<p style="text-align: justify;">“I think what we did helped the situation in huge ways,” said Jiaxing. “How different would things be if we didn’t?”</p>
 
-Umeed agreed. “It’s normal to feel afraid, especially when you see blood. You might even fear being judged if you step into the situation. But you can’t let your own feelings get in the way.”
+<p style="text-align: justify;">Umeed agreed. “It’s normal to feel afraid, especially when you see blood. You might even fear being judged if you step into the situation. But you can’t let your own feelings get in the way.”
 
-“Yes, just do what is right. At the very least, you can say that you’ve tried.” Said Joshua.
+<p style="text-align: justify;">“Yes, just do what is right. At the very least, you can say that you’ve tried.” Said Joshua.</p>
 
-We thank a member of the public, for writing to us, shedding light on the public-spiritedness and care that our Swiss Cottage students exemplified.
+<p style="text-align: justify;">We thank a member of the public, for writing to us, shedding light on the public-spiritedness and care that our Swiss Cottage students exemplified.</p>
 
 ### External Student Recognition
 
-External Student Recognition nominates deserving students with exemplary character, excel in their academics and CCA for scholarships and national awards.
+<p style="text-align: justify;">External Student Recognition nominates deserving students with exemplary character, excel in their academics and CCA for scholarships and national awards.</p>
 
 The scholarship that the students can apply includes:
 
