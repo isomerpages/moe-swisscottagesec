@@ -3,6 +3,7 @@ title: PDLP@Swiss Cottage
 permalink: /swiss-experience/pdlpswiss-cottage/
 description: ""
 ---
+# link for https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection broken
 # PDLP@Swiss Cottage
 
 <b><u>Personalised Digital Learning Programme (PDLP) @ Swiss</u></b>
@@ -101,3 +102,20 @@ To support you in keeping your child safe online, you may refer to these resourc
 *   Zoom: [https://zoom.us/docs/en-us/schools-privacy-statement.html](https://zoom.us/docs/en-us/schools-privacy-statement.html)
 
 <p style="text-align: justify;">All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: <a href="https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection">https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection</a></p>
+
+
+<b><u>Technical Support</u></b>
+
+1.  AsiaPac Technology Pte Ltd (school vendor for PDLP iPad)
+    1.  Help Desk number: 6270 8281
+    2.  Help Desk email: pdlpapple@asiapac.com.sg
+    3.  Help Desk operating hours: Mon-Thu 0830 to 1730, Fri 0830-1700. Closed on Sat, Sun & Public Holidays
+    4.  Website: [https://asiapac.com.sg/pld/apple](https://asiapac.com.sg/pld/apple) (for buying of accessories)
+2.  School-based Support
+    1.  Technical matters: email to g-ncs3304sde@ncs.com.sg
+    2.  Administrative matters: email to giam\_chin\_leong@moe.edu.sg
+    3.  Finance matters: email to scss@moe.edu.sg
+    4.  Telephone/Whatsapp messaging: 6631 9680 / 6631 9625
+    5.  Operating hours: school days from 8 am to 5 pm excluding weekends and public holidays
+
+<b><u>Resources for Parents/Students</u></b>
