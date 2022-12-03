@@ -18,7 +18,7 @@ third_nav_title: Talent Development
 <table border="3">
 <tbody>
 <tr>
-<td width="400">
+<td width="500">
 <h1>Think</h1>
 <p>Students participate in programmes and competitions that develop students into critical and inventive thinkers who are cognizant of global issues and work towards finding positive solutions for change.</p>
 <p>Competitions include Global Issues Problem Solving (GIPS), World Scholar’s Cup (WSC), Destination Imagination (DI) as well as ignITE Challenge (for NA and NT students). Under the tutelage of the TDP teachers, the students have achieved much in the past few years:</p>
