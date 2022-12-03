@@ -17,3 +17,15 @@ description: ""
 |   Sports / Games   |      Uniformed Groups          |                 Performing Arts      |   Clubs & Societies        |
 |:----------:|:----------:|:---------:|:-------------:|
 | • Badminton (Girls)<br>• Basketball<br>• Floorball<br>• Soccer (Boys)<br>• Tenpin Bowling (Boys) | • Boys’ Brigade<br>• NCC (Air)<br>• NCDCC<br>• NPCC (Boys)<br>• Scouts | • Chinese Orchestra<br>• Show Choir<br>• Malay Dance<br>• Chinese Dance<br>• Drama<br>• NCC Command Band | • Publications and Media Club<br>• Science & Technology |
+
+**LEAPS CCA Grading Scheme**  
+
+**LEAPS 2.0**
+
+<p style="text-align: justify;">The revised LEAPS 2.0 recognises students’ co-curricular attainment according to Excellent/Good/Fair. The level of attainment will be converted to a bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Education (JC/Poly/ITE).</p>
+
+| Co-Curricular Attainment       |       Details             |
+|----------------------|--------------------|
+| **Excellent**<br><br>**(2 bonus points)** | Student who attains a minimum Level 3 in all four domains with at least a Level 4 in one domain.                                    |
+| **Good**<br><br>**(1 bonus point)**       | Student who attains a minimum Level 1 in all four domains with any one of the following:                                   i.            At least Level 2 in three domains;ii.           At least Level 2 in one domain and at least Level                 3 in another domain; or<br><br>iii.           At least Level 4 in one domain. |
+| **Fair**                              | Student’s attainment in co-curricular will not translate into any bonus points.                                     |
