@@ -63,6 +63,11 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 | **Swiss Cottage strives to help students be self-disciplined.**         | A self-disciplined person is a master of himself who knows how to act with respect and responsibility. A self-disciplined person has the strength of mind to speak and act in ways that are appropriate, and to avoid speech and conduct that are inappropriate.<br><br>A self-disciplined person has the strength of character to persevere in spite of stress or setbacks, to press on to balance academics, CCAs, other school activities and core commitments to family/friends.                                                                                             |
 
 
+|    |
+|:---:|
+|  **The school strives to build a positive school environment where students**<br><br>**(i) have a strong sense of pride in the school and**<br><br>**(ii) develop self-discipline through a firm and fair approach.** |
+
+
 
 **All students are required to abide by the following expected behaviour.**
 
