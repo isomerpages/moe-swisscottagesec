@@ -27,5 +27,5 @@ description: ""
 | Co-Curricular Attainment       |       Details             |
 |----------------------|--------------------|
 | **Excellent**<br><br>**(2 bonus points)** | Student who attains a minimum Level 3 in all four domains with at least a Level 4 in one domain.                                    |
-| **Good**<br><br>**(1 bonus point)**       | Student who attains a minimum Level 1 in all four domains with any one of the following:                                   i.            At least Level 2 in three domains;ii.           At least Level 2 in one domain and at least Level                 3 in another domain; or<br><br>iii.           At least Level 4 in one domain. |
+| **Good**<br><br>**(1 bonus point)**       | Student who attains a minimum Level 1 in all four domains with any one of the following: <br><br> i. At least Level 2 in three domains;<br><br>ii.  At least Level 2 in one domain and at least Level  3 in another domain; or<br><br>iii.           At least Level 4 in one domain. |
 | **Fair**                              | Student’s attainment in co-curricular will not translate into any bonus points.                                     |
