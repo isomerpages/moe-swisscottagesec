@@ -41,3 +41,15 @@ For Swiss Cottage, each PLD bundle consists of:
 <p style="text-align: justify;">As the students develop the digital skills that support their learning, it is also imperative that they are empowered to take responsibility for their personal well-being when using technology.</p>
 
 ![](/images/Swiss%20Experience/MOE-Cyber-Wellness-Framework.png)
+
+<u>MOE Cyber Wellness Framework</u>
+
+The school adopts MOE’s Cyber Wellness Framework to develop students into responsible digital citizens. The students’ attitudes and behaviour on the use of technology will be guided by the three Cyber Wellness Principles. These principles are constantly reinforced when students engage in the “Sense-Think-Act” process. The process serves as a guide for them to use technology safely and meaningfully for their learning and interactions.
+
+To support you in keeping your child safe online, you may refer to these resources:
+
+*   [gov.sg/moe-cyber-wellness](http://gov.sg/moe-cyber-wellness)
+*   [https://beta.moe.gov.sg/programmes/cyber-wellness/](https://beta.moe.gov.sg/programmes/cyber-wellness/)
+*   [gov.sg/better-internet-sg](http://gov.sg/better-internet-sg)
+*   [nlb.gov.sg/](http://nlb.gov.sg/)
+*   [help123.sg](http://help123.sg/)
