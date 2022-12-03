@@ -2,8 +2,8 @@ collections:
   quick-links:
     output: true
     order:
-      - Instagram.md
-      - Facebook.md
       - Student Initiated Project Making Hand Sanitiser.md
       - For Students.md
+      - Facebook.md
+      - Instagram.md
       - Contact Us.md
