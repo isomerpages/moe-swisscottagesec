@@ -14,3 +14,6 @@ description: ""
 
 **CCAs offered by Swiss Cottage**
 
+|   Sports / Games   |      Uniformed Groups          |                 Performing Arts      |   Clubs & Societies        |
+|:------------------:|:----------:|:---------:|:---------------------------------:|
+| Badminton (Girls)<br>Basketball<br>Floorball<br>Soccer (Boys)<br>Tenpin Bowling (Boys) | Boys’ Brigade<br>NCC (Air)<br>NCDCC<br>NPCC (Boys)<br>Scouts | Chinese Orchestra<br>Show Choir<br>Malay Dance<br>Chinese Dance<br>Drama<br>NCC Command Band | Publications and Media Club<br>Science & Technology |
