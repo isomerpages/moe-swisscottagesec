@@ -13,8 +13,11 @@ third_nav_title: Student Development Programme
 <p style="text-align: justify;">Centre crews, with the guidance of the teachers and youth worker, will learn planning and facilitation of the Centre programmes for the school’s population. Currently, we have a crew strength of about 20 who help to run the centre, with the teachers and Youth Workers. The programme we have organised include Pool Competition, Foosball Competition and Graffiti Workshops.</p>
 
 |                             |                                     |
-|:-----------------:|:-----------------------:|
+|-----------------|-----------------------|
 | #<br>Ascent<br><br>         | #<br>Bonding Time<br><br>           |
 | #<br>Coffee Corner<br><br>  | #<br>Crew Debrief Session<br><br>   |
+
+|                             |                                     |
+|:-----------------:|:-----------------------:|
 |   #<br>Outdoor Programme 1  | #<br>Professional Standard<br><br>  |
 |         #<br>Absail         | #<br>Ready to serve                 |
