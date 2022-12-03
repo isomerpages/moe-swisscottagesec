@@ -21,9 +21,9 @@ To achieve the outcome of Thoughtful Leadership in all students, we developed a 
 
 **A ‘Total Curriculum’ to deliver Thoughtful Leadership**
 
-The journey begins with character. As Thoughtful Leaders, our students are guided by values in their decision-making.  They take reference from the school values of Honour and Humility as well as the national core values of Respect, Responsibility, Resilience, Integrity, Care and Harmony.
+<p style="text-align: justify;">The journey begins with character. As Thoughtful Leaders, our students are guided by values in their decision-making.  They take reference from the school values of Honour and Humility as well as the national core values of Respect, Responsibility, Resilience, Integrity, Care and Harmony.</p>
 
-To successfully access their values to make responsible decisions, our Thoughtful Leaders are equipped with the enabling social-emotional competencies and 21st century competencies to help them become work and world ready.
+<p style="text-align: justify;">To successfully access their values to make responsible decisions, our Thoughtful Leaders are equipped with the enabling social-emotional competencies and 21st century competencies to help them become work and world ready.</p>
 
 ![](/images/Swiss%20Experience/Total%20Curriculum/Mini-Website-Update2.png)
 
