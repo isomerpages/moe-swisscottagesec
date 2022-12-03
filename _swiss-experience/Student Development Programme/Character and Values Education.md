@@ -10,7 +10,7 @@ At Swiss, students learn **Values and Related Competencies**  that will help t
 
 CCE is a platform which we inculcate core values which guide individual’s behaviour. In the weekly lessons, students will be taught explicitly on
 
-School Values
+<u>School Values</u>
 
 *   Honour
 *   Humility
