@@ -35,3 +35,9 @@ For Swiss Cottage, each PLD bundle consists of:
 1\) Apple iPad 10.2″ 9th Generation (2021) 64 GB Wifi  
 2\) Logitech Rugged Combo 3 (smart keyboard with casing)  
 3\) Apple Pencil 1
+
+<b><u>Digital Citizenship and Cyber Wellness (CW)</u></b>
+
+<p style="text-align: justify;">As the students develop the digital skills that support their learning, it is also imperative that they are empowered to take responsibility for their personal well-being when using technology.</p>
+
+![](/images/Swiss%20Experience/MOE-Cyber-Wellness-Framework.png)
