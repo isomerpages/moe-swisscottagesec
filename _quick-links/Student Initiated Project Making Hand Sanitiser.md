@@ -49,3 +49,7 @@ Allergy patch test procedure:
 <span style = "color: #e31414"> <b><u>Usage</u></b> </span> 
 
 Spray a small amount of hand sanitiser on hands. Rub hands together until dry.
+
+|   |
+|---|
+|  <center><span style = "color: #e31414"> <b><u>IMPORTANT ADVISORY!</u></b> </span></center> Keeping hands clean by washing hands with soap and clean water is one of the most important steps we can take to avoid getting sick and spreading any virus to others. Hand sanitiser should only be used when you do not have access to soap and clean water. <br><br>Tips on hand washing:<br><br> • Wet hands first with clean water, then apply a sufficient amount of soap and lather well. <br><br>• Scrub hands for at least 20 seconds. Remember to scrub all surfaces. |
