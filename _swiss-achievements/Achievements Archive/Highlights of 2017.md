@@ -29,6 +29,12 @@ third_nav_title: Achievements Archive
 
 <b><u>On the Clubs & Societies Front</u></b>
 
+|                           |                                               |
+|----------------------|------------------------------|
+| Publications & Media Club | Media Challenge 2017 – *Second Runners up*<br><br>Singapore Digital Media Awards 2017 – *Finalist*<br><br>Curated a National Photography Exhibition, “Perspective”                           |
+| Swiss Naturalists         | School Green Awards – Singapore Environment Council – *Lotus Award*<br><br>National Environment Quiz 2017 – *Overall Champion (Individual Category)*                                     |
+| Science & Technology      | First Lego League – *Second-Runner Up*<br><br>Nanyang Polytechnic Challenge 2017 – *Second-Runner Up*<br>Robocup Singapore Open 2017 – *Second-Runner Up (Rescue Line Secondary Category)* |
+
 <b><u>On the Performing Arts Front</u></b>
 
 <b><u>On the Uniform Group Front</u></b>
