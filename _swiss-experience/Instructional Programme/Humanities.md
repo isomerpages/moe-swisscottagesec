@@ -49,19 +49,20 @@ Swiss Cottage offers the following Humanities subjects:
 | Ms Lee Si Wei               | (CAJT) History / Social Studies    |
 | Mdm Lee Su Fern             | (FAJT) Geography / Social Studies  |
 
-**The Study of History**
+<b><u>The Study of History</u></b>
 
 How important and relevant is the study of this subject in this modern age? With increasing desire of our country people to seek out the meaning of our existence after SG50, this subject offers our students the environment to study how historical forces, events and personalities have shaped and formed the world we live in today. This in turn develop in them a sense of empathy, awareness and sensitivity to the diverse historical experiences that we may have. In the process, the students will also develop the ability to think, reason and write critically.
 
 Swiss Cottage students learn History through a highly experiential curriculum. Our customised inquiry process brings them through a journey into the spice trade and how uniquely spices have bine our people in the country together. This culminates in an understanding of the uniqueness of an aspect of our Singapore food culture. This knowledge helps to be the springboard for deeper conceptual learning of racial identity as well as citizenry at the higher levels.
 
-**The Study of Geography**
+<b><u>The Study of Geography</u></b>
+
 
 Our lives and experiences can be shaped by forces of nature and human actions. As a subject, students can see that the study of Geography helps them to relate to their own experiences and existence in a relevant and practical way.  Students are brought through a variety of topics such as global warming, the impact of the haze as well as health and diseases. These topics help them to see how their lives can be impacted through these new global developments and how they can contribute towards bettering the world they live in.
 
 In Swiss Cottage, we believe in customising our curriculum for a unique learning experience for our students. We have designed unique Geography Inquiry packages from the study of architectural preservation in Tiong Bahru precinct to coastal study in Sedili, Johor. Being highly experiential, the study of this subject allows our students to acquire important life-skills such as map-reading, research as well as fieldwork skills.  
 
-**The Study of Humanities (Social Studies + Elective Subject)**
+<b><u>The Study of Humanities (Social Studies + Elective Subject)</u></b>
 
 Combined Humanities is a compulsory subject offered in the GCE ‘O’ level Examination and it is offered at the upper secondary level only.
 
