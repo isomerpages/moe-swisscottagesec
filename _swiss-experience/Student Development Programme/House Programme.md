@@ -21,7 +21,6 @@ Key events for the year include:
 
 |                                 |                             |
 |:------------:|:----------------:|
-|                                 |                             |
 | ![](/images/Swiss%20Experience/House%20Programme/Champions-300x200.jpg)<br><br>Champion House         |  ![](/images/Swiss%20Experience/House%20Programme/Flags-300x199.jpg)<br><br>House Color Flags |
 |  ![](/images/Swiss%20Experience/House%20Programme/House-Meeting-300x200.jpg)<br><br>House Meeting         |  ![](/images/Swiss%20Experience/House%20Programme/Swiss-Olympics-300x199.jpg)<br><br>Swiss Olympics    |
 |  ![](/images/Swiss%20Experience/House%20Programme/Cheer-and-Dance-300x200.jpg)<br><br>House Cheer and Dance |                             |
