@@ -10,7 +10,7 @@ third_nav_title: Distinctive Programmes
 
 **THE CONCEPT: SUSTAINABLE DEVELOPMENT**
 
-The [United Nations](http://en.wikipedia.org/wiki/United_Nations) [World Commission on Environment and Development](http://en.wikipedia.org/wiki/World_Commission_on_Environment_and_Development) released the report ‘[Our Common Future](http://en.wikipedia.org/wiki/Our_Common_Future)’ in 1987. The report included what is now one of the most widely recognised definitions: “Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs.” Sustainable development is a discipline that combines many fields in order to solve problems faced by mankind. It takes into account economic, environmental and social factors (3 pillars) in coming out with a solution.
+<p style="text-align: justify;">The <a href="http://en.wikipedia.org/wiki/United_Nations">United Nations</a> <a href="http://en.wikipedia.org/wiki/World_Commission_on_Environment_and_Development">World Commission on Environment and Development</a> released the report ‘<a href="http://en.wikipedia.org/wiki/Our_Common_Future">Our Common Future</a>’ in 1987. The report included what is now one of the most widely recognised definitions: “Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs.” Sustainable development is a discipline that combines many fields in order to solve problems faced by mankind. It takes into account economic, environmental and social factors (3 pillars) in coming out with a solution.</p>
 
 <figure>
 	<img src="/images/Swiss%20Experience/Distinctive%20Programmes/ALP_Figure1.jpg"
@@ -20,11 +20,11 @@ The [United Nations](http://en.wikipedia.org/wiki/United_Nations) [World Commi
 	</figcaption>
 </figure>
 
-Our Swiss Applied Learning Programme (ALP) will specifically look at how applied sciences support innovations for sustainable development.
+<p style="text-align: justify;">Our Swiss Applied Learning Programme (ALP) will specifically look at how applied sciences support innovations for sustainable development.</p>
 
 **BELIEF**
 
-Educating our youths about sustainable development and how they contribute to its achievement helps ensure our future.
+<p style="text-align: justify;">Educating our youths about sustainable development and how they contribute to its achievement helps ensure our future.</p>
 
 **APPROACH**
 
