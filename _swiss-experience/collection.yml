@@ -2,8 +2,6 @@ collections:
   swiss-experience:
     output: true
     order:
-      - Talent Development/Talent Development and Enrichment Programme.md
-      - Talent Development/.keep
       - Total Curriculum.md
       - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme.md
@@ -32,5 +30,7 @@ collections:
       - Distinctive Programmes/Thoughtful Leadership Programme.md
       - Distinctive Programmes/Applied Sciences for Sustainable Development.md
       - Distinctive Programmes/Enhanced Citizenship Education.md
+      - Talent Development/.keep
+      - Talent Development/Talent Development and Enrichment Programme.md
       - Blended Learning.md
       - 2022 Sec 2 Subject Combination.md
