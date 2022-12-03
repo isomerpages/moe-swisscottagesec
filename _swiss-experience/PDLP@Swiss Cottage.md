@@ -22,3 +22,16 @@ b.  **Designing learning experiences that are focused on enabling students to pa
         
 
 <b><u>PACKAGE Framework</u></b>
+
+![](/images/Swiss%20Experience/Package-Framework.png)
+
+<b><u>Personal Learning Device (PLD)</u></b>
+
+Swiss Students will be using the Apple iPad as their personal learning device. Every iPad will come bundled with the Apple Pencil and casing with smart keyboard to maximise the affordances of the iPad as a learning tool.
+
+Not only is the iPad a portable device that offers students the convenience of learning on-the-move, it also allows for a seamless learning experience alongside existing learning technologies such as the Student Learning Space (SLS) as well as other educational technology to personalise and enhance students’ learning. In addition to apps within Apple’s eco-system, students will also gain access toa wide range of software from other developers (e.g. Google Suite and Microsoft Office etc), making it the device of choice in developing students’ application and creative skills.
+
+For Swiss Cottage, each PLD bundle consists of:  
+1) Apple iPad 10.2″ 9th Generation (2021) 64 GB Wifi  
+2) Logitech Rugged Combo 3 (smart keyboard with casing)  
+3) Apple Pencil 1
