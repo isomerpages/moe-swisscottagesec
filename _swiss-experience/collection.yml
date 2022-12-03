@@ -2,9 +2,9 @@ collections:
   swiss-experience:
     output: true
     order:
-      - Distinctive Programmes/Thoughtful Leadership Programme.md
-      - Distinctive Programmes/Distinctive Programmes.md
       - Distinctive Programmes/.keep
+      - Distinctive Programmes/Distinctive Programmes.md
+      - Distinctive Programmes/Thoughtful Leadership Programme.md
       - Total Curriculum.md
       - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme.md
