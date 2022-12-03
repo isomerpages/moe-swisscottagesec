@@ -1,4 +1,5 @@
 collections:
   quick-links:
     output: true
-    order: []
+    order:
+      - Student Initiated Project Making Hand Sanitiser.md
