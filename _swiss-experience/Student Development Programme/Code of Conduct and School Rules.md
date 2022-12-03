@@ -157,7 +157,7 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 *   Move quietly when moving to the next venue during curriculum time.
 *   Do not loiter along corridors at any time, including the breaks.
 
-9.  **Others**
+9\.  **Others**
 
 *   You are not allowed to have in possession any weapon. You are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
 
@@ -316,13 +316,7 @@ There are two categories of offences: Minor and Major.
 </tr>
 <tr>
 	<td></td>
-<td width="293">Others
-<p>&middot; Illegal entry into school premises</p>
-<p>&middot; Public display of affection</p>
-<p>&middot; Threat</p>
-<p>&middot; Extortion</p>
-<p>&middot; Abuse of technology</p>
-<p>&middot; Possession and/or distribution of prohibited items</p>
+<td width="293">Others<br><br>&middot; Illegal entry into school premises<br><br>&middot; Public display of affection<br><br>&middot; Threat<br><br>&middot; Extortion<<br><br>&middot; Abuse of technology<br><br>&middot; Possession and/or distribution of prohibited items
 </td>
 </tr>
 <tr>
