@@ -16,30 +16,22 @@ third_nav_title: Instructional Programme
 
 English Language  
 Mother Tongue (Chinese/ Malay/ Tamil) Languages  
-Higher Mother Tongue (Chinese/ Malay/ Tamil) Languages
-
-Music\*\*
-
-Character and Citizenship Education\*\*
-
-NTIL Languages – Hindi, Punjabi\*, Bengali\*
-
+Higher Mother Tongue (Chinese/ Malay/ Tamil) Languages   
+Music\*\*   
+Character and Citizenship Education\*\*   
+NTIL Languages – Hindi, Punjabi\*, Bengali\*   
 3rd Languages\*  
-Geography
-
+Geography   
 History  
-Literature
-
+Literature   
 \*Music Elective Programme  
 Mathematics  
 Design and Technology\*\*  
 Food and Consumer Education\*\*  
 Art\*\*  
 Glocal Perspectives\*\*  
-Physical Education\*\*
-
-\*denotes subjects offered at venues outside the school
-
+Physical Education\*\*   
+\*denotes subjects offered at venues outside the school   
 \*\*denotes subjects offered at the same standard to the entire level
 
 #### G1
@@ -50,17 +42,12 @@ Science
 Computer Applications  
 Design & Technology\*\*  
 Food and Consumer Education\*\*  
-Art\*\*
-
+Art\*\*   
 Social Studies  
-Physical Education\*\*
-
-Glocal Perspectives\*\*
-
-Character and Citizenship Education\*\*
-
-Music\*\*
-
+Physical Education\*\*   
+Glocal Perspectives\*\*   
+Character and Citizenship Education\*\*   
+Music\*\*   
 \*\*denotes subjects offered at the same standard to the entire level
 
 ### Subjects offered at Upper Secondary 2021:
@@ -69,42 +56,30 @@ Music\*\*
 
 English Language  
 Mother Tongue (Chinese/ Malay/ Tamil) Languages  
-Higher Mother Tongue (Chinese/ Malay/ Tamil) Languages
-
-Geography
-
+Higher Mother Tongue (Chinese/ Malay/ Tamil) Languages   
+Geography   
 History  
-Literature
-
-Combined Humanities (Social Studies & Elective Geography/History/Literature/Malay Literature)
-
-Principles of Accounts
-
+Literature   
+Combined Humanities (Social Studies & Elective Geography/History/Literature/Malay Literature)   
+Principles of Accounts   
 Mathematics  
 Additional Mathematics  
 Biology  
 Chemistry  
 Physics  
-Art
-
-Higher Art
-
-Food and Nutrition
-
+Art   
+Higher Art   
+Food and Nutrition  
 Physical Education
 
 #### Normal (Academic)
 
 English Language  
-Mother Tongue (Chinese/ Malay/ Tamil) Languages
-
-Malay Literature
-
+Mother Tongue (Chinese/ Malay/ Tamil) Languages   
+Malay Literature  
 Principles of Accounts  
-Combined Humanities (Social Studies & Elective Geography/History/Literature)
-
-Mathematics
-
+Combined Humanities (Social Studies & Elective Geography/History/Literature)   
+Mathematics   
 Additional Mathematics  
 Combined Science (Physics, Chemistry)  
 Combined Science (Chemistry, Biology)  
@@ -116,16 +91,13 @@ Physical Education
 #### Normal (Technical)
 
 English Language  
-Basic Mother Tongue (Chinese/ Malay/ Tamil) Languages
-
+Basic Mother Tongue (Chinese/ Malay/ Tamil) Languages   
 Social Studies  
 Mathematics  
 Science  
 Computer Applications  
 Design & Technology  
-Art
-
-Food Studies
-
+Art   
+Food Studies   
 Smart Electrical Technology  
 Physical Education
