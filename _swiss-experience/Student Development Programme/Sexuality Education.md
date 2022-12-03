@@ -317,8 +317,12 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
  **Information for Parents**
 
-10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
-11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form downloadable [**here**.](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/01/Sexuality-Education-Programme_Annex-A_2022.pdf) The completed form is to be submitted by 14/02/2022 to your child/ward’s Form Teacher.
-12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form  downloadable [**here**.](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/01/Sexuality-Education-Programme_Annex-B_eTeens-3_2022.pdf) The completed form is to be submitted by 14/02/2022.
-13.  Parents can contact the school at [scss@moe.edu.sg](mailto:scss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
-14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+10\.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11\.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form downloadable [**here**.](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/01/Sexuality-Education-Programme_Annex-A_2022.pdf) The completed form is to be submitted by 14/02/2022 to your child/ward’s Form Teacher.
+
+12\.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form  downloadable [**here**.](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/01/Sexuality-Education-Programme_Annex-B_eTeens-3_2022.pdf) The completed form is to be submitted by 14/02/2022.
+
+13\.  Parents can contact the school at [scss@moe.edu.sg](mailto:scss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+14\.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
