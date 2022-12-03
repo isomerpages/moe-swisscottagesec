@@ -2,5 +2,5 @@ collections:
   quick-links:
     output: true
     order:
-      - For Students.md
       - Student Initiated Project Making Hand Sanitiser.md
+      - For Students.md
