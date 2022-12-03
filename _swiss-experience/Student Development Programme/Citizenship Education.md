@@ -22,39 +22,40 @@ The platforms with which we achieve our goals are:
 5\.  Special morning assembly presentation  
 6\.  Training of Citizenship Ambassadors
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/Presentation-by-S2-on-ethnic-constume.jpg)
+
+![](/images/Swiss%20Experience/Citizenship%20Education/Presentation-by-S2-on-ethnic-constume.jpg)
+
 
 Presentation by S2 on ethnic costume
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/Receiving-NRIC-on-National-Day-.jpg)
+![](/images/Swiss%20Experience/Citizenship%20Education/Receiving-NRIC-on-National-Day-.jpg)
 
 Receiving NRIC on National Day!
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/S1_Wedding-Enclave.jpg)
+![](/images/Swiss%20Experience/Citizenship%20Education/S1_Wedding-Enclave.jpg)
 
 S1\_Wedding Enclave
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/S3-Conversation-on-How-does-casual-racism-impact-us.jpg)
+![](/images/Swiss%20Experience/Citizenship%20Education/S3-Conversation-on-How-does-casual-racism-impact-us.jpg)
 
 S3 Conversation on How does casual racism impact us
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/School-Celebration-with-the-symbolic-tattoo.jpg)
+![](/images/Swiss%20Experience/Citizenship%20Education/School-Celebration-with-the-symbolic-tattoo.jpg)
 
 School celebration with the symbolic tattoo
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/Special-Costume-for-Special-Occasion-scaled.jpg)
+![](/images/Swiss%20Experience/Citizenship%20Education/Special-Costume-for-Special-Occasion-scaled.jpg)
 
 Special Costume for Special Occasion
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/Thematic-Drawing-for-RHD-2021-scaled.jpg)
+![](/images/Swiss%20Experience/Citizenship%20Education/Thematic-Drawing-for-RHD-2021-scaled.jpg)
 
 Thematic Drawing for RHD 2021
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/Together-we-achieve.jpg)
+![](/images/Swiss%20Experience/Citizenship%20Education/Together-we-achieve.jpg)
 
 Together we achieve
 
-![](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/We-love-Singapore.jpg)
+![](/images/Swiss%20Experience/Citizenship%20Education/We-love-Singapore.jpg)
 
 We love Singapore!
-
