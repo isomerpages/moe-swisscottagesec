@@ -48,4 +48,14 @@ third_nav_title: Achievements Archive
 
 <b><u>On the Uniform Group Front</u></b>
 
+
+|                             |                                    |
+|------------------|-----------------------|
+| The Boy’s Brigade           | JM Fraser Award – *Gold Award*                       |
+| Girl Guides                 | Puan Noor Aishah Award – *Gold Award*                |
+| National Cadet Corps (Air)  | Best Unit Competition 2016 – *Gold Award*            |
+| National Police Cadet Corps | Unit Overall Proficiency Award (UOPA) – *Gold Award* |
+| Scouts                      | Frank Coopers Sand Award 2016 – *Gold Award*         |
+| St John Brigade             | Corps Achievement Award – *Gold Award*               |
+
 <b><u>On the Sports Front</u></b>
