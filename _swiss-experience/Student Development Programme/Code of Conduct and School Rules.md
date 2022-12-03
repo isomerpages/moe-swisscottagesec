@@ -56,3 +56,37 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 **The Swiss Code of Conduct is guided by two principles:**
 
 **(1) School Pride and (2) Self-Discipline**
+
+
+
+
+
+**All students are required to abide by the following expected behaviour.**
+
+1\.  **Social Etiquette**
+
+*   Greet all members of staff, both teaching and non-teaching staff.
+*   Speak politely and with respect to your teachers and fellow schoolmates.
+*   Keep your classes, toilets and the school premises clean and free of litter at all times.
+*   Do not vandalise school or any public property.
+*   Do not leave your books, files and other belongings unattended on the school premises.
+*   Return found items that do not belong to you to the General Office.
+*   Observe proper social etiquette and conduct yourself well in public.
+
+2\.  **National Anthem and Pledge**
+
+*   Students who are Singapore citizens must sing the National Anthem and take the pledge. Students will take the pledge with the right fist placed over the heart.
+*   Students who are non-Singapore citizens are to stand at attention as a mark of respect.
+
+3\.  **Canteen Etiquette**
+
+*   Consume food and drinks in the canteen only.
+*   Return your used plates and utensils to the respective receptacles.
+*   Clear all used disposable cups and other items from the tables and throw them into the dustbins provided.
+*   Do not enter the premises of the vendors to help them to sell food or drinks.
+
+4\.  **School Attire**
+
+*   Students are to wear the prescribed school uniform. Modification to the uniform is not allowed.
+*   Purchase uniforms from the authorised supplier. They can be purchased from the bookshop vendor during school term.
+
