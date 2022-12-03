@@ -13,11 +13,11 @@ _“In an increasingly dynamic marketplace, new learning is a prerequisite for e
 
 Cathy A. Higgins and David J. Kreischer in _The Case for Thoughtful Leadership._
 
-In our school, we nurture Thoughtful leaders to lead by being reflective, caring and engaged in being an active contributor. Hence, our students are encouraged to process problems reflectively and work towards solutions, primarily by demonstrating care for the human condition – in various aspects of school life.
+<p style="text-align: justify;">In our school, we nurture Thoughtful leaders to lead by being reflective, caring and engaged in being an active contributor. Hence, our students are encouraged to process problems reflectively and work towards solutions, primarily by demonstrating care for the human condition – in various aspects of school life.</p>
 
 ![](/images/Swiss%20Experience/Total%20Curriculum/Mini-Website-Update1.jpg)
 
-To achieve the outcome of Thoughtful Leadership in all students, we developed a Future Ready Total Curriculum (FRTC) approach to designing holistic and authentic learning experiences that continue to inspire a love to learn for its own sake and for the world. The FRTC is values-centric, complementing values with the necessary knowledge, skills and dispositions to equip and guide students on a continual journey of **Thoughtful Leadership** – even after they leave our school. 
+<p style="text-align: justify;">To achieve the outcome of Thoughtful Leadership in all students, we developed a Future Ready Total Curriculum (FRTC) approach to designing holistic and authentic learning experiences that continue to inspire a love to learn for its own sake and for the world. The FRTC is values-centric, complementing values with the necessary knowledge, skills and dispositions to equip and guide students on a continual journey of <b>Thoughtful Leadership</b> – even after they leave our school. </p>
 
 **A ‘Total Curriculum’ to deliver Thoughtful Leadership**
 
