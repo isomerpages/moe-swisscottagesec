@@ -3,6 +3,7 @@ title: 2022 Sec 2 Subject Combination
 permalink: /swiss-experience/2022-sec-2-subject-combination/
 description: ""
 ---
+# upload videos to youtube
 # 2022 Sec 2 Subject Combination
 
 <p style="text-align: justify;">The subject combination exercise done at the end of Secondary 2 is an important exercise that aims to provide our students with interesting and relevant subject options of study at the upper secondary level for future academic progression and careers.</p>
