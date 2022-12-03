@@ -2,7 +2,6 @@ collections:
   swiss-experience:
     output: true
     order:
-      - Blended Learning.md
       - Total Curriculum.md
       - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme.md
@@ -15,4 +14,5 @@ collections:
       - Instructional Programme/Craft and Technology.md
       - Instructional Programme/Physical Education.md
       - Instructional Programme/Technology for Learning (TfL).md
+      - Blended Learning.md
       - 2022 Sec 2 Subject Combination.md
