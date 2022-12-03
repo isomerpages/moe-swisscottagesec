@@ -2,5 +2,6 @@ collections:
   swiss-experience:
     output: true
     order:
+      - Instructional Programme/Instructional Programme.md
       - Instructional Programme/.keep
       - Total Curriculum.md
