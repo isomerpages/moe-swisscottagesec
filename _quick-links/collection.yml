@@ -2,9 +2,9 @@ collections:
   quick-links:
     output: true
     order:
-      - Calendar.md
       - Student Initiated Project Making Hand Sanitiser.md
       - For Students.md
+      - Calendar.md
       - Facebook.md
       - Instagram.md
       - Contact Us.md
