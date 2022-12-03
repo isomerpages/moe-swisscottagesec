@@ -233,6 +233,115 @@ Relevant school personnel (School Leaders, Year Head/Year Master and Level Disci
 
 There are two categories of offences: Minor and Major.
 
+<table border="7" width="595">
+<tbody>
+<tr>
+<td width="104"><strong>Offence Type</strong></td>
+<td width="198"><strong>Minor Offence</strong></td>
+<td width="293"><strong>Major Offence</strong></td>
+</tr>
+<tr>
+<td rowspan="2" width="104"><strong>Attendance</strong></td>
+<td width="198">Latecoming</td>
+<td width="293">Leaving School Grounds Without Permission</td>
+</tr>
+<tr>
+<td width="198">Skipping Classes</td>
+<td width="293">Truancy</td>
+</tr>
+<tr>
+<td rowspan="5" width="104"><strong>Misconduct</strong></td>
+<td width="198">Improper Attire &amp; Grooming</td>
+<td width="293">Bullying</td>
+</tr>
+<tr>
+<td width="198">Littering</td>
+<td width="293">Cheating In Assessments/Tests/Exams</td>
+</tr>
+<tr>
+<td width="198">Not Doing Assignments</td>
+<td width="293">Disruptive Behaviour</td>
+</tr>
+<tr>
+<td width="198">Using Vulgar Language</td>
+<td width="293">Defiance</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Forgery</td>
+</tr>
+<tr>
+<td rowspan="12" width="104"><strong>Other Serious Offences</strong></td>
+	<td></td>
+<td width="293">Alcohol Abuse</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Assault</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Drug Abuse</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Fighting</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Gambling</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Gangsterism</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Inhalant Abuse</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Pornography</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Possession Of Weapons/ Weapon-like object</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Sexual Misconduct</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Smoking</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Others
+<p>&middot; Illegal entry into school premises</p>
+<p>&middot; Public display of affection</p>
+<p>&middot; Threat</p>
+<p>&middot; Extortion</p>
+<p>&middot; Abuse of technology</p>
+<p>&middot; Possession and/or distribution of prohibited items</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" width="104"><strong>Theft/Damage Of Property</strong></td>
+	<td></td>
+<td width="293">Arson</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Theft</td>
+</tr>
+<tr>
+	<td></td>
+<td width="293">Vandalism</td>
+</tr>
+</tbody>
+</table>
+
 _Note that this list of offences is non-exhaustive._   
 For major offences, the student may be dealt with by the law of Singapore.
 
