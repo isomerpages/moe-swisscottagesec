@@ -44,7 +44,7 @@ Do explore the if you child is looking at entering a polytechnic after Secondary
 
 Information for students upon release of N level results or O level results.
 
-6\. [SchoolFinder | MOE](https://www.moe.gov.sg/schoolfinder/?journey=Post%20secondary-JC%20school)
+6\.  [SchoolFinder \| MOE](https://www.moe.gov.sg/schoolfinder/?journey=Post%20secondary-JC%20school)
 
 One stop service to find out more about Post-Secondary Education Pathways and search for institutions cater to your child’s interest and passion. 
 
@@ -52,6 +52,6 @@ One stop service to find out more about Post-Secondary Education Pathways and se
 
 Find out how the aptitude-based admissions exercise that allows students to apply for and receive conditional offers for admission to Polytechnic / Junior College prior to receiving their final grades.
 
-8\. [Admissions to ITE Full-Time Courses | Institute of Technical Education](https://www.ite.edu.sg/admissions/full-time-courses)
+8\. [Admissions to ITE Full-Time Courses \| Institute of Technical Education](https://www.ite.edu.sg/admissions/full-time-courses)
 
 Information of different courses available for N / O level students
