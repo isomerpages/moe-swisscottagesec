@@ -28,9 +28,9 @@ Educating our youths about sustainable development and how they contribute to it
 
 **APPROACH**
 
-The Swiss ALP provides students with opportunities to be exposed to different areas of Sciences. It will integrate classroom learning with real-life applications and encourage students to explore how innovations in science and technology can contribute to sustainable development for mankind.
+<p style="text-align: justify;">The Swiss ALP provides students with opportunities to be exposed to different areas of Sciences. It will integrate classroom learning with real-life applications and encourage students to explore how innovations in science and technology can contribute to sustainable development for mankind.</p>
 
-The design of the programme adopts the 3A (Awareness, Action, Advocacy) approach where each stage provides students with increasing depth of thinking and understanding. Students will first learn about sustainable developments through lesson and activities and apply it through the enrichment and specialisation programmes. Students who have been through the programme will eventually be advocates for sustainable development in the later stages. An illustration of the 3A approach is shown below.
+<p style="text-align: justify;">The design of the programme adopts the 3A (Awareness, Action, Advocacy) approach where each stage provides students with increasing depth of thinking and understanding. Students will first learn about sustainable developments through lesson and activities and apply it through the enrichment and specialisation programmes. Students who have been through the programme will eventually be advocates for sustainable development in the later stages. An illustration of the 3A approach is shown below.</p>
 
 ![](/images/Swiss%20Experience/Distinctive%20Programmes/ALP_Figure2.jpg)
 
