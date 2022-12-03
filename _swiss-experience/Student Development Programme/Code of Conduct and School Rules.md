@@ -12,21 +12,21 @@ third_nav_title: Student Development Programme
 
 As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 
-**R****espect & Responsibility**
+**Respect & Responsibility**
 
 *   Respect myself and all those working in the school.
 *   Respect the right of my fellow schoolmates to learn and the right of teachers to teach.
 *   Respect our school property and the property of others.
 *   Be responsible for all that we do and say.
 
-**U****niform and Appearance**
+**Uniform and Appearance**
 
 *   Wear my uniform as prescribed by the school and not modify the uniform.
 *   Wear appropriate attire for all functions and events.
 *   Wear appropriate attire for special classes (e.g., Physical Education and Food & Consumer Education).
 *   Keep a neat and tidy hairstyle.
 
-**L****earning**
+**Learning**
 
 *   Work to the best of my ability in our academic endeavours and co-curricular activities.
 *   Attend all classes with the appropriate learning materials and be prepared for my lessons.
@@ -34,7 +34,7 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 *   Follow classroom and school rules.
 *   Be _Ready to Learn_, which means that in between lessons, I will help to tidy my classroom, take out relevant learning materials and get mentally prepared for the next lesson.
 
-**E****nvironment**
+**Environment**
 
 *   Take good care of my classroom, school grounds and property.
 *   Conserve electricity when possible, such as by switching off fans and lights when not in use.
@@ -43,7 +43,7 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 *   Not litter all the time.
 *   Be considerate to my schoolmates who are still having lessons.
 
-**S****afety & Security**
+**Safety & Security**
 
 *   Act in a safe and responsible manner in school.
 *   Act in a safe manner while travelling to and from school and during excursions.
