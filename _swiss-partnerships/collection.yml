@@ -2,7 +2,7 @@ collections:
   swiss-partnerships:
     output: true
     order:
-      - Parents Support Group (PSG).md
       - Alumni/.keep
       - Alumni/Alumni.md
       - Alumni/Registration & Contribution.md
+      - Parents Support Group (PSG).md
