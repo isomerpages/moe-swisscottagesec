@@ -44,3 +44,266 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education)
 <b>At SWISS COTTAGE SECONDARY SCHOOL, the following Sexuality Education lessons will be taught in <u>2022</u>:</b>
 
 **Secondary 1**
+
+<div>
+<table border="7" width="931">
+<thead>
+<tr>
+<td width="112"><strong>UNIT</strong></td>
+<td width="170"><strong>LESSONS / DURATION</strong></td>
+<td width="483"><strong>Lesson Objectives</strong>
+<p><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td width="165"><strong>TIME PERIOD</strong>
+<p><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" width="112">Respectful Relationships &amp; Safety</td>
+<td width="170">1
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
+<li>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li>
+<li>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li>
+<li>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li>
+</ul>
+</td>
+<td width="165">Term 2 Week 8</td>
+</tr>
+<tr>
+<td width="170">2
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person&rsquo;s self-concept</li>
+</ul>
+</td>
+<td width="165">Term 2 Week 10</td>
+</tr>
+<tr>
+<td width="170">3
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
+<li>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
+</ul>
+</td>
+<td width="165">Term 4 Week 2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Secondary 2</strong></p>
+<div>
+<table border="7" width="928">
+<thead>
+<tr>
+<td><strong>UNIT</strong></td>
+<td><strong>LESSONS / DURATION</strong></td>
+<td><strong>Lesson Objectives</strong>
+<p><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td><strong>TIME PERIOD</strong>
+<p><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">Respectful Relationships &amp; Safety</td>
+<td>1
+<p>(60 mins)</p>
+</td>
+<td>&middot; Know that one&rsquo;s understanding of gender roles should not be limited by gender stereotypes&middot; Develop an appreciation of one&rsquo;s own unique qualities and characteristics as a male or female
+<p>&middot; Understand what sexual orientation entails</p>
+</td>
+<td>Term 3 Week 8</td>
+</tr>
+<tr>
+<td>2A
+<p>(60 mins)</p>
+</td>
+<td>&middot; Recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+<td>Term 3 Week 9</td>
+</tr>
+<tr>
+<td>2B
+<p>(60 mins)</p>
+</td>
+<td>&middot; Recognise the importance of self-respect and respect for others in relating to members of the opposite gender
+<p>&middot; Recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</p>
+</td>
+<td>Term 4 Week 1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Secondary 3</strong></p>
+<div>
+<table border="7" width="925">
+<thead>
+<tr>
+<td width="112"><strong>UNIT</strong></td>
+<td width="170"><strong>LESSONS / DURATION</strong></td>
+<td width="483"><strong>Lesson Objectives</strong>
+<p><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td width="160"><strong>TIME PERIOD</strong>
+<p><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" width="112">Respectful Relationships &amp; Safety</td>
+<td width="170">1A
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.</li>
+<li>Understand that expectations of oneself and others may differ and can affect one&rsquo;s emotions, thoughts and behaviours.</li>
+<li>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</li>
+</ul>
+</td>
+<td width="160">Term 2 Week 7</td>
+</tr>
+<tr>
+<td width="170">1B<br />(60 mins)</td>
+<td width="483">
+<ul>
+<li>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.</li>
+<li>Know that a decision to end a relationship will have consequences on oneself and others.</li>
+<li>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.</li>
+<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</li>
+</ul>
+</td>
+<td width="160">Term 4 Week 1</td>
+</tr>
+<tr>
+<td width="170">2<br />(60 mins)</td>
+<td width="483">
+<ul>
+<li>Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.</li>
+<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
+</ul>
+</td>
+<td width="160">Term 4 Week 2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Secondary 4</strong></p>
+<div>
+<table border="7" width="928">
+<thead>
+<tr>
+<td width="112"><strong>UNIT</strong></td>
+<td width="170"><strong>LESSONS / DURATION</strong></td>
+<td width="483"><strong>Lesson Objectives</strong>
+<p><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td width="163"><strong>TIME PERIOD</strong>
+<p><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4" width="112">Respectful Relationships &amp; Safety</td>
+<td width="170">1<br />(60 mins)</td>
+<td width="483">
+<ul>
+<li>Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity.</li>
+<li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li>
+<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+</ul>
+</td>
+<td width="163">Term 1 Week 9</td>
+</tr>
+<tr>
+<td width="170">2<br />(60 mins)</td>
+<td width="483">
+<ul>
+<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</li>
+<li>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.</li>
+<li>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.</li>
+<li>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</li>
+</ul>
+</td>
+<td width="163">Term 2 Week 1</td>
+</tr>
+<tr>
+<td width="170">3<br />(60 mins)</td>
+<td width="483">
+<ul>
+<li>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.</li>
+<li>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.</li>
+<li>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</li>
+</ul>
+</td>
+<td width="163">Term 2 Week 2</td>
+</tr>
+<tr>
+<td width="170">4<br />(60 mins)</td>
+<td width="483">
+<ul>
+<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
+</ul>
+</td>
+<td width="163">Term 3 Week 6</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Secondary 5</strong></p>
+<div>
+<table border="7" width="925">
+<thead>
+<tr>
+<td width="112"><strong>UNIT</strong></td>
+<td width="170"><strong>LESSONS / DURATION</strong></td>
+<td width="483"><strong>Lesson Objectives</strong>
+<p><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td width="160"><strong>TIME PERIOD</strong>
+<p><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="112">Respectful Relationships &amp; Safety</td>
+<td width="170">1
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity.</li>
+<li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li>
+<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+</ul>
+</td>
+<td width="160">Term 1 Week 9</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
+
+<b><u><i>eTeens</i> Programme</u></b>:
+
+8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Swiss Cottage Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
