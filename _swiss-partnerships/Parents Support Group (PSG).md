@@ -51,7 +51,7 @@ We strive to achieve our mission through the following Areas of Focus:
 1.  [Swiss Cross Country](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Swiss-Cross-Country.pdf)
 2.  [Swiss Teachers’ Day](/files/PSG/Teachers-Day-2021-resent.pdf)
 3.  [Night Study](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Night-Study.pdf)
-4.  [Swiss Graduation Day](/files/PSG/Heroes-of-Swiss-2021.pdf/Graduation-Day-2021-1.pdf) 
+4.  [Swiss Graduation Day](/files/PSG/Graduation-Day-2021-1.pdf) 
 5.  [Swiss Family Day](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Family-Day.pdf)
 6.  [Breakfast with Principal and Parenting Workshop](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_BwP_Parent-workshop.pdf)
 7.  [Appreciation of Un-sung Heroes](/files/PSG/Heroes-of-Swiss-2021.pdf)
