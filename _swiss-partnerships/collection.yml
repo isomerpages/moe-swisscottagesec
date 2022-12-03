@@ -2,6 +2,6 @@ collections:
   swiss-partnerships:
     output: true
     order:
-      - Alumni/Registration & Contribution.md
-      - Alumni/Alumni.md
       - Alumni/.keep
+      - Alumni/Alumni.md
+      - Alumni/Registration & Contribution.md
