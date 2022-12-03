@@ -3,7 +3,7 @@ title: PDLP@Swiss Cottage
 permalink: /swiss-experience/pdlpswiss-cottage/
 description: ""
 ---
-# link for https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection broken
+# links broke: https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection , https://asiapac.com.sg/pld/apple
 # PDLP@Swiss Cottage
 
 <b><u>Personalised Digital Learning Programme (PDLP) @ Swiss</u></b>
@@ -127,3 +127,20 @@ To support you in keeping your child safe online, you may refer to these resourc
 </ol>
 
 <b><u>Resources for Parents/Students</u></b>
+
+*   [2022 Sec 1 eMTP – PDLP Briefing](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/01/2022-Sec1-eMTP-06Jan22-PDLP-Briefing.pdf)
+*   [Parents Handbook (I) (MOE)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/IP2-Parent-Handbook-I-on-Learning-with-a-PLD_8-Dec-21.pdf)
+*   [Parents Handbook (II) (MOE)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/IP3-Parent-Handbook-II-on-Learning-with-a-PLD_8-Dec-21.pdf)
+*   [MOE Cyber Wellness Programme](https://www.moe.gov.sg/programmes/cyber-wellness/)
+*   [PDLP – Swiss Letter to Parents](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/PDLP-Letter-To-Parents-vSwiss-Dec21.pdf)
+*   [PDLP Admin Form (for purchase of iPad bundle)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/PDLP-Purchase-Form-to-Parents-vSwiss-Dec21.pdf)
+*   [FAQs on PDLP@Swiss Cottage](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/PDLP-FAQs-at-Sch-Website-SCSS-Dec-21.pdf)
+*   [Parent Engagement Session on DMA-26 March 2021](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/04/26Mar21-Parent-Engagement-on-DMA-vSch-Website-1.pdf)
+*   [PDLP Student Device Information Kit](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/Updated-Student-Device-Information-Kit-vOct21-vSCSS_261121-1.pdf) (Information about iPad vendor, insurance & warranty, reporting of device issues and in-school support)
+*   [DMA Parent Guide v2.0 – Option A (IpadOS)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/08/DMA-Parent-Guide-v2.0-Option-A-iPadOS-4.pdf)
+*   [DMA Parent Guide v2.0 – Option B (IPadOS)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/08/DMA-Parent-Guide-v2.0-Option-B-iPadOS-2.pdf)
+*   [iCON\_Google Takeout\_Guide\_for\_Students Exiting School](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/08/iCON_Google-Takeout_Guide_for_Students-Exiting-Sch.pdf)
+*   [Parent Kit on Cyber Wellness for Your Child](https://go.gov.sg/moe-cyber-wellness)
+*   [Schoolbag article ‘Keeping our teens safe online’](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online)
+*   [Media Literacy Council](https://go.gov.sg/better-internet-sg)
+*   [National Library’s Learning & Information Literacy Resources](https://sure.nlb.gov.sg/)
