@@ -354,6 +354,6 @@ For major offences, the student may be dealt with by the law of Singapore.
 
 **Prohibited items found in your possession will be confiscated by the school.**
 
-**In building a safe and positive school environment for all staff and students, the school takes a serious view on all offences. In the event of any occurrence of a major offence, the student will face severe consequences from the school and the case may be referred to the Police or relevant authorities based on the school’s prerogative.**
+<p style="text-align: justify;"><b>In building a safe and positive school environment for all staff and students, the school takes a serious view on all offences. In the event of any occurrence of a major offence, the student will face severe consequences from the school and the case may be referred to the Police or relevant authorities based on the school’s prerogative.</b></p>
 
-**The student’s parents will also be informed and a family conference will be held so that there will be a joint partnership in re-educating and helping the student to change for the better.**
+<p style="text-align: justify;"><b>The student’s parents will also be informed and a family conference will be held so that there will be a joint partnership in re-educating and helping the student to change for the better.</b></p>
