@@ -2,6 +2,7 @@ collections:
   swiss-experience:
     output: true
     order:
+      - Distinctive Programmes/Distinctive Programmes.md
       - Distinctive Programmes/.keep
       - Total Curriculum.md
       - Instructional Programme/.keep
