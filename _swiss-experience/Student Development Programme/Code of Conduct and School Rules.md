@@ -107,3 +107,6 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 |   |
 |---|
 |  **FOR ALL STUDENTS**<br><br>**School Tie**<br><br>·       Wear the tie during all assembly periods, special school functions and as directed by the school.<br><br>**Shoes and Socks**<br><br>·       Wear only predominantly white-based school shoes.<br><br>·       Wear white socks only. Ankle socks are allowed but must be visible.<br><br>**Attire for PE lessons**<br><br>·       Wear only PE, house or school approved T-shirt with school PE black shorts.<br><br>·       Change back into the school uniform after PE lessons.<br><br>**Attire for Saturdays and non-school days**<br><br>·       Wear your respective CCA uniform, unless otherwise instructed by your CCA teachers.<br><br>·       Wear only school uniform or T-shirt issued by respective CCA groups for non-uniformed CCA groups.<br><br>·       Wear only school uniform or school T-shirt if you are in school for activities other than your CCAs.<br><br>·       Do not wear civilian clothes and inappropriate footwear while in school. |
+
+5\.  **Hairstyle**
+
