@@ -62,7 +62,7 @@ We aim to
 ### Our Team
 
 | English Language Team                 |                                     |
-|---------------------------------------|-------------------------------------|
+|---------------------------|--------------------------|
 | Mdm Lim Wee Teng June                 | HOD English Language                |
 | Miss Tan Annie                        | Year Head  (Lower Secondary)        |
 | Mr Wong Wai Kiong Terence             | HOD Technology for Learning         |
