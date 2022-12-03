@@ -62,14 +62,11 @@ Please refer to the table below for the schedules of CCA in 2022.
 </tr>
 <tr>
 <td rowspan="3" width="33">1</td>
-<td rowspan="3" width="82">Chinese
-<p>Dance</p>
+<td rowspan="3" width="82">Chinese<br><br>Dance
 </td>
-<td rowspan="3" width="76">Mon
-<p>Thu</p>
+<td rowspan="3" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="3" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="3" width="70">1530-1815<br><br>1530-1815
 </td>
 <td rowspan="3" width="60">LT3</td>
 <td width="133">Ms Leung Yan Ru</td>
@@ -86,11 +83,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="4" width="33">2</td>
 <td rowspan="4" width="82">Chinese Orchestra</td>
-<td rowspan="4" width="76">Mon
-<p>Thu</p>
+<td rowspan="4" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="4" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="4" width="70">1530-1815<br><br>1530-1815
 </td>
 <td rowspan="4" width="60">CO Room, 1-S1, 1-S2, 1-S3, 1-S4, ITR1A, ITR3A, ITR3B, MTLL1</td>
 <td width="133">Ms Low Yu Hui</td>
@@ -111,11 +106,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="4" width="33">3</td>
 <td rowspan="4" width="82">Show Choir</td>
-<td rowspan="4" width="76">Mon
-<p>Thu</p>
+<td rowspan="4" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="4" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="4" width="70">1530-1815<br><br>1530-1815
 </td>
 <td rowspan="4" width="60">LT1, Choir Room<br />(4-N1,<br />4-N2),<br />1-S5, 1-S6, 1-S7, 1-S8</td>
 <td width="133">Ms Tan Mee Han</td>
@@ -136,13 +129,11 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="4" width="33">4</td>
 <td rowspan="4" width="82">Swiss Drama</td>
-<td rowspan="4" width="76">Mon
-<p>Thu</p>
+<td rowspan="4" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="4" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="4" width="70">1530-1815<br><br>1530-1815
 </td>
-<td rowspan="4" width="60">MTLL E3,<br />3-S8</td>
+<td rowspan="4" width="60">MTLL E3,<br>3-S8</td>
 <td width="133">Ms Herina Roslin</td>
 <td width="262"><a href="mailto:herina_roslin@moe.edu.sg">herina_roslin@moe.edu.sg</a></td>
 </tr>
@@ -161,11 +152,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="3" width="33">5</td>
 <td rowspan="3" width="82">Malay Dance</td>
-<td rowspan="3" width="76">Mon
-<p>Thu</p>
+<td rowspan="3" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="3" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="3" width="70">1530-1815<br><br>1530-1815
 </td>
 <td rowspan="3" width="60">Dance Studio</td>
 <td width="133">Mdm Siti Aishah</td>
@@ -182,13 +171,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="5" width="33">6</td>
 <td rowspan="5" width="82">Swiss Winds</td>
-<td rowspan="5" width="76">Mon
-<p>Thu</p>
-<p>Fri (odd)</p>
+<td rowspan="5" width="76">Mon<br><br>Thu<br><br>Fri (odd)
 </td>
-<td rowspan="5" width="70">1530-1815
-<p>1530-1815</p>
-<p>1330-1745</p>
+<td rowspan="5" width="70">1530-1815<br><br>1530-1815<br><br>1330-1745
 </td>
 <td rowspan="5" width="60">Band Room, 3-S2, 3-S3, 3-S4, 3-S6, 3-S7, SR-D1, SR-D2</td>
 <td width="133">Mr Kenneth Neo</td>
@@ -213,11 +198,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="4" width="33">7</td>
 <td rowspan="4" width="82">Boys&rsquo; Brigade</td>
-<td rowspan="4" width="76">Thu
-<p>Sat</p>
+<td rowspan="4" width="76">Thu<br><br>Sat
 </td>
-<td rowspan="4" width="70">1530-1815
-<p>0730-1300</p>
+<td rowspan="4" width="70">1530-1815<br><br>0730-1300
 </td>
 <td rowspan="4" width="60">BB Room,<br />2-S5</td>
 <td width="133">Mr Koh Joon Teck</td>
@@ -238,11 +221,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="4" width="33">8</td>
 <td rowspan="4" width="82">Girl Guides</td>
-<td rowspan="4" width="76">Mon
-<p>Thu</p>
+<td rowspan="4" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="4" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="4" width="70">1530-1815<br><br>1530-1815
 </td>
 <td rowspan="4" width="60">GG Room,<br />2-S7</td>
 <td width="133">Ms Ang Kai Lun Karen</td>
@@ -263,11 +244,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="4" width="33">9</td>
 <td rowspan="4" width="82">NCC (Air)</td>
-<td rowspan="4" width="76">Mon
-<p>Thu</p>
+<td rowspan="4" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="4" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="4" width="70">1530-1815<br><br>1530-1815
 </td>
 <td rowspan="4" width="60">NCC Room, 2-S8</td>
 <td width="133">Mr Ngoh Kia Joon</td>
@@ -288,11 +267,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="3" width="33">10</td>
 <td rowspan="3" width="82">NPCC</td>
-<td rowspan="3" width="76">Mon
-<p>Thu</p>
+<td rowspan="3" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="3" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="3" width="70">1530-1815<br><br>1530-1815
 </td>
 <td rowspan="3" width="60">NPCC Room, 2-S6</td>
 <td width="133">Mr Ng Kok Hin</td>
@@ -312,8 +289,7 @@ Please refer to the table below for the schedules of CCA in 2022.
 <td rowspan="4" width="76">Mon
 <p>Thu</p>
 </td>
-<td rowspan="4" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="4" width="70">1530-1815<br><br>1530-1815
 </td>
 <td rowspan="4" width="60">Scouts Room,<br />SR-C1A</td>
 <td width="133">Mr Syed Segaff</td>
@@ -334,11 +310,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="4" width="33">12</td>
 <td rowspan="4" width="82">NCDCC</td>
-<td rowspan="4" width="76">Mon
-<p>Thu</p>
+<td rowspan="4" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="4" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="4" width="70">1530-1815<br><br>1530-1815
 </td>
 <td rowspan="4" width="60">NCDCC Room, 3-S2</td>
 <td width="133">Mr Heng Teng Boon</td>
@@ -359,11 +333,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="3" width="33">13</td>
 <td rowspan="3" width="82">Badminton</td>
-<td rowspan="3" width="76">Mon
-<p>Thu</p>
+<td rowspan="3" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="3" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="3" width="70">1530-1815<br><br>1530-1815
 </td>
 <td rowspan="3" width="60">ISH, Level 2 &amp; Level 3, 2-S1</td>
 <td width="133">Mr Eric Lee</td>
@@ -380,12 +352,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="5" width="33">14</td>
 <td rowspan="5" width="82">Basketball</td>
-<td rowspan="5" width="76">Mon (all)
-<p>Wed (B) / Thu (G)</p>
+<td rowspan="5" width="76">Mon (all)<br><br>Wed (B) / Thu (G)
 </td>
-<td rowspan="5" width="70">1530 -1815
-<p>1500 &ndash;1815</p>
-<p>1500-1815</p>
+<td rowspan="5" width="70">1530 -1815<br><br>1500 - 1815<br><br>1500-1815
 </td>
 <td rowspan="5" width="60">ISH Level 1 &amp; Level 3, 2-S2</td>
 <td width="133">Mr Alex Chew</td>
@@ -410,14 +379,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="5" width="33">15</td>
 <td rowspan="5" width="82">Floorball</td>
-<td rowspan="5" width="76"><strong>Even week</strong>&nbsp;(B+G):
-<p>Mon</p>
-<p>Thu</p>
-<p><strong>Odd week</strong><br />Mon (G)<br />Thu (B)</p>
-<p>Fri (B+G)</p>
+<td rowspan="5" width="76"><strong>Even week</strong>&nbsp;(B+G):<br><br>Mon<br><br>Thu<br><br><strong>Odd week</strong><br>Mon (G)<br>Thu (B)<br><br>Fri (B+G)
 </td>
-<td rowspan="5" width="70">1530-1815<br />1530-18151530-1815
-<p>1530-1815 1300-1830</p>
+<td rowspan="5" width="70">1530-1815<br>1530-18151530-1815<br><br>1530-1815 1300-1830
 </td>
 <td rowspan="5" width="60">Hall,2-S3, 2-S4</td>
 <td width="133">Mr Irfan</td>
@@ -442,11 +406,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="4" width="33">16</td>
 <td rowspan="4" width="82">Tenpin Bowling</td>
-<td rowspan="4" width="76">Mon
-<p>Thu</p>
+<td rowspan="4" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="4" width="70">1600-1815
-<p>1600-1815</p>
+<td rowspan="4" width="70">1600-1815<br><br>1600-1815
 </td>
 <td rowspan="4" width="60">&nbsp;Westwood Bowl,3-S5</td>
 <td width="133">Ms Rose Nabilah</td>
@@ -467,11 +429,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="3" width="33">17</td>
 <td rowspan="3" width="82">Football</td>
-<td rowspan="3" width="76">Mon
-<p>Thu</p>
+<td rowspan="3" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="3" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="3" width="70">1530-1815<br><br>1530-1815
 </td>
 <td rowspan="3" width="60">School Field,3-S1</td>
 <td width="133">Mr Michael R</td>
@@ -488,11 +448,9 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="4" width="33">18</td>
 <td rowspan="4" width="82">Publications and Media Club</td>
-<td rowspan="4" width="76">Mon
-<p>Thu</p>
+<td rowspan="4" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="4" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="4" width="70">1530-1815<br><br>1530-1815
 </td>
 <td rowspan="4" width="60">PMC Lab,ITR2B,GP 2 Room</td>
 <td width="133">Mr Syafrin Ardi</td>
@@ -513,14 +471,11 @@ Please refer to the table below for the schedules of CCA in 2022.
 <tr>
 <td rowspan="4" width="33">19</td>
 <td rowspan="4" width="82">Science &amp; Tech Club</td>
-<td rowspan="4" width="76">Mon
-<p>Thu</p>
+<td rowspan="4" width="76">Mon<br><br>Thu
 </td>
-<td rowspan="4" width="70">1530-1815
-<p>1530-1815</p>
+<td rowspan="4" width="70">1530-1815<br><br>1530-1815
 </td>
-<td rowspan="4" width="60">S&amp;T Room,
-<p>Comp Lab 3</p>
+<td rowspan="4" width="60">S&amp;T Room,<br><br>Comp Lab 3
 </td>
 <td width="133">Mr Simon Wong</td>
 <td width="262">wong_yin_kew@moe.edu.sg</td>
