@@ -11,7 +11,7 @@ description: ""
 
 The intended outcomes of PDLP@Swiss are:
 
-1.  #### **Enhance teaching and learning** **–** PLDs harness technology for greater effectiveness in teaching and learning, enabled by teachers’ use of **e-Pedagogy** to provide learning experiences for students.
+1\.  <b><u>Enhance teaching and learning</u> – PLDs harness technology for greater effectiveness in teaching and learning, enabled by teachers’ use of e-Pedagogy to provide learning experiences for students.</b>
     
 2.  #### **Support self-directed and collaborative learning –** PLDs enable students to learn online according to their needs and interests and to collaborate with each other, anytime and anywhere.
     
