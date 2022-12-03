@@ -308,3 +308,17 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 <p style="text-align: justify;">9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.</p>
 
 **At Swiss Cottage Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+| Topics/Lessons                    | Programme Learning Objectives                                                                                                                                                                                   | Time Period<br><br>(e.g. Term 3 Week 9) |
+|------------|------------|-------------------|
+| Mass Talk by HPB appointed vendor | ·       Awareness of the different STIs and HIV/AIDS<br><br>·       Modes of transmission<br><br>·       Modes of protection, specifically on how the condom is used<br><br>·       Consequences and impact of STIs/HIV | Term 2 Week 2                           |
+| Classroom-based Lesson            | ·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making                                                                               | Term 2 Week 2                           |
+
+
+ **Information for Parents**
+
+10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form downloadable [**here**.](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/01/Sexuality-Education-Programme_Annex-A_2022.pdf) The completed form is to be submitted by 14/02/2022 to your child/ward’s Form Teacher.
+12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form  downloadable [**here**.](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/01/Sexuality-Education-Programme_Annex-B_eTeens-3_2022.pdf) The completed form is to be submitted by 14/02/2022.
+13.  Parents can contact the school at [scss@moe.edu.sg](mailto:scss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
