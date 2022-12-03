@@ -1,4 +1,5 @@
 collections:
   swiss-experience:
     output: true
-    order: []
+    order:
+      - Total Curriculum.md
