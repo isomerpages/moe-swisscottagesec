@@ -52,18 +52,17 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education)
 <td width="112"><strong>UNIT</strong></td>
 <td width="170"><strong>LESSONS / DURATION</strong></td>
 <td width="483"><strong>Lesson Objectives</strong>
-<p><strong>At the end of the lesson, students will be able to:</strong></p>
+<br><br><strong>At the end of the lesson, students will be able to:</strong>
 </td>
 <td width="165"><strong>TIME PERIOD</strong>
-<p><strong>(e.g. Term 1 Week 2)</strong></p>
+<br><br><strong>(e.g. Term 1 Week 2)</strong>
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="3" width="112">Respectful Relationships &amp; Safety</td>
-<td width="170">1
-<p>(60 mins)</p>
+<td width="170">1<br><br>(60 mins)
 </td>
 <td width="483">
 <ul>
@@ -76,8 +75,7 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education)
 <td width="165">Term 2 Week 8</td>
 </tr>
 <tr>
-<td width="170">2
-<p>(60 mins)</p>
+<td width="170">2<br><br>(60 mins)
 </td>
 <td width="483">
 <ul>
@@ -87,8 +85,7 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education)
 <td width="165">Term 2 Week 10</td>
 </tr>
 <tr>
-<td width="170">3
-<p>(60 mins)</p>
+<td width="170">3<br><br>(60 mins)
 </td>
 <td width="483">
 <ul>
@@ -101,71 +98,65 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education)
 </tbody>
 </table>
 </div>
-<p><strong>Secondary 2</strong></p>
+
+**Secondary 2**
+
 <div>
 <table border="7" width="928">
 <thead>
 <tr>
 <td><strong>UNIT</strong></td>
 <td><strong>LESSONS / DURATION</strong></td>
-<td><strong>Lesson Objectives</strong>
-<p><strong>At the end of the lesson, students will be able to:</strong></p>
+<td><strong>Lesson Objectives</strong><br><br><strong>At the end of the lesson, students will be able to:</strong>
 </td>
-<td><strong>TIME PERIOD</strong>
-<p><strong>(e.g. Term 1 Week 2)</strong></p>
+<td><strong>TIME PERIOD</strong><br><br><strong>(e.g. Term 1 Week 2)</strong>
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="3">Respectful Relationships &amp; Safety</td>
-<td>1
-<p>(60 mins)</p>
+<td>1<br><br>(60 mins)
 </td>
-<td>&middot; Know that one&rsquo;s understanding of gender roles should not be limited by gender stereotypes&middot; Develop an appreciation of one&rsquo;s own unique qualities and characteristics as a male or female
-<p>&middot; Understand what sexual orientation entails</p>
+<td>&middot; Know that one&rsquo;s understanding of gender roles should not be limited by gender stereotypes&middot; Develop an appreciation of one&rsquo;s own unique qualities and characteristics as a male or female<br><br>&middot; Understand what sexual orientation entails
 </td>
 <td>Term 3 Week 8</td>
 </tr>
 <tr>
-<td>2A
-<p>(60 mins)</p>
+<td>2A<br><br>(60 mins)
 </td>
 <td>&middot; Recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
 <td>Term 3 Week 9</td>
 </tr>
 <tr>
-<td>2B
-<p>(60 mins)</p>
+<td>2B<br><br>(60 mins)
 </td>
-<td>&middot; Recognise the importance of self-respect and respect for others in relating to members of the opposite gender
-<p>&middot; Recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</p>
+<td>&middot; Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>&middot; Recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online
 </td>
 <td>Term 4 Week 1</td>
 </tr>
 </tbody>
 </table>
 </div>
-<p><strong>Secondary 3</strong></p>
+
+**Secondary 3**
+
 <div>
 <table border="7" width="925">
 <thead>
 <tr>
 <td width="112"><strong>UNIT</strong></td>
 <td width="170"><strong>LESSONS / DURATION</strong></td>
-<td width="483"><strong>Lesson Objectives</strong>
-<p><strong>At the end of the lesson, students will be able to:</strong></p>
+	<td width="483"><strong>Lesson Objectives</strong><br><br><strong>At the end of the lesson, students will be able to:</strong>
 </td>
-<td width="160"><strong>TIME PERIOD</strong>
-<p><strong>(e.g. Term 1 Week 2)</strong></p>
+<td width="160"><strong>TIME PERIOD</strong><br><br><strong>(e.g. Term 1 Week 2)</strong>
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="3" width="112">Respectful Relationships &amp; Safety</td>
-<td width="170">1A
-<p>(60 mins)</p>
+<td width="170">1A<br><br>(60 mins)
 </td>
 <td width="483">
 <ul>
@@ -189,7 +180,7 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education)
 <td width="160">Term 4 Week 1</td>
 </tr>
 <tr>
-<td width="170">2<br />(60 mins)</td>
+<td width="170">2<br>(60 mins)</td>
 <td width="483">
 <ul>
 <li>Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.</li>
@@ -201,18 +192,18 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education)
 </tbody>
 </table>
 </div>
-<p><strong>Secondary 4</strong></p>
+
+**Secondary 4**
+
 <div>
 <table border="7" width="928">
 <thead>
 <tr>
 <td width="112"><strong>UNIT</strong></td>
 <td width="170"><strong>LESSONS / DURATION</strong></td>
-<td width="483"><strong>Lesson Objectives</strong>
-<p><strong>At the end of the lesson, students will be able to:</strong></p>
+<td width="483"><strong>Lesson Objectives</strong><br><br><strong>At the end of the lesson, students will be able to:</strong>
 </td>
-<td width="163"><strong>TIME PERIOD</strong>
-<p><strong>(e.g. Term 1 Week 2)</strong></p>
+<td width="163"><strong>TIME PERIOD</strong><br><br><strong>(e.g. Term 1 Week 2)</strong>
 </td>
 </tr>
 </thead>
@@ -230,7 +221,7 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education)
 <td width="163">Term 1 Week 9</td>
 </tr>
 <tr>
-<td width="170">2<br />(60 mins)</td>
+<td width="170">2<br>(60 mins)</td>
 <td width="483">
 <ul>
 <li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</li>
@@ -264,26 +255,25 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education)
 </tbody>
 </table>
 </div>
-<p><strong>Secondary 5</strong></p>
+
+**Secondary 5**
+
 <div>
 <table border="7" width="925">
 <thead>
 <tr>
 <td width="112"><strong>UNIT</strong></td>
 <td width="170"><strong>LESSONS / DURATION</strong></td>
-<td width="483"><strong>Lesson Objectives</strong>
-<p><strong>At the end of the lesson, students will be able to:</strong></p>
+<td width="483"><strong>Lesson Objectives</strong><br><br><strong>At the end of the lesson, students will be able to:</strong>
 </td>
-<td width="160"><strong>TIME PERIOD</strong>
-<p><strong>(e.g. Term 1 Week 2)</strong></p>
+<td width="160"><strong>TIME PERIOD</strong><br><br><strong>(e.g. Term 1 Week 2)</strong>
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td width="112">Respectful Relationships &amp; Safety</td>
-<td width="170">1
-<p>(60 mins)</p>
+<td width="170">1<br><br>(60 mins)
 </td>
 <td width="483">
 <ul>
