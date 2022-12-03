@@ -220,3 +220,9 @@ Students who received a <u>FAIR/POOR</u> conduct grade will face the following
 **DEMERIT POINT SYSTEM**
 
 This table spells out the possible consequences of accumulating the number of demerit points for offences committed in the course of the semester.
+
+| Number of Demerit Points  | Possible Actions Taken      |
+|----------------|-----------------------|
+| 5 Demerit Points or more  | Level Discipline Master/Form Teachers will counsel student and parents will be informed.                                                                                            |
+| 8 Demerit Points or more  | Year Head/Year Master will counsel student and parents will be informed.<br><br>Suspension from school & other appropriate consequences meted by the school to educate the student.                                                                                                 |
+| 10 Demerit Points or more | Family Conference with School Leaders<br><br>There will be implications on conduct grade and eligibilities for school trip and awards.<br><br>Student might need to attend a Conduct Upgrading programme.<br><br>Other appropriate consequences meted by the school to educate the student. |
