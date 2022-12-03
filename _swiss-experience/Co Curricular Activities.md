@@ -29,3 +29,19 @@ description: ""
 | **Excellent**<br><br>**(2 bonus points)** | Student who attains a minimum Level 3 in all four domains with at least a Level 4 in one domain.                                    |
 | **Good**<br><br>**(1 bonus point)**       | Student who attains a minimum Level 1 in all four domains with any one of the following: <br><br> i. At least Level 2 in three domains;<br><br>ii.  At least Level 2 in one domain and at least Level  3 in another domain; or<br><br>iii.           At least Level 4 in one domain. |
 | **Fair**                              | Student’s attainment in co-curricular will not translate into any bonus points.                                     |
+
+**Participation in National Sports Associations’ Youth Training Programmes**
+
+National Sports Associations (NSA) may seek the principal’s permission for their pupils to undergo training with the nation youth squads. This includes sports that are not in the school’s CCA programmes. Participation endorsed by the principal and monitored by the NSAs (through progress reports) may be awarded CCA points.
+
+**Choice of CCA**
+
+Students are advised to exercise prudence in selecting their CCAs, and he / she should only choose to do more than 1 CCA if it does not affect his / her commitment to their main CCA.  CCAs should be chosen based on interest / ability and not on the points awarded.
+
+You may visit our CCA Google Site for more information on CCA here:
+
+[https://sites.google.com/moe.edu.sg/swissccas/our-ccas](https://sites.google.com/moe.edu.sg/swissccas/our-ccas)
+
+**CCA Practices & Venues** 
+
+Please refer to the table below for the schedules of CCA in 2022.
