@@ -4,6 +4,7 @@ permalink: /swiss-partnerships/alumni/registration-and-contribution/
 description: ""
 third_nav_title: Alumni
 ---
+# registration link broken
 # Registration & Contribution
 
 ## REGISTRATION
