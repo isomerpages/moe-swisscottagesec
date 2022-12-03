@@ -51,19 +51,16 @@ third_nav_title: Instructional Programme
 **Ministry of Education**
 
 *   <a href="https://ictconnection.moe.edu.sg/masterplan-4" target="_blank">MOE ICT Masterplan 4</a>
-    
 
 *   [MOE – Cyber Wellness Information and Resources](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)
 
 **Teaching and Learning using ICT**
 
-OPAL (MOE)
+OPAL (MOE)   
+<a href="http://www.academyofsingaporeteachers.moe.gov.sg/" target="_blank">(http://www.academyofsingaporeteachers.moe.gov.sg/)</a>
 
-( [http://www.academyofsingaporeteachers.moe.gov.sg/](http://www.academyofsingaporeteachers.moe.gov.sg/) )
-
-ICT Connection (MOE)
-
-( [http://ictconnection.moe.edu.sg/](http://ictconnection.moe.edu.sg/) )
+ICT Connection (MOE)   
+<a href="http://ictconnection.moe.edu.sg/" target="_blank">(http://ictconnection.moe.edu.sg/)</a>
 
 Singapore Student Learning Space (SLS)
 
