@@ -38,4 +38,55 @@ Talent Development Programmes/Competitions
 *   Illustratum (Physics competition organised by NUS)
 *   National STEM Championship (previously known as National Science Challenge)
 
-
+|                                    |                                        |
+|------------------------------------|----------------------------------------|
+| Mr Goh Weibin                      | HOD Science / Biology                  |
+| Mr Lim Jun Li                      | School Staff Developer / Physics       |
+| Mr Seow Jason                      | Lead Teacher / Biology                 |
+| Mr Thou Reaksmey                   | Subject Head / Physics & ALP           |
+| Mdm Wong Wee Leng                  | (Acting) Subject Head / Chemistry      |
+| Mdm Tan Pui San                    | Senior Teacher / Chemistry             |
+| Mr Tan Han Chong Timothy           | Year Head / Biology                    |
+| Mdm Stephanie Hngh Sze Hui         | Assistant Year Head / Biology          |
+| Mdm Sitti Aishah Bte Yusof         | Subject Head CCA / Biology & Chemistry |
+| Mr Choo Shi Qian                   | Teacher / Chemistry                    |
+| Mr Kenneth Neo Cheng Wee           | Teacher / Biology                      |
+| Mdm Lau Lee Leng                   | Teacher / Chemistry                    |
+| Mdm Low Hwee Cheng                 | Teacher / Physics                      |
+| Mr Ng Kok Hin                      | Teacher / Physics                      |
+| Mdm Shahada Bte Rahmat             | Teacher / Science                      |
+| Mr Teo Yew Bing Simon              | Teacher / Chemistry                    |
+| Mr Teguh Daniel                    | Teacher / Physics                      |
+| Mdm See To Chee Choong             | Contract Adjunct Teacher / Chemistry   |
+| Ms Choo Hui Ming Gladys            | Flexi Adjunct Teacher / Chemistry      |
+| Mdm Wee Ai Jee                     | Flexi-Adjunct Teacher / Physics        |
+| Mr Loh Keow                        | Flexi-Adjunct Teacher / ALP            |
+| Ms Nur Bazilah Binte Abdul Majid   | Laboratory Technician                  |
+| Mdm Hoe Lai Yoong                  | Laboratory Technician                  |
+| Mdm Puspalatha D/O Chandra Sagaran | Operations Support Officer             |
+| Mdm Joyce Wong Kwai Hoong          | Operations Support Officer             |
+| Mr Goh Weibin                      | HOD Science / Biology                  |
+| Mr Lim Jun Li                      | School Staff Developer / Physics       |
+| Mr Seow Jason                      | Lead Teacher / Biology                 |
+| Mr Thou Reaksmey                   | Subject Head / Physics & ALP           |
+| Mdm Wong Wee Leng                  | (Acting) Subject Head / Chemistry      |
+| Mdm Tan Pui San                    | Senior Teacher / Chemistry             |
+| Mr Tan Han Chong Timothy           | Year Head / Biology                    |
+| Mdm Stephanie Hngh Sze Hui         | Assistant Year Head / Biology          |
+| Mdm Sitti Aishah Bte Yusof         | Subject Head CCA / Biology & Chemistry |
+| Mr Choo Shi Qian                   | Teacher / Chemistry                    |
+| Mr Kenneth Neo Cheng Wee           | Teacher / Biology                      |
+| Mdm Lau Lee Leng                   | Teacher / Chemistry                    |
+| Mdm Low Hwee Cheng                 | Teacher / Physics                      |
+| Mr Ng Kok Hin                      | Teacher / Physics                      |
+| Mdm Shahada Bte Rahmat             | Teacher / Science                      |
+| Mr Teo Yew Bing Simon              | Teacher / Chemistry                    |
+| Mr Teguh Daniel                    | Teacher / Physics                      |
+| Mdm See To Chee Choong             | Contract Adjunct Teacher / Chemistry   |
+| Ms Choo Hui Ming Gladys            | Flexi Adjunct Teacher / Chemistry      |
+| Mdm Wee Ai Jee                     | Flexi-Adjunct Teacher / Physics        |
+| Mr Loh Keow                        | Flexi-Adjunct Teacher / ALP            |
+| Ms Nur Bazilah Binte Abdul Majid   | Laboratory Technician                  |
+| Mdm Hoe Lai Yoong                  | Laboratory Technician                  |
+| Mdm Puspalatha D/O Chandra Sagaran | Operations Support Officer             |
+| Mdm Joyce Wong Kwai Hoong          | Operations Support Officer             |
