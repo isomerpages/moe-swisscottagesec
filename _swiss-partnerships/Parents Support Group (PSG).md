@@ -48,12 +48,12 @@ We strive to achieve our mission through the following Areas of Focus:
 
 **Swiss Parent  Activities**
 
-1.  [Swiss Cross Country](/files/PSG/Heroes-of-Swiss-2021.pdf/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Swiss-Cross-Country.pdf)
-2.  [Swiss Teachers’ Day](/files/PSG/Heroes-of-Swiss-2021.pdf/Teachers-Day-2021-resent.pdf)
-3.  [Night Study](/files/PSG/Heroes-of-Swiss-2021.pdf/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Night-Study.pdf)
+1.  [Swiss Cross Country](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Swiss-Cross-Country.pdf)
+2.  [Swiss Teachers’ Day](/files/PSG/Teachers-Day-2021-resent.pdf)
+3.  [Night Study](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Night-Study.pdf)
 4.  [Swiss Graduation Day](/files/PSG/Heroes-of-Swiss-2021.pdf/Graduation-Day-2021-1.pdf) 
-5.  [Swiss Family Day](/files/PSG/Heroes-of-Swiss-2021.pdf/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Family-Day.pdf)
-6.  [Breakfast with Principal and Parenting Workshop](/files/PSG/Heroes-of-Swiss-2021.pdf/04_Parents-Support-Group-Website_Swiss-Parent-Activities_BwP_Parent-workshop.pdf)
+5.  [Swiss Family Day](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Family-Day.pdf)
+6.  [Breakfast with Principal and Parenting Workshop](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_BwP_Parent-workshop.pdf)
 7.  [Appreciation of Un-sung Heroes](/files/PSG/Heroes-of-Swiss-2021.pdf)
 
 WE CAN MAKE A DIFFERENCE! Join the Swiss PSG by completing the [online form](https://docs.google.com/forms/d/e/1FAIpQLSdnNUh5cYIODBT4jEMMqphJSoaYb_yfqieJSaigzYmUIdIkpg/viewform)  or download the Swiss PSG Form and email completed form to [swisscottage.psg@gmail.com](mailto:swisscottage.psg@gmail.com).
