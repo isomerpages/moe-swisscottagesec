@@ -8,7 +8,7 @@ third_nav_title: Student Development Programme
 
 <b>Swiss Cottage takes a <u>Character First</u> approach in developing our students. The school wishes to instil positive values in the students so that they can self-regulate, while at the same time affirm the good in every student through various platforms.</b>
 
-**SWISS R.U.L.E.S.**
+### <b><u>SWISS R.U.L.E.S.</u></b>
 
 As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 
