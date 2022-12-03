@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Total Curriculum.md
-      - Instructional Programme/Mother Tongue Languages.md
       - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme.md
       - Instructional Programme/English Language.md
       - Instructional Programme/English Literature.md
+      - Instructional Programme/Mother Tongue Languages.md
