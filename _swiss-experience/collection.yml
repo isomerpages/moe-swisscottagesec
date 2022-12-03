@@ -2,7 +2,6 @@ collections:
   swiss-experience:
     output: true
     order:
-      - Co Curricular Activities.md
       - Total Curriculum.md
       - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme.md
@@ -25,5 +24,6 @@ collections:
       - Student Development Programme/Sexuality Education.md
       - Student Development Programme/After School Engagement.md
       - Student Development Programme/House Programme.md
+      - Co Curricular Activities.md
       - Blended Learning.md
       - 2022 Sec 2 Subject Combination.md
