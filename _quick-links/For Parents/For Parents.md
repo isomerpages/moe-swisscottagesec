@@ -16,22 +16,22 @@ The following are links to websites that we feel may be useful in the developmen
 
 Information for 2023
 
-1\.  [Secondary 1 Booklist](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-SCSS-Booklist-SECONDARY-1.pdf)  
-2\.  [Secondary 1 Miscellaneous](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-SCSS-Booklist-SEC1-Miscellaneous.pdf)  
-3\.  [Secondary 2 Booklist](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-Sec-2-Booklist.pdf)  
-4\.  [Secondary 2 Miscellaneous](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-SCSS-Booklist-SEC2-Miscellaneous.pdf)  
-5\.  [Secondary 3 Booklist and Miscellaneous](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-SCSS-Booklist-SEC3-Miscellaneous.pdf)  
-6\.  [Secondary 4 Booklist](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-Sec-4-Booklists.pdf)  
-7\.  [Secondary 4 Miscellaneous](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-SCSS-Booklist-SEC4-Miscellaneous.pdf)  
-8\.  [Secondary 5 Booklist](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-SCSS-Booklist-SECONDARY-5NA.pdf)  
-9\.  [Secondary 5 Miscellaneous](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-SCSS-Booklist-SEC5-Miscellaneous.pdf)  
-10\.  [EZ Stationery](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/EZ-Stationery-Sale-of-Textbooks-2022-Yearend.pdf)  
-11\.  [Sales of School Uniform](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/Sales-of-School-Uniform-Info.pdf)  
+1\.  [Secondary 1 Booklist](/files/For%20parents/2023-SCSS-Booklist-SECONDARY-1.pdf)  
+2\.  [Secondary 1 Miscellaneous](/files/For%20parents/2023-SCSS-Booklist-SEC1-Miscellaneous.pdf)  
+3\.  [Secondary 2 Booklist](/files/For%20parents/2023-Sec-2-Booklist.pdf)  
+4\.  [Secondary 2 Miscellaneous](/files/For%20parents/2023-SCSS-Booklist-SEC2-Miscellaneous.pdf)  
+5\.  [Secondary 3 Booklist and Miscellaneous](/files/For%20parents/2023-SCSS-Booklist-SEC3-Miscellaneous.pdf)  
+6\.  [Secondary 4 Booklist](/files/For%20parents/2023-Sec-4-Booklists.pdf)  
+7\.  [Secondary 4 Miscellaneous](/files/For%20parents/2023-SCSS-Booklist-SEC4-Miscellaneous.pdf)  
+8\.  [Secondary 5 Booklist](/files/For%20parents/2023-SCSS-Booklist-SECONDARY-5NA.pdf)  
+9\.  [Secondary 5 Miscellaneous](/files/For%20parents/2023-SCSS-Booklist-SEC5-Miscellaneous.pdf)  
+10\.  [EZ Stationery](/files/For%20parents/EZ-Stationery-Sale-of-Textbooks-2022-Yearend.pdf)  
+11\.  [Sales of School Uniform](/files/For%20parents/Sales-of-School-Uniform-Info.pdf)  
 
 Information for 2022
 
-1\.  [Meetings on Parents Gateway (Booking not started) User Guide\\](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/05/PG-Mobile-App-Meetings-Feature-User-Guide-April-2022.pdf)  
-2\.  [Guide for Measurement for Uniform](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/Guide-for-Measurement-for-Uniform.pdf)  
-3\.  [School Textbook Sales Procedure](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/School-Textbook_Sales_Procedure.pdf)  
-4\.  [School Uniform Online Sales Guide](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/School-Uniform-Online-Sales-Guide.pdf)  
-5\.  [School Uniform Sales Procedure](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/School-Uniform-Sales-Procedures-1.pdf)
+1\.  [Meetings on Parents Gateway (Booking not started) User Guide\\](/files/For%20parents/PG-Mobile-App-Meetings-Feature-User-Guide-April-2022.pdf)  
+2\.  [Guide for Measurement for Uniform](/files/For%20parents/Guide-for-Measurement-for-Uniform.pdf)  
+3\.  [School Textbook Sales Procedure](/files/For%20parents/School-Textbook_Sales_Procedure.pdf)  
+4\.  [School Uniform Online Sales Guide](/files/For%20parents/School-Uniform-Online-Sales-Guide.pdf)  
+5\.  [School Uniform Sales Procedure](/files/For%20parents/School-Uniform-Sales-Procedures-1.pdf)
