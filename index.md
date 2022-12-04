@@ -9,6 +9,10 @@ sections:
   - hero:
       background: /images/hero-banner.png
   - infobar:
+      title: Events
+      button: View All Events
+      url: /quick-links/calendar/
+  - infobar:
       title: Christmas Day
       subtitle: 25 Dec
       button: Click here
