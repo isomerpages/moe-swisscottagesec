@@ -2,10 +2,10 @@ collections:
   quick-links:
     output: true
     order:
-      - For Parents/Co curricular Activities Programme.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Physical Development.md
+      - For Parents/Co curricular Activities Programme.md
       - Student Initiated Project Making Hand Sanitiser.md
       - For Students.md
       - Calendar.md
