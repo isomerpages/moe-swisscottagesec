@@ -22,4 +22,11 @@ sections:
       button: Click here
       url: /new-years-eve/
       subtitle: 31 Dec
+  - infobar:
+      title: INSTRUCTIONAL PROGRAMME
+      subtitle: FEATURED POSTS
+      description: Swiss Cottage is committed in delivering a comprehensive and
+        holistic education to all who come through our gates.
+      button: Read more
+      url: /swiss-experience/Instructional-Programme/
 ---
