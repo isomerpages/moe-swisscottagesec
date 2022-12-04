@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - For Parents/Co curricular Activities Programme.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Physical Development.md
