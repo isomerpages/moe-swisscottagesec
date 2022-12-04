@@ -6,15 +6,15 @@ third_nav_title: For Parents
 ---
 # Co-curricular Activities Programme
 
-[National Youth Achievement Awards](http://www.nyaa.org/)
+<a href="http://www.nyaa.org/" target="_blank">National Youth Achievement Awards</a>
 
 ### Sports
 
-[Singapore Schools Sports Council](http://www.schoolsports.sg/)
+<a href="http://www.schoolsports.sg/" target="_blank">Singapore Schools Sports Council</a>
 
 ### Performing Arts
 
-[Singapore Youth Festival](http://www.singaporeyouthfestival.sg/)
+<a href="http://www.singaporeyouthfestival.sg/" target="_blank">Singapore Youth Festival</a>
 
 ### Uniform Groups
 
@@ -47,5 +47,6 @@ Girl Guides – www.girlguides.org.sg/
 
 ### Communicating with Teenagers
 
-[Family Education](http://life.familyeducation.com/teen/communication/34406)  
+<a href="http://life.familyeducation.com/teen/communication/34406" target="_blank">Family Education</a>
+
 (focus on communicating with teens)
