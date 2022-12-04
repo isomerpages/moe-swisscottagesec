@@ -2,10 +2,10 @@ collections:
   quick-links:
     output: true
     order:
-      - Open House 2022.md
       - Student Initiated Project Making Hand Sanitiser.md
       - For Students.md
       - Calendar.md
       - Facebook.md
       - Instagram.md
       - Contact Us.md
+      - Open House 2022.md
