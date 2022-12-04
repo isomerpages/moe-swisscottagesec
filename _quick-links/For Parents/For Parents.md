@@ -12,7 +12,7 @@ The following are links to websites that we feel may be useful in the developmen
 2\.  [Co-curricular Activities Programme](https://swisscottagesec.moe.edu.sg/quick-links/for-parents/co-curricular-activities-programme/)  
 3\.  [Post Secondary Education/Career Guidance](https://swisscottagesec.moe.edu.sg/quick-links/for-parents/post-secondary-educationcareer-guidance/)  
 4\.  [MOE Cyber Wellness Portal](https://swisscottagesec.moe.edu.sg/quick-links/for-parents/moe-cyberwellness-portal/)  
-5\.  [Sexuality Education Programme](https://swisscottagesec.moe.edu.sg/swiss-experience/student-development-programme/sexuality-education/)
+5\.  [Sexuality Education Programme](/swiss-experience/Student-Development-Programme/sexuality-education/)
 
 Information for 2023
 
@@ -34,4 +34,4 @@ Information for 2022
 2\.  [Guide for Measurement for Uniform](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/Guide-for-Measurement-for-Uniform.pdf)  
 3\.  [School Textbook Sales Procedure](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/School-Textbook_Sales_Procedure.pdf)  
 4\.  [School Uniform Online Sales Guide](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/School-Uniform-Online-Sales-Guide.pdf)  
-5\.  [School Uniform Sales Procedure](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/School-Uniform-Sales-Procedures-1.pdf)  
+5\.  [School Uniform Sales Procedure](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/School-Uniform-Sales-Procedures-1.pdf)
