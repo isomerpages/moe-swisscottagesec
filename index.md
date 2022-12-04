@@ -29,4 +29,19 @@ sections:
         holistic education to all who come through our gates.
       button: Read more
       url: /swiss-experience/Instructional-Programme/
+  - infobar:
+      title: STUDENT DEVELOPMENT PROGRAMME
+      subtitle: FEATURED POSTS
+      description: The aim of the Student Development Programme is the holistic
+        development of our students.
+      button: Read more
+      url: /swiss-experience/Student-Development-Programme/
+  - infobar:
+      title: DISTINCTIVE PROGRAMMES
+      subtitle: FEATURED POSTS
+      description: "Distinctive Programmes Thoughtful Leaders: the vision of giving
+        every student a chance to lead – to bring about meaningful and
+        sustainable change in their [...]"
+      button: Read more
+      url: /swiss-experience/Distinctive-Programmes/
 ---
