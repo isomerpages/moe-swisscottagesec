@@ -27,22 +27,24 @@ Girl Guides – www.girlguides.org.sg/
 
 ### Clubs
 
-[Infocomm Development Authority of Singapore](http://www.ida.gov.sg/)  
-[Singapore Science Centre](http://www.science.edu.sg/)  
-[National Environment Agency](http://www.nea.gov.sg/)
+<a href="http://www.ida.gov.sg/" target="_blank">Infocomm Development Authority of Singapore</a>  
+<a href="http://www.science.edu.sg/" target="_blank">Singapore Science Centre</a>  
+
+<a href="http://www.nea.gov.sg/" target="_blank">National Environment Agency</a>
 
 ### Sexuality Education
 
-[http://www.hpb.gov.sg/sexualhealth/article.aspx?id=7162](http://www.hpb.gov.sg/sexualhealth/article.aspx?id=7162)  
+<a href="http://www.hpb.gov.sg/sexualhealth/article.aspx?id=7162" target="_blank">http://www.hpb.gov.sg/sexualhealth/article.aspx?id=7162</a>
+  
 (parents will get some tips on how to approach the topic on Sexualtiy education with child)
 
 ### Parenting Skills
 
-[Parenting a Teenager](http://www.parentingateenager.net/)  
-[BBC Parenting](http://www.bbc.co.uk/parenting/your_kids/teen_index.shtml)  
+<a href="http://www.parentingateenager.net/" target="_blank">Parenting a Teenager</a>    
+<a href="http://www.bbc.co.uk/parenting/your_kids/teen_index.shtml" target="_blank">BBC Parenting</a>    
 (comprehensive parenting skills — much info on how to deal with teenagers)  
-[Family & Community Development](http://fcd.ecitizen.gov.sg/PopularTopics/EducationalMaterials)  
-[Focus on the Family](http://www.family.org.sg/)  
+<a href="http://fcd.ecitizen.gov.sg/PopularTopics/EducationalMaterials" target="_blank">Family & Community Development</a>    
+<a href="http://www.family.org.sg/" target="_blank">Focus on the Family</a>    
 (The mission of the Focus on the Family is to strengthen the institution of family by coming alongside families to enrich them.)
 
 ### Communicating with Teenagers
