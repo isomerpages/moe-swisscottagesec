@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - For Parents/MOE Cyber Wellness Portal.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Physical Development.md
