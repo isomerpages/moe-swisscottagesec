@@ -17,4 +17,5 @@ sections:
       title: New Year’s Eve
       button: Click here
       url: /new-years-eve/
+      subtitle: 31 Dec
 ---
