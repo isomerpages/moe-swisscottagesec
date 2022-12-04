@@ -47,6 +47,5 @@ Girl Guides – www.girlguides.org.sg/
 
 ### Communicating with Teenagers
 
-<a href="http://life.familyeducation.com/teen/communication/34406" target="_blank">Family Education</a>
-
+<a href="http://life.familyeducation.com/teen/communication/34406" target="_blank">Family Education</a>   
 (focus on communicating with teens)
