@@ -8,10 +8,10 @@ third_nav_title: For Parents
 
 The following are links to websites that we feel may be useful in the development of your child in their physical and emotional areas:
 
-1\.  [Physical Development](https://swisscottagesec.moe.edu.sg/quick-links/for-parents/physical-development/)  
-2\.  [Co-curricular Activities Programme](https://swisscottagesec.moe.edu.sg/quick-links/for-parents/co-curricular-activities-programme/)  
-3\.  [Post Secondary Education/Career Guidance](https://swisscottagesec.moe.edu.sg/quick-links/for-parents/post-secondary-educationcareer-guidance/)  
-4\.  [MOE Cyber Wellness Portal](https://swisscottagesec.moe.edu.sg/quick-links/for-parents/moe-cyberwellness-portal/)  
+1\.  [Physical Development](/quick-links/For-Parents/physical-development/)  
+2\.  [Co-curricular Activities Programme](/quick-links/For-Parents/co-curricular-activities-programme/)  
+3\.  [Post Secondary Education/Career Guidance](/quick-links/For-Parents/post-secondary-educationcareer-guidance/)  
+4\.  [MOE Cyber Wellness Portal](/quick-links/For-Parents/moe-cyberwellness-portal/)  
 5\.  [Sexuality Education Programme](/swiss-experience/Student-Development-Programme/sexuality-education/)
 
 Information for 2023
