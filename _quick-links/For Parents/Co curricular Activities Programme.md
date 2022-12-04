@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 ---
 # links broken: Singapore Schools Sports Council,National Cadet Corp, National Police Cadet Corp, Infocomm Development Authority of Singapore, Sexuality Education, BBC Parenting, Family & Community Development, Family Education
-# St. John Ambulance Brigade link probably leads to the wrong website
+# St. John Ambulance Brigade link probably leads to an unintended website
 # Co-curricular Activities Programme
 
 <a href="http://www.nyaa.org/" target="_blank">National Youth Achievement Awards</a>
