@@ -37,7 +37,6 @@ description: ""
 |  SUBJECT HEAD / STUDENT WELFARE                  |  KOH SOON LIANG (MR)                |
 |  ACTING SUBJECT HEAD / CRAFT & TECHNOLOGY        |  KOH JOON TECK (MR)                 |
 |  ACTING SUBJECT HEAD / TECHNOLOGY for   LEARNING |  LIM JUNXUAN CHRISTOPHER (MR)       |
-|  ACTING SUBJECT HEAD / CHEMISTRY                 |  WONG WEE LENG (MDM)                |
 |  ACTING SUBJECT HEAD / CCE                       |  HENG TENG BOON (MR)                |
 |  LEAD TEACHER / ENGLISH LANGUAGE                 |  TAN SU YIN CONSTANCE (MDM)         |
 |  LEAD TEACHER / BIOLOGY                          |  JASON SEOW (MR)                    |
