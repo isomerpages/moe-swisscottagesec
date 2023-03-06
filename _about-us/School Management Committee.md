@@ -7,8 +7,7 @@ description: ""
 
 |                                                  |                                     |
 |--------------------------------------------------|-------------------------------------|
-| PRINCIPAL                                        |  SHERWIN CHENG (MR)                 |
-|  PRINCIPAL-DESIGNATE                             |  CHENG MUN YI MANDY (MDM)           |
+|  PRINCIPAL                           |  CHENG MUN YI MANDY (MDM)           |
 |  VICE-PRINCIPAL                                  |  WONG WEE LING (MISS)               |
 |  VICE-PRINCIPAL (ADMIN)                          |  CHAN CHEE WEI (MR)                 |
 |  SCHOOL STAFF DEVELOPER                          |  LIM JUN LI (MR)                    |
