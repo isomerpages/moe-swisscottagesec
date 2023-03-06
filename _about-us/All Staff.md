@@ -260,5 +260,5 @@ description: ""
 | OPERATIONS SUPPORT OFFICER      | HO SIEW WEI (MS)                                                |
 | OPERATIONS SUPPORT OFFICER      | WONG KWAI HOONG (MDM)                                           |
 | LIBRARY ASSISTANT               | LAM WENG KWAN ALAN (MR)                                         |
-| DESKTOP ENGINEER (NCS)          | MUHAMMAD ZUHAIRI BIN ZAILANI (MR)     CHEW JIA XUAN WINNIE (MS) |
+| DESKTOP ENGINEER (NCS)          | MUHAMMAD ZUHAIRI BIN ZAILANI (MR)      |
 | KITCHEN ASSISTANT               | KAHYATI BTE SAPUAN (MDM)                                        |
