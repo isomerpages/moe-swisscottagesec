@@ -3,7 +3,6 @@ title: PDLP@Swiss Cottage
 permalink: /swiss-experience/pdlpswiss-cottage/
 description: ""
 ---
-# links broken: MOE Cyber Wellness Programme, https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection , https://asiapac.com.sg/pld/apple
 # PDLP@Swiss Cottage
 
 <b><u>Personalised Digital Learning Programme (PDLP) @ Swiss</u></b>
@@ -55,83 +54,85 @@ To support you in keeping your child safe online, you may refer to these resourc
 *   [nlb.gov.sg/](http://nlb.gov.sg/)
 *   [help123.sg](http://help123.sg/)
 
+**<u>Use of Edusave</u>**
+
+To ensure the affordability of devices, MOE has provided Edusave top-ups of $200 in 2020, 2021 and 2022 to all eligible SC students in primary and secondary schools. This is on top of the annual $290 credited into the Edusave account for Secondary School students and $230 for Primary School students. Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of 2nd-tier miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD.
 
 <b><u>Financial Assistance</u></b>
 
-<p style="text-align: justify;">To ensure the affordability of devices, MOE has provided Edusave top-ups of $200 in 2020 and $200 in May 2021 (as part of the Household Support Package announced in Budget 2021), to all eligible SC students in primary and secondary schools. This is on top of the annual $290 credited into the Edusave account for Secondary School students and $230 for Primary School students.</p>
+<p style="text-align: justify;">Subsidies are available for students who require funding support to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for the PLD, after subsidies have been granted. Please see the table below for information on the eligibility for the subsidy:</p>
 
-*   <p style="text-align: justify;"><u>Singapore Citizens</u> students whose gross household income (GHI) is $4,000 and below or whose per capita income (PCI) is $1000 and below, can apply for subsidies via the school. Students who are currently on MOE FA and school-based FA need not apply as the subsidies are provided to them automatically.</p>
-*   <p style="text-align: justify;"><u>Permanent residents (PR) and international students (IS)</u> should also approach the school for more information on financial assistance.</p>
+| Students eligible for subsidy | Income criteria | How to Apply for Subsidy |
+|---|---|---|
+| Students under MOE FAS | Gross Household Income (“GHI”) is $3,000 or less, or<br>Per Capita Income (“PCI”)* is $750 or less | No action required. Automatically subsidised for the PLD. |
+| Students under School-based FAS | GHI is $4,400 or less, or<br>PCI is $1,100 or less | Approach the school’s General Office to apply for a subsidy. |
+| Students who are currently not under the MOE FAS or School-based FAS | GHI is $4,400 or less, or<br>PCI is $1,100 or less | Approach the school’s General Office to apply for a subsidy. |
 
-<b><u>Device Management Application (DMA)</u></b>
+**\* PCI** refers to the GHI divided by the total number of family members in the household.
 
-<p style="text-align: justify;">In rolling out the PLD, MOE is acutely aware of concerns regarding students’ cyber-wellness. The DMA allows the school to manage this by</p>
+**<u>Device Management Application (DMA)</u>**
+
+In rolling out the PLD, MOE is acutely aware of concerns regarding students’ cyber-wellness. The DMA allows the school to manage this by
 
 *   collecting data on usage by the student, such as the amount of time spent on each application,
 *   monitoring, filtering and limiting the type of websites accessible to the student, and
 *   placing restrictions on students’ screen time in order to prevent cyber addiction.
 
-<p style="text-align: justify;">When you purchase a PLD (iPad), the PLD will be pre-installed with a Device Management Application (DMA) known as Mobile Guardian. The DMA has a variety of functions that will support the use of the PLD in the classroom, as well as safeguard students’ cyber-wellness. The DMA has 3 main components:</p>
+When you purchase a PLD (iPad), the PLD will be pre-installed with a Device Management Application (DMA) known as Mobile Guardian. The DMA has a variety of functions that will support the use of the PLD in the classroom, as well as safeguard students’ cyber-wellness. The DMA has 3 main components:
 
-<p style="text-align: justify;">(a) <b>Classroom Management Service.</b> This enables teachers to actively monitor and control the student’s use of the PLD during lesson time to improve student management and deliver effective teaching.</p>
+(a) **Classroom Management Service.** This enables teachers to actively monitor and control the student’s use of the PLD during lesson time to improve student management and deliver effective teaching.
 
-<p style="text-align: justify;">(b) <b>Mobile Device Management Service.</b> This facilitates the remote deployment of teaching and learning applications and comes with security patches. Schools may also leverage the Mobile Device Management Service to install the school’s teaching and learning resources.</p>
+(b) **Mobile Device Management Service.** This facilitates the remote deployment of teaching and learning applications and comes with security patches. Schools may also leverage the Mobile Device Management Service to install the school’s teaching and learning resources.
 
-<p style="text-align: justify;">(c) <b>Usage Management Service</b>. This addresses the stress to the student’s eyes from prolonged use and cyber wellness concerns, such as excessive and inappropriate use of the PLD.</p>
+(c) **Usage Management Service**. This addresses the stress to the student’s eyes from prolonged use and cyber wellness concerns, such as excessive and inappropriate use of the PLD.
 
-<b><u>Roll-Out of IT Applications as part of National Digital Literacy Programme (NDLP)</u></b>
+**<u>Roll-Out of IT Applications as part of National Digital Literacy Programme (NDLP)</u>**
 
-<p style="text-align: justify;">As part of the NDLP, schools have progressively rolled out IT applications that are vital to students’ learning experience and educational journey.</p>
+As part of the NDLP, schools have progressively rolled out IT applications that are vital to students’ learning experience and educational journey.
 
-(a) **Student iCON:** every secondary school student is given an email address. This is a service provided by Google as part of Google Suite.
+(a) **Student iCON:** This is a service provided by Google as part of Google Suite. Every secondary school student will be provided with access to the Google Suite set of tools such as Gmail, Google Drive, Google Calendar, Google Classroom, etc including email address.
 
 (b) **Microsoft Pro Plus:** every secondary school is granted a licence to use Microsoft Office tools that include Word, PowerPoint and Excel.
 
 (c) **Zoom:** every secondary school student is given a free Zoom account with 40 minutes time limit using Student iCON for the schools’ video conferencing needs.
 
-<p style="text-align: justify;">The school needs to use your child/ward’s personal data such as his/her name and class to set up user accounts. Please refer to our Frequently Asked Questions section for more information on the collection of data via these applications.</p>
+(d) **Others**: GoodNotes 5 (for digital note-taking, e-filing of notes and assignments, collaborative work)
 
-<b><u>Data Protection</u></b>
+The school needs to use your child/ward’s personal data such as his/her name and class to set up user accounts. Please refer to our Frequently Asked Questions section for more information on the collection of data via these applications.
 
-<p style="text-align: justify;"><b>DMA.</b> The Device Management Application (DMA) which will be installed in your child/ward’s PLD collects data on usage by the student, such as the amount of time spent on each application. The DMA data will only be used for MOE’s cyber-wellness measures and technical troubleshooting. MOE will not disclose the data to any person otherwise than permitted under the law.</p>
+**<u>Data Protection</u>**
 
-<p style="text-align: justify;"><b>I.T. Applications.</b> For the IT Applications (student iCON, Microsoft ProPlus and Zoom), the school will use your child/ward’s personal data such as his/her name, birth certificate number and class to set up user accounts. This data will also be used for the purposes of authenticating and verifying user identity, troubleshooting and facilitating system improvements. In addition, the commercial providers of these platforms (e.g. Google, Microsoft) will collect and deal with user data generated by your child/ward’s use of these applications. The collection use and disclosure of such data are governed by the commercial provider’s terms of use, which can be found here:</p>
+**DMA.** The Device Management Application (DMA) which will be installed in your child/ward’s PLD collects data on usage by the student, such as the amount of time spent on each application. The DMA data will only be used for MOE’s cyber-wellness measures and technical troubleshooting. MOE will not disclose the data to any person otherwise than permitted under the law.
+
+**I.T. Applications.** For the IT Applications (student iCON, Microsoft ProPlus and Zoom), the school will use your child/ward’s personal data such as his/her name, birth certificate number and class to set up user accounts. This data will also be used for the purposes of authenticating and verifying user identity, troubleshooting and facilitating system improvements. In addition, the commercial providers of these platforms (e.g. Google, Microsoft) will collect and deal with user data generated by your child/ward’s use of these applications. The collection use and disclosure of such data are governed by the commercial provider’s terms of use, which can be found here:
 
 *   Student\_iCON: [https://workspace.google.com/terms/education\_terms\_japan.html](https://workspace.google.com/terms/education_terms_japan.html)
 *   Microsoft Pro Plus: [https://portal.office.com/commerce/mosa.aspx](https://portal.office.com/commerce/mosa.aspx) 
 *   Zoom: [https://zoom.us/docs/en-us/schools-privacy-statement.html](https://zoom.us/docs/en-us/schools-privacy-statement.html)
 
-<p style="text-align: justify;">All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: <a href="https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection">https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection</a></p>
+All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: [https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection](https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection)
 
+**<u>Technical Support</u>**
 
-<b><u>Technical Support</u></b>
+1.  AsiaPac Technology Pte Ltd (school vendor for PDLP iPad)
+    1.  Help Desk number: 6270 8281
+    2.  Help Desk email: pdlpapple@asiapac.com.sg
+    3.  Help Desk operating hours: Mon-Thu 0830 to 1730, Fri 0830-1700. Closed on Sat, Sun & Public Holidays
+    4.  Website: [https://asiapac.com.sg/pld/apple](https://asiapac.com.sg/pld/apple) (for buying of accessories)
+2.  School-based Support
+    1.  Technical matters: email to g-ncs3304sde@ncs.com.sg
+    2.  Administrative matters: email to giam\_chin\_leong@moe.edu.sg
+    3.  Finance matters: email to scss@moe.edu.sg
+    4.  Telephone/Whatsapp messaging: 6631 9680 / 6631 9625
+    5.  Operating hours: school days from 8 am to 5 pm excluding weekends and public holidays
 
-<ol>
-<li>AsiaPac Technology Pte Ltd (school vendor for PDLP iPad)
-<ol style="list-style-type: lower-alpha;">
-<li>Help Desk number: 6270 8281</li>
-<li>Help Desk email: pdlpapple@asiapac.com.sg</li>
-<li>Help Desk operating hours: Mon-Thu 0830 to 1730, Fri 0830-1700. Closed on Sat, Sun &amp; Public Holidays</li>
-<li>Website:&nbsp;<a href="https://asiapac.com.sg/pld/apple">https://asiapac.com.sg/pld/apple</a>&nbsp;(for buying of accessories)</li>
-</ol>
-</li>
-<li>School-based Support
-<ol style="list-style-type: lower-alpha;">
-<li>Technical matters: email to g-ncs3304sde@ncs.com.sg</li>
-<li>Administrative matters: email to giam_chin_leong@moe.edu.sg</li>
-<li>Finance matters: email to scss@moe.edu.sg</li>
-<li>Telephone/Whatsapp messaging: 6631 9680 / 6631 9625</li>
-<li>Operating hours: school days from 8 am to 5 pm excluding weekends and public holidays</li>
-</ol>
-</li>
-</ol>
-
-<b><u>Resources for Parents/Students</u></b>
+**Resources for Parents/Students**
 
 *   [2022 Sec 1 eMTP – PDLP Briefing](/files/PDLP@Swiss%20Cottage/2022-Sec1-eMTP-06Jan22-PDLP-Briefing.pdf)
 *   [Parents Handbook (I) (MOE)](/files/PDLP@Swiss%20Cottage/IP2-Parent-Handbook-I-on-Learning-with-a-PLD_8-Dec-21.pdf)
 *   [Parents Handbook (II) (MOE)](/files/PDLP@Swiss%20Cottage/IP3-Parent-Handbook-II-on-Learning-with-a-PLD_8-Dec-21.pdf)
 *   [MOE Cyber Wellness Programme](https://www.moe.gov.sg/programmes/cyber-wellness/)
+*   [PDLP – Swiss Letter to Parents 2023](/files/SCSS-Letter-and-Purchase-Option-Form-to-Parents-for-2023-PLD-Procurement-vhardcopy-purchase.pdf)
 *   [PDLP – Swiss Letter to Parents](/files/PDLP@Swiss%20Cottage/PDLP-Letter-To-Parents-vSwiss-Dec21.pdf)
 *   [PDLP Admin Form (for purchase of iPad bundle)](/files/PDLP@Swiss%20Cottage/PDLP-Purchase-Form-to-Parents-vSwiss-Dec21.pdf)
 *   [FAQs on PDLP@Swiss Cottage](/files/PDLP@Swiss%20Cottage/PDLP-FAQs-at-Sch-Website-SCSS-Dec-21.pdf)
