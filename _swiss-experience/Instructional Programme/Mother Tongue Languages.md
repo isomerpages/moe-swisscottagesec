@@ -10,7 +10,7 @@ third_nav_title: Instructional Programme
 
 <p style="text-align: justify;">The Swiss Mother Tongue Languages (MTL) curriculum, MTL Fortnight event, cultural camp, learning journeys and other enrichment programmes equip students with the linguistic skills to become proficient users of the MTL and be more appreciative of their own culture. This is in alignment to MOE’s policy to make the MTL “living” languages that students will use in everyday situations and develop in students a lifelong interest in their MTL and culture. Swiss MTL department uses everyday situations and contexts, current affairs and contemporary issues as well as authentic materials (e.g. reports, news articles) to provide real-world context for classroom learning. This will allow students to see the relevance of MTL to their daily lives, and enable students to achieve practical language competence.</p>
 
-<p style="text-align: justify;">To develop the students’ passion in their MTL language and to develop students’ maturity of thought, critical thinking skills, and their evaluation of arguments and opinions, we have been offering Literature in Malay and Elective Literature in Malay and would be offering Elective Literature in Chinese to the Upper Secondary Students. In so doing, we hope to foster a passion for students to read a wide variety of their MTL literary works, and to deepen the students’ masteryto their MTL language.</p>
+<p style="text-align: justify;">To develop the students’ passion in their MTL language and to develop students’ maturity of thought, critical thinking skills, and their evaluation of arguments and opinions, we have been offering Literature in Malay and Elective Literature in Malay and would be offering Elective Literature in Chinese to the Upper Secondary Students. In so doing, we hope to foster a passion for students to read a wide variety of their MTL literary works, and to deepen the students’ mastery to their MTL language.</p>
 
 <b><u>MTL Fortnight</u></b>
 
@@ -28,28 +28,26 @@ third_nav_title: Instructional Programme
 
 ### Our Team
 
-|                                       |                                                     |
-|---------------------------------------|-----------------------------------------------------|
-| Miss Toh Hui Jing                     | HOD Mother Tongue Languages                         |
-| Mr Koh Soon Liang                     | Subject Head / Chinese Language /Student Well-Being |
-| Mr Abdul Nasser S/O T A Mitten        | Lead Teacher / Tamil Language                       |
-| Mdm Xu Yiping                         | Senior Teacher / Chinese Language                   |
-| Mdm Noorhidaya Bte Abdul Karim        | Senior Teacher / Malay Language                     |
-| Miss Low Yu Hui                       | Chinese Language Teacher                            |
-| Mdm Tee Lay Kean                      | Chinese Language Teacher                            |
-| Ms Teo Lei Xin Alviena                | Chinese Language Teacher                            |
-| Mdm Li Xiaorong                       | Chinese Language Teacher                            |
-| Ms Tam Siew Kee                       | Chinese Language Teacher                            |
-| Ms Hon Soo Sien                       | Chinese Language Teacher                            |
-| Ms Fan Yunyun                         | Chinese Language Teacher                            |
-| Mdm Hu Fang                           | Flexi-Adjunct Teacher / Chinese Language            |
-| Miss Chua Hui Ling                    | Flexi-Adjunct Teacher / Chinese Language            |
-| Mdm Redha Nasuha Bte Mas’od           | Malay Language Teacher                              |
-| Mdm Siti Aishah Binti Mohamed Kamsani | Malay Language Teacher                              |
-| Mdm Taty Fairuwani Bte Hamwal         | Malay Language Teacher                              |
-| Mdm Nur Zuliana Bte Hamdan            | Malay Language Teacher                              |
-| Ms Norazela Bte Rosli                 | Malay Language Teacher                              |
-| Mdm Maheshwari Thangaiah              | Tamil Language Teacher                              |
-| Mdm Vijayaprabha Natarajan            | Tamil Language Teacher                              |
-| Mdm Thasradha Chandraleka             | Tamil Language Teacher                              |
-| Miss Durga Krishnamurthi              | Flexi-Adjunct Teacher / Tamil Language              |
+|  |  |
+|---|---|
+| Miss Toh Hui Jing | HOD Mother Tongue Languages |
+| Mr Koh Soon Liang | Subject Head / Chinese Language /Student Well-Being |
+| Mr Abdul Nasser S/O T A Mitten | Lead Teacher / Tamil Language |
+| Mdm Xu Yiping | Senior Teacher / Chinese Language |
+| Mdm Noorhidaya Bte Abdul Karim | Senior Teacher / Malay Language |
+| Mdm Tee Lay Kean | Chinese Language Teacher |
+| Ms Teo Lei Xin Alviena | Chinese Language Teacher |
+| Mdm Li Xiaorong | Chinese Language Teacher |
+| Ms Tam Siew Kee | Chinese Language Teacher |
+| Ms Hon Soo Sien | Chinese Language Teacher |
+| Ms Fan Yunyun | Chinese Language Teacher |
+| Mdm Hu Fang | Flexi-Adjunct Teacher / Chinese Language |
+| Ms Chen Xi | Flexi-Adjunct Teacher / Chinese Language |
+| Mdm Redha Nasuha Bte Mas’od | Malay Language Teacher |
+| Mdm Siti Aishah Binti Mohamed Kamsani | Malay Language Teacher |
+| Mdm Nur Zuliana Bte Hamdan | Malay Language Teacher |
+| Ms Norazela Bte Rosli | Malay Language Teacher |
+| Mdm Maheshwari Thangaiah | Tamil Language Teacher |
+| Mdm Vijayaprabha Natarajan | Tamil Language Teacher |
+| Mdm Thasradha Chandraleka | Tamil Language Teacher |
+| Mr Viswalingam Thenmozhi |  Flexi-Adjunct Teacher / Tamil Language |
