@@ -36,23 +36,20 @@ third_nav_title: Instructional Programme
 
 ### Our Team:
 
-|                                  |                                                    |
-|---------------------------|-----------------------------|
-| Mrs Lim-Ong Ching Ching          | HOD Craft & Technology                                                    |
-| Mdm Chok Shuk Yin                | HOD CCE & Student Well-being                                              |
-| Mr Koh Joon Teck                 | Acting Subject Head / Smart Electrical Technology and Design & Technology |
-| Mr Lee Hongyun Eric              | Design & Technology and Smart Electrical Technology                       |
-| Mdm Sim Chin Ling                | Design & Technology                                                       |
-| Mr Simon Wong Yin Kew            | Design & Technology                                                       |
-| Mrs Tan – Young Tsui Hwa         | Design & Technology                                                       |
-| Mdm Iznur Shahidah Bte Ishak     | Design & Technology                                                       |
-| Mdm Koh Shin Yee                 | Food & Nutrition                                                          |
-| Mdm Liew Shan Shan               | Food & Nutrition                                                          |
-| Mdm Su Ziyan                     | Food & Nutrition                                                          |
-| Mr Ardi Syafrin Senawi           |  Art                                                                      |
-| Mdm Nurfarihah Bte Ahmad Rifa’eh |  Art                                                                      |
-| Mdm Sally Hong Jie Hui           |  Art                                                                      |
-| Mdm Kahyati Bte Sapuan           | Kitchen Assistant                                                         |
-| Mr Chua Soo Chuan                | Educational Workshop Instructor                                           |
-| Mr S. Rozaini Bin Yusoff         | Educational Workshop Instructor                                           |
-| Mr Low Keoh                      | Flexi Adjunct                                                             |
+|  |  |
+|---|---|
+| Mrs Lim-Ong Ching Ching | HOD Craft & Technology |
+| Mdm Chok Shuk Yin | HOD CCE & Student Well-being |
+| Mr Koh Joon Teck | Subject Head / Smart Electrical Technology and Design & Technology |
+| Mr Lee Hongyun Eric | Design & Technology and Smart Electrical Technology |
+| Mr Simon Wong Yin Kew | Design & Technology |
+| Mrs Tan – Young Tsui Hwa | Design & Technology |
+| Mdm Iznur Shahidah Bte Ishak | Design & Technology |
+| Mdm Koh Shin Yee | Food & Nutrition |
+| Mdm Su Ziyan | Food & Nutrition |
+| Mdm Nurfarihah Bte Ahmad Rifa’eh |  Art |
+| Ms Nur Aqilah Bte Johari |  Art |
+| Mdm Kahyati Bte Sapuan | Kitchen Assistant |
+| Mr Chua Soo Chuan | Educational Workshop Instructor |
+| Mr S. Rozaini Bin Yusoff | Educational Workshop Instructor |
+| Mr Low Keoh | Flexi Adjunct |
