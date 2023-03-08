@@ -304,7 +304,7 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 | Topics/Lessons                    | Programme Learning Objectives                                                                                                                                                                                   | Time Period<br><br>(e.g. Term 3 Week 9) |
 |------------|------------|-------------------|
 | Mass Talk by HPB appointed vendor | ·       Awareness of the different STIs and HIV/AIDS<br><br>·       Modes of transmission<br><br>·       Modes of protection, specifically on how the condom is used<br><br>·       Consequences and impact of STIs/HIV | Term 2 Week 2                           |
-| Classroom-based Lesson            | ·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making                                                                               | Term 2 Week 2                           |
+| Classroom-based Lesson            | ·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making                                                                               | Term 2 Week 3                           |
 
 
  **Information for Parents**
@@ -316,4 +316,3 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 12\.  Parents who wish to opt their children out of the **eTeens** need to complete an opt-out form via the link [here](https://form.gov.sg/63be7a08f4876f00137f6dee) . The completed form is to be submitted by 14/02/2023.
 
 13\. Parents can contact the school at [scss@moe.edu.sg](mailto:scss@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
-
