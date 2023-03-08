@@ -121,63 +121,44 @@ She expressed a deep sense of gratitude to her form teachers and CCA teachers fo
 
 Hannah plans to pursue the science stream with Biology, Chemistry, and Economics in Junior College. However, she is still unsure about her aspirations and what she wants to be in the future. “I do hope I figure it out in JC. For now, I think I want to be dentist or an optometrist in the future,” she said.
 
-<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Matthew-Anthony-Style-4N2.jpg" style="width:20%;float:left"><br clear="left">
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2022%20O%20Level%20Success%20Stories/Emma-Chee.jpeg" style="width:20%;float:left"><br clear="left"> 
 
+**Emma Chee (4E3)**
 
-**Matthew Anthony Style \[4N2\]**
+Swiss Cottage Secondary School’s first Sportswoman of the Year, Emma, is a shining example of resilience and perseverance. Her team came in as champions in the 2022 National Schools Games (NSG) 2022 ‘B’ Division floorball competition, showcasing her leadership skills and dedication to the sport. Her sense of honour was evident in the way she not only served as Captain of the school’s floorball team, but also gave her best in striving to better her academic achievements. Her teachers also described the way she made time to unassumingly offered to play the piano for School Open House even, having honed her own musical talent. Emma has a Diploma for Piano.
 
-“It’s the little victories that come our way that matter,” quipped Matthew – who scored an EMB3 9 with 5 distinctions.
+Emma admitted that distributing her time across so many areas of responsibilities and interests was not always easy. She recalled how while struggling to balance leading the B Division floorball team and studying for the Mid-Year Examinations, she faced a drop in results. But instead of giving up, Emma pushed herself even harder and put in more effort until the end of O Levels.
 
-Like many of his peers, Matthew had a bag of responsibilities. He served as Staff Sergeant in National Civil Defence Cadet Corps (NCDCC) and as a Safety Ambassador. As responsible student, he exhibited Honour through the dedication that he showed to his CCA and in the submission of high quality of his school work. He also exhibited Humility by displaying his willingness to learn and by being receptive to feedback.
+One of Emma’s biggest fears was not passing her Chemistry. “At the start of Secondary 3, I was getting A1s. However, as the year progressed, my grades started to fall. By the time I was in Secondary 4, I was constantly failing, and I was very worried for my prelims,” she revealed.
 
-Matthew shared that success comes from the small successes that one gains along the way. He shared how he had scored full marks for his mathematics Weighted Assessment 1 (WA1), and how it was an important milestone in the many little steps he took towards the national examinations. Matthew recalled that the incident was instrumental in giving him ‘newfound confidence’ in himself.
+But Emma was able to improve by 7 grades by O Levels. Despite her initial struggles with Chemistry, Emma was able to achieve a distinction in the GCE O Levels examination.
 
-“I challenged myself to attempt harder questions so I could be sure I wasn’t getting ahead of myself and so that I could be prepared for anything,” he shared pragmatically.
+“I think my resilience and perseverance was a key reason for this success,” Emma shared. “As an athlete myself, I know the importance of not giving up.”
 
-When asked about how he had succeeded in achieving 5 distinctions and an EMB3 of 9 points, Matthew shared that he took the initiative to clarify his doubts whenever he was unsure about any topic. He did this consistently for all his subjects. This openness to clearing up uncertainties in timely ways allowed him to ensure that he had a good level of understanding of each discipline – which helped in to consolidate larger bodies of knowledge and skills as time progressed and volume of learning multiplied. 
+Emma also knew that having concrete goals and planning was important. She set aside the time to apply for a spot through the Direct Schools Admission to Nanyang Junior College (NYJC) and was successful in her endeavor. This was an important move in enhancing her confidence.
 
-As a reflective thinker and learner, Matthew also shared how he had assiduously read through his practice assignment pieces to see where he had made mistakes so that he will not repeat them again in the next test or examination. Hi teachers described him as a highly participative who would inject positivity during lessons to encourage peers to stay focused and learn well.
+“Knowing that I had already secured a spot in NYJC gave me a sense of security. It allowed me to focus on the learning itself without worrying about what course I would be eligible for.”
 
-“I feel proud of my achievements because I actually felt uneasy about how I would perform after my examinations. I was happy that I had done much better than I had for my preliminary examinations,” shared a delighted Matthew.
+Another key reason for Emma’s success was the support of her friends who gave her had a strong community to study with. They helped each other in the subjects they were stronger at. She also expressed deep gratitude to all her subject teachers who guided her throughout her school journey. She specifically thanked Mr Irfan, her floorball Teacher in charge, who had always been a source of encouragement for her since she entered Swiss cottage.
 
-Matthew would be keen to pursue his studies in either biomedical sciences or pharmaceutical research, which are areas of study that he has a keen passion and interest in. Matthew thanked all teachers who have made his success possible and hopes that he has made them proud.
+Emma hopes to pursue a degree in the medical field or in the music industry, both of which align with her passion and interests. In the field of medicine, she is drawn to pediatrics, as she has a deep love for working with young children. Similarly, because music has been her constant companion throughout her academic journey, she hopes to continue to nurture it in the future as well. The athletic leader in Emma believes that with grit and determination, everyone can reach the summit of success.
 
-<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Muhd-Akif-4N1.jpg" style="width:20%;float:left"><br clear="left">
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2022%20O%20Level%20Success%20Stories/Vedamurthy-Sridar.jpeg" style="width:20%;float:left"><br clear="left">
 
+**Vedamurthy Sridar (4E4)**
 
-**Muhammad Akif Taruna Bin Jafataruna \[4N1\]**
+Vedamurthy Sridar, or Sridar as he is known to his peers, is an unassuming student. When he was highlighted by the Principal in her Special Mention address to the cohort, he expressed surprise. A picture of humility, his teacher remembered him as sone who constantly strove to make personal improvements by seeking new and concrete ways to do better. He had also served actively as an Assistant Troop Leader for Swiss Falcon Scouts; he honoured his CCA commitments – which in turn made his peers respect him.  Recognised for his contributions as a leader even at the primary level, he was offered a place in Swiss Cottage Secondary School through the Direct School Admission route.
 
-‘Ecstatic’ was the word that Akif used to describe how he felt after receiving an EMB3 of 8 points and 6 distinctions. Elated, he thanked his parents, teachers and friends for their unstinting support which contributed towards his success.
+Sridar shared that he faced a difficult journey when it came to his academic performance. He struggled in subjects like the English Language, among others. Eventually, having not meeting the promotional criteria in Sec 3 in 2021, he was invited for a meeting with school leaders to discuss and chart his future learning route, to determine if he should be retained or advanced to the higher level.  The meeting was an important turning point and gave him an honest appraisal of his choices throughout the year.
 
-“When I received back my prelim results for all my subjects, I know I could have done better,” recollected Akif, when asked if there was a defining moment he could share. He added, “During the few months before the N level examinations, I pushed myself very hard. The goal was to perform better than the Preliminary Examinations.”
+“I was spending too much time on non-academic pursuits. I realised that I couldn’t disappoint myself and the people around me anymore,” he said recalling the sense of regret he had experienced. He knew he was easily distracted and tended to hang out with friends instead of studying.
 
-Akif recounted how holding three leadership positions during his Secondary Three year was not an easy task. He served as a member of Floorball team, Student Council and the House Executive Committee. He often found himself struggling to complete his assignments and study for his tests amidst a busy schedule.
+Sridar did not look back. His sincerity was evident in the way he quietly worked hard and persevered, never expecting to be rewarded or celebrated for his efforts. Despite initial struggles in subjects like the English Language and the hesitation caused by his shy nature, he never gave up. What he could not do because he was not as expressive or extroverted as some others, he made up for in dedication and resolution. He was willing to put in the time and effort to improve and reach his goals, having learnt to ask for help or guidance when needed.
 
-“I knew I needed time management and a healthy mindset to manage all commitments. I needed to free up time. So during any free period that I had, I would take the time to work on subjects I was weaker in, such as Math and my Sciences. This move meant that I could delegate time for other subjects so that I could revise all my subjects fairly,” he reminisced.
+In fact, Sridar’s determination to improve his grades and even to keep going in the face of adversity became truly inspiring. For example, when he was feeling unwell on the day of a major examination, he pushed himself to perform his best and achieved an A2 grade for science.
 
-Akif was described by his teachers as a highly participative individual with positive learning attitude. He was also known to be proactive in seeking help for self-improvement. In fact, he exhibited Honour when he showed perseverance and followed through plans. For example, his strategy of prioritising the study of mathematics and science which were his weaker subjects definitely paid off in the end. •He also exhibited Humility by asking useful questions to improve understanding and knowledge. He made steady progress that culminated in the happy results he received in the N levels.
+“After the release of my preliminary examination results for subjects like Geography and Mother Tongue, I was very proud of myself because my hard work had paid off. This motivated me to put in more effort in my weaker subjects like mathematics and science,” he shared.
 
-Akif aspires to work in the medical field to save lives and help others in need. He shared that he has plans to either apply for the Biomedical Science course is Singapore Polytechnic or the Nursing course in Ngee Ann Polytechnic through the Poly Foundation Programme (PFP).
+Sridar’s experience serves as a reminder that failure is indeed a stepping-stone to success; success follows when we learn from mistakes and push through difficult times. Sridar has big plans for his future. He hopes to pursue a Diploma in Accountancy in the Polytechnic. He believes that this field of study will be useful for him in the future when he sets up his own business.
 
-“To all my juniors, cherish your time in Swiss cause because you will miss it,” quipped Akif, who believes in making the most of the time one has, to fully engage on the opportunities that come in one’s way.
-
-<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Yong-Haiwen-John-4N1.jpg" style="width:20%;float:left"><br clear="left">
-
-**Yong Haiwen John \[4N1\]**
-
-Haiwen was a picture of joy and satisfaction as he shared how managed to obtain an EMB3 of 8 points including 4 distinctions.
-
-He attributed his success to his consistency in revising what he had learnt in school every single day. He cited how he would stay in school till evening to revisit a concept such as covalent bonds in Chemistry so that he can reinforce his understanding of it.  He also shared that he chose to study in school as he felt that it was a conducive environment that allowed him to be highly prolific. He explained, “I was away from distractions like my computer, I could study more productively without being distracted.”
-
-  
-Haiwen shared that another key reason for his success was his desire to pursue passion in an aerospace related career. “I have a passion for airplanes. And when I saw that some polytechnics offered aerospace courses, I was excited and I set my goals to get the desired grades to land a chance of applying for the aerospace programme.’
-
-His quest for academic excellence was not always a smooth journey, but Haiwen persevered. Like many students, Haiwen shared that one of his greatest fears was falling short of his expected grades. He recounted how he was shocked when his mid-year examination results fell short of his expectations. He could not allow fear of failure to get the better of him.  He went back to the drawing board to work on his revision methods, and he redirected his focus, working on more practice papers to give himself the confidence to do well.
-
-Besides his self-directed attitude in the academic domain, he also contributed to the school by serving as Staff Sergeant in NCC (Air). In all areas, he exhibited Honour by doing the right thing even if it was difficult or inconvenient. He was also commended for his Humility in the way he actively self-reflected for self-improvement.
-
-On the happy day of his results, Haiwen also had some words of thanks for his teachers: “To all my teachers, thank you all for teaching me and guiding me to achieve what I have today. Thank you!”
-
-Haiwen was very clear about his desire to pursue his studies in aerospace engineering. He shared that he would like to be either an air force engineer or work in the aerospace department in Singapore Technology Engineering.
-
-**_Introduction: Key quotes below photographs (own thoughts about studying and growth) what is the key quote and idea. Stand and hold a photograph. Standing beside certain backdrop. Group photograph. PMC photograph._**
+Looking back with satisfaction, Sridar remembered to express his gratitude for the support and guidance he had received from his teachers. He specifically thanked his English teacher, Madam June, Geography teacher Miss Anita Sin and his form teacher Madam Hidaya.
