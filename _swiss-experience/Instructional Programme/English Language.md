@@ -61,19 +61,19 @@ We aim to
 
 ### Our Team
 
-| English Language Team                 |                                     |
-|---------------------------|--------------------------|
-| Mdm Lim Wee Teng June                 | HOD English Language                |
-| Miss Tan Annie                        | Year Head  (Lower Secondary)        |
-| Mr Wong Wai Kiong Terence             | HOD Technology for Learning         |
-| Mr Tan Jeng, Gordon                   | Subject Head / English Language     |
-| Mrs Constance Wong                    | Lead Teacher / English Language     |
-| Ms Herina Bte Roslin                  | Senior Teacher / English Teacher    |
-| Ms Kek Huiyu                          | Acting Year Head / English Language |
-| Mdm Ong Yuan Shin                     | English Language                    |
-| Miss Tan Mee Han                      | English Language                    |
-| Mr Syed Segaff Bin Syed Khaled Alsree | English Language                    |
-| Ms Serene Lee Ching Lien              | English Language                    |
-| Ms Faith Wang Yi Shan                 | English Language and Geography      |
-| Mr Lee De Yi                          | English Language and Literature     |
-| Ms Tan Yan Lin, Hazel                 | English Language and Literature     |
+| English Language Team |  |
+|---|---|
+| Mdm Lim Wee Teng June | HOD English Language |
+| Miss Tan Annie | Year Head  (Lower Secondary) |
+| Mr Wong Wai Kiong Terence | HOD Technology for Learning |
+| Mr Tan Jeng, Gordon | Subject Head / English Language |
+| Mrs Constance Wong | Lead Teacher / English Language |
+| Ms Herina Bte Roslin | Senior Teacher / English Teacher |
+| Ms Kek Huiyu | Year Head / English Language |
+| Mdm Ong Yuan Shin | English Language |
+| Miss Tan Mee Han | English Language |
+| Mr Syed Segaff Bin Syed Khaled Alsree | English Language |
+| Ms Serene Lee Ching Lien | English Language |
+| Ms Faith Wang Yi Shan | English Language and Geography |
+| Ms Tan Yan Lin, Hazel | English Language and Literature |
+| Mr Vellasamy Rasandran |  Adjunct / English |
