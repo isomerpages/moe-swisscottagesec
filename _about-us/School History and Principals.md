@@ -17,6 +17,7 @@ description: ""
  Mr Liu Earnler (Dec 2007 – Dec 2012)  
  Mr Heng Yew Seng (Dec 2012 – Dec 2017)  
  Mr Sherwin Cheng (Dec 2017 – Dec 2022)
+ Mdm Cheng Mun Yi Mandy (Dec 2022 – Present)
  
  ![](/images/About%20us/Principal_1.jpg)
  
@@ -24,6 +25,7 @@ description: ""
  
  ![](/images/About%20us/Principal_3.jpg)
  
+ ![](/images/About%20us/Princiapal_4.png)
 
 <a href="http://www.youtube.com/watch?v=ZAH-VwoMIhI&feature=youtu.be" target="_blank">Documentary on School History and Principals</a>
 
