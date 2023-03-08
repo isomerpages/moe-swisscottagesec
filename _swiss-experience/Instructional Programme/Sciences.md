@@ -4,7 +4,6 @@ permalink: /swiss-experience/Instructional-Programme/sciences/
 description: ""
 third_nav_title: Instructional Programme
 ---
-# Table of teachers seem to be duplicated in the orginal site, recommend to only keep one
 # Sciences
 
 **Rationale**
