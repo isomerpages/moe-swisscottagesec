@@ -55,12 +55,11 @@ third_nav_title: Instructional Programme
 
 The English Literature unit is a small cohesive unit made up of the following dynamic teachers
 
-|                          |                                           |
-|----------------------|------------------------|
-| Mdm Mini Sathiya Sidhan  | HOD/Total Curriculum & English Literature |
-| Mr Tan Jeng, Gordon      | Subject Head / English                    |
-| Mdm Tan Su Yin Constance | Lead Teacher / English                    |
-| Miss Herina Roslin       | Senior Teacher / English                  |
-| Mr Lee De Yi             | English Language and Literature Teacher   |
-| Ms Hazel Tan             | English Language and Literature Teacher   |
-| Mr Salleh Bin Merwan     | English Literature / Geography Teacher    |
+|  |  |
+|---|---|
+| Mdm Mini Sathiya Sidhan | HOD/Total Curriculum & English Literature |
+| Mr Tan Jeng, Gordon | Subject Head / English |
+| Mdm Tan Su Yin Constance | Lead Teacher / English |
+| Miss Herina Roslin | Senior Teacher / English |
+| Ms Hazel Tan | English Language and Literature Teacher |
+| Mr Salleh Bin Merwan | English Literature / Geography Teacher |
