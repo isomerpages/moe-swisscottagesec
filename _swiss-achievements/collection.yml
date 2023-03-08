@@ -2,7 +2,6 @@ collections:
   swiss-achievements:
     output: true
     order:
-      - Success Stories Archive.md
       - Swiss Achievements.md
       - Swiss Success Stories/.keep
       - Swiss Success Stories/Swiss Success Stories.md
@@ -29,3 +28,4 @@ collections:
       - Achievements Archive/Highlights of 2015.md
       - Achievements Archive/Highlights of 2014.md
       - Achievements Archive/Highlights of 2013.md
+      - Success Stories Archive.md
