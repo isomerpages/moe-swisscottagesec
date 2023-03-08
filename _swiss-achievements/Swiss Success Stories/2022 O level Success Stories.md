@@ -6,143 +6,120 @@ third_nav_title: Swiss Success Stories
 ---
 # 2022 O-level Success Stories
 
-<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Cruz-Abiel-Aquino-4T1.jpg" style="width:20%;float:left"><br clear="left">
 
-**Cruz Abiel Aquino \[4T1\]**
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2022%20O%20Level%20Success%20Stories/Bong-Xin-Ying-Dione.jpeg" style="width:20%;float:left"><br clear="left">
 
-Abiel achieved 3 distinctions and scored 5 points for his EMB2 and emerged as one of the top students for the 2021 N level examinations, qualifying for lateral transfer to the Normal Academic Course.
+**Bong Xin Ying Dione (S5N2)**
 
-When Mr. Sherwin Cheng presented the list of students who have done well, Abiel did not expect to be one of them. He shared that he was truly surprised to have received a special mention.
+Dione expressed a huge sense of satisfaction with her results. She scored 13 points, making her eligible for both the Polytechnic and Junior College route.
 
-“I have not been doing well academically since the start of Secondary School,” he shared. On top of his academic struggles, Abiel also had to face a fair share of discipline cases. The turning point for Abiel came when he decided that he ‘wanted to have a good reputation.’ He felt that it was more important to manage how he carried himself – even if he was still not doing well. This conviction to place character first had a profound impact on his learning attitude thereafter.
+As the Vice Captain for Badminton, Dione exhibited the school value of Honour in the way she showed her commitment and inspired respect from her peers and juniors. Despite having been excused from CCA sessions due to her back injury, she continued to support the running of CCA in other less physically demanding areas. She was also humble in the way she worked to make personal improvements in managing the increased academic rigour at 5N.
 
-To make good the promise he made to himself, Abiel pushed himself to work hard.  He served as Class Chairperson, and was also known for good work ethics that was marked by hard work, perseverance and humility. His teachers and friends who noticed his efforts, encouraged him.  He exhibited Honour through his dedication in improving his academics and his skills as Bowler. He also exhibited Humility in the way he was receptive to feedback. He would always reflect on his mistakes, which led to him maturing and changing for the better.
+Looking back, Dione shared how she had entered Sec 5 with a heavy heart, because she had missed the Polytechnic Foundation Course because she scored a B4 for English Language. She admitted to feeling some worry about not being able to manage the O levels because she has heard that there is a “big jump from N to O level”. But thanks to the people around her, like her friends, teachers and family, she came to see that the Sec 5 route is not a terrible journey. And along the way, her teachers like Ms Ng Poh Keow also did not give up on her when she scored F9 for Additional Mathematics.
 
-His Form Teachers described Abiel asa student who displayed maturity in his thoughts and actions. He was known to be a self-directed learner who put in consistent effort to improve himself. The most striking aspect of his work attitude was the self-effacement with which he approached learnt from mistakes. His admirable learning dispositions and resilience paid off.
+“Ms Ng took time out to explain the questions to me,” she shared, grateful for all the support.
 
-These affirming gestures and words from the people around him in turn, spurred him on, and helped him sustain his determination. After all, there were moments when he found himself giving in to laziness and lapsing in focus. As he reflected on his bumpy journey, he recalled how he had needed to constantly push himself to work harder to make up for lost time.
+The experience of sitting for the GCE O levels also came with a surprising turn of events because nothing could have prepared her for the surreal experience of missing GCE O level papers. Dione had become unwell for a good number of days during the GCE O levels. She suddenly tested Covid positive, much to her shock and worry.
 
-It was a significant moment on the day of the N levels when he realized that he could finally revel in the rewards of his hard work. Abiel expressed his gratitude for his years of education in Swiss Cottage.
+“The first day that I was down with Covid was bad. I had no energy. But I just wanted a quick recovery to move on,” she remembered.  She vividly recalled missing three to four days of school at a go during the GCE O level examination period. “I missed my Biology and Social Studies paper,” she explained.
 
-Cruz Abiel Aquino has always had aspirations to become a film producer. If his school life were to be featured as a movie, it would depict a good ending for him in Swiss. He hoped to pursue a video production course in the Institute of Education.
+The Singapore Examination and Assessment Board called up her Preliminary Examination scores, along with those of several other candidates, in order to project her likely performance. But her Preliminary examinations results, taken before she had fully mastered all that she studied, were mediocre. She shared that she could not help feeling a deep sense of disappointment and frustration at losing the opportunity to know how she would have done, had she sat for the papers herself. In fact, she had studied even harder than she had done for the N levels the year before, and that must still have mattered much.
 
-<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Lim-Jia-Ying-Jacelyn-4T1.jpg" style="width:20%;float:left"><br clear="left">
+Looking back at her own journey, Dione’s message to students in the 4N course who worry that they may come back to 5N or those who do, is that the 5N journey can be memorable and bearable. What makes the difference that that one focuses on what one needs to do. And yes, time flies.
 
-**Lim Jia Ying Jacelyn \[4T1\]**
+Dione, who enjoy the Sciences, is now considering courses in both the Polytechnic or the Junior College. Well, she has a happy problem now and we wish her all the best!
 
-Wonderful. That was the word Jacelyn’s Form Teachers used to describe her.  
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2022%20O%20Level%20Success%20Stories/Jolin-Xu-Kai-Qian.png" style="width:20%;float:left"><br clear="left">
 
-She scored 4 points and achieved 6 distinctions to become the top student for the 2021 N level examinations. In 2021, she was also the recipient of the prestigious Rudy Mosbergen Scholarship, an award that recognized her for being the top all-around student in the Normal Technical course. The list of accolades and stellar results must have felt – wonderful.
 
-Overcome by the exceptional outcome of achieving distinctions for all her subjects, the student deeply expressed her how ‘happy and grateful’ she felt. In an unassuming manner, she also shared that she did not expect such good results.
+**Jolin Xu Kai Qian (S4E1)**
 
-Jacelyn shared that even as the pandemic posed challenges for her in her learning. She however told herself that the last few months in her Secondary Four year was merely the last stretch in her four years in Swiss and that thought propelled her to work even harder than before. Her advice to her juniors was to stay ‘focused and attentive in classes’ and to ‘ask for help’ whenever they had any questions about any subject.
+A dedicated member and the Principal player for liu qin in the Chinese Orchestra, Jolin achieved a commendable score of 7 points, which would open many doors for her post-secondary education. But she could not help but wish for that slight difference in results that would have been the “perfect” sum of the dedication with which she had applied herself.
 
-She recalled how she always had help from her teachers when she needed to clarify her doubts. She attributed her success to her teachers, family members and friends who stood by her when she had difficulties in her studies.
+“I feel disappointed with my Humanities. I scored an A2 but I really had expected an A1,” she stated matter-of-factly.
 
-On top of her academic goals and focus in her final year, Jacelyn was also a student to made time for service to school. She had honed her leadership qualities through the many opportunities that came her way. She served as Class Chairperson and Environment Champion Coordinator. In all, her teachers describe her as a student who exhibited Honour by being a responsible and resilient individual with a positive learning disposition. She also exhibited Humility by always being ready to improve her competencies, and taking everything in her stride.
+An all-rounded student, Jolin was described by her teachers as an individual who epitomized Honour in the way she carried out her duties. She constantly ensured that work assigned was done to the best of her ability. She also displayed compassion in the way she cared for her peers by looking out for them and providing support and encouragement to them whenever the need arose.
 
-When asked about the way forward, she shared that she planned to pursue her education at the Higher NITEC level in Accounting.
+When asked how she managed to keep tabs on all areas of learning, Jolin was candid in pointing out that she was consistent and punctual in finishing her assignments – and always to the best of her abilities. Even so, there were moments when setbacks teach important messages.
 
-<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Nakeisha-Grace-Chong-4T1.jpg" style="width:20%;float:left"><br clear="left">
+Besides the value of high quality, diligence and time-management were twin lessons that she uncovered when she collected her Secondary 1 WA1 results. Underestimating the jump from four core subjects at the primary level to ten varied subjects and disciplinary modes at the secondary level, Jolin did not really study to master her learning and fell behind.
 
+“To be honest, I never studied in primary school. And so, I was shocked that I didn’t do as well as I expected to do. It was a wakeup call!”
 
-**Nakeisha Grace Chong \[4T1\]**
+Jolin learnt that she would have to work hard to achieve the things that she wanted. The minor setback motivated her to developing better study habits like planning to learn in bite-size quantities and the importance of consistency in developing better working memory and deep understanding while reducing stress.
 
-Nakeisha was a natural leader with a drive to excel. She served as a Staff Sergeant in NCDCC and as a Student Councillor. And at the GCE N Level examinations, she emerged with stellar results of 5 points for her EMB2, including 4 distinctions – qualifying for a lateral transfer to the Normal Academic course. Overcome with joy, she shared that she glad and relieved.
+Jolin’s greatest challenge was managing her own performance anxiety. It caused much self-doubt and resulted in her studying till late at night or waking up rather early to study. These unhealthy habits affected her ability to focus during tests and also weakened her body. Fortunately, she learnt over time to sleep earlier to feel fresh the next day. Along with better focus consistent practices and good social support, she started developing confidence and results, moving into a positive cycle of effort and results.
 
-During the course of the year, she recalled how she often felt stress and anxiety from thinking that she had not been studying hard enough, so she often overworked herself. During these stressful moments, her friends and parents would assure her that her mental well-being should always come first.
+“Studying one week before the waited assessment will not help me achieve the results,” she quipped. “And not sleeping enough takes a toll on you.”
 
-Her teachers described that she exhibited Humility by displaying a strong sense of empathy and civic-mindedness. She was always concerned about the welfare of her peers and juniors. They added that she honoured all responsibilities given to her and carried them out to the best of her abilities.
+Jolin plans to study H3 Chemistry and Biology, and then work in the pharmaceutical industry or teaching field.
 
-The grateful student shared her appreciation unreservedly. “I want to thank my teachers and classmates for being there for me and constantly having my back! I am really indebted to have such supportive and loving people by my side!”
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2022%20O%20Level%20Success%20Stories/Leow-Tze-See.jpeg" style="width:20%;float:left"><br clear="left">
 
-Nakeisha learnt from her own journey with overcoming stress and anxiety that it was pacing herself and loving herself more that mattered. Interestingly, she discovered that once she was able to let go of unnecessary anxiety, it actually freed her to get down to doing what needed to get done, saving her precious space and time.
 
-Nakeisha shared that as an NT student, one of her self-doubts came from feeling compared to students in the other streams. It is hard not to feel that way. But she also recognized that there were many things in her favour and she was grateful for those. For example, she found that like students in other streams, there were opportunities like the EAE that validated her aspirations and strengths.
+**Leow Tze See (S4E1)**
 
-“The EAE interviews really motivated me to do better and prove that although we don’t have as many subjects, we NT students can still do well and are worthy of the same respect other streams get.” 
+Having served as a dedicated member and President of the Swiss Publications and Media Club (PMC), Tze See exemplified the value of Honour through active participation and a genuine desire to learn and excel. She was also a caring and supportive friend to her peers. In her readiness to improve her competencies by being receptive to feedback, she also displayed humility.
 
-Nakeisha felt that it was important for her to be a role model for her peers in the Normal Technical stream. She wanted them to see that if she could do well, so could they. She felt strongly that this positive self-belief would make a difference to them.
+Tze See realized excellent results which saw her achieving a raw score of 6 points for her L1R5. With her two CCA bonus points, Tze See would enjoy many post-secondary options.
 
-Having a keen eye for Art, Nakeisha shared that she had a deep desire to pursue studies in the area of architectural technology in the Institute of Technical Education (ITE). Expectedly, she hopes to be an architect in the future.
+“I feel so relieved. I was originally uncertain and nervous that I may not be able to meet my expectations!”
 
-<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Chng-Sen-You-Corwin-4N1.jpg" style="width:20%;float:left"><br clear="left">
+Tze See pointed out that the factors that helped her achieve her goals were discipline and resilience. She explained that the path she took was not always easy. For example, at the end of Secondary 3, her results were far from ideal and she was afraid that she would not be able to catch up in in her graduating year.
 
-**Chng Sen You Corwin \[4N1\]**
+“During my sec 4 year there were also times when I felt disappointed in myself and instances when I felt like I wanted to give up on a subject,” she shared. “There were even times when I felt burnt out.”
 
-As cliché as it sounds, dreams do come true.
+However, the encouraging words from the people around her kept her going and allowed her to develop the resilience to weather through the academic storms she had to face – her struggles with Additional Mathematics and Higher Chinese.
 
-When asked about how he was feeling, Corwin immediate response was that he felt like he was dreaming. He shared that he could not believe that he had done well and was extremely pleased with his results. He achieved an EMB3 of 7 points and 5 distinctions for the 2021 N level examinations.
+“In Sec 3, I had a lot of trouble with A Math. I could barely pass. I even wanted to give up on that subject, but my teachers, parents and friends persuaded me to continue trying. I managed to get a B3 for my A Math during the mid-year exams,” she recalled with relief.
 
-Corwin was known as a student who was mature and sensible. Corwin also served as Station Inspector in the National Police Cadet Corps, exhibiting strong leadership and responsibility. During class lessons, he was participative and would willingly share his insights – which never failed to liven up the exchanges among peers. He would drive to do his best in all his endeavors. He had a deep personal aim to achieve the goals that he had set for himself and to make his family members proud.
+Her effort paid off and her triumph gave her newfound motivation and hope for areas in her other subjects that she found difficult, such as Higher Chinese. It was another subject that she found herself not meeting her expectations, and she was getting Grade C from Sec 1 to 3.  In Sec 4, she felt that the difficulty of Higher Chinese seemed to have only increased. She worried that she may not pass Higher Chinese and that her four years of effort would be in vain. But knowing that the only way forward was to get down to action, she sought help.
 
-Besides being self-directed in managing his own goals, Corwin demonstrated the humility and willingness to learn from peers and teachers. He also exhibited honour by adhering to deadlines and by being helpful to peers.
+“I would meet with my Chinese teacher Mdm Loh Yuhui regularly for consultations,” she shared. “I would also do extra writing and reading practices consistently to get the exposure to different types of questions.”
 
-Corwin shared how one defining moment in his academic journey was when he looked at his decent mid-year examinations results and told himself to believe that he can do even better. Sincere steady progress, the candid student confessed that his greatest fear during his academic journey was losing motivation and being unable to meet his own expectations.
+Tze See also expressed her utmost gratitude to her parents, friends and other teachers like Ms Faith and Mr Christopher Lim who supported and motivated her throughout her academic journey.
 
-To overcome moments of weaknesses during his pursuit of academic excellence, Corwin worked hard to sustain the momentum that he gained, and to stay focused on his goal to score well enough to qualify for any course he wanted.
+Her parting advice to her peers was, “It is never too late to turn the tables. Often time, when we think that all hope is lost, but we can make a comeback. We just have to take that first step forward and start.”
 
-Corwin has not decided on his desired course of study. But he was sure that he would definitely apply for the Poly Foundation Programme. He thanked his teachers for guiding him through these four years and he will definitely miss his friends who stood by with him through thick and thin.
+She has plans to take the Junior College route and looks forward to the next lap of her journey.
 
-<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Chua-Bing-Rong-Zachary-4N1.jpg" style="width:20%;float:left"><br clear="left">
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2022%20O%20Level%20Success%20Stories/Damuel-Leong-Yin-Qin.jpeg" style="width:20%;float:left"><br clear="left">
 
-**Chua Bing Rong Zachary \[4N1\]**
+**Samuel Leong Yin Qin (4E2)**
 
-The interview with Zachary was filled with saccharine notes. He remarked that he was ecstatic but could not help feeling surprised by his results as he had not expected to do that well for his examinations. He had achieved an excellent score of EMB3 results of 10 points, including 5 distinctions.
+A jubilant and disbelieving Samuel was stunned at the excellent results he scored at the GCE O levels. He scored an impressive L1R5 score of 9 and 7 distinctions – a testament to the hard work and dedication he had put in.
 
-Zachary served as Staff Sergeant in National Civil Defence Cadet Corps (NCDCC) and was known to be organised with a keen eye for detail. He was also one who was eager to render assistance to classmates who were in need. He exhibited Honour by adhering to his commitment to others to make things happen, and exhibited Humility by asking useful questions to enhance his understanding and knowledge.
+According to Samuel, his good results were almost unexpected, considering his history of academic struggles and lacklustre achievements. In fact, Samuel’s gifting was in sports, and he was one of our students who had enrolled in school through the Direct School Admission (DSA) route. Being an active contributor at Basketball, he rose to become the boys’ team’s Vice-Captain. By 2022, he achieved the EAGLES Award, having exhibited the school value of honour by demonstrating steady progress in sports and leadership over his four years in school.
 
-As a token of appreciation, Zachary wanted a shout out of gratitude to his teachers. He thanked all his teachers who journeyed with him, especially Mr. Heng who was both his Form Teacher and CCA teacher. He attributed much of his academic achievements and character growth to the guidance of Mr. Heng. He also singled out Ms. Faith who taught him Elective Geography Elective for helping him achieve his goals.
+The humble and realistic aspect of Samuel’s personality remained cognizant that when he first entered Swiss Cottage Secondary School, he was scoring grades of largely F9 and E8; and he was even one of the students at the bottom of his cohort. His dismal performance led to a meeting between his parents and the then Vice Principal, Mr. Hoi when he was in the Lower Secondary. Samuel recounted the dreadful results and the resultant soul-searching moments in the school leader’s office. The discussions helped him take stock of his aims and what he needs to do.
 
-He recalled sweet memories about his teachers’ encouragement. He shared how on the last Elective Geography lesson before the second phase of the N Level exams, his teachers, Ms. Faith Wang and Ms. Tan Rou Jing bought bubble tea and stickers as gifts to encourage them. He received a sticker that said, “Motivation is what drives you. Attitude is what determines how far you will go to achieve what you set out to do.”
+“From then on, I believed that I must and can really do well in my studies, if I worked hard.”
 
-Though he was not one to read too much into chance episodes like that, nevertheless, the meaning and positivity gleaned from the encouraging sticker was far-reaching. He shared that the seemingly casual moment motivated him, and he pushed himself – at least to not let his teachers down. “I reflected and asked myself what I really wanted in life. And I knew I wanted to make my teachers and parents proud. And so, I just pushed myself for those few months.”
+In Secondary 3, he took his academic studies more seriously and did well for his school-based assessments. In his final year, he again had to take stock of poor mid-year and preliminary examination results. But Samuel never lost faith in himself. By then, Samuel understood that academic success was not about having some lofty goal, but rather about taking the opportunity to learn and discover more. After all, there was much to consolidate and master.
 
-Even so, Zachary feared that he might run away from challenges instead of facing what he needed to do or a scenario where his peers were pushing themselves, and he ended up complacent or overconfident. These were undesirable possibilities and Zachary tried to stay the course by being disciplined. “Although it was very difficult to get used to the new routine that I had set for myself, I encouraged myself to go on,” he explained.
+A critical factor in his eventful academic journey was the support of the people around him. He recalled the faith Mr Kenneth Neo extended to him, and the valuable feedback of that teachers like Mr. Lee De Yi, Ms. Faza and Mr. Tan Hong Cheong, provided. He was also grateful to Mr Toh for not only accepting via the DSA route but also for providing the extra Math classes during his lower secondary years, along with the other DSA students who needed to catch up. In fact, he shared that both Mr Toh and Mr Sherwin Cheng were supportive of Samuel’s well-being throughout his time at Swiss Cottage, until he graduated. Last but not least, he appreciated his parents for their special blessings like treating him to good food during his GCE O-level exams.
 
-The gratified Zachary shared that he was still undecided about his course of study but added that he was inclined to pursue nursing as a vocation. We wish Zachary all the best for his future endeavours!
+Ready for the next lap, Samuel shared that as someone who had always been fascinated by the intricacies of the human body and its various functions, he was determined to pursue a career in the medical field; his ultimate goal is to make a positive impact on the lives of others by becoming a skilled and compassionate doctor. To prepare for his Junior College education, Samuel has chosen a rigorous course load that includes Biology, Chemistry, Economics and Mathematics. Determined to work hard and make the most of this opportunity to learn and grow, his message to others is simple: “Just do it!”
 
-<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Jacob-Wong-Wen-Le-4N2.jpg" style="width:20%;float:left"><br clear="left">
+<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2022%20O%20Level%20Success%20Stories/Hannah-Tan-Shi-Ting.jpeg" style="width:20%;float:left"><br clear="left">
 
+**Hannah Tan Shi Ting (4E2)**
 
-**Jacob Wong Wen Le \[4N2\]**
+“I actually feel surprised by my results, because my confidence dipped, after taking a number of papers, that I thought were challenging,” she shared, and then added with happiness, “However, I’m glad that my hard work and hours of studying have paid off.”
 
-Jacob struck a figure of self-assurance when he was asked about his excellent results. Jacob scored 5 points for his EMB3. The confident but humble student shared that he was ‘genuinely and pleasantly surprised’ but ‘not too taken aback’.
+Hannah has an impressive attainment of 8 distinctions in her GCE O-level results. And she also excelled at sports. Besides being an athlete, she was the Vice-Captain of the school’s floorball team (Girls) which came in National ‘B’ Division champions. As the leader of the team, she exhibited honour in the way she conducted herself as a role model for the team, taking training seriously and pushing her peers to do their best. Now, with her stellar GCE O level results, she shows us that hard work and determination can lead to great success, setting a great example for students who wish to enjoy holistic success. Her achievements showcase a remarkable ability to balance her time and effort in both the academics and sports.
 
- “I knew what I was capable of; I was more worried about careless mistakes than my ability to do well,” Jacob reflected.
+However, during Hannah’s journey to success, she did face several challenges. For example, she had struggled with self-doubt and a lack of confidence. Even so, she would not let these innate hindrances hold her back. Instead, she channeled her energy rather concretely into studying and working hard to achieve her goals. For example, she kept up a positive attitude in learning the Chinese language despite not doing well during school assessments. Her humility led to a distinction at the GCE O Levels. Moments like this when she did not do well turned into deep motivation and resolve to do better, and another such moment was the Mid-Year examinations.
 
-He was also not afraid of sharing that while he had the fear of failure, he was also quick to become cognisant about how he could overcome them. He shared practical tips for academic excellence with his juniors, and it started with self-awareness. He believed that understanding one’s own method of learning and using the method which works best for one is the answer to making progress. 
+“I was shocked because I had failed two subjects. It served as a wake-up call to me because I suddenly realized that I would not be able to get into the JC that I wanted,” she shared. On top of the pressure of meeting her goals, Hannah also shared the fears of not being able to live up to her own expectations. She summed it all up, saying, “I did not want to be the one left behind.”
 
-Like many students, Jacob faced his fair share of challenges when pursuing academic excellence. For example, he revealed how he had found it difficult to focus at times when the hours of studying and duration of lessons became longer. Inevitably, towards the examination period, this was an unavoidable reality.
+When asked about her reasons for her feats in both areas, she attributed them to effort and determination as well as the motivation from the previous batch of seniors.
 
-In Jacob’s view, the secret to resilience came down to one word – motivation. Motivation was the driving force for him to persevere for the success he desired. Jacob shared that he believed that so long as you have a strong enough reason to achieve something, success will no doubt be within one’s reach.
+“They did especially well in their O-levels, and I aspired to reach their level as well. With the encouragement of my family members and my peers, I was able to perform to the best of my abilities and have the strength to work harder,” she said.
 
-Someone who was looked up to by his juniors, Jacob was a leader who served as a Troop Leader in Scouts. He exhibited Honour in his dedication to his CCA and through the submission of quality school work. He also exhibited Humility in the way he showed care for his peers and rendered help to them.
+She expressed a deep sense of gratitude to her form teachers and CCA teachers for their endless support and guidance. “Their patience and kindness definitely helped me to have more faith in myself and in turn, I found it possible to reach out to them for help,” she said.
 
-When asked what advice he would give his juniors, Jacob quipped, “Well, I think you must go experiment and find out what you think works for you, and eliminate what does not.” He elaborated, “Taking the time to understand what was taught worked for me. For example, I knew that memorizing chunks and chunks of information was not for me – because until I knew what something meant, it would simply not stick in my head,” he elaborated, before adding, “And we should not think of examinations as some complex problem.”
-
-Jacob plans to continue his education in Swiss Cottage in 2022 for his Secondary Five year, following which he intends to further his education in a junior college. When asked if he had advice for his juniors, Jacob had this to say: “Believe that it is possible to do well, and just put your mind to it!”
-
-<img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Lui-Yu-Kai-4N1.jpg" style="width:20%;float:left"><br clear="left">
-
-**Lui Yu Kai \[4N1\]**
-
-Yu Kai shared that was over the moon about the 5 distinctions that contributed to his excellent EMB3 score of 10 points. A picture of jubilance, he was elated and proud to see that his hard work had indeed paid off.  
-
-Yu Kai also shared that he had many things on his plate, other than his studies. He found the going actually quite tough. He recounted how he had to struggle to juggle between his academic commitments and his responsibilities as the former Vice-captain of the school’s Floorball team in Secondary 3. When he felt that he could not cope, he reached out to his teachers and others who cared about him.
-
-He thanked his teachers for offering assistance to him whenever he needed them the most. He shared that the support from his peers, teachers and parents was the key factor that continued to feed his confidence and motivation to work hard.
-
-“Without them supporting me and advising me, I would have lost sight of my goals for my future. I may have never attained the success that I have today,’ he reflected seriously.
-
-Yu Kai was remembered by his teachers as a polite student who injected positivity during lessons through his enthusiasm and rendered help to his classmates. He exhibited Honour by being honest with teachers when he discussed issues, which helped him build trust and work towards improvement. He also exhibited Humility by respecting the needs of his classmates.
-
-Yu Kai recollected a particular defining moment from his graduating year. He remembered receiving his mid-year examination results which were, in his words, ‘far from ideal’. It was followed by a fleeting but significant flash of realisation that he has to work very much harder to achieve the grades that he had wanted. Not daunted, he decided he could not afford to look back. Instead, he accepted that there was more to master and that fact became the push to focus better, re-examine methods and strive for deeper learning.             
-
-A firm believer in the humility to reach out when you need support, Yu Kai has this to say: ‘To all my juniors, do not give up even when things become difficult because there are always people to talk to and get support from! Believe that you can do it!’
-
-He has plans to pursue a course in Business Studies in Ngee Ann Polytechnic and eventually start his own business upon graduation. He has some words of advice for his juniors before he ended the interview:
+Hannah plans to pursue the science stream with Biology, Chemistry, and Economics in Junior College. However, she is still unsure about her aspirations and what she wants to be in the future. “I do hope I figure it out in JC. For now, I think I want to be dentist or an optometrist in the future,” she said.
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Matthew-Anthony-Style-4N2.jpg" style="width:20%;float:left"><br clear="left">
 
