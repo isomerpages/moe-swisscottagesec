@@ -31,23 +31,24 @@ Swiss Cottage offers the following Humanities subjects:
 
 <b><u>Our Team</u></b>
 
-|                             |                                    |
-|-----------------------------|------------------------------------|
-| Mdm Serene Tang Hue Sim     | HOD Humanities                     |
-| Mr Sunil K Nair             | SH Geography                       |
-| Mdm Nuraida Sawi            | ST Social Studies                  |
-| Ms Christina Fong Hui Beng  | Geography Teacher                  |
-| Mr Clement Tan Wei Xin      | Geography / Social Studies Teacher |
-| Miss Sin Yueh Taur Anita    | Geography / Social Studies Teacher |
-| Miss Faith Wang Yi Shan     | Geography Teacher                  |
-| Mr Irfan Hussein Muhammad   | Geography Teacher                  |
-| Mr Alex Chew Kok Chung      | Geography Teacher                  |
-| Mr Salleh Merwan            | Geography Teacher                  |
-| Miss Faza Mahirah MD Suhimi | History / Social Studies Teacher   |
-| Miss Rose Nabilah Rosli     | History / Social Studies Teacher   |
-| Mr Sim Wen Hong             | History / Social Studies Teacher   |
-| Ms Lee Si Wei               | (CAJT) History / Social Studies    |
-| Mdm Lee Su Fern             | (FAJT) Geography / Social Studies  |
+|  |  |
+|---|---|
+| Mdm Serene Tang Hue Sim | HOD Humanities |
+| Mr Sunil K Nair | SH Geography |
+| Mdm Nuraida Sawi | ST Social Studies |
+| Ms Christina Fong Hui Beng | Geography Teacher |
+| Mr Clement Tan Wei Xin | Geography / Social Studies Teacher |
+| Miss Faith Wang Yi Shan | Geography Teacher |
+| Mr Irfan Hussein Muhammad | Geography Teacher |
+| Mr Alex Chew Kok Chung | Geography Teacher |
+| Mr Salleh Merwan | Geography Teacher |
+| Miss Faza Mahirah MD Suhimi | History / Social Studies Teacher |
+| Miss Rose Nabilah Rosli | History / Social Studies Teacher |
+| Mr Sim Wen Hong | History / Social Studies Teacher |
+| Ms Kelly Tan Kai Li | Teacher |
+| Ms Lee Si Wei | (CAJT) History / Social Studies |
+| Mdm Lee Su Fern | (FAJT) Geography / Social Studies |
+| Mdm Lee Jia Yun | (FAJT)  |
 
 <b><u>The Study of History</u></b>
 
