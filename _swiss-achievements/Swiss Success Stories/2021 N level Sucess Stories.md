@@ -4,8 +4,7 @@ permalink: /swiss-achievements/Swiss-Success-Stories/2021-n-level-success-storie
 description: ""
 third_nav_title: Swiss Success Stories
 ---
-
-# 2021 N-level Sucess Stories
+# 2021 N-level Success Stories
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Cruz-Abiel-Aquino-4T1.jpg" style="width:20%;float:left"><br clear="left">
 
