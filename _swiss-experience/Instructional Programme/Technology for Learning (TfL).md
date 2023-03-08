@@ -4,7 +4,6 @@ permalink: /swiss-experience/Instructional-Programme/technology-for-learning/
 description: ""
 third_nav_title: Instructional Programme
 ---
-# links broken for  MOE ICT Masterplan 4, MOE – Cyber Wellness Information and Resources, OPAL (MOE), ICT Connection (MOE), AskNLearn LMS Portal
 # Technology for Learning (TfL)
 
 ### <b><u>Goals</u></b>
@@ -28,43 +27,25 @@ third_nav_title: Instructional Programme
 
 ### <b><u>Our Team</u></b>
 
-| ICT & Computer Applications |                                   |
-|-----------------------------|-----------------------------------|
-| Mr Wong Wai Kiong Terence   | HOD Technology for Learning (TfL) |
-| Mr Lim Junxuan Christopher  | Acting Subject Head / TfL         |
-| Mdm Shahada Bte Rahmat      | CPA Teacher                       |
-| Mr Wong Yin Kew             | CPA Teacher                       |
-| Mr Giam Chin Leong          | ICT Manager                       |
-| Mr Muhd Zuhairi Bin Zailani | Desktop Engineer                  |
-| Ms Chew Jia Xuan            | Desktop Engineer                  |
+| ICT & Computer Applications |  |
+|---|---|
+| Mr Wong Wai Kiong Terence | HOD Technology for Learning (TfL) |
+| Mr Lim Junxuan Christopher | Subject Head / Student Well-Being & Technology for Learning |
+| Mdm Shahada Bte Rahmat | CPA Teacher |
+| Mr Wong Yin Kew | CPA Teacher |
+| Mr Choo Shi Qian | CPA Teacher |
+| Mr Giam Chin Leong | ICT Manager |
+| Mr Muhd Zuhairi Bin Zailani | Desktop Engineer |
 
 
 <b><u>ICT Facilities for Teaching and Learning</u></b>
 
-*   4 Computer Laboratories of one full-class capacity each
-*   5 mobile carts equipped with 20 notebook PCs each
-*   1 MacLab with 40 MacBook Pro
-*   8 computer kiosks in the Library for student use
+*   2 Computer Laboratories of one full-class capacity each
+*   3 mobile carts equipped with 20 plus notebook PCs each
 *   Wireless Internet/LAN throughout school compound
 
 <b><u>Useful Links</u></b>
 
-**Ministry of Education**
+Singapore Student Learning Space (SLS)
 
-*   <a href="https://ictconnection.moe.edu.sg/masterplan-4" target="_blank">MOE ICT Masterplan 4</a>
-
-*   [MOE – Cyber Wellness Information and Resources](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)
-
-**Teaching and Learning using ICT**
-
-OPAL (MOE)   
-<a href="http://www.academyofsingaporeteachers.moe.gov.sg/" target="_blank">(http://www.academyofsingaporeteachers.moe.gov.sg/)</a>
-
-ICT Connection (MOE)   
-<a href="http://ictconnection.moe.edu.sg/" target="_blank">(http://ictconnection.moe.edu.sg/)</a>
-
-Singapore Student Learning Space (SLS)  
-([https://vle.learning.moe.edu.sg/](https://vle.learning.moe.edu.sg/))
-
-AskNLearn LMS Portal  
-([http://lms.asknlearn.com/SCSS/logon\_new.aspx](http://lms.asknlearn.com/SCSS/logon_new.aspx))
+[https://vle.learning.moe.edu.sg/](https://vle.learning.moe.edu.sg/)
