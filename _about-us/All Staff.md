@@ -7,13 +7,13 @@ description: ""
 
 <b><u>YEAR HEADS/MASTERS AND FORM TEACHERS 2022</u></b>
 
-<table style="undefined;table-layout: fixed; width: 1145px">
+<table style="undefined;table-layout: fixed; width: 1094px">
   <colgroup>
     <col style="width: 90px">
     <col style="width: 275px">
     <col style="width: 318px">
     <col style="width: 217px">
-    <col style="width: 245px">
+    <col style="width: 194px">
   </colgroup>
   <thead>
     <tr>
