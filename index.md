@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
+      key_highlights:
+        - title: Direct School Admission
+          description: ""
+          url: /direct-school-admission/DSA-Information-e-Session/
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
       subtitle: FEATURED POSTS
