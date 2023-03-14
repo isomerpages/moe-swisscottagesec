@@ -38,14 +38,4 @@ sections:
       title: Events
       button: View All Events
       url: /quick-links/calendar/
-  - infobar:
-      title: Christmas Day
-      subtitle: 25 Dec
-      button: Click here
-      url: /christmas-day/
-  - infobar:
-      title: New Year’s Eve
-      button: Click here
-      url: /new-years-eve/
-      subtitle: 31 Dec
 ---
