@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Direct School Admission
           description: ""
-          url: /direct-school-admission/DSA-Information-e-Session/
+          url: /direct-school-admission/Swiss-Direct-School-Admission/
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
       subtitle: FEATURED POSTS
