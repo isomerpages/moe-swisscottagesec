@@ -1,4 +1,5 @@
 collections:
   direct-school-admission:
     output: true
-    order: []
+    order:
+      - Swiss Direct School Admission.md
