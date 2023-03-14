@@ -30,11 +30,3 @@ Information for 2023
 12\.  [Guide for Measurement for Uniform](/files/For%20parents/2022-Guide-for-Measurement-for-Uniform.pdf)
 13\.  [Secondary 1 Meet-the-Parents Session – presentation slides](/files/For%20parents/2023-S1-MTP-Combined-Slides-vSchWebsite.pdf)
 14\.  [Geography Briefing for Parents](/files/For%20parents/2023-Geography-Briefing-For-Parents.pdf)
-
-Information for 2022
-
-1\.  [Meetings on Parents Gateway (Booking not started) User Guide\\](/files/For%20parents/PG-Mobile-App-Meetings-Feature-User-Guide-April-2022.pdf)  
-2\.  [Guide for Measurement for Uniform](/files/For%20parents/Guide-for-Measurement-for-Uniform.pdf)  
-3\.  [School Textbook Sales Procedure](/files/For%20parents/School-Textbook_Sales_Procedure.pdf)  
-4\.  [School Uniform Online Sales Guide](/files/For%20parents/School-Uniform-Online-Sales-Guide.pdf)  
-5\.  [School Uniform Sales Procedure](/files/For%20parents/School-Uniform-Sales-Procedures-1.pdf)
