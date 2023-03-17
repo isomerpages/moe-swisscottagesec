@@ -3,8 +3,6 @@ title: Parents Support Group (PSG)
 permalink: /swiss-partnerships/parents-support-group-psg/
 description: ""
 ---
-
-
 #### **Swiss Parents Support Group (PSG)**
 
 <img src="/images/Swiss%20Partnerships/PSG-Crest.png" style="width:25%;float:left"><br clear="left">
