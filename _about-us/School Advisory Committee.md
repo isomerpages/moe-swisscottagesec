@@ -3,7 +3,7 @@ title: School Advisory Committee
 permalink: /about-us/school-advisory-committee/
 description: ""
 ---
-# School Advisory Committee
+![Mr Sardar Aslam](/images/About%20us/School%20Advisory%20Committee/Sardar%20Aslam.jpg)# School Advisory Committee
 
 <table width="704">
 <thead>
@@ -36,5 +36,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-
