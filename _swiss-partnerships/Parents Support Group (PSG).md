@@ -41,7 +41,7 @@ We strive to achieve our mission through the following Areas of Focus:
 *   Parents Network and Support
 *   Co-organise and support of School Events/Services
 
-**Parents for Parents - Swiss Parents Executive Committee (Exco)
+**Parents for Parents - Swiss Parents Executive Committee (Exco)**
 
 
 
@@ -51,10 +51,8 @@ Vice Chairperson       Paul Ng
 
 Secretary                   Adeline Hong 
 
-| Position        Name
-| Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+
+
 
 
 
