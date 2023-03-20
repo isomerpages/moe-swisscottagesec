@@ -15,7 +15,7 @@ third_nav_title: For Parents
 *   Career Chats with alumni from different industries to share their personal journey and experience in respective field
 *   EM / AEM modules with practice-oriented learning experience similar to polytechnic modules
 *   Talks / Learning Journey to Post-Secondary Education Institution
-*   [Making appointment with ECG counsellor](https://moeecg.appointeze.com/onlinelink/LowJengWye)
+*   [Making appointment with ECG counsellor](https://www.booking.gov.sg/public/services/G4x7Dy6Z/availability?spId=3l5gO1x9&anonymous=true)
 
 Resources for parents
 
