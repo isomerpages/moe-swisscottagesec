@@ -42,21 +42,39 @@ We strive to achieve our mission through the following Areas of Focus:
 *   Co-organise and support of School Events/Services
 
 **Parents for Parents - Swiss Parents Executive Committee (Exco)**
+ 
 
-| Position |             Column 2 | Column 3 |
-| -------- | -------- | -------- |
-		Chairperson             Alexis  
-Vice Chairperson      
+Chairperson - Alexis Kam
+
+Vice Chairperson - Paul Ng        
+
+Secretary    -   Adeline Hong 
+
+Treasurer - Penny Tan
+
+Assistant Treasurer - Eileen Bee
+
+Alumini Exco - Erik Sim
+
+Exco members -  Amanda Ang
+												 
+Exco members - Esther Lim
+												 
+Exco members -Jo-anne Wee
+												 
+Exco members - Leong Weng Fei
+												 
+Exco members - Ng May Hsia
+												 
+Exco members - Sahronizam Bin Selamat
+												 
+Exco members - Sonali Ahuja Makhijani
+												 
+Exco members - Theresa Joo
+												 
+											 
 
 
-
-
-
-                
-
-
-
-Secretary                   Adeline Hong 
 
 
 
