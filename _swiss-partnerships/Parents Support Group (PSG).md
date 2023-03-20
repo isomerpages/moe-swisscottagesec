@@ -18,6 +18,8 @@ description: ""
 
 <img src="/images/Swiss%20Partnerships/PSG-QR-Code.jpg" style="width:25%;float:left"><br clear="left">
 
+[Swiss Parent Connect](https://docs.google.com/forms/d/1fJXM49TpJbvKbAnVvCGxnefPSgQWP1yn7tXRYrums3g/viewform?edit_requested=true)
+
 
 **OUR MISSION**
 
