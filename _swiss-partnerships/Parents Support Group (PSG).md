@@ -89,4 +89,4 @@ Exco members - Theresa Joo
 6.  [Breakfast with Principal and Parenting Workshop](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2019/12/04_Parents-Support-Group-Website_Swiss-Parent-Activities_BwP_Parent-workshop.pdf)
 7.  [Appreciation of Un-sung Heroes](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/Heroes-of-Swiss-2021.pdf)
 
-WE CAN MAKE A DIFFERENCE! Join the Swiss PSG by completing the [online form](https://docs.google.com/forms/d/e/1FAIpQLSdnNUh5cYIODBT4jEMMqphJSoaYb_yfqieJSaigzYmUIdIkpg/viewform)  
+WE CAN MAKE A DIFFERENCE! Join the Swiss PSG by completing the [online form](https://docs.google.com/forms/d/1fJXM49TpJbvKbAnVvCGxnefPSgQWP1yn7tXRYrums3g/viewform?edit_requested=true)
