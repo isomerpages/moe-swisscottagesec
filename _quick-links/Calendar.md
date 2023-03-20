@@ -3,8 +3,7 @@ title: Calendar
 permalink: /quick-links/calendar/
 description: ""
 ---
-# need google calender
-# Calendar
+
 
 #### January 2023
 
@@ -28,13 +27,3 @@ description: ""
 | 27-2-2023 | Fri | HBL #2 |
 
 #### February 2023
-
-
-
-
-
-
-
-
-
-
