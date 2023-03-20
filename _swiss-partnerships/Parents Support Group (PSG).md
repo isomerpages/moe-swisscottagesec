@@ -51,6 +51,12 @@ Vice Chairperson       Paul Ng
 
 Secretary                   Adeline Hong 
 
+| Position | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
 
 
 
