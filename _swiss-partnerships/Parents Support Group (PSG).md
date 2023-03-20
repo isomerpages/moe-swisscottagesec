@@ -15,8 +15,7 @@ description: ""
 
 <p style="text-align: justify;">Swiss Parents Connect </p>
 
-
-<img src="/images/Swiss%20Partnerships/PSG-QR-Code.jpg" style="width:25%;float:left"><br clear="left">
+[PSG QR Code](https://docs.google.com/forms/d/1fJXM49TpJbvKbAnVvCGxnefPSgQWP1yn7tXRYrums3g/viewform?edit_requested=true)
 
 [Swiss Parent Connect](https://docs.google.com/forms/d/1fJXM49TpJbvKbAnVvCGxnefPSgQWP1yn7tXRYrums3g/viewform?edit_requested=true)
 
