@@ -45,9 +45,12 @@ We strive to achieve our mission through the following Areas of Focus:
 
 
 
-| Chairperson          | Alexis Kam | 
-| Vice Chairperson | Paul Ng |
-| Secretary             | Adeline Hong |
+Chairperson               Alexis Kam 
+
+Vice Chairperson       Paul Ng 
+
+Secretary                   Adeline Hong 
+
 
 
 
