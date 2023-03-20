@@ -3,8 +3,6 @@ title: Calendar
 permalink: /quick-links/calendar/
 description: ""
 ---
-
-
 #### January 2023
 
 
@@ -24,6 +22,6 @@ description: ""
 | 23-1-2023 | Mon | Chinese New Year |
 | 24-1-2023 | Tue | Chinese New Year Public Holiday |
 | 26-1-2023     | Thu     | Release of CCA Trials Result     |
-| 27-2-2023 | Fri | HBL #2 |
+| 27-1-2023 | Fri | HBL #2 |
 
 #### February 2023
