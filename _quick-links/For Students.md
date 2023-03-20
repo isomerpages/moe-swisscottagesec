@@ -13,7 +13,7 @@ description: ""
 
 [My SkillsFuture Portal (for students)](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
-*   [Making appointment with ECG counsellor](https://go.gov.sg/m09vgk)
+*   [Making appointment with ECG counsellor](https://www.booking.gov.sg/public/services/G4x7Dy6Z/availability?spId=3l5gO1x9&anonymous=true)
 
 [2022 Booklists for Secondary One to Secondary Five](/files/For%20students/2022-SCSS-Booklist_011121.pdf)
 
