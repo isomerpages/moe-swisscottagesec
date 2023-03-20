@@ -13,10 +13,8 @@ description: ""
 
 <p style="text-align: justify;">BE PART OF YOUR CHILD JOURNEY... join us at Swiss Parent Connect by submitting the form via the QR code below. Swiss Parents Connect is a platform for Swiss Parents to receive and share school related information. It also serves as a platform for parents to ask questions related to school operations and share their experiences.</p>
 
-<p style="text-align: justify;">Such collaboration is necessary, as both the school and the Swiss parents have shared interests and responsibilities. We both seek to develop the Swiss students and prepare them in the best way possible for the future. </p>
+<p style="text-align: justify;">Swiss Parents Connect </p>
 
-BE PART OF YOUR CHILD’S JOURNEY…  
-join us in PSG by submitting the form via the QR code below.
 
 <img src="/images/Swiss%20Partnerships/PSG-QR-Code.jpg" style="width:25%;float:left"><br clear="left">
 
