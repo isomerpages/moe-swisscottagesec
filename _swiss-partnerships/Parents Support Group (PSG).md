@@ -23,17 +23,23 @@ description: ""
 
 **OUR MISSION**
 
-*   To promote positive collaborations between Swiss parents and the school for the well-being of the children
+*   To promote positive collaborations between parents and the school for the well-being of the children
 *   To promote a strong home-school link
 *   To provide opportunities for Swiss parents to network and support each other in the parenting journey
+
+**OBJECTIVES (C.A.R.E.)**
+
+* C - community outreach
+* A - appreciation of others
+* R - relationship building
+* E - enhancing parenting
 
 We strive to achieve our mission through the following Areas of Focus:
 
 *   Parent-Child Activities
-*   Workshops/Seminars for Parents and Parents Network
-*   Co-organise and support School Events/Services
-*   Library Duties
-*   Field Trips Chaperones
+*   Workshops/Seminars for Parents
+*   Parents Network and Support
+*   Co-organise and support of School Events/Services
 
 **[Swiss PSG Exco Message (click to view message)](/files/PSG/Swiss-PSG-Exco-Message-.pdf)** 
 
