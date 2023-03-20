@@ -84,7 +84,7 @@ Exco members - Theresa Joo
 
 
 
-**[Swiss PSG Exco Message (click to view message)](/files/PSG/Swiss-PSG-Exco-Message-.pdf)** 
+**[Swiss PSG Exco Message (click to view message)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/PSG-Orgn-Chart-2023-final-1.pdf)** 
 
 **[Swiss PSG Exco Members (click to view message)](/files/PSG/Swiss-PSG-Exco-Members-2022.pdf)** 
 
