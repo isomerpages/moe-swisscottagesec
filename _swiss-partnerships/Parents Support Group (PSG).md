@@ -43,11 +43,18 @@ We strive to achieve our mission through the following Areas of Focus:
 
 **Parents for Parents - Swiss Parents Executive Committee (Exco)**
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+Chairperson               
+Vice Chairperson      
 
 
-Chairperson               Alexis Kam 
 
-Vice Chairperson       Paul Ng 
+
+
+                
+
+
 
 Secretary                   Adeline Hong 
 
