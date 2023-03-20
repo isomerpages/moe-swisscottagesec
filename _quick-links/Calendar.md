@@ -10,9 +10,11 @@ description: ""
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| Date | Day | Event |
 | -------- | -------- | -------- |
-| Date     | Day     | Event     |
-	1-1-2023 Sun      New Year’s Day
-==============
+| 1-1-2023    | Sun     | New Year's Day    |
+| 2-1-2023   | Mon | New Year School Holiday |
+| 6-1-2023 | Fri | Sec 1 - Principal's Address |
+| 9-1-2023     | Mon     | CCA Trials     |
 
+  
