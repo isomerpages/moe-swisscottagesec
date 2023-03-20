@@ -45,7 +45,7 @@ We strive to achieve our mission through the following Areas of Focus:
 
 | Column 1 |             Column 2 | Column 3 |
 | -------- | -------- | -------- |
-Chairperson             Alexis  
+		Chairperson             Alexis  
 Vice Chairperson      
 
 
