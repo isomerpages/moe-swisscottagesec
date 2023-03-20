@@ -41,6 +41,16 @@ We strive to achieve our mission through the following Areas of Focus:
 *   Parents Network and Support
 *   Co-organise and support of School Events/Services
 
+**Parents for Parents - Swiss Parents Executive Committee (Exco)
+
+
+
+| Chairperson          | Alexis Kam | 
+| Vice Chairperson | Paul Ng |
+| Secretary             | Adeline Hong |
+
+
+
 **[Swiss PSG Exco Message (click to view message)](/files/PSG/Swiss-PSG-Exco-Message-.pdf)** 
 
 **[Swiss PSG Exco Members (click to view message)](/files/PSG/Swiss-PSG-Exco-Members-2022.pdf)** 
