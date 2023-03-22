@@ -31,8 +31,7 @@ third_nav_title: For Parents
 ### Clubs
 
 <a href="http://www.ida.gov.sg/" target="_blank">Infocomm Development Authority of Singapore</a>  
-<a href="http://www.science.edu.sg/" target="_blank">Singapore Science Centre</a>  
-
+<a href="http://www.science.edu.sg/" target="_blank">Singapore Science Centre</a>
 <a href="http://www.nea.gov.sg/" target="_blank">National Environment Agency</a>
 
 ### Sexuality Education
