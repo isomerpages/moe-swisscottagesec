@@ -140,7 +140,7 @@ All user data which is collected by MOE will be stored in secure servers managed
 *   [DMA Parent Guide v2.0 – Option A (IpadOS)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/08/DMA-Parent-Guide-v2.0-Option-A-iPadOS-4.pdf)
 *   [DMA Parent Guide v2.0 – Option B (IPadOS)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/08/DMA-Parent-Guide-v2.0-Option-B-iPadOS-2.pdf)
 *   [iCON\_Google Takeout\_Guide\_for\_Students Exiting School](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/08/iCON_Google-Takeout_Guide_for_Students-Exiting-Sch.pdf)
-*   [Parent Kit on Cyber Wellness for Your Child](/files/PDLP@Swiss%20Cottage/cyber-wellness-for-your-child.pdf)[undefined](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
+*   [Parent Kit on Cyber Wellness for Your Child](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
 *   [Schoolbag article ‘Keeping our teens safe online’](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online)
 *   [Media Literacy Council](https://go.gov.sg/better-internet-sg)
 *   [National Library’s Learning & Information Literacy Resources](https://sure.nlb.gov.sg/)
