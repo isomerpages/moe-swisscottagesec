@@ -137,7 +137,7 @@ All user data which is collected by MOE will be stored in secure servers managed
 *   [FAQs on PDLP@Swiss Cottage](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/PDLP-FAQs-at-Sch-Website-SCSS-Dec-21.pdf)
 *   [Parent Engagement Session on DMA-26 March 2021](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/04/26Mar21-Parent-Engagement-on-DMA-vSch-Website-1.pdf)
 *   [PDLP Student Device Information Kit](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/Updated-Student-Device-Information-Kit-vOct21-vSCSS_261121-1.pdf) (Information about iPad vendor, insurance & warranty, reporting of device issues and in-school support)
-*   [DMA Parent Guide v2.0 – Option A (IpadOS)](/files/PDLP@Swiss%20Cottage/DMA-Parent-Guide-v2-Option-A-iPadOS-4.pdf)
+*   [DMA Parent Guide v2.0 – Option A (IpadOS)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/08/DMA-Parent-Guide-v2.0-Option-A-iPadOS-4.pdf)
 *   [DMA Parent Guide v2.0 – Option B (IPadOS)](/files/PDLP@Swiss%20Cottage/DMA-Parent-Guide-v2-Option-B-iPadOS-2.pdf)
 *   [iCON\_Google Takeout\_Guide\_for\_Students Exiting School](/files/PDLP@Swiss%20Cottage/iCON_Google-Takeout_Guide_for_Students-Exiting-Sch.pdf)
 *   [Parent Kit on Cyber Wellness for Your Child](/files/PDLP@Swiss%20Cottage/cyber-wellness-for-your-child.pdf)
