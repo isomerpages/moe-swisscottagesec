@@ -121,7 +121,7 @@ All user data which is collected by MOE will be stored in secure servers managed
     4.  Website: [https://asiapac.com.sg/pld/apple](https://asiapac.com.sg/pld/apple) (for buying of accessories)
 2.  School-based Support
     1.  Technical matters: email to g-ncs3304sde@ncs.com.sg
-    2.  Administrative matters: email to giam\_chin\_leong@moe.edu.sg
+    2.  Administrative matters: email to giam_chin_leong@moe.edu.sg
     3.  Finance matters: email to scss@moe.edu.sg
     4.  Telephone/Whatsapp messaging: 6631 9680 / 6631 9625
     5.  Operating hours: school days from 8 am to 5 pm excluding weekends and public holidays
