@@ -139,7 +139,7 @@ All user data which is collected by MOE will be stored in secure servers managed
 *   [PDLP Student Device Information Kit](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/Updated-Student-Device-Information-Kit-vOct21-vSCSS_261121-1.pdf) (Information about iPad vendor, insurance & warranty, reporting of device issues and in-school support)
 *   [DMA Parent Guide v2.0 – Option A (IpadOS)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/08/DMA-Parent-Guide-v2.0-Option-A-iPadOS-4.pdf)
 *   [DMA Parent Guide v2.0 – Option B (IPadOS)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/08/DMA-Parent-Guide-v2.0-Option-B-iPadOS-2.pdf)
-*   [iCON\_Google Takeout\_Guide\_for\_Students Exiting School](/files/PDLP@Swiss%20Cottage/iCON_Google-Takeout_Guide_for_Students-Exiting-Sch.pdf)
+*   [iCON\_Google Takeout\_Guide\_for\_Students Exiting School](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/08/iCON_Google-Takeout_Guide_for_Students-Exiting-Sch.pdf)
 *   [Parent Kit on Cyber Wellness for Your Child](/files/PDLP@Swiss%20Cottage/cyber-wellness-for-your-child.pdf)
 *   [Schoolbag article ‘Keeping our teens safe online’](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online)
 *   [Media Literacy Council](https://go.gov.sg/better-internet-sg)
