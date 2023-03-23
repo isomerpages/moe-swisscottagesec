@@ -75,3 +75,11 @@ description: ""
 | 29-5-2023 | Mon | Term 2 School Holidays |
 
 
+#### June 2023
+
+
+
+| Date | Day | Event |
+| - | -------- | -------- |
+| 2-6-2023    | Fri     | Vesak Day    |
+
