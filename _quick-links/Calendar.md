@@ -71,4 +71,7 @@ description: ""
 | 22-5-2023     | Mon   | Sec 2 Horizon Trip      |
 | 22-5-2023| Mon | Sec 3 ALP Trip |
 | 22-5-2023    | Mon     | Sec 3 Leadership Trip    |
+| 26-5-2023 | Fri | HBL #10 |
+| 29-5-2023 | Mon | Term 2 School Holidays |
+
 
