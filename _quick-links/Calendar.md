@@ -56,5 +56,19 @@ description: ""
 | -------- | --- | ----- |
 | 7-4-2023     | Fri     | Good Friday     |
 | 14-4-2023 | Fri | HBL #7 |
-| 28-4-2023     | Fri     | 4E5N4N4T EL Oral Exam (Prelim)     |
+| 28-4-2023  | Fri     | 4E5N4N4T EL Oral Exam (Prelim)     |
 | 28-4-2023 | Fri | HBL #8 |
+
+
+#### May 2023
+
+
+
+| Date | Day | Event |
+| -------- | -------- | -------- |
+| 1-5-2023     | Mon     | Labour Day     |
+| Column 1 | Column 2 | Column 3 |
+| Text     | Text     | Text     |
+
+
+
