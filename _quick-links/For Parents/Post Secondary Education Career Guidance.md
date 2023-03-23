@@ -4,8 +4,7 @@ permalink: /quick-links/For-Parents/post-secondary-educationcareer-guidance/
 description: ""
 third_nav_title: For Parents
 ---
-# link broken: "Journey with our children, Supporting their aspirations", "What’s Next – Taking My Next  Step Forward  After GCE N / O  Level", "The Next Step Forward"
-# Post Secondary Education/Career Guidance
+
 
 **Our Vision: Work Ready, World Ready**
 
