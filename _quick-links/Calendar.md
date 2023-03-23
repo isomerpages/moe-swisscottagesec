@@ -38,3 +38,35 @@ description: ""
 | 22-2-2023 | Wed | Sec 3 NRIC Registration |
 | 24-2-2023     | Fri     | HBL #4     |
 
+#### March 2023
+
+
+
+| Date | Day | Event |
+| -------- | -------- | -------- |
+|10-3-2023     | Fri     | HBL #5    |
+| 20-3-2023 | Mon | Term 1 School Holidays |
+| 31-3-2023     | Fri     | HBL #6     |
+
+#### April 2023
+
+
+
+| Date| Day| Event |
+| -------- | --- | ----- |
+| 7-4-2023     | Fri     | Good Friday     |
+| 14-4-2023 | Fri | HBL #7 |
+| 28-4-2023     | Fri     | 4E5N4N4T EL Oral Exam (Prelim)     |
+| 28-4-2023 | Fri | HBL #8 |
+
+
+
+
+
+
+
+
+
+
+
+
