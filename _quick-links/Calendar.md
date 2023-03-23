@@ -38,16 +38,3 @@ description: ""
 | 22-2-2023 | Wed | Sec 3 NRIC Registration |
 | 24-2-2023     | Fri     | HBL #4     |
 
-#### March 2023
-
-
-| Date | Day | Event |
-| ----- | -------- | -------- |
-| 10-3-2023 | Fri | HBL #5 |
-| 10-3-2023 | Fri |HBL #5 |
-| Text     | Text     | Text     |
-
-
-
-
-
