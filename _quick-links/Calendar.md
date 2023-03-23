@@ -25,3 +25,29 @@ description: ""
 | 27-1-2023 | Fri | HBL #2 |
 
 #### February 2023
+
+
+
+| Date | Day | Event |
+| -------- | -------- | -------- |
+| 9-2-2023   | Thu    | Release of CCA Allocation Results    |
+| 10-2-2023 | Fri | HBL #3
+| 10-2-2023 | Thu | PDLP Ipad Rollout ( Sec 1 only) |
+| 15-2-2023 | Wed | Total Defence Day Commemoration |
+| 17-2-2023 | Fri | Sec 3-5 Principal's Address Online(6.30-8.30pm) |
+| 22-2-2023 | Wed | Sec 3 NRIC Registration |
+| 24-2-2023     | Fri     | HBL #4     |
+
+#### March 2023
+
+
+| Date | Day | Event |
+| ----- | -------- | -------- |
+| 10-3-2023 | Fri | HBL #5 |
+| 10-3-2023 | Fri |HBL #5 |
+| Text     | Text     | Text     |
+
+
+
+
+
