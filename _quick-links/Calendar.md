@@ -67,8 +67,8 @@ description: ""
 | Date | Day | Event |
 | -------- | -------- | -------- |
 | 1-5-2023     | Mon     | Labour Day     |
-| Column 1 | Column 2 | Column 3 |
-| Text     | Text     | Text     |
-
-
+| 12-5-2023 | Fri | HBL #9 |
+| 22-5-2023     | Mon   | Sec 2 Horizon Trip      |
+| 22-5-2023| Mon | Sec 3 ALP Trip |
+| 22-5-2023    | Mon     | Sec 3 Leadership Trip    |
 
