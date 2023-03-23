@@ -25,7 +25,7 @@ An overview of how parents may engage the child in exploring their interest / st
 
 ![](/images/For%20Parents/Journey-with-our-children-supporting-their-aspirations-e1639374336999.jpg)
 
-2\. [What’s Next – Taking My Next  Step Forward  After GCE N / O  Level](https://www.moe.gov.sg/microsites/whats-next/index.html)
+2\. [What’s Next – Taking My Next  Step Forward  After GCE N / O  Level](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/2022_Whats-Next-O-Level-2.pdf)(https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/2022_Whats-Next-N-Level-1.pdf)
 
 A comprehensive website that provides information and guiding quesitons for decision making at a key juncture of their education journey.
 
