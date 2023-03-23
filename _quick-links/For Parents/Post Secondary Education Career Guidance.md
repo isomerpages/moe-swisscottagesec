@@ -34,7 +34,7 @@ A comprehensive website that provides information and guiding quesitons for deci
 
 A comprehensive website that provides information and guiding quesitons for decision making at a key juncture of their education journey.
 
-4\. [Polytechnic Foundation Programme](https://pfp.polytechnic.edu.sg/PFP/index.html)
+4\. [Polytechnic Foundation Programme PFP](https://pfp.polytechnic.edu.sg/PFP/index.html)
 
 Do explore the if you child is looking at entering a polytechnic after Secondary 4N(A).
 
