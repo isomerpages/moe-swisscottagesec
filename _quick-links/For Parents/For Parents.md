@@ -11,7 +11,7 @@ The following are links to websites that we feel may be useful in the developmen
 1\.  [Physical Development](https://swisscottagesec.moe.edu.sg/quick-links/for-parents/physical-development/) <br>
 2\.  [C0-curricular Activities Programme](https://swisscottagesec.moe.edu.sg/quick-links/for-parents/co-curricular-activities-programme/)  <br>
 3\.  [Post Secondary Education/Career Guidance](https://swisscottagesec.moe.edu.sg/quick-links/for-parents/post-secondary-educationcareer-guidance/)  <br>
-4\.  [MOE Cyber Wellness Portal](/quick-links/For-Parents/moe-cyberwellness-portal/)  <br>
+4\.  [MOE Cyber Wellness Portal](https://swisscottagesec.moe.edu.sg/quick-links/for-parents/moe-cyberwellness-portal/)  <br>
 5\.  [Sexuality Education Programme](/swiss-experience/Student-Development-Programme/sexuality-education/)
 
 Information for 2023
