@@ -18,7 +18,7 @@ Information for 2023
 
 1\.  [Secondary 1 Booklist](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-SCSS-Booklist-SECONDARY-1.pdf)  <br>
 2\.  [Secondary 1 Stationary List](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-SCSS-Booklist-SEC1-Miscellaneous.pdf) <br> 
-3\.  [Secondary 2 Booklist](/files/For%20parents/2023-Sec-2-Booklist.pdf)  <br>
+3\.  [Secondary 2 Booklist](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-Sec-2-Booklist.pdf)  <br>
 4\.  [Secondary 2 Stationary List](/files/For%20parents/2023-SCSS-Booklist-SEC2-Miscellaneous.pdf) <br> 
 5\.  [Secondary 3 Booklist and Stationary List](/files/For%20parents/2023-SCSS-Booklist-SEC3-Miscellaneous.pdf)<br> 6\.  [Secondary 4 Booklist](/files/For%20parents/2023-Sec-4-Booklists.pdf)  <br>
 7\.  [Secondary 4 Stationary List](/files/For%20parents/2023-SCSS-Booklist-SEC4-Miscellaneous.pdf)  <br>
