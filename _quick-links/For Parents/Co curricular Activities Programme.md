@@ -21,7 +21,7 @@ third_nav_title: For Parents
 ### Uniform Groups
 
 <a href="http://www.bb.org.sg/" target="_blank">Boys’ Brigade</a>  
-[Girl Guides](https://girlguides.org.sg/[undefined](https://girlguides.org.sg/)
+[Girl Guides]</a> (https://girlguides.org.sg/)   </a>
 <a href="http://www.ncc.org.sg/" target="_blank">National Cadet Corp</a>  
 <a href="http://www.npcc.gov.sg/" target="_blank">National Police Cadet Corp</a>    
 <a href="http://www.scout.sg/" target="_blank">The Singapore Scouts Association</a>   
