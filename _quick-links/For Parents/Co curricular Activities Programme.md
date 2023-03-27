@@ -36,8 +36,7 @@ third_nav_title: For Parents
 
 ### Sexuality Education
 
-<a href="http://www.hpb.gov.sg/sexualhealth/article.aspx?id=7162" target="_blank">http://www.hpb.gov.sg/sexualhealth/article.aspx?id=7162</a>
-  
+<(https://swisscottagesec.moe.edu.sg/swiss-experience/student-development-programme/sexuality-education/)
 (parents will get some tips on how to approach the topic on Sexualtiy education with child)
 
 ### Parenting Skills
