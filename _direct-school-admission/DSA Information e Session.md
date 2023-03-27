@@ -42,4 +42,4 @@ Click on the links below to view our latest SCSS Moments videos on YouTube!
 
 [Swiss Performing Arts CCAs – A Compilation](https://www.youtube.com/watch?v=xt521QxMVaA&feature=youtu.be)
 
-To find out more about the school, you can refer to [Swiss Cottage At A Glance 2022.](/files/Direct%20School%20Admission/2021-At-a-glance-new.pdf)
+To find out more about the school, you can refer to [Swiss Cottage At A Glance 2022.](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/04/2021-At-a-glance-new.pdf)
