@@ -5,4 +5,4 @@ description: ""
 ---
 # School Brochure
 
-<a href="/files/About%20us/Swiss-Cottage-Secondary_School-Brochure_edited25092019.pdf" target="_blank">School Brochure</a>
+<a href="/files/About%20us/Swiss-Cottage-Secondary_School-Brochure_edited25092019.pdf" target="_blank">School Brochure</a>[School Brochure](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2019/09/Swiss-Cottage-Secondary_School-Brochure_edited25092019.pdf)
