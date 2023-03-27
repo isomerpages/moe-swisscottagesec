@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Student Initiated Project Making Hand Sanitiser.md
       - For Students.md
       - For Parents/.keep
       - For Parents/For Parents.md
