@@ -18,14 +18,16 @@ Mr Heng Yew Seng (Dec 2012 – Dec 2017)<br>
 Mr Sherwin Cheng (Dec 2017 – Dec 2022)<br>
 Mdm Cheng Mun Yi Mandy (Dec 2022 – Present)
  
- ![](/images/About%20us/Principal_1.jpg)
+<img align="left" style="width:75%" src="/images/About%20us/Principal_1.jpg">
  
- ![](/images/About%20us/Principal_2.jpg)
- 
- ![](/images/About%20us/Principal_3.jpg)
- 
- ![](/images/About%20us/Princiapal_4.png)
+<img align="left" style="width:75%" src="/images/About%20us/Principal_2.jpg">
+	
+<img align="left" style="width:75%" src="/images/About%20us/Principal_3.jpg">
 
+<img align="left" style="width:40%" src="/images/principal.png">
+ 
+<br clear="left"> 
+ 
 [Documentary on School History and Principals](http://www.youtube.com/watch?v=ZAH-VwoMIhI&amp;feature=youtu.be)
 
 ###  History
