@@ -7,17 +7,16 @@ description: ""
 
 ### Our Principals through the Years:
 
- Mr R. D. Jansen (1962 – 1968)  
- Mr R. W. Mosbergen (1969 – 1975)  
- Mr Chow Kye Lock (1976 – 1989)  
- Mr D. Natarajan (1989 – 1997)  
- Mr Gan Chee Hau (Aug 1997  
-– Dec 2002)  
- Miss Tay Lai Ling (Dec 2002 – Dec 2007)  
- Mr Liu Earnler (Dec 2007 – Dec 2012)  
- Mr Heng Yew Seng (Dec 2012 – Dec 2017)  
- Mr Sherwin Cheng (Dec 2017 – Dec 2022)
- Mdm Cheng Mun Yi Mandy (Dec 2022 – Present)
+Mr R. D. Jansen (1962 – 1968)<br>
+Mr R. W. Mosbergen (1969 – 1975)<br>
+Mr Chow Kye Lock (1976 – 1989)<br>
+Mr D. Natarajan (1989 – 1997)<br>
+Mr Gan Chee Hau (Aug 1997 – Dec 2002)<br>
+Ms Tay Lai Ling (Dec 2002 – Dec 2007)<br>
+Mr Liu Earnler (Dec 2007 – Dec 2012)<br>
+Mr Heng Yew Seng (Dec 2012 – Dec 2017)<br>
+Mr Sherwin Cheng (Dec 2017 – Dec 2022)<br>
+Mdm Cheng Mun Yi Mandy (Dec 2022 – Present)
  
  ![](/images/About%20us/Principal_1.jpg)
  
@@ -27,22 +26,21 @@ description: ""
  
  ![](/images/About%20us/Princiapal_4.png)
 
-<a href="http://www.youtube.com/watch?v=ZAH-VwoMIhI&feature=youtu.be" target="_blank">Documentary on School History and Principals</a>
+<a href="http://www.youtube.com/watch?v=ZAH-VwoMIhI&amp;feature=youtu.be">Documentary on School History and Principals</a>
 
 ###  History
 
-<img src="/images/About%20us/history%20final.jpg"
-     style="width:50%;float:left;padding:20px">
+<img src="/images/About%20us/history%20final.jpg" style="width:50%;float:left;padding:20px">
 
-Swiss Cottage celebrated its 50th Anniversary in 2013. Fifty years of establishment is a significant milestone for a school in a young country like Singapore. Today Swiss Cottage is recognised as one of the most esteemed government schools in Singapore. It is a school with a rich heritage, well-established educational practices and multitudes of school, group and individual achievements including academic, character development and community service awards. The success of Swiss Cottage is attributed to the past 50 years of school-building by its school leaders, staff, students and school community in developing the Swiss Spirit.
+Swiss Cottage celebrated its 50th Anniversary in 2013. Fifty years of establishment is a significant milestone for a school in a young country like Singapore. Today Swiss Cottage is recognised as one of the most esteemed government schools in Singapore. It is a school with a rich heritage, well-established educational practices and&nbsp;multitudes of school, group and individual achievements including academic, character development and community service awards. The success of Swiss Cottage is attributed to the past 50 years of school-building by its school leaders, staff, students and school community in developing the Swiss Spirit.
 
-The school started in 1962 with about 200 pupils, housed at Raffles Institution at Bras Basah Road. In July 1963, students and staff moved into a new school premises at Swiss Cottage Estate (along Dunearn Road), which officially opened in November 1963, with an enrolment of about 870 pupils in two media, namely English and Malay. 
+The school started in 1962 with about 200 pupils, housed at Raffles Institution at Bras Basah Road. In July 1963, students and staff moved into a new school premises at Swiss Cottage Estate (along Dunearn Road), which officially opened in November 1963, with an enrolment of about 870 pupils in two media, namely English and Malay.&nbsp;
 
 The Swiss Spirit was formed since the founding of the school in 1963. Under the leadership of the first Principal, Mr R.D. Jansen, from 1963 to 1968, the Swiss Spirit originated as the spirit of national integration through sports. Swiss Cottage was born against the backdrop of the need for national survival and national integration. The school motto, Scientiae Patriaeque Gratia, ‘For the Sake of Learning and For the State’, challenges the students to strive to be educated for the good of the nation and for mankind. In 1966, the then Minister of Law and National Development, Mr E.W. Barker, described Swiss Cottage as one of the foremost integrated schools in Singapore.
 
- It was the second Principal of Swiss, Mr Rudy Mosbergen, who brought Swiss Cottage to new peaks from 1969 to 1975. A distinguished sportsman himself, Mr Mosbergen was a strong believer of all-round education. Besides academic and sports pursuits, Mr Mosbergen mooted the idea of character building. He introduced the Swiss Code of Conduct and later emphasized on reading as a means for the inquisition of knowledge for one’s mastery of words and intellect. For the first time, there was an official articulation of the Swiss Spirit in 1969 when Mr Morsbergen defined it as a spirit of dedication and devotion to duty, a spirit of service and sacrifice, and the spirit of cooperation and pursuit of excellence.
+&nbsp;It was the second Principal of Swiss, Mr Rudy Mosbergen, who brought Swiss Cottage to new peaks from 1969 to 1975. A distinguished sportsman himself, Mr Mosbergen was a strong believer of all-round education. Besides academic and sports pursuits, Mr Mosbergen mooted the idea of character building. He introduced the Swiss Code of Conduct and later emphasized on reading as a means for the inquisition of knowledge for one’s mastery of words and intellect. For the first time, there was an official articulation of the Swiss Spirit in 1969 when Mr Morsbergen defined it as a spirit of dedication and devotion to duty, a spirit of service and sacrifice, and the spirit of cooperation and pursuit of excellence.
 
-The pursuit for excellence continued under the leadership of Mr Chow Kye Lock who was the principal of the school from 1976 to 1989. The Swiss Student would not be complete without a passion for the arts. It was Mr Chow Kye Lock who ignited the love for the arts in a national move to make Singapore a gracious society. Under Mr Chow’s leadership, he instituted the Festival of the Performing Arts, Swiss Drama Nite and The Swiss Arts Centre which led the GROW Magazine in 1980 to describe Swiss Cottage as a school ‘leading in the fields of artistic and cultural pursuits’.
+The pursuit for excellence continued under the leadership of Mr Chow Kye Lock who was the principal of the school from 1976 to 1989. The Swiss Student would not be complete without a passion for the arts. It was Mr Chow Kye Lock who ignited the love for the arts in a national move to make Singapore a gracious society. Under Mr Chow’s leadership, he instituted&nbsp;the Festival of the Performing Arts, Swiss Drama Nite and The Swiss Arts Centre&nbsp;which led the GROW Magazine in 1980 to describe Swiss Cottage as a school ‘leading in the fields of artistic and cultural pursuits’.
 
 The Swiss Spirit lived on when Mr Dorai Natarajan took over the school from 1991 to 1997 and the school relocated to its current Bukit Batok campus. Mr Natarajan further defined the Swiss Spirit as a commitment by both teachers and students to achieve excellence in both academic and non-academic pursuits, loyalty to school and nation, and in care and concern for the less fortunate members of the society. In preparation for the Swiss Student to live up to this call, the Pastoral Care and Career Guidance and the Leadership Training Camp were installed. In fact the spirit of excellence continued through Mr Natarajan who believed that excellence in both the academic and non-academic domains were inter-related. When he retired in 1997, Swiss Cottage was at greater new heights and was ranked top 19 in Singapore.
 
