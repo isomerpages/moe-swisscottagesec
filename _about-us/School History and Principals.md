@@ -34,6 +34,8 @@ Mdm Cheng Mun Yi Mandy (Dec 2022 – Present)
 
 Swiss Cottage celebrated its 50th Anniversary in 2013. Fifty years of establishment is a significant milestone for a school in a young country like Singapore. Today Swiss Cottage is recognised as one of the most esteemed government schools in Singapore. It is a school with a rich heritage, well-established educational practices and&nbsp;multitudes of school, group and individual achievements including academic, character development and community service awards. The success of Swiss Cottage is attributed to the past 50 years of school-building by its school leaders, staff, students and school community in developing the Swiss Spirit.
 
+<br clear="left">
+
 The school started in 1962 with about 200 pupils, housed at Raffles Institution at Bras Basah Road. In July 1963, students and staff moved into a new school premises at Swiss Cottage Estate (along Dunearn Road), which officially opened in November 1963, with an enrolment of about 870 pupils in two media, namely English and Malay.&nbsp;
 
 The Swiss Spirit was formed since the founding of the school in 1963. Under the leadership of the first Principal, Mr R.D. Jansen, from 1963 to 1968, the Swiss Spirit originated as the spirit of national integration through sports. Swiss Cottage was born against the backdrop of the need for national survival and national integration. The school motto, Scientiae Patriaeque Gratia, ‘For the Sake of Learning and For the State’, challenges the students to strive to be educated for the good of the nation and for mankind. In 1966, the then Minister of Law and National Development, Mr E.W. Barker, described Swiss Cottage as one of the foremost integrated schools in Singapore.
