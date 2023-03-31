@@ -26,7 +26,7 @@ Mdm Cheng Mun Yi Mandy (Dec 2022 – Present)
  
  ![](/images/About%20us/Princiapal_4.png)
 
-<a href="http://www.youtube.com/watch?v=ZAH-VwoMIhI&amp;feature=youtu.be">Documentary on School History and Principals</a>
+[Documentary on School History and Principals](http://www.youtube.com/watch?v=ZAH-VwoMIhI&amp;feature=youtu.be)
 
 ###  History
 
