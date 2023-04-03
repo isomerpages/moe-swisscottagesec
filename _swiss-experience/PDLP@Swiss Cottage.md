@@ -109,7 +109,7 @@ The school needs to use your child/ward’s personal data such as his/her name a
 *   Microsoft Pro Plus:&nbsp;[https://portal.office.com/commerce/mosa.aspx](https://portal.office.com/commerce/mosa.aspx)&nbsp;
 *   Zoom:&nbsp;[https://zoom.us/docs/en-us/schools-privacy-statement.html](https://zoom.us/docs/en-us/schools-privacy-statement.html)
 
-All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies:&nbsp;(https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection)
+All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies:&nbsp;(https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation)
 
 **<u>Technical Support</u>**
 
