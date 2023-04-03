@@ -117,7 +117,7 @@ All user data which is collected by MOE will be stored in secure servers managed
     1.  Help Desk number: 6270 8281
     2.  Help Desk email: pdlpapple@asiapac.com.sg
     3.  Help Desk operating hours: Mon-Thu 0830 to 1730, Fri 0830-1700. Closed on Sat, Sun &amp; Public Holidays
-    4.  Website:&nbsp;[https://asiapac.com.sg/pld/apple](https://asiapac.com.sg/pld/apple)&nbsp;(for buying of accessories)
+    
 2.  School-based Support
     1.  Technical matters: email to g-ncs3304sde@ncs.com.sg
     2.  Administrative matters: email to giam_chin_leong@moe.edu.sg
