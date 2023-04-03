@@ -48,7 +48,7 @@ For Swiss Cottage, each PLD bundle consists of:
 
 To support you in keeping your child safe online, you may refer to these resources:
 
-*   [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness/][undefined](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+*   (https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 *   [gov.sg/better-internet-sg](http://gov.sg/better-internet-sg)
 *   [nlb.gov.sg/](http://nlb.gov.sg/)
 *   [help123.sg](http://help123.sg/)
