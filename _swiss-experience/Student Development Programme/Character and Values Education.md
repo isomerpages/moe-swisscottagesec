@@ -6,7 +6,7 @@ third_nav_title: Student Development Programme
 ---
 # Character and Values Education
 
-At Swiss, students learn **Values and Related Competencies**  that will help them develop holistic health – in the physical, mental and social domains of my life. By learning to take care of oneself, they are also able to care for others and become an active contributor to our nation and the world at large.
+At Swiss, students learn&nbsp;**Values and Related Competencies**&nbsp; that will help them develop holistic health – in the physical, mental and social domains of my life. By learning to take care of oneself, they are also able to care for others and become an active contributor to our nation and the world at large.
 
 CCE is a platform which we inculcate core values which guide individual’s behaviour. In the weekly lessons, students will be taught explicitly on
 
@@ -15,7 +15,7 @@ CCE is a platform which we inculcate core values which guide individual’s beha
 *   Honour
 *   Humility
 
-[Characters-and-Values](/files/Swiss%20Experience/Characters-and-Values-1-5.pdf)
+[Characters-and-Values](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/01/Characters-and-Values-1-5.pdf)
 
 The Swiss CCE Curriculum also includes domains of
 
