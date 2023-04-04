@@ -21,7 +21,6 @@ third_nav_title: For Parents
 ### Uniform Groups
 
 <a href="http://www.bb.org.sg/" target="_blank">Boys’ Brigade</a> 
-[Girl Guides] (https://girlguides.org.sg/)
 <a href="http://www.ncc.org.sg/" target="_blank">National Cadet Corp</a>  
 <a href="http://www.npcc.org.sg/" target="_blank">National Police Cadet Corp</a>    
 <a href="http://www.scout.sg/" target="_blank">The Singapore Scouts Association</a>   
@@ -45,4 +44,3 @@ third_nav_title: For Parents
 <a href="http://fcd.ecitizen.gov.sg/PopularTopics/EducationalMaterials" target="_blank">Family &amp; Community Development</a>    
 <a href="http://www.family.org.sg/" target="_blank">Focus on the Family</a>    
 (The mission of the Focus on the Family is to strengthen the institution of family by coming alongside families to enrich them.)
-
