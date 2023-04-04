@@ -14,11 +14,11 @@ description: ""
 
 **CCAs offered by Swiss Cottage**
 
-|   Sports / Games   |      Uniformed Groups          |                 Performing Arts      |   Clubs & Societies        |
+|   Sports / Games   |      Uniformed Groups          |                 Performing Arts      |   Clubs &amp; Societies        |
 |:----------:|:----------:|:---------:|:-------------:|
-| • Badminton (Girls)<br>• Basketball<br>• Floorball<br>• Soccer (Boys)<br>• Tenpin Bowling (Boys) | • Boys’ Brigade<br>• NCC (Air)<br>• NCDCC<br>• NPCC (Boys)<br>• Scouts <br>• Girl Guides | • Chinese Orchestra<br>• Show Choir<br>• Malay Dance<br>• Chinese Dance<br>• Drama<br>• NCC Command Band | • Publications and Media Club<br>• Science & Technology |
+| • Badminton (Girls)<br>• Basketball<br>• Floorball<br>• Soccer (Boys)<br>• Tenpin Bowling (Boys) | • Boys’ Brigade<br>• NCC (Air)<br>• NCDCC<br>• NPCC (Boys)<br>• Scouts <br>• Girl Guides | • Chinese Orchestra<br>• Show Choir<br>• Malay Dance<br>• Chinese Dance<br>• Drama<br>• NCC Command Band | • Publications and Media Club<br>• Science &amp; Technology |
 
-**LEAPS CCA Grading Scheme**  
+**LEAPS CCA Grading Scheme**&nbsp;&nbsp;
 
 **LEAPS 2.0**
 
@@ -36,13 +36,13 @@ National Sports Associations (NSA) may seek the principal’s permission for the
 
 **Choice of CCA**
 
-Students are advised to exercise prudence in selecting their CCAs, and he / she should only choose to do more than 1 CCA if it does not affect his / her commitment to their main CCA.  CCAs should be chosen based on interest / ability and not on the points awarded.
+Students are advised to exercise prudence in selecting their CCAs, and he / she should only choose to do more than 1 CCA if it does not affect his / her commitment to their main CCA.&nbsp; CCAs should be chosen based on interest / ability and not on the points awarded.
 
 You may visit our CCA Google Site for more information on CCA here:
 
 [https://sites.google.com/moe.edu.sg/swissccas/our-ccas](https://sites.google.com/moe.edu.sg/swissccas/our-ccas)
 
-**CCA Practices & Venues** 
+**CCA Practices &amp; Venues**&nbsp;
 
 Please refer to the table below for the schedules of CCA in 2022.
 <table>
@@ -392,8 +392,8 @@ Please refer to the table below for the schedules of CCA in 2022.
     <td>tan_yan_lin_hazel@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Ms Gina</td>
-    <td></td>
+    <td>
+    </td><td></td>
   </tr>
   <tr>
     <td rowspan="3">18</td>
