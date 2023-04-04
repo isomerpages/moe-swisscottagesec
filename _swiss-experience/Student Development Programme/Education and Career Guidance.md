@@ -16,7 +16,7 @@ third_nav_title: Student Development Programme
 
 **Resources for parents**
 
-1\.  [What's Next - Taking My Next Step Forward After GCE O Level](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/2022_Whats-Next-N-Level-1.pdf)
+1\.  [What's Next - Taking My Next Step Forward After GCE O Level](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/2022_Whats-Next-O-Level-2.pdf)
 
 A comprehensive website that provides information and guiding quesitons for decision making at a key juncture of their education journey.&nbsp;
 
