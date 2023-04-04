@@ -46,4 +46,3 @@ Find out how the aptitude-based admissions exercise that allows students to appl
 7\. [Admissions to ITE Full-Time Courses \| Institute of Technical Education](https://www.ite.edu.sg/admissions/full-time-courses)
 
 Information of different courses available for N / O level students
-
