@@ -47,8 +47,3 @@ Find out how the aptitude-based admissions exercise that allows students to appl
 
 Information of different courses available for N / O level students
 
-9\. [The Next Step Forward](https://www.moe.gov.sg/microsites/next-step-forward/index.html#p=4)
-
-Every child has their own strength and ability, parents should discuss with the child on their interest and passion, and explore the options at various key stages of education pathway. Here are some 54 portraits of youths who have gone through diverse education and career pathway and succeed in their selected path.
-
-![](/images/For%20Parents/The-Next-Step-Forward-e1639445424934.png)
