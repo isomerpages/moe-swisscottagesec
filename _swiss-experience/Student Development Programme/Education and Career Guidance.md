@@ -4,7 +4,6 @@ permalink: /swiss-experience/Student-Development-Programme/education-and-career-
 description: ""
 third_nav_title: Student Development Programme
 ---
-
 ### **Our Vision: Work Ready, World Ready**
 
 **Programme**
@@ -23,7 +22,7 @@ third_nav_title: Student Development Programme
 
 <img src="/images/Swiss%20Experience/Journey-with-our-children-supporting-their-aspirations-e1639374336999.jpg" style="width:50%;float:left"><br clear="left">
 
-2\.&nbsp;(https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/2022_Whats-Next-O-Level-2.pdf)
+2\. Whats-Next-O-Level-2.pdf(https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/11/2022_Whats-Next-O-Level-2.pdf))
 
 A comprehensive website that provides information and guiding quesitons for decision making at a key juncture of their education journey.&nbsp;
 
