@@ -36,6 +36,6 @@ third_nav_title: For Parents
 
 ### Parenting Skills
 
-<a href="http://fcd.ecitizen.gov.sg/PopularTopics/EducationalMaterials" target="_blank">Family &amp; Community Development</a>    
+   
 <a href="http://www.family.org.sg/" target="_blank">Focus on the Family</a>    
 (The mission of the Focus on the Family is to strengthen the institution of family by coming alongside families to enrich them.)
