@@ -21,7 +21,9 @@ Mdm Cheng Mun Yi Mandy (Dec 2022 – Present)
 <img align="left" style="width:75%" src="/images/About%20us/Principal_1.jpg">
  
 <img align="left" style="width:75%" src="/images/About%20us/Principal_2.jpg">
-	
+
+
+![](/images/About%20us/mr%20heng%20&amp;%20mr%20cheng%20photo%20(8).jpg)
 <!--[](/images/About%20us/mr%20heng%20&%20mr%20cheng%20photo%20(8).jpg)
 
 <img src="/images/principal.png" style="width:40%" align="left"-->
