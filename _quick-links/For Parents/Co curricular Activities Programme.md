@@ -8,9 +8,6 @@ third_nav_title: For Parents
 
 <a href="http://www.nyaa.org/" target="_blank">National Youth Achievement Awards</a>
 
-### Sports
-
-<a href="http://www.schoolsports.sg/" target="_blank">Singapore Schools Sports Council</a>
 
 ### Performing Arts
 
@@ -18,17 +15,17 @@ third_nav_title: For Parents
 
 ### Uniform Groups
 
-<a href="http://www.bb.org.sg/" target="_blank">Boys’ Brigade</a> 
+
 <a href="http://www.ncc.org.sg/" target="_blank">National Cadet Corp</a>  
 <a href="http://www.npcc.org.sg/" target="_blank">National Police Cadet Corp</a>    
 <a href="http://www.scout.sg/" target="_blank">The Singapore Scouts Association</a>   
-<a href="http://www.sjab.org.sg/" target="_blank">St. John Ambulance Brigade</a> 
-)
+
 
 ### Clubs
 
-<a href="http://www.ida.gov.sg/" target="_blank">Infocomm Development Authority of Singapore</a>  
+ 
 <a href="http://www.science.edu.sg/" target="_blank">Singapore Science Centre</a>
+
 <a href="http://www.nea.gov.sg/" target="_blank">National Environment Agency</a>
 
 ### Sexuality Education
