@@ -4,12 +4,11 @@ permalink: /swiss-partnerships/alumni/registration-and-contribution/
 description: ""
 third_nav_title: Alumni
 ---
-
 ## REGISTRATION
 
 ### JOIN the Swiss Alumni
 
-We ask all alumni of the school to please register yourselves with us so that we can keep in touch with you. Registration can be done by clicking the link&nbsp;<a href="https://docs.google.com/a/moe.edu.sg/forms/d/1GgtAdvuZpqzeU2-YiZHkznWwx5IFNwZYlRFSmQAWGWk/viewform" target="_blank">HERE</a>.
+We ask all alumni of the school to please register yourselves with us so that we can keep in touch with you. 
 
 ## CONTRIBUTIONS
 
