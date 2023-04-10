@@ -15,8 +15,8 @@ third_nav_title: For Parents
 
 ### Uniform Groups
 
-
-<a href="http://www.ncc.org.sg/" target="_blank">National Cadet Corp</a>  
+[National Cadet Corp](https://www.facebook.com/sgncc.hq/)
+  
 <a href="http://www.npcc.org.sg/" target="_blank">National Police Cadet Corp</a>    
 <a href="http://www.scout.sg/" target="_blank">The Singapore Scouts Association</a>   
 
