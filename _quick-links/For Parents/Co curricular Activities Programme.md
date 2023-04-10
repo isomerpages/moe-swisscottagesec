@@ -8,6 +8,11 @@ third_nav_title: For Parents
 
 <a href="http://www.nyaa.org/" target="_blank">National Youth Achievement Awards</a>
 
+### Sports
+
+[National School Games](https://nsg.moe.edu.sg/sssc/about-us)
+
+
 
 ### Performing Arts
 
