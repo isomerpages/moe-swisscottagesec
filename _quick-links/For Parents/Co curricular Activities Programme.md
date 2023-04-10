@@ -28,6 +28,8 @@ third_nav_title: For Parents
 
 <a href="http://www.nea.gov.sg/" target="_blank">National Environment Agency</a>
 
+[Infocomm](https://www.saaa.org.sg/infocomm-development-authority-of-singapore-ida/)
+
 ### Sexuality Education
 
 &lt;[Sexuality Education](https://swisscottagesec.moe.edu.sg/swiss-experience/student-development-programme/sexuality-education/)
