@@ -3,8 +3,6 @@ title: School Advisory Committee
 permalink: /about-us/school-advisory-committee/
 description: ""
 ---
-
-
 <table width="704">
 <thead>
   <tr>
@@ -16,7 +14,7 @@ description: ""
 <tbody>
   <tr>
     <td> </td>
-    <td  width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S1103956A-225x300.jpg"><p style="text-align: center;">Mr Nguyen Van Vang<br>Chairperson</p></td>
+    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S1103956A-225x300.jpg"><p style="text-align: center;">Mr Nguyen Van Vang<br>Chairperson</p></td>
     <td></td>
   </tr>
   <tr>
@@ -30,8 +28,7 @@ description: ""
     <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S8636681I.jpg"><p style="text-align: center;">Dr Chua Koon Ting<br>Committee Member</p></td>
   </tr>
   <tr>
-    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S6804524Z-225x300.jpg"><p style="text-align: center;">Dr Michelle Siow<br>Committee Member</p></td>
-    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S7316886D.jpg"><p style="text-align: center;">Mdm Priscilla Leow Bee Peng<br>Committee Member</p></td>
+    
     <td width="187"></td>
   </tr>
 </tbody>
