@@ -18,8 +18,8 @@ description: ""
     <td></td>
   </tr>
   <tr>
-    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/Victor_Bay_(OBC).jpg"><p style="text-align: center;">Mr Victor Bay <br>Committee Member</p></td>
-    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/Terence%20Pic%202.jpg"><p style="text-align: center;">Mr Chen Nam Hin Terence<br>Committee Member</p></td>
+    <td width="187">
+    </td><td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/Terence%20Pic%202.jpg"><p style="text-align: center;">Mr Chen Nam Hin Terence<br>Committee Member</p></td>
     <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S1774572G-220x300.jpg"><p style="text-align: center;">Mdm Lim Bee Gean Alice<br>Committee Member</p></td>
   </tr>
   <tr>
