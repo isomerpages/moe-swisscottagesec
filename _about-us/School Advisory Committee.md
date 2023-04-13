@@ -25,11 +25,11 @@ description: ""
   <tr>
     <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S7780169C-260x300.jpg"><p style="text-align: center;">Mr Chan Seng Fai<br>Committee Member</p></td>
     <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S7717412E-161x300.jpg"><p style="text-align: center;">Mr Lim Fung Yee Danny<br>Committee Member</p></td>
-    <td width="187"><img src="/images/About%20us/School%20Advisory%20Committee/S8636681I.jpg"><p style="text-align: center;">Dr Chua Koon Ting<br>Committee Member</p></td>
+    <td width="187"><img src="/images
   </tr>
   <tr>
     
-    <td width="187"></td>
+    <td width="></td>
   </tr>
 </tbody>
 </table>
