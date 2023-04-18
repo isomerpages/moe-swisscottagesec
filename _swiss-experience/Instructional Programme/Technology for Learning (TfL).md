@@ -8,9 +8,9 @@ third_nav_title: Instructional Programme
 
 ### <b><u>Goals</u></b>
 
-1.  **Staff Excellence Culture** – Staff Excellence marked by highly competent staff as Designers of Learning, Experiences and Environments, who leverage ICT effectively and purposely in T&L.
-2.  **Student Intellect Culture & Wellness Culture** – Every student is a self-directed and collaborative learner who maximises ICT to enhance their learning as guided by teachers, grounded in cyber wellness.
-3.  **Effectiveness and efficiency in school administration** through use of ICT.
+1.  **Staff Excellence Culture**&nbsp;– Staff Excellence marked by highly competent staff as Designers of Learning, Experiences and Environments, who leverage ICT effectively and purposely in T&amp;L.
+2.  **Student Intellect Culture &amp; Wellness Culture**&nbsp;– Every student is a self-directed and collaborative learner who maximises ICT to enhance their learning as guided by teachers, grounded in cyber wellness.
+3.  **Effectiveness and efficiency in school administration**&nbsp;through use of ICT.
 
 ### <b><u>Our Programme</u></b>
 
@@ -27,15 +27,16 @@ third_nav_title: Instructional Programme
 
 ### <b><u>Our Team</u></b>
 
-| ICT & Computer Applications |  |
+| ICT &amp; Computer Applications |  |
 |---|---|
 | Mr Wong Wai Kiong Terence | HOD Technology for Learning (TfL) |
-| Mr Lim Junxuan Christopher | Subject Head / Student Well-Being & Technology for Learning |
+| Mr Lim Junxuan Christopher | Subject Head / Student Well-Being &amp; Technology for Learning |
 | Mdm Shahada Bte Rahmat | CPA Teacher |
 | Mr Wong Yin Kew | CPA Teacher |
 | Mr Choo Shi Qian | CPA Teacher |
 | Mr Giam Chin Leong | ICT Manager |
 | Mr Muhd Zuhairi Bin Zailani | Desktop Engineer |
+| Mrs Gokila Nagarajan @ Manivannan Gokila | Desktop Engineer |
 
 
 <b><u>ICT Facilities for Teaching and Learning</u></b>
