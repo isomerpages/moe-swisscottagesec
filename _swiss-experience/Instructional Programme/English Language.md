@@ -76,5 +76,6 @@ We aim to
 | Ms Serene Lee Ching Lien | English Language |
 | Ms Faith Wang Yi Shan | English Language and Geography |
 | Ms Tan Yan Lin, Hazel | English Language and Literature |
+| Mdm Nur Ashkin Binte Abu Bakar | English Language |
 | Mr Vellasamy Rasandran |  Adjunct / English |
 | Ms Faith Ong Qi Rui | Adjunct / English |
