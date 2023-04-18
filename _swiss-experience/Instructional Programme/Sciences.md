@@ -12,7 +12,7 @@ third_nav_title: Instructional Programme
 
 **Lower Secondary**
 
-<p style="text-align: justify;">Students experience learning of science in thematic manner through hands-on activities such as projects, presentation, experiments, field work so they can better appreciate the interconnectedness across the different sub-disciplines of science (i.e., Biology, Chemistry and Physics).  They will build a strong foundation to prepare them for learning of science at the Upper Secondary level.</p>
+<p style="text-align: justify;">Students experience learning of science in thematic manner through hands-on activities such as projects, presentation, experiments, field work so they can better appreciate the interconnectedness across the different sub-disciplines of science (i.e., Biology, Chemistry and Physics). &nbsp;They will build a strong foundation to prepare them for learning of science at the Upper Secondary level.</p>
 
 **Upper Secondary**
 
@@ -43,11 +43,11 @@ Talent Development Programmes/Competitions
 | Mr Goh Weibin | HOD Science / Biology |
 | Mr Lim Jun Li | School Staff Developer / Physics |
 | Mr Seow Jason | Lead Teacher / Biology |
-| Mr Thou Reaksmey | Subject Head / Physics & ALP |
+| Mr Thou Reaksmey | Subject Head / Physics &amp; ALP |
 | Mdm Tan Pui San | Senior Teacher / Chemistry |
 | Mr Tan Han Chong Timothy | Year Head / Biology |
-| Mdm Stephanie Hngh Sze Hui | Assistant Year Head / Biology |
-| Mdm Sitti Aishah Bte Yusof | Subject Head CCA / Biology & Chemistry |
+| Mdm Sitti Aishah Bte Yusof | Subject Head CCA / Biology &amp; Chemistry |
+| Mdm Stephanie Hngh Sze Hui | Teacher /  Biology 
 | Mr Choo Shi Qian | Teacher / Chemistry |
 | Mr Kenneth Neo Cheng Wee | Teacher / Biology |
 | Mdm Lau Lee Leng | Teacher / Chemistry |
