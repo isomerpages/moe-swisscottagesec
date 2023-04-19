@@ -14,9 +14,6 @@ We welcome Primary 6 students who desire to be a Thoughtful Leader to join us th
 
 To find out more about the school, you can refer to&nbsp;[Swiss Cottage At A Glance.](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/04/2021-At-a-glance-new.pdf)
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from&nbsp;**5 May 2022 (Thursday), 11 am**&nbsp;to&nbsp;**1 June 2022 (Wednesday), 3 pm.**
-
-For more details, please refer to MOE DSA-Sec website –&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
 
 **DSA Talents Offered**
 
@@ -113,3 +110,7 @@ For more details, please refer to MOE DSA-Sec website –&nbsp;[https://www.moe.
 </table>
 
 \* NCC Command Band – Swiss Winds
+
+The selection criteria and selection process for the talent areas will be updated from early May.
+
+For more information on DSA Exercise, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
