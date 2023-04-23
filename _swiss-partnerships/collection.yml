@@ -1,0 +1,8 @@
+collections:
+  swiss-partnerships:
+    output: true
+    order:
+      - Alumni/.keep
+      - Alumni/Alumni.md
+      - Alumni/Registration & Contribution.md
+      - Parents Support Group (PSG).md

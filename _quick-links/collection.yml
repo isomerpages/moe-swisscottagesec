@@ -1,0 +1,15 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - For Students.md
+      - For Parents/.keep
+      - For Parents/For Parents.md
+      - For Parents/Physical Development.md
+      - For Parents/Co curricular Activities Programme.md
+      - For Parents/Post Secondary Education Career Guidance.md
+      - For Parents/MOE Cyber Wellness Portal.md
+      - Calendar.md
+      - Facebook.md
+      - Instagram.md
+      - Contact Us.md
