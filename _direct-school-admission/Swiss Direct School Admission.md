@@ -113,4 +113,5 @@ To find out more about the school, you can refer to&nbsp;[Swiss Cottage At A Gla
 
 The selection criteria and selection process for the talent areas will be updated from early May.
 
-For more information on DSA Exercise, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
+For more information on DSA Exercise, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">Here</a><p></p>
+
