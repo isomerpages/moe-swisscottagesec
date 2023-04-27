@@ -8,8 +8,9 @@ third_nav_title: For Parents
 
 The following are links to websites that we feel may be useful in the development of your child in their physical and emotional areas:
 
-1\.  <a href="physical-development/">Physical Development<br>
-2\.  [Co-curricular Activities Programme](/co-curricular-activities-programme/)  <br>
+
+1\. [Physical Development](physical-development/)<br>
+2\.  [Co-curricular Activities Programme](co-curricular-activities-programme/)  <br>
 3\.  [Post Secondary Education/Career Guidance](https://swisscottagesec.moe.edu.sg/quick-links/for-parents/post-secondary-educationcareer-guidance/)  <br>
 4\.  [MOE Cyber Wellness Portal](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)  <br>
 5\.  [Sexuality Education Programme](https://swisscottagesec.moe.edu.sg/swiss-experience/student-development-programme/sexuality-education/)
@@ -28,4 +29,4 @@ Information for 2023
 11\.  [School Uniform Online Sales Guide](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/Sales-of-School-Uniform-Info.pdf)  <br>
 12\.  [Guide for Measurement for Uniform](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2022-Guide-for-Measurement-for-Uniform.pdf) <br>
 13\.  [Secondary 1 Meet-the-Parents Session – presentation slides](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2023/01/2023-S1-MTP-Combined-Slides-vSchWebsite.pdf)<br>
-14\.  [Geography Briefing for Parents](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2023/02/2023-Geography-Briefing-For-Parents.pdf)</a>
+14\.  [Geography Briefing for Parents](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2023/02/2023-Geography-Briefing-For-Parents.pdf)
