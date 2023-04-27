@@ -14,7 +14,7 @@ Mr D. Natarajan (1989 – 1997)<br>
 Mr Gan Chee Hau (Aug 1997 – Dec 2002)<br>
 Ms Tay Lai Ling (Dec 2002 – Dec 2007)<br>
 Mr Liu Earnler (Dec 2007 – Dec 2012)<br>
-Mr Heng Yew Seng (Dec 2012 – Dec 2017)<br>
+Mr Heng Yew Seng (Dec 2013 – Dec 2017)<br>
 Mr Sherwin Cheng (Dec 2017 – Dec 2022)<br>
 Mdm Cheng Mun Yi Mandy (Dec 2022 – Present)
  
