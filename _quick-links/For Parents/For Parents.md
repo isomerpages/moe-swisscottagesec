@@ -25,9 +25,9 @@ Information for 2023
 6\.  [Secondary 4 Booklist](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-sec-4-booklists.pdf)  <br>
 7\.  [Secondary 4 Stationary List](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-scss-booklist-sec4-miscellaneous.pdf)  <br>
 8\.  [Secondary 5 Booklist](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-scss-booklist-secondary-5na.pdf)  <br>
-9\.  [Secondary 5 Stationary List](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-SCSS-Booklist-SEC5-Miscellaneous.pdf)  <br>
-10\.  [Sales of School Textbooks](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/EZ-Stationery-Sale-of-Textbooks-2022-Yearend.pdf) <br>
-11\.  [School Uniform Online Sales Guide](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/Sales-of-School-Uniform-Info.pdf)  <br>
+9\.  [Secondary 5 Stationary List](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-scss-booklist-sec5-miscellaneous.pdf)  <br>
+10\.  [Sales of School Textbooks](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/ez-stationery-sale-of-textbooks-2022-yearend.pdf) <br>
+11\.  [School Uniform Online Sales Guide](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/sales-of-school-uniform-info.pdf)  <br>
 12\.  [Guide for Measurement for Uniform](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2022-Guide-for-Measurement-for-Uniform.pdf) <br>
 13\.  [Secondary 1 Meet-the-Parents Session – presentation slides](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2023/01/2023-S1-MTP-Combined-Slides-vSchWebsite.pdf)<br>
 14\.  [Geography Briefing for Parents](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2023/02/2023-Geography-Briefing-For-Parents.pdf)
