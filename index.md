@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/homepage.gif
       key_highlights:
-        - title: Direct School Admission
+        - title: Direct School Admission 2023
           description: ""
           url: /direct-school-admission/Swiss-Direct-School-Admission/
   - infobar:
