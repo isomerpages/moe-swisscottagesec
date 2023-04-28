@@ -1,6 +1,6 @@
 ---
 title: House Programme
-permalink: /swiss-experience/Student-Development-Programme/house-programme/
+permalink: /swiss-experience/student-development-programme/house-programme/
 description: ""
 third_nav_title: Student Development Programme
 ---

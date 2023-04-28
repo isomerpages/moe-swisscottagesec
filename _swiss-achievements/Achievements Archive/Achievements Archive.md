@@ -1,6 +1,6 @@
 ---
 title: Achievements Archive
-permalink: /swiss-achievements/Achievements-Archive/
+permalink: /swiss-achievements/achievements-archive/
 description: ""
 third_nav_title: Achievements Archive
 ---

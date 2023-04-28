@@ -1,6 +1,6 @@
 ---
 title: Co curricular Activities Programme
-permalink: /quick-links/For-Parents/co-curricular-activities-programme/
+permalink: /quick-links/for-parents/co-curricular-activities-programme/
 description: ""
 third_nav_title: For Parents
 ---
@@ -40,7 +40,7 @@ third_nav_title: For Parents
 
 ### Sexuality Education
 
-&lt;[Sexuality Education](https://swisscottagesec.moe.edu.sg/swiss-experience/student-development-programme/sexuality-education/)
+<a href="https://swisscottagesec.moe.edu.sg/swiss-experience/student-development-programme/sexuality-education/" target="_blank">Sexuality Education</a>
 
 (parents will get some tips on how to approach the topic on Sexualtiy education with child)
 

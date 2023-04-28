@@ -1,6 +1,6 @@
 ---
 title: 2021 O Level Success Stories
-permalink: /swiss-achievements/Swiss-Success-Stories/2021-o-level-success-stories/
+permalink: /swiss-achievements/swiss-success-stories/2021-o-level-success-stories/
 description: ""
 third_nav_title: Swiss Success Stories
 ---
@@ -15,18 +15,18 @@ Her Form Teachers described her as a polite and conscientious student who exhibi
 
 She cautioned her juniors to remember that hard work without a clear goal in mind would be futile. During the course of the year, she shared that having a goal was another important factor in ensuring academic success. She shared openly that when one has a goal, he or she would always persist in the face of adversity. Yi Ting was candid when sharing her fair share of personal struggles as she too had her moments of being swamped by academic stress. However, she has always maintained her composure even in the face of insurmountable odds. In particular, she exhibited the school value of Humility, being receptive to feedback and displaying a positive learning attitude.
 
-Yi Ting believes that everyone is bound to encounter failure but the important thing is to believe that when one encounters failure, he or she should not wallow in disappointment but recover from it by finding out what went wrong. Ever the proponent of working hard, Yi Ting shared that “hard work will never betray a person” and would almost always yield good outcomes.  She showed much honour in the way she maintained these exacting standards for herself in all her efforts.
+Yi Ting believes that everyone is bound to encounter failure but the important thing is to believe that when one encounters failure, he or she should not wallow in disappointment but recover from it by finding out what went wrong. Ever the proponent of working hard, Yi Ting shared that “hard work will never betray a person” and would almost always yield good outcomes.&nbsp; She showed much honour in the way she maintained these exacting standards for herself in all her efforts.
 
 And this diligence is something that transcends academic pursuits. She served as Deputy Regimental Quartermaster Sergeant in Swiss Winds. Her leadership and involvement in the overseas VIA trip to Ho Chi Minh City, Vietnam, was especially noteworthy. As the group leader, she led the planning and execution of the repainting of classrooms in a children’s home, and the engaging activities for the Children’s Day celebration. During the Swiss Carnival in 2019, she worked diligently with her team members to set up a game booth in order to raise funds for the Lion Befrienders. This sense of care and resilience was also evident in the way she persevered to do well for her examinations.
 
 Yi Ting was still undecided in her choice of course in the polytechnic but she expressed an interest in Mass Communication as her passion lies in current affairs, the languages and writing.
 
-Ever the grateful and thoughtful leader, Yi Ting expressed her thanks to her Form Teachers, Mr Tan Zi Jie and Ms Tan Rou Jing for their encouragement and belief. To her juniors, Yi Ting’s  advice was to work hard and play hard.
+Ever the grateful and thoughtful leader, Yi Ting expressed her thanks to her Form Teachers, Mr Tan Zi Jie and Ms Tan Rou Jing for their encouragement and belief. To her juniors, Yi Ting’s &nbsp;advice was to work hard and play hard.
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Ang-Toh-Boon-4E1.png" style="width:20%;float:left"><br clear="left">
 
 
-**Ang Toh Boon (4E1)** 
+**Ang Toh Boon (4E1)**&nbsp;
 
 Toh Boon’s positivity and enthusiasm were traits that were celebrated by his teachers and peers. He was a picture of joy and jubilance as he shared how happy and relieved he felt after receiving his results. He had good reasons for feeling so as he received 8 distinctions in the process of scoring 6 points for his L1R5 in the 2021 GCE O level examinations.
 
@@ -68,20 +68,20 @@ When asked about her greatest fear, she shared that it is the fear of not meetin
 
 Her teachers described her as an individual who is humble and always willing to lend a helping hand to those around her. In fact, Jing Fei has bigger plans to help not just those around her but also help save the planet at the same time as she shared her plans to study Marine Sciences and green technology.
 
-“Earth is in a state of crisis and I strongly believe that I can make a difference.”
+“Earth is&nbsp;in a state of crisis and I strongly believe that I can make a difference.”
 
 Jing Fei urged all her juniors who will be sitting for the O level examinations this year to take good care of their mental health so as to achieve the best results that they can be capable of.
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Anders-Phoon-Hui-Kai-4E5.png" style="width:20%;float:left"><br clear="left">
 
 
-**Anders Phoon Hui Kai (4E5)** 
+**Anders Phoon Hui Kai (4E5)**&nbsp;
 
-Anders Phoon shared his satisfaction and jubilance because all the hard work that he had put in came to fruition. He scored an L1R5 of 7 points and achieved 6 distinctions GCE O level examinations in 2021. His cheerful and optimistic demeanour betrayed the little signs of the adversities that he faced over the past two years.
+Anders Phoon shared his satisfaction and jubilance because all the hard work that he had put in came to fruition. He scored an L1R5 of 7 points and achieved 6 distinctions GCE O level examinations in 2021.&nbsp;His cheerful and optimistic demeanour betrayed the little signs of the adversities that he faced over the past two years.
 
 “A good friend of mine encouraged me to start studying hard at the start of the year. That was coincidentally also the time when I started writing down goals and started working towards them.
 
-Anders also had other contributions to the school. He was known to honour deadlines and his peers by being helpful towards them. His contributions and resilience in his role as the Class CCE Ambassador and Cadet Bandmaster & Section Leader for the Swiss Winds were commendable. He led the entire band alongside his Command Team and when exposed to stressful situations, he exercised optimum care in decision-making and completion of tasks. In addition, when Singapore introduced the Circuit Breaker in April 2020 to combat the spread of COVID-19, Anderson and his team adapted quickly. They worked creatively to ensure that the band would still be able to function despite the members being unable to effectively practise using their instruments in school.
+Anders also had other contributions to the school. He was known to honour deadlines and his peers by being helpful towards them. His contributions and resilience in his role as the Class CCE Ambassador and Cadet Bandmaster &amp; Section Leader for the Swiss Winds were commendable. He led the entire band alongside his Command Team and when exposed to stressful situations, he exercised optimum care in decision-making and completion of tasks. In addition, when Singapore introduced the Circuit Breaker in April 2020 to combat the spread of COVID-19, Anderson and his team adapted quickly. They worked creatively to ensure that the band would still be able to function despite the members being unable to effectively practise using their instruments in school.
 
 Despite putting in so much effort in his co-curricular endeavours, Anders also found time to ensure that his academic results did not take a backseat. Anders attributed his good results to his friends who encouraged him to work hard and give of his best. He also expressed his appreciation to his teacher, Mrs Chen.
 
@@ -103,11 +103,11 @@ Anders’ hopes that his words would inspire his juniors to persevere in the fac
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Sean-Go-4E5.png" style="width:20%;float:left"><br clear="left">
 
-**Sean Go (4E5)** 
+**Sean Go (4E5)**&nbsp;
 
 **Exhibited Humility: Displays**
 
-As a student, Sean wore many hats. He was the Assistant Company Sergeant Major (Operations) of the Boys’ Brigade. He worked alongside his Company Sergeant Major to plan monthly schedules and oversaw the operation team in order to provide guidance to his peers. For all his efforts, Sean was awarded the National Youth Achievement Award (Silver), and the Founder’s Award for Boys’ Brigade. These achievements exemplified the honour and dedication he displayed when carrying out his assigned duties. He was rightfully nominated and became a recipient  for the MOE EAGLES (Leadership) Award.
+As a student, Sean wore many hats. He was the Assistant Company Sergeant Major (Operations) of the Boys’ Brigade. He worked alongside his Company Sergeant Major to plan monthly schedules and oversaw the operation team in order to provide guidance to his peers. For all his efforts, Sean was awarded the National Youth Achievement Award (Silver), and the Founder’s Award for Boys’ Brigade. These achievements exemplified the honour and dedication he displayed when carrying out his assigned duties. He was rightfully nominated and became a recipient&nbsp; for the MOE EAGLES (Leadership) Award.
 
 In spite of his stellar CCA achievements, Sean did not expect to do so well for his academic pursuits. That was why he was visibly stunned when he received his excellent results of 7 distinctions and 7 points for his L1R5 in the GCE O level examinations in 2021.
 
@@ -129,7 +129,7 @@ Yet, even as pursued his own goals, Sean’s empathy and patience whenever he wa
 
 **Natalie Ong Wen Sim (4E4)**
 
-Natalie’s teachers described her as a student who demands high standards from herself. And she scored an L1R5 of 8 points and 6 distinctions in the GCE O level examinations in 2021. 
+Natalie’s teachers described her as a student who demands high standards from herself. And she scored an L1R5 of 8 points and 6 distinctions in the GCE O level examinations in 2021.&nbsp;
 
 When asked about her secret to this high achievement, Natalie shared that setting high expectations for herself was a critical factor in helping her to achieve such results; it was a way to honour the self and to strive to do her best in anything that she is tasked to do.
 
@@ -153,15 +153,15 @@ She shared, “Aim for the moon. If you miss, you may hit a star.”
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Ammar-Abdul-Jabar-4E4.png" style="width:20%;float:left"><br clear="left">
 
-**Ammar Abdul Jabar (4E4)** 
+**Ammar Abdul Jabar (4E4)**&nbsp;
 
-If Ammar were stressed, others around him definitely would not be able to tell as his calm appearance belies the struggles beneath. His Form teachers described him as an eloquent and confident student. Yet, when he achieved an L1R5 of 9 points and 8 distinctions in the 2021 GCE O level examination, with a humble outlook and an unassuming tone, all he shared was that he was happy but “not too surprised” 
+If Ammar were stressed, others around him definitely would not be able to tell as his calm appearance belies the struggles beneath. His Form teachers described him as an eloquent and confident student. Yet, when he achieved an L1R5 of 9 points and 8 distinctions in the 2021 GCE O level examination, with a humble outlook and an unassuming tone, all he shared was that he was happy but “not too surprised”&nbsp;
 
 Ammar was effusive in sharing how he enjoyed learning and how he was cognisant of the fact that this joy of learning allowed him to naturally immerse himself in the content knowledge of the subjects.
 
 The source of his motivation came from him his knowledge that his teachers, Mdm Tan Pui San and Mdm Serene Tang, believed strongly in his ability to excel in his academic pursuits.
 
-“It really gave me a big confidence booster to know that my teachers believed in me. I think that the faith placed in me really boosted my confidence to work harder  . I think one of my greatest fears was that I could not meet the standards that I have set for myself. I think I managed to overcome my own self-doubts after learning that I do not have to prove my worth to anyone other than myself.”
+“It really gave me a big confidence booster to know that my teachers believed in me. I think that the faith placed in me really boosted my confidence to work harder&nbsp; . I think one of my greatest fears was that I could not meet the standards that I have set for myself. I think I managed to overcome my own self-doubts after learning that I do not have to prove my worth to anyone other than myself.”
 
 Ammar served as Head of Videography of the Publications and Media Club (PMC). As a leader, his teachers saw him as a student who adaptable in the face of difficulties. When the school needed to pivot to broadcasting of school events and activities through livestream, due to COVID-19, Ammar stepped up to his role by readily adapting to new skillsets such as learning how to operate the Open Broadcasting Software (OBS) to support production operations. He exhibited Honour in the way he could always be depended upon to complete task assigned to him, and Humility, in the way he would respectfully render help to others and be receptive to advice.
 
@@ -175,13 +175,13 @@ We wish Ammar all the best in his future endeavours.
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Yeo-Min-Zhou-Jabin-4E3.png" style="width:20%;float:left"><br clear="left">
 
-**Yeo Min Zhou, Jabin (4E3)** 
+**Yeo Min Zhou, Jabin (4E3)**&nbsp;
 
 Jabin scored an L1R5 of 10 points and 6 distinctions. He shared that he felt so relieved that he had met his expectations when he found out that his O level score would allow him to apply for a polytechnic course of his choice.
 
 Even as he reveled in his success, Jabin whom his Form teachers described as a respectful and dependable student, did not forget to express his gratitude to those who had helped him.
 
-“I am thankful to all my teachers and friends who helped me along the way, especially My Form Teachers, Mr Goh Wei Bin and Mdm Nuraida,” he shared. “Without fail, they would remind our class to take out some work to do and study instead of wasting time before the Morning Assembly programmes started,” he chuckled as he recalled the year.
+“I am thankful to all my teachers and friends who helped me along the way, especially My Form Teachers, Mr Goh Wei Bin and Mdm Nuraida,” he shared. “Without fail, they would remind our class to take out some work to do and study instead of wasting&nbsp;time before the Morning Assembly programmes started,” he chuckled as he recalled the year.
 
 His mother was also another important source of inspiration to him. He remembered a chat that he had with her; she had shared with him about the struggles that she had had to face when she first migrated from Malaysia to Singapore. The stories of her struggles and hardship when she first started work at an electrical company inspired him to set clear goals for himself.
 
@@ -203,9 +203,9 @@ We wish Jabin all the best!
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Jefferson-Ng-5N2.png" style="width:20%;float:left"><br clear="left">
 
-**Jefferson Ng (5N2)** 
+**Jefferson Ng (5N2)**&nbsp;
 
-Jefferson was a picture of calm when asked about his secret to doing well for the 2021 GCE O level examinations. He scored 13 points for his L1R4 alongside 2 distinctions. He was quick to share that one of the key reasons for his success was his group of friends.
+Jefferson was a picture of calm when asked about his secret to doing well for the 2021 GCE O level examinations. He scored 13 points for his L1R4 alongside 2 distinctions.&nbsp;He was quick to share that one of the key reasons for his success was his group of friends.
 
 “I must really thank my group of friends because after studying, we would play basketball or soccer together. We would often encourage one another to work hard and focus on our academic work first before we reward ourselves with a good game or basketball or soccer.”
 
@@ -215,7 +215,7 @@ He was known to speak truth unto power for his friends, but he always did so res
 
 “The teachers here were constantly encouraging me to do well. Ms Faza often shared encouraging words with me when I was feeling down and my English teacher, Mdm June left an indelible mark in my mind. I still recall how she said to me ‘Jeff, you have the potential’ and that really meant a lot to me.”
 
-As a leader of the National Cadet Corp’s Command Band, Jefferson would often go out of his way to mentor his juniors. He served as Staff Sergeant and Section Leader and for his contributions, he received the Certificate of Distinction for Character and Leadership in 2020. He saw that in order for the band to be harmonious in their melody, every member would have to count. That was why during sectional practice, he would coach each cadet personally,  – to ensure that the cadets were familiar with the music required for all the deployments. Whenever his juniors faced difficulties, Jefferson would always lend them a listening ear, and provide feedback to the leaders and teachers-in-charge when required.
+As a leader of the National Cadet Corp’s Command Band, Jefferson would often go out of his way to mentor his juniors. He served as Staff Sergeant and Section Leader and for his contributions, he received the Certificate of Distinction for Character and Leadership in 2020. He saw that in order for the band to be harmonious in their melody, every member would have to count. That was why during sectional practice, he would coach each cadet personally, &nbsp;– to ensure that the cadets were familiar with the music required for all the deployments. Whenever his juniors faced difficulties, Jefferson would always lend them a listening ear, and provide feedback to the leaders and teachers-in-charge when required.
 
 When asked about his plans for the future, he shared that he wants to put his passion in mathematics and physics to good use by pursuing an Information and Communication related course or a course in Engineering.
 
@@ -223,9 +223,9 @@ Jefferson had some words of advice for his juniors when he said, “if you want 
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Commandur-Srinivasan-Adarsh-4E1.png" style="width:20%;float:left"><br clear="left">
 
-**Commandur Srinivasan Adarsh (4E1)** 
+**Commandur Srinivasan Adarsh (4E1)**&nbsp;
 
-Adarsh was pleasantly surprised when he did well for the 2021 GCE O level examinations. He scored an L1R5 of 6 points and 9 distinctions**.** 
+Adarsh was pleasantly surprised when he did well for the 2021 GCE O level examinations. He scored an L1R5 of 6 points and 9 distinctions**.**&nbsp;
 
 He was an independent learner who would always seek to better himself. He also displayed a good balance between his academic and co-curricular achievements. Even though he excelled in the O level examinations, Adarsh shared that he had experienced some apprehension before receiving his results.
 
@@ -237,7 +237,7 @@ Ever the grateful and thoughtful leader, Adarsh was described as a student who f
 
 The COVID-19 pandemic brought about many restrictions and changes to the way Co-Curricular Activity (CCA) had to be carried out. He was the President of Swiss Drama Club, and he recounted the struggles that he had faced during the course of the year.
 
-“During the first half of the year, I was unsure if I would be able to juggle my co-curricular duties and my academic pursuits. I was playing the lead roles for one of the actors in the Singapore Youth Festival. I had to dedicate a lot of my time to rehearsals, therefore I did not know if would be able to perform during the Mid-Year examinations. As I expected, I did not do as well as I had wanted to. The O levels were approaching, and I was anxious.
+“During the first half of the year, I was unsure if I would be able to juggle my co-curricular duties and my academic pursuits. I was playing the lead roles for one of the actors in the Singapore Youth Festival. I had to dedicate a lot of my time to rehearsals, therefore I did not know if would be able to perform during the Mid-Year examinations. As I expected, I did not do as well as I had wanted to. The O levels were approaching, and I was&nbsp;anxious.
 
 He vividly remembered his first Physics Weighted Assessment at the start of 2021. Physics was one of his favourite subjects. However, much to his chagrin, he had only managed to score a B4 grade for that paper.
 
@@ -249,11 +249,11 @@ During this tough period, my friends and family provided me with enough support 
 
 When asked about his future plans, he shared candidly that he was not fully certain yet
 
-‘I am not that sure yet but I think I am interested in the science stream. The STDP programmes in Swiss had inspired me to study science in the future. STEM is one of the skills that I would never forget for the rest of my life and I thank Swiss for giving me an opportunity to learn it.’
+‘I am not that sure yet but I think I am interested in the science stream. The STDP programmes in Swiss had inspired me to study science in the future. STEM&nbsp;is one of the skills that I would never forget for the rest of my life and I thank Swiss for giving me an opportunity to learn it.’
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Joel-Yap-Ze-Xian-4E2-1.png" style="width:20%;float:left"><br clear="left">
 
-**Joel Yap Ze Xian (4E2)**  
+**Joel Yap Ze Xian (4E2)**&nbsp;&nbsp;
 
 Joel shared his joy when he received his results slip.
 
@@ -273,7 +273,7 @@ When asked about his plans for the future, Joel shared that he was wants to purs
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Keef-Sng-4E3.png" style="width:20%;float:left"><br clear="left">
 
-**Keef Sng Rui En from 4E3 scored 6 points with 7 distinctions.**  
+**Keef Sng Rui En from 4E3 scored 6 points with 7 distinctions.**&nbsp;&nbsp;
 
 As a footballer, obstacles and challenges are not new to him. In fact, juggling between his physically and mentally demanding CCA and studies brought out the resilience and tenacity in him to do well academically.
 
@@ -303,11 +303,11 @@ Keef shared that there were definitely challenges and setbacks that he faced alo
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Lee-Xin-Hui-Richelle-4E2.png" style="width:20%;float:left"><br clear="left">
 
-**Lee Xin Hui Richelle (4E2)** 
+**Lee Xin Hui Richelle (4E2)**&nbsp;
 
 Richelle was described by her teachers as an independent and considerate student. When she knew that she scored L1R5 of 7 points and 9 distinctions, she simply exclaimed that she felt relief that she had achieved such good results for her GCE O level examinations.
 
-‘I feel so glad that I didn’t disappoint the people around me.  However, I also do feel that if I had put in a bit more effort and time I would have gotten even better results.’
+‘I feel so glad that I didn’t disappoint the people around me.&nbsp; However, I also do feel that if I had put in a bit more effort and time I would have gotten even better results.’
 
 When asked about the reasons for her success, Richelle shared that she was moved by the level of support that she had received from my teachers and peers. She specifically recalled a moment with Mdm Wong Wee Leng.
 
@@ -329,7 +329,7 @@ With an all-round set of developments under her belt, Richelle shared that she h
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Sheik-Daiyan-5N1.png" style="width:20%;float:left"><br clear="left">
 
-**Sheik Daiyan Bin Shaik Ahmed Rifaei (5N1)** 
+**Sheik Daiyan Bin Shaik Ahmed Rifaei (5N1)**&nbsp;
 
 Sheik beamed with joy and satisfaction when he was asked about his thoughts and feelings after receiving 11 points for his L1R5 and 5 distinctions in the GCE O level examinations.
 
@@ -354,7 +354,7 @@ He shared that he had big dreams to chase as he would like to study more about A
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20O%20Level%20Success%20Stories/Baskar-Sruthi-4E3.png" style="width:20%;float:left"><br clear="left">
 
 
- **Baskar Sruthi (4E3)** 
+&nbsp;**Baskar Sruthi (4E3)**&nbsp;
 
 Sruthi was stunned when she saw her results as she felt that it was totally unexpected. Sruthi scored 15 points for her L1R5 and 3 distinctions in the 2021 GCE O level examinations.
 
@@ -364,7 +364,7 @@ Sruthi credited to her family for their strong support, which she felt played a 
 
 “It is something that I will always be grateful for,” she said with much sincerity.
 
-She added that perseverance was a very important quality to have in order to achieve one’s best. She recalled how there were times when she had just felt like giving up, but she managed to pull through these moments. She would  remind herself of her goals and dreams at times like that. Keeping her dreams in view always helped her stay positive and focused.
+She added that perseverance was a very important quality to have in order to achieve one’s best.&nbsp;She recalled how there were times when she had just felt like giving up, but she managed to pull through these moments. She would &nbsp;remind herself of her goals and dreams at times like that. Keeping her dreams in view always helped her stay positive and focused.
 
 “Receiving the dismal preliminary examination results was an unforgettable moment. It was a wake-up call for me it really reflected where I was standing academically. I was not satisfied with my results. I had done poorly for a number of subjects and I also failed some other subjects.”
 

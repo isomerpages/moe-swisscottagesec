@@ -1,6 +1,6 @@
 ---
 title: Highlights of 2017
-permalink: /swiss-achievements/Achievements-Archive/highlights-of-2017/
+permalink: /swiss-achievements/achievements-archive/highlights-of-2017/
 description: ""
 third_nav_title: Achievements Archive
 ---
@@ -17,8 +17,8 @@ third_nav_title: Achievements Archive
 | Science / Physics     | Singapore Junior Chemistry Olympiad – *1 Gold, 6 Bronze*                                                                   |
 | Chinese               | 44th National Schools Translation Competition – *3rd in Secondary Section*<br><br>National CL children’s Story Writing Competition – *Merit*                                                                                                      |
 | Malay                 | National Translation competition by NJC and National Literacy council           – *1st runner –up*<br><br>National Scrabble Competition (Sahibba) – *2nd Round*                                                                                   |
-| Tamil                 | Budding Writers’ & Artistes’ Programme For Students In Secondary Schools 2017 – *1 Gold, 4 Silver*                                                                    |
-| Mathematics           | Singapore Mathematical Olympiad – *8 Honourable Mention, 2 Silver, 6 Bronze*<br><br>ICAS Mathematics – *6 High Distinctions, 35 Distinctions*<br><br>All Singapore Secondary Mathematics Competition For Normal Course Students – *8th & 14th Position* |
+| Tamil                 | Budding Writers’ &amp; Artistes’ Programme For Students In Secondary Schools 2017 – *1 Gold, 4 Silver*                                                                    |
+| Mathematics           | Singapore Mathematical Olympiad – *8 Honourable Mention, 2 Silver, 6 Bronze*<br><br>ICAS Mathematics – *6 High Distinctions, 35 Distinctions*<br><br>All Singapore Secondary Mathematics Competition For Normal Course Students – *8th &amp; 14th Position* |
 | English               | Queen’s Commonwealth Essay Competition – *1 Silver, 1 Bronze*<br><br>ICAS English – *3 High Distinction, 6 Distinctions*                                                                                            |
 | Humanities            | Innergy Award (Enhanced Citizenship Education) – *1 Commendation for staff*<br><br>NUS Geography Challenge – *Top 2 Best Infograph, semi-finalists, bronze medal for preliminary round*                                                           |
 | Art                   | Yellowren Arts Festival – *Special Mention Award, 6 Finalist Groups*<br><br>Bishan Park Visual Art Competition – *7 Sparkle Awards*             |
@@ -27,13 +27,13 @@ third_nav_title: Achievements Archive
 
 **CCA Achievements**
 
-<b><u>On the Clubs & Societies Front</u></b>
+<b><u>On the Clubs &amp; Societies Front</u></b>
 
 |                           |                                               |
 |----------------------|------------------------------|
-| Publications & Media Club | Media Challenge 2017 – *Second Runners up*<br><br>Singapore Digital Media Awards 2017 – *Finalist*<br><br>Curated a National Photography Exhibition, “Perspective”                           |
+| Publications &amp; Media Club | Media Challenge 2017 – *Second Runners up*<br><br>Singapore Digital Media Awards 2017 – *Finalist*<br><br>Curated a National Photography Exhibition, “Perspective”                           |
 | Swiss Naturalists         | School Green Awards – Singapore Environment Council – *Lotus Award*<br><br>National Environment Quiz 2017 – *Overall Champion (Individual Category)*                                     |
-| Science & Technology      | First Lego League – *Second-Runner Up*<br><br>Nanyang Polytechnic Challenge 2017 – *Second-Runner Up*<br>Robocup Singapore Open 2017 – *Second-Runner Up (Rescue Line Secondary Category)* |
+| Science &amp; Technology      | First Lego League – *Second-Runner Up*<br><br>Nanyang Polytechnic Challenge 2017 – *Second-Runner Up*<br>Robocup Singapore Open 2017 – *Second-Runner Up (Rescue Line Secondary Category)* |
 
 <b><u>On the Performing Arts Front</u></b>
 

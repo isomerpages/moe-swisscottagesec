@@ -1,6 +1,6 @@
 ---
 title: Citizenship Education
-permalink: /swiss-experience/Student-Development-Programme/citizenship-education/
+permalink: /swiss-experience/student-development-programme/citizenship-education/
 description: ""
 third_nav_title: Student Development Programme
 ---

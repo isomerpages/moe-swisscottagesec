@@ -1,6 +1,6 @@
 ---
 title: Highlights of 2018
-permalink: /swiss-achievements/Achievements-Archive/highlights-of-2018/
+permalink: /swiss-achievements/achievements-archive/highlights-of-2018/
 description: ""
 third_nav_title: Achievements Archive
 ---
@@ -60,16 +60,16 @@ third_nav_title: Achievements Archive
 
 |                           |                                                                                       |
 |---------------------------|---------------------------------------------------------------------------------------|
-| Publications & Media Club | Media Challenge 2018 – *Most Innovative Pitch Award*                                    |
+| Publications &amp; Media Club | Media Challenge 2018 – *Most Innovative Pitch Award*                                    |
 |                           | Our Schools. Our Stories. Organised by Ministry of Education – *Best Photo Story Award* |
 |                           | By the Minute Photography Competition @ HortPark (Singapore) – *Organising School*      |
 |                           | The Straits Time National Youth Media Cmpetition – *Finalist*                           |
-| Science & Technology      | Science & Technology Challenge – *2nd & 3rd Team Placing*                               |
+| Science &amp; Technology      | Science &amp; Technology Challenge – *2nd &amp; 3rd Team Placing*                               |
 | Swiss Naturalist          | School Green Awards – Singapore Environment Council – *Lotus Award*                     |
 |                           | Southwest CDC – National Environment Agency Green Schools @ Southwest – *Gold Award*    |
 |                           | National Environment Quiz 2018 – *11th and 13th – Individual Category*                  |
 
-**On the Performing Arts Front**
+**On the&nbsp;Performing Arts Front**
 
 |             |                                      |
 |-------------|----------------------------|

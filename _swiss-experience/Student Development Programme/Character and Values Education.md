@@ -1,6 +1,6 @@
 ---
 title: Character and Values Education
-permalink: /swiss-experience/Student-Development-Programme/character-and-values-education/
+permalink: /swiss-experience/student-development-programme/character-and-values-education/
 description: ""
 third_nav_title: Student Development Programme
 ---
@@ -15,7 +15,7 @@ CCE is a platform which we inculcate core values which guide individual’s beha
 *   Honour
 *   Humility
 
-[Characters-and-Values](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/01/Characters-and-Values-1-5.pdf)
+[Characters-and-Values](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/01/characters-and-values-1-5.pdf)
 
 The Swiss CCE Curriculum also includes domains of
 

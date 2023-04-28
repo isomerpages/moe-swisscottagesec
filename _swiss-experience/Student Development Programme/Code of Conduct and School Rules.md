@@ -1,18 +1,18 @@
 ---
 title: Code of Conduct and School Rules
-permalink: /swiss-experience/Student-Development-Programme/code-of-conduct/
+permalink: /swiss-experience/student-development-programme/code-of-conduct/
 description: ""
 third_nav_title: Student Development Programme
 ---
 # Code of Conduct and School Rules
 
-<p style="text-align: justify;"><b>Swiss Cottage takes a <u>Character First</u> approach in developing our students. The school wishes to instil positive values in the students so that they can self-regulate, while at the same time affirm the good in every student through various platforms.</b></p>
+<p style="text-align: justify;"><b>Swiss Cottage takes a&nbsp;<u>Character First</u> approach&nbsp;in developing our students. The school wishes to instil positive values in the students so that they can self-regulate, while at the same time affirm the good in every student through various platforms.</b></p>
 
 ### <b><u>SWISS R.U.L.E.S.</u></b>
 
 As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 
-**Respect & Responsibility**
+**Respect &amp; Responsibility**
 
 *   Respect myself and all those working in the school.
 *   Respect the right of my fellow schoolmates to learn and the right of teachers to teach.
@@ -23,7 +23,7 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 
 *   Wear my uniform as prescribed by the school and not modify the uniform.
 *   Wear appropriate attire for all functions and events.
-*   Wear appropriate attire for special classes (e.g., Physical Education and Food & Consumer Education).
+*   Wear appropriate attire for special classes (e.g., Physical Education and Food &amp; Consumer Education).
 *   Keep a neat and tidy hairstyle.
 
 **Learning**
@@ -32,7 +32,7 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 *   Attend all classes with the appropriate learning materials and be prepared for my lessons.
 *   Be responsible in completing all homework on time and attempt to the best of my ability.
 *   Follow classroom and school rules.
-*   Be _Ready to Learn_, which means that in between lessons, I will help to tidy my classroom, take out relevant learning materials and get mentally prepared for the next lesson.
+*   Be&nbsp;_Ready to Learn_, which means that in between lessons, I will help to tidy my classroom, take out relevant learning materials and get mentally prepared for the next lesson.
 
 **Environment**
 
@@ -43,7 +43,7 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 *   Not litter all the time.
 *   Be considerate to my schoolmates who are still having lessons.
 
-**Safety & Security**
+**Safety &amp; Security**
 
 *   Act in a safe and responsible manner in school.
 *   Act in a safe manner while travelling to and from school and during excursions.
@@ -102,18 +102,18 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 |-------------------------|----------------------|
 | **The blouse should**<br><br>·       be white.<br><br>·       have a collar.<br><br>·       have one pocket on the left of the shirt, with an embroidered school crest.<br><br>·       have short and unfolded sleeves.<br><br>·       be properly tucked into the skirt neatly all the time.<br><br>·       be worn over white/beige undergarment.<br><br>·       be fitting and not oversized. | **The shirt should**<br><br>·       be white.<br><br>·       have a collar.<br><br>·       have one pocket on the left, with an embroidered school crest.<br><br>·       have short and unfolded sleeves.<br><br>·       be properly tucked into the pants neatly all the time.<br><br>·       be fitting and not oversized. |
 | **The skirt should**<br><br>·       be turquoise-blue.<br><br>·       be long enough to reach the knees (no less than 2 cm from the knee).<br><br>·       have 4-box pleats in front and at the back.                                                     | **The pants should**<br><br>·       not be baggy, flared or too tight/tampered.<br><br>·       reach the shoes.<br><br>·       not be worn with a belt or pouch worn around the waist.           |
-|      ![](/images/Code%20of%20Conduct%20&%20Rules/Akansha-full.png)          |       ![](/images/Code%20of%20Conduct%20&%20Rules/Dongyi-full.jpg)                      |
+|      ![](/images/Code%20of%20Conduct%20&amp;%20Rules/Akansha-full.png)          |       ![](/images/Code%20of%20Conduct%20&amp;%20Rules/Dongyi-full.jpg)                      |
 
 |   |
 |---|
-|  **FOR ALL STUDENTS**<br><br>**School Tie**<br><br>·       Wear the tie during all assembly periods, special school functions and as directed by the school.<br><br>**Shoes and Socks**<br><br>·       Wear only predominantly white-based school shoes.<br><br>·       Wear white socks only. Ankle socks are allowed but must be visible.<br><br>**Attire for PE lessons**<br><br>·       Wear only PE, house or school approved T-shirt with school PE black shorts.<br><br>·       Change back into the school uniform after PE lessons.<br><br>**Attire for Saturdays and non-school days**<br><br>·       Wear your respective CCA uniform, unless otherwise instructed by your CCA teachers.<br><br>·       Wear only school uniform or T-shirt issued by respective CCA groups for non-uniformed CCA groups.<br><br>·       Wear only school uniform or school T-shirt if you are in school for activities other than your CCAs.<br><br>·       Do not wear civilian clothes and inappropriate footwear while in school. |
+|  **FOR ALL STUDENTS**<br><br>**School Tie**<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wear the tie during all assembly periods, special school functions and as directed by the school.<br><br>**Shoes and Socks**<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wear only predominantly white-based school shoes.<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wear white socks only. Ankle socks are allowed but must be visible.<br><br>**Attire for PE lessons**<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wear only PE, house or school approved T-shirt with school PE black shorts.<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Change back into the school uniform after PE lessons.<br><br>**Attire for Saturdays and non-school days**<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wear your respective CCA uniform, unless otherwise instructed by your CCA teachers.<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wear only school uniform or T-shirt issued by respective CCA groups for non-uniformed CCA groups.<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wear only school uniform or school T-shirt if you are in school for activities other than your CCAs.<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do not wear civilian clothes and inappropriate footwear while in school. |
 
 5\.  **Hairstyle**
 
 | FOR THE GIRLS              | FOR THE BOYS                 |
 |-------------------|--------------------|
 | ·       Do keep it neat. No tinting or colouring is allowed.<br><br>·       Tie up your hair neatly if it touches the collar of the shirt. Only black, white or grey hair accessories (hair clips/ribbons/elastic bands) are to be used.<br><br>·       Do not keep fanciful hairstyles.<br><br>·       Clip or tie up the fringe if it covers the eyebrow.<br> <br>  | ·       Do not tint or colour your hair.<br><br>·       Keep it short and neat and ensure that the fringe is above the eyebrow.<br><br>·       Ensure that the hair is cut above the ears and collar, with a slope at the back and of an appropriate style that is acceptable by the school.<br><br>·       Must be clean shaven. Beard, moustache or long side-burns are not allowed.<br><br>·       Do not keep a spiky or fanciful hairstyle. |
-| <img src="/images/Code%20of%20Conduct%20&%20Rules/Akansha-hair-cropped.png" style="width:80%">               | ![](/images/Code%20of%20Conduct%20&%20Rules/Dongyi-hair-cropped.jpg)             |
+| <img src="/images/Code%20of%20Conduct%20&amp;%20Rules/Akansha-hair-cropped.png" style="width:80%">               | ![](/images/Code%20of%20Conduct%20&amp;%20Rules/Dongyi-hair-cropped.jpg)             |
 
 6\.  **General Appearance**
 
@@ -143,7 +143,7 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 
 7\.  **Attendance**
 
-*   Inform your Form Teacher when you are unable to attend school due to illness or urgent family matters by **0715 hrs**. You could also inform your class chairman to help relay the information to your form teacher.
+*   Inform your Form Teacher when you are unable to attend school due to illness or urgent family matters by&nbsp;**0715 hrs**. You could also inform your class chairman to help relay the information to your form teacher.
 *   **Students should report to the assembly ground before 0730 hrs (0800 hrs on Thursdays). If you are not in the assembly ground by 0730 hrs (0800 hrs on Thursdays), you will be considered late for school.**
 *   The school takes a serious view on late-coming and students who are late for morning assembly will face consequences.
 *   Submit a medical certificate (MC) to the form teacher on the day you return to the school. The school accepts letters from parents/guardians only on a case-by-case basis (a maximum of 2 letters per term).
@@ -171,7 +171,7 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 
 <u>Rationale</u>
 
-<p style="text-align: justify;">We recognise that many students own a mobile phone, and that some parents/guardians request that their child/ward to bring a mobile phone to school for safety and accountability purposes.  To ensure a conducive environment for our students, unnecessary distractions or disruptions should be avoided. Therefore, the school strongly discourages students from bringing mobile phones to school. However, if there is a need, students are allowed to use their mobile phones outside curriculum time (including CCA time) in the canteen or at the foyer unless authorised by a teacher.</p>
+<p style="text-align: justify;">We recognise that many students own a mobile phone, and that some parents/guardians request that their child/ward to bring a mobile phone to school for safety and accountability purposes.&nbsp; To ensure a conducive environment for our students, unnecessary distractions or disruptions should be avoided. Therefore, the school strongly discourages students from bringing mobile phones to school. However, if there is a need, students are allowed to use their mobile phones outside curriculum time (including CCA time) in the canteen or at the foyer unless authorised by a teacher.</p>
 
 <u>Responsibility of Student</u>
 
@@ -203,18 +203,18 @@ In cases of emergency, the general office contact number remains a vital and app
 
 |           |                    |
 |-----------|---------|
-| **Excellent** | A student who is excellent in conduct consistently displays positive dispositions in character, learning and leadership.<br><br>He or she shows **HONOUR** by **making decisions with integrity**, **treating others with respect** and **creating a culture of honour** <u>consistently</u>.<br><br>He or she also shows **HUMILITY** by **seeking personal improvement**, **taking into account the needs and challenges of others** while **embracing the world with open-mindedness** <u>consistently</u>.                   |
-| **Very Good** | A student who is very good in conduct largely displays positive dispositions in character, learning and leadership.<br><br>He or she shows **HONOUR** <u>largely</u> by **making decisions with integrity**, **treating others with respect** and **creating a culture of honour** <u>most of the time</u>.<br><br>He or she also shows **HUMILITY** <u>largely</u> by **seeking personal improvement**, **taking into account the needs and challenges of others** while **embracing the world with open-mindedness** <u>most of the time.</u> |
+| **Excellent** | A student who is excellent in conduct consistently displays positive dispositions in character, learning and leadership.<br><br>He or she shows&nbsp;**HONOUR**&nbsp;by&nbsp;**making decisions with integrity**,&nbsp;**treating others with respect**&nbsp;and&nbsp;**creating a culture of honour**&nbsp;<u>consistently</u>.<br><br>He or she also shows&nbsp;**HUMILITY**&nbsp;by&nbsp;**seeking personal improvement**,&nbsp;**taking into account the needs and challenges of others**&nbsp;while&nbsp;**embracing the world with open-mindedness**&nbsp;<u>consistently</u>.                   |
+| **Very Good** | A student who is very good in conduct largely displays positive dispositions in character, learning and leadership.<br><br>He or she shows&nbsp;**HONOUR**&nbsp;<u>largely</u>&nbsp;by&nbsp;**making decisions with integrity**,&nbsp;**treating others with respect**&nbsp;and&nbsp;**creating a culture of honour**&nbsp;<u>most of the time</u>.<br><br>He or she also shows&nbsp;**HUMILITY**&nbsp;<u>largely</u>&nbsp;by&nbsp;**seeking personal improvement**,&nbsp;**taking into account the needs and challenges of others**&nbsp;while&nbsp;**embracing the world with open-mindedness** <u>most of the time.</u> |
 | **Good**      | A student who is good in conduct displays <u>some</u> positive dispositions in character, learning and leadership.<br><br>He or she shows some HONOUR by making decisions with integrity, treating others with respect and creating a culture of honour <u>sometimes</u>.<br><br>He or she also shows HUMILITY <u>generally</u> by seeking personal improvement, taking into account the needs and challenges of others while embracing the world with open-mindedness <u>sometimes</u>.                        |
-| **Fair**      | A student who is fair in conduct is <u>developing</u> positive dispositions in character, learning and leadership.<br><br>He or she is <u>developing</u> **HONOUR** by <u>attempting</u> to **make decisions with integrity**, **treat others with respect** and **create a culture of honour**. <br><br>He or she also is <u>developing</u> **HUMILITY** by <u>attempting</u> to **seek personal improvement**, **take into account the needs and challenges of others** while **embrace the world with open-mindedness**.                             |
-| **Poor**      | A student who is poor in conduct needs to display more positive dispositions in character, learning and leadership.<br><br>He or she <u>needs to show more</u> **HONOUR** by **making decisions with integrity**, **treating others with respect** and **creating a culture of honour**.<br><br>He or she also <u>needs to show more</u> **HUMILITY** by **seeking personal improvement**, **taking into account the needs and challenges of others** while **embracing the world with open-mindedness**.                         |
+| **Fair**      | A student who is fair in conduct is&nbsp;<u>developing</u>&nbsp;positive dispositions in character, learning and leadership.<br><br>He or she is&nbsp;<u>developing</u>&nbsp;**HONOUR**&nbsp;by&nbsp;<u>attempting</u>&nbsp;to&nbsp;**make decisions with integrity**,&nbsp;**treat others with respect**&nbsp;and&nbsp;**create a culture of honour**. <br><br>He or she also is&nbsp;<u>developing</u>&nbsp;**HUMILITY**&nbsp;by&nbsp;<u>attempting</u>&nbsp;to&nbsp;**seek personal improvement**,&nbsp;**take into account the needs and challenges of others**&nbsp;while&nbsp;**embrace the world with open-mindedness**.                             |
+| **Poor**      | A student who is poor in conduct needs to display more positive dispositions in character, learning and leadership.<br><br>He or she&nbsp;<u>needs to show more</u>&nbsp;**HONOUR**&nbsp;by&nbsp;**making decisions with integrity**,&nbsp;**treating others with respect**&nbsp;and&nbsp;**creating a culture of honour**.<br><br>He or she also&nbsp;<u>needs to show more</u>&nbsp;**HUMILITY**&nbsp;by&nbsp;**seeking personal improvement**,&nbsp;**taking into account the needs and challenges of others**&nbsp;while&nbsp;**embracing the world with open-mindedness**.                         |
 
-Students who received a <u>FAIR/POOR</u> conduct grade will face the following consequences:
+Students who received a&nbsp;<u>FAIR/POOR</u>&nbsp;conduct grade will face the following consequences:
 
 *   They will be barred from representing Swiss in any inter-school/international competitions for the following semester.
 *   They will be barred from any overseas trips or any other activities at the discretion of the school for the following semester.
 *   They will be required to attend a Conduct Upgrading programme, ranging from 1 to 5 days at the end of the semester so as to reset the Demerit points to ZERO for the following semester. Students who do not attend the Conduct Upgrading programme will have their demerit points accrued for the next semester.
-*   Lastly, students who received a FAIR/POOR Conduct Grade at the end of the year do not qualify for any monetary awards from MOE. 
+*   Lastly, students who received a FAIR/POOR Conduct Grade at the end of the year do not qualify for any monetary awards from MOE.&nbsp;
 
 **DEMERIT POINT SYSTEM**
 
@@ -223,10 +223,10 @@ Students who received a <u>FAIR/POOR</u> conduct grade will face the following
 | Number of Demerit Points  | Possible Actions Taken      |
 |----------------|-----------------------|
 | 5 Demerit Points or more  | Level Discipline Master/Form Teachers will counsel student and parents will be informed.                                                                                            |
-| 8 Demerit Points or more  | Year Head/Year Master will counsel student and parents will be informed.<br><br>Suspension from school & other appropriate consequences meted by the school to educate the student.                                                                                                 |
+| 8 Demerit Points or more  | Year Head/Year Master will counsel student and parents will be informed.<br><br>Suspension from school &amp; other appropriate consequences meted by the school to educate the student.                                                                                                 |
 | 10 Demerit Points or more | Family Conference with School Leaders<br><br>There will be implications on conduct grade and eligibilities for school trip and awards.<br><br>Student might need to attend a Conduct Upgrading programme.<br><br>Other appropriate consequences meted by the school to educate the student. |
 
-<p style="text-align: justify;">Relevant school personnel (School Leaders, Year Head/Year Master and Level Discipline Master) will step in on a case-by-case basis depending on severity of offences involved. </p>
+<p style="text-align: justify;">Relevant school personnel (School Leaders, Year Head/Year Master and Level Discipline Master) will step in on a case-by-case basis depending on severity of offences involved.&nbsp;</p>
 
 **Offences**
 
@@ -316,7 +316,7 @@ There are two categories of offences: Minor and Major.
 </tr>
 <tr>
 	<td></td>
-<td width="293">Others<br><br>&middot; Illegal entry into school premises<br><br>&middot; Public display of affection<br><br>&middot; Threat<br><br>&middot; Extortion<<br><br>&middot; Abuse of technology<br><br>&middot; Possession and/or distribution of prohibited items
+<td width="293">Others<br><br>· Illegal entry into school premises<br><br>· Public display of affection<br><br>· Threat<br><br>· Extortion&lt;<br><br>· Abuse of technology<br><br>· Possession and/or distribution of prohibited items
 </td>
 </tr>
 <tr>

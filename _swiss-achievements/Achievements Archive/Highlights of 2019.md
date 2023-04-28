@@ -1,6 +1,6 @@
 ---
 title: Highlights of 2019
-permalink: /swiss-achievements/Achievements-Archive/highlights-of-2019/
+permalink: /swiss-achievements/achievements-archive/highlights-of-2019/
 description: ""
 third_nav_title: Achievements Archive
 ---
@@ -67,20 +67,20 @@ third_nav_title: Achievements Archive
 <td>West Zone Round 2</td>
 </tr>
 <tr>
-<td>T Net U14 Tournament &ndash; 4th Place</td>
+<td>T Net U14 Tournament – 4th Place</td>
 </tr>
 <tr>
-<td>Development League &ndash; Champions</td>
+<td>Development League – Champions</td>
 </tr>
 <tr>
 <td rowspan="3"> C Division Girls</td>
 <td>West Zone Round 1</td>
 </tr>
 <tr>
-<td>T Net U14 Tournament &ndash; 2nd Round</td>
+<td>T Net U14 Tournament – 2nd Round</td>
 </tr>
 <tr>
-<td>Development League &ndash; Quarter final</td>
+<td>Development League – Quarter final</td>
 </tr>
 <tr>
 <td rowspan="4">Floorball</td>
@@ -102,7 +102,7 @@ third_nav_title: Achievements Archive
 <tr>
 <td rowspan="2">Football</td>
 <td>&nbsp;B Division Boys</td>
-<td>NSG League 5 &ndash; Champions</td>
+<td>NSG League 5 – Champions</td>
 </tr>
 <tr>
 <td>&nbsp;C Division Boys</td>
@@ -142,8 +142,8 @@ third_nav_title: Achievements Archive
 </td>
 </tr>
 <tr>
-<td>The Boys&rsquo; Brigade</td>
-<td>Founder&rsquo;s Award</td>
+<td>The Boys’ Brigade</td>
+<td>Founder’s Award</td>
 <td>Tan Dong Yi 4E5<br><br>Yee Rong Kun 4E4<br><br>Pang Ang Sheng Asher 4E1
 </td>
 </tr>
@@ -263,37 +263,37 @@ third_nav_title: Achievements Archive
 </td>
 <td>Senior Division (Team 1)<br><br>Team Awards
 </td>
-<td>Singapore Round &ndash; 1 Gold<br><br>Beijing Round &ndash; 1 Honour and 1 Gold
+<td>Singapore Round – 1 Gold<br><br>Beijing Round – 1 Honour and 1 Gold
 </td>
 </tr>
 <tr>
 <td>Senior Division (Team 1)<br><br>Individual Awards<br><br>Rebecca Grace Tolentino Tabile 3E5
 </td>
-<td>Singapore Round &ndash; 2 Honour and 2 Gold<br><br>Beijing Round &ndash; 2 Honour and 3 Gold
+<td>Singapore Round – 2 Honour and 2 Gold<br><br>Beijing Round – 2 Honour and 3 Gold
 </td>
 </tr>
 <tr>
 <td>Senior Division (Team 1)<br><br>Individual Awards<br><br>Gan Chze Rae 3E2
 </td>
-<td>Singapore Round &ndash; 1 Honour<br><br>Beijing Round &ndash; 1 Honour
+<td>Singapore Round – 1 Honour<br><br>Beijing Round – 1 Honour
 </td>
 </tr>
 <tr>
 <td>Senior Division (Team 1)<br><br>Individual Award<br><br>Lee Kit Yee 2E3
 </td>
-<td>Beijing Round &ndash; 1 Honour and 1 Gold</td>
+<td>Beijing Round – 1 Honour and 1 Gold</td>
 </tr>
 <tr>
 <td>Senior Division (Team 2)
 <br><br>Team Awards
 </td>
-<td>Singapore Round &ndash; 1 Honour</td>
+<td>Singapore Round – 1 Honour</td>
 </tr>
 <tr>
 <td>Senior Division (Team 2)<br><br>
 Individual Awards<br><br>Srinvasan Nan Dhitha Shree 3E2
 </td>
-<td>Singapore Round &ndash; 1 Honour and 1 Gold<br><br>Beijing Round - 2 Honour
+<td>Singapore Round – 1 Honour and 1 Gold<br><br>Beijing Round - 2 Honour
 </td>
 </tr>
 <tr>
@@ -306,13 +306,13 @@ Individual Awards<br><br>Srinvasan Nan Dhitha Shree 3E2
 <td>Senior Division (Team 2)
 Individual Awards<br><br>Ryzka Siti Insyira 2E3
 </td>
-<td>Singapore Round &ndash; 1 Honour</td>
+<td>Singapore Round – 1 Honour</td>
 </tr>
 <tr>
 <td>Senior Division (Team 2)
 <br>Individual Awards<br><br>Muhammad Hazim Bin Ahmad Zahid 3E3
 </td>
-<td>Beijing Round &ndash; 1 Honour and 1 Gold</td>
+<td>Beijing Round – 1 Honour and 1 Gold</td>
 </tr>
 <tr>
 <td>Design and Thinking Innovation Boot Camp</td>
@@ -325,7 +325,7 @@ Individual Awards<br><br>Ryzka Siti Insyira 2E3
 </tr>
 <tr>
 <td rowspan="6">Science and Technology</td>
-<td>Jurong Pioneer JC Math and Science Challenge &ndash; Champion</td>
+<td>Jurong Pioneer JC Math and Science Challenge – Champion</td>
 <td>Winners:
 <br><br>Qian Xin 3E1<br><br>Le Tu Quoc Dat 3E2<br><br>Naveen Senthuran Subramanian 3E2<br><br>Warren Branson Tanaka 3E2
 </td>

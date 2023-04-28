@@ -1,6 +1,6 @@
 ---
 title: Physical Development
-permalink: /quick-links/For-Parents/physical-development/
+permalink: /quick-links/for-parents/physical-development/
 description: ""
 third_nav_title: For Parents
 ---

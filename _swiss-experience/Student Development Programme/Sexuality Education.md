@@ -1,12 +1,12 @@
 ---
 title: Sexuality Education
-permalink: /swiss-experience/Student-Development-Programme/sexuality-education/
+permalink: /swiss-experience/student-development-programme/sexuality-education/
 description: ""
 third_nav_title: Student Development Programme
 ---
 # Sexuality Education
 
-**SWISS COTTAGE  SECONDARY SCHOOL**
+**SWISS COTTAGE&nbsp; SECONDARY SCHOOL**
 
 **Moe Sexuality Education in Schools**
 
@@ -14,9 +14,9 @@ third_nav_title: Student Development Programme
 
 2\.  The goals of Sexuality Education are to:
 
-*   <p style="text-align: justify;">To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;</p>
-*   <p style="text-align: justify;">To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</p>
-*   <p style="text-align: justify;">To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.</p>
+*   <p style="text-align: justify;">To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on human sexuality and the consequences of sexual activity;</p>
+*   <p style="text-align: justify;">To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</p>
+*   <p style="text-align: justify;">To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;<u>positive mainstream values and attitudes</u>&nbsp;about sexuality.</p>
 
 3\.  The **Key Messages** of Sexuality Education are:
 
@@ -25,11 +25,11 @@ third_nav_title: Student Development Programme
 *   Make responsible decisions for yourself, your family and society; and
 *   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones
 
-You may click [**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)  for more information on MOE Sexuality Education. 
+You may click&nbsp;[**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)&nbsp; for more information on MOE Sexuality Education.&nbsp;
 
 **Overview of Swiss Cottage Secondary School’s Sexuality Education Programme for 2023**
 
-<p style="text-align: justify;">4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
+<p style="text-align: justify;">4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
 
 5\.  The subjects that incorporate topics on sexuality include:
 *   Science
@@ -41,7 +41,7 @@ You may click [**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/
 
 <p style="text-align: justify;">7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 
-<b>At SWISS COTTAGE SECONDARY SCHOOL, the following Sexuality Education lessons will be taught in <u>2023</u>:</b>
+<b>At SWISS COTTAGE SECONDARY SCHOOL, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</b>
 
 **2023 Sexuality Education Lessons in CCE 2021**
 
@@ -256,11 +256,11 @@ You may click [**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/
 
 <b><u><i>eTeens</i> Programme</u></b>:
 
-<p style="text-align: justify;">8. <i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <i>eTeens</i> is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
+<p style="text-align: justify;">8. <i>eTeens</i>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<i>eTeens</i>&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
 
-<p style="text-align: justify;">9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.</p>
+<p style="text-align: justify;">9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;<i>eTeens</i>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
 
-**At Swiss Cottage Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+**At Swiss Cottage Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -295,12 +295,12 @@ You may click [**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/
 </table>
 
 
- **Information for Parents**
+&nbsp;**Information for Parents**
 
-10\.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+10\.  Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form via the link [**here**.](https://form.gov.sg/63be6bb7993c710012245c6f) The completed form is to be submitted by 14/02/2023.
+11\. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form via the link&nbsp;[**here**.](https://form.gov.sg/63be6bb7993c710012245c6f)&nbsp;The completed form is to be submitted by 14/02/2023.
 
-12\.  Parents who wish to opt their children out of the **eTeens** need to complete an opt-out form via the link [here](https://form.gov.sg/63be7a08f4876f00137f6dee) . The completed form is to be submitted by 14/02/2023.
+12\.  Parents who wish to opt their children out of the&nbsp;**eTeens**&nbsp;need to complete an opt-out form via the link&nbsp;[here](https://form.gov.sg/63be7a08f4876f00137f6dee)&nbsp;. The completed form is to be submitted by 14/02/2023.
 
-13\. Parents can contact the school at [scss@moe.edu.sg](mailto:scss@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
+13\. Parents can contact the school at&nbsp;[scss@moe.edu.sg](mailto:scss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.

@@ -1,6 +1,6 @@
 ---
 title: 2022 O level Success Stories
-permalink: /swiss-achievements/Swiss-Success-Stories/2022-o-level-success-stories/
+permalink: /swiss-achievements/swiss-success-stories/2022-o-level-success-stories/
 description: ""
 third_nav_title: Swiss Success Stories
 ---
@@ -21,7 +21,7 @@ Looking back, Dione shared how she had entered Sec 5 with a heavy heart, because
 
 The experience of sitting for the GCE O levels also came with a surprising turn of events because nothing could have prepared her for the surreal experience of missing GCE O level papers. Dione had become unwell for a good number of days during the GCE O levels. She suddenly tested Covid positive, much to her shock and worry.
 
-“The first day that I was down with Covid was bad. I had no energy. But I just wanted a quick recovery to move on,” she remembered.  She vividly recalled missing three to four days of school at a go during the GCE O level examination period. “I missed my Biology and Social Studies paper,” she explained.
+“The first day that I was down with Covid was bad. I had no energy. But I just wanted a quick recovery to move on,” she remembered. &nbsp;She vividly recalled missing three to four days of school at a go during the GCE O level examination period. “I missed my Biology and Social Studies paper,” she explained.
 
 The Singapore Examination and Assessment Board called up her Preliminary Examination scores, along with those of several other candidates, in order to project her likely performance. But her Preliminary examinations results, taken before she had fully mastered all that she studied, were mediocre. She shared that she could not help feeling a deep sense of disappointment and frustration at losing the opportunity to know how she would have done, had she sat for the papers herself. In fact, she had studied even harder than she had done for the N levels the year before, and that must still have mattered much.
 
@@ -73,7 +73,7 @@ However, the encouraging words from the people around her kept her going and all
 
 “In Sec 3, I had a lot of trouble with A Math. I could barely pass. I even wanted to give up on that subject, but my teachers, parents and friends persuaded me to continue trying. I managed to get a B3 for my A Math during the mid-year exams,” she recalled with relief.
 
-Her effort paid off and her triumph gave her newfound motivation and hope for areas in her other subjects that she found difficult, such as Higher Chinese. It was another subject that she found herself not meeting her expectations, and she was getting Grade C from Sec 1 to 3.  In Sec 4, she felt that the difficulty of Higher Chinese seemed to have only increased. She worried that she may not pass Higher Chinese and that her four years of effort would be in vain. But knowing that the only way forward was to get down to action, she sought help.
+Her effort paid off and her triumph gave her newfound motivation and hope for areas in her other subjects that she found difficult, such as Higher Chinese. It was another subject that she found herself not meeting her expectations, and she was getting Grade C from Sec 1 to 3. &nbsp;In Sec 4, she felt that the difficulty of Higher Chinese seemed to have only increased. She worried that she may not pass Higher Chinese and that her four years of effort would be in vain. But knowing that the only way forward was to get down to action, she sought help.
 
 “I would meet with my Chinese teacher Mdm Loh Yuhui regularly for consultations,” she shared. “I would also do extra writing and reading practices consistently to get the exposure to different types of questions.”
 
@@ -147,9 +147,9 @@ Emma hopes to pursue a degree in the medical field or in the music industry, bot
 
 **Vedamurthy Sridar (4E4)**
 
-Vedamurthy Sridar, or Sridar as he is known to his peers, is an unassuming student. When he was highlighted by the Principal in her Special Mention address to the cohort, he expressed surprise. A picture of humility, his teacher remembered him as sone who constantly strove to make personal improvements by seeking new and concrete ways to do better. He had also served actively as an Assistant Troop Leader for Swiss Falcon Scouts; he honoured his CCA commitments – which in turn made his peers respect him.  Recognised for his contributions as a leader even at the primary level, he was offered a place in Swiss Cottage Secondary School through the Direct School Admission route.
+Vedamurthy Sridar, or Sridar as he is known to his peers, is an unassuming student. When he was highlighted by the Principal in her Special Mention address to the cohort, he expressed surprise. A picture of humility, his teacher remembered him as sone who constantly strove to make personal improvements by seeking new and concrete ways to do better. He had also served actively as an Assistant Troop Leader for Swiss Falcon Scouts; he honoured his CCA commitments – which in turn made his peers respect him.&nbsp; Recognised for his contributions as a leader even at the primary level, he was offered a place in Swiss Cottage Secondary School through the Direct School Admission route.
 
-Sridar shared that he faced a difficult journey when it came to his academic performance. He struggled in subjects like the English Language, among others. Eventually, having not meeting the promotional criteria in Sec 3 in 2021, he was invited for a meeting with school leaders to discuss and chart his future learning route, to determine if he should be retained or advanced to the higher level.  The meeting was an important turning point and gave him an honest appraisal of his choices throughout the year.
+Sridar shared that he faced a difficult journey when it came to his academic performance. He struggled in subjects like the English Language, among others. Eventually, having not meeting the promotional criteria in Sec 3 in 2021, he was invited for a meeting with school leaders to discuss and chart his future learning route, to determine if he should be retained or advanced to the higher level. &nbsp;The meeting was an important turning point and gave him an honest appraisal of his choices throughout the year.
 
 “I was spending too much time on non-academic pursuits. I realised that I couldn’t disappoint myself and the people around me anymore,” he said recalling the sense of regret he had experienced. He knew he was easily distracted and tended to hang out with friends instead of studying.
 

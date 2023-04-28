@@ -1,6 +1,6 @@
 ---
 title: Student Recognition
-permalink: /swiss-experience/Student-Development-Programme/student-recognition/
+permalink: /swiss-experience/student-development-programme/student-recognition/
 description: ""
 third_nav_title: Student Development Programme
 ---
@@ -10,7 +10,7 @@ third_nav_title: Student Development Programme
 
 ### Internal Student Recognition
 
-<p style="text-align: justify;">Internal Student Recognition recognises students with good behaviour or had shown resilience to improve in their behaviour at the school level. Publicity of the good behaviour was done through presentations of the Exemplary Character Awards in the morning assemblies.  Excellent Conduct Grade ceremonies were carried out once per semester to commend students who achieve “Excellent” conduct grade. In this way, Swiss Cottage exhibits a positive school culture with students consistently being celebrated for behaving well or doing good. Students with exemplary character were further nominated for National Awards by the External Student Recognition.</p>
+<p style="text-align: justify;">Internal Student Recognition recognises students with good behaviour or had shown resilience to improve in their behaviour at the school level. Publicity of the good behaviour was done through presentations of the Exemplary Character Awards in the morning assemblies.&nbsp; Excellent Conduct Grade ceremonies were carried out once per semester to commend students who achieve “Excellent” conduct grade. In this way, Swiss Cottage exhibits a positive school culture with students consistently being celebrated for behaving well or doing good. Students with exemplary character were further nominated for National Awards by the External Student Recognition.</p>
 
 **Good Stories – Helping someone in need**
 

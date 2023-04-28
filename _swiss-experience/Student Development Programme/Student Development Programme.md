@@ -1,6 +1,6 @@
 ---
 title: Student Development Programme
-permalink: /swiss-experience/Student-Development-Programme/
+permalink: /swiss-experience/student-development-programme/
 description: ""
 third_nav_title: Student Development Programme
 ---
@@ -16,7 +16,7 @@ Our Student Development Programme consists of:
     ](https://swisscottagesec.moe.edu.sg/swiss-experience/student-development-programme/code-of-conduct/)
 *   Student Recognition[  
     ](https://swisscottagesec.moe.edu.sg/swiss-experience/student-development-programme/student-recognition/)
-*   Character and Values Education[  
+*   Character and Values&nbsp;Education[  
     ](https://swisscottagesec.moe.edu.sg/swiss-experience/student-development-programme/character-and-values-education/)
 *   Citizenship Education
 *   Education and Career Guidance

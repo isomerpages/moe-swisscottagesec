@@ -1,10 +1,9 @@
 ---
 title: After School Engagement
-permalink: /swiss-experience/Student-Development-Programme/after-school-engagement/
+permalink: /swiss-experience/student-development-programme/after-school-engagement/
 description: ""
 third_nav_title: Student Development Programme
 ---
-
 # After School Engagement
 
 <p style="text-align: justify;">The After School Engagement (ASE) Programme aims to build progressive levels of self-leadership development and social skills for our students in order to achieve the Social Emotional Learning (SEL) Objectives.</p>

@@ -1,6 +1,6 @@
 ---
 title: Highlights of 2021
-permalink: /swiss-achievements/Achievements-Archive/highlights-of-2021/
+permalink: /swiss-achievements/achievements-archive/highlights-of-2021/
 description: ""
 third_nav_title: Achievements Archive
 ---
@@ -16,11 +16,11 @@ third_nav_title: Achievements Archive
 <tr>
 <td>Girl Guides</td>
 <td>Baden-Powell Award</td>
-<td>Baskar Shruti 4E3 <br>Bernyce Leng Kit Yen(Lian Jie&rsquo;en) 4E4</td>
+<td>Baskar Shruti 4E3 <br>Bernyce Leng Kit Yen(Lian Jie’en) 4E4</td>
 </tr>
 <tr>
-<td rowspan="2">Boys&rsquo; Brigade</td>
-<td>Founder&rsquo;s Award</td>
+<td rowspan="2">Boys’ Brigade</td>
+<td>Founder’s Award</td>
 <td>Chan Yi Liang 4E4<br> Sean Go 4E5</td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ Infographic Design Competition<br><br>Unit Overall Proficiency Award
 </tr>
 <tr>
 <td>2<sup>nd</sup>&nbsp;position in Doubles category</td>
-<td><br />Jeremy Yeo 3E2</td>
+<td><br>Jeremy Yeo 3E2</td>
 </tr>
 <tr>
 <td>9<sup>th</sup>&nbsp;position in Singles Category, 2<sup>nd</sup>&nbsp;position in Doubles category</td>
@@ -119,10 +119,10 @@ Infographic Design Competition<br><br>Unit Overall Proficiency Award
 </tr>
 <tr>
 <td rowspan="3">NCC Command Band</td>
-<td colspan="2">SYFGoesOnline! Let&rsquo;s Jam Together</td>
+<td colspan="2">SYFGoesOnline! Let’s Jam Together</td>
 </tr>
 <tr>
-<td colspan="2">NDP 2021 Theme Song &ldquo;The Road Ahead&rsquo; Virtual Collaboration with the Singapore Armed Forces Band</td>
+<td colspan="2">NDP 2021 Theme Song “The Road Ahead’ Virtual Collaboration with the Singapore Armed Forces Band</td>
 </tr>
 <tr>
 <td colspan="2">54<sup>th</sup>Civilian War Memorial Service (War Memorial Park)</td>
@@ -135,7 +135,7 @@ Infographic Design Competition<br><br>Unit Overall Proficiency Award
 
 **On the Clubs and Societies Front**
 
-<figure><br />
+<figure><br>
 <div>
 <table border="7">
 <tbody>

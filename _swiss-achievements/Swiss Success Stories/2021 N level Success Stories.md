@@ -1,10 +1,9 @@
 ---
 title: 2021 N level Success Stories
-permalink: /swiss-achievements/Swiss-Success-Stories/2021-n-level-success-stories/
+permalink: /swiss-achievements/swiss-success-stories/2021-n-level-success-stories/
 description: ""
 third_nav_title: Swiss Success Stories
 ---
-
 # 2021 N-level Success Stories
 
 <img src="/images/Swiss%20Achievements/Swiss%20Success%20Stories/2021%20N%20Level%20Sucess%20Stories/Cruz-Abiel-Aquino-4T1.jpg" style="width:20%;float:left"><br clear="left">
@@ -17,7 +16,7 @@ When Mr. Sherwin Cheng presented the list of students who have done well, Abiel 
 
 “I have not been doing well academically since the start of Secondary School,” he shared. On top of his academic struggles, Abiel also had to face a fair share of discipline cases. The turning point for Abiel came when he decided that he ‘wanted to have a good reputation.’ He felt that it was more important to manage how he carried himself – even if he was still not doing well. This conviction to place character first had a profound impact on his learning attitude thereafter.
 
-To make good the promise he made to himself, Abiel pushed himself to work hard.  He served as Class Chairperson, and was also known for good work ethics that was marked by hard work, perseverance and humility. His teachers and friends who noticed his efforts, encouraged him.  He exhibited Honour through his dedication in improving his academics and his skills as Bowler. He also exhibited Humility in the way he was receptive to feedback. He would always reflect on his mistakes, which led to him maturing and changing for the better.
+To make good the promise he made to himself, Abiel pushed himself to work hard.&nbsp; He served as Class Chairperson, and was also known for good work ethics that was marked by hard work, perseverance and humility. His teachers and friends who noticed his efforts, encouraged him.&nbsp; He exhibited Honour through his dedication in improving his academics and his skills as Bowler. He also exhibited Humility in the way he was receptive to feedback. He would always reflect on his mistakes, which led to him maturing and changing for the better.
 
 His Form Teachers described Abiel asa student who displayed maturity in his thoughts and actions. He was known to be a self-directed learner who put in consistent effort to improve himself. The most striking aspect of his work attitude was the self-effacement with which he approached learnt from mistakes. His admirable learning dispositions and resilience paid off.
 
@@ -31,7 +30,7 @@ Cruz Abiel Aquino has always had aspirations to become a film producer. If his s
 
 **Lim Jia Ying Jacelyn \[4T1\]**
 
-Wonderful. That was the word Jacelyn’s Form Teachers used to describe her.  
+Wonderful. That was the word Jacelyn’s Form Teachers used to describe her. &nbsp;
 
 She scored 4 points and achieved 6 distinctions to become the top student for the 2021 N level examinations. In 2021, she was also the recipient of the prestigious Rudy Mosbergen Scholarship, an award that recognized her for being the top all-around student in the Normal Technical course. The list of accolades and stellar results must have felt – wonderful.
 
@@ -62,7 +61,7 @@ Nakeisha learnt from her own journey with overcoming stress and anxiety that it 
 
 Nakeisha shared that as an NT student, one of her self-doubts came from feeling compared to students in the other streams. It is hard not to feel that way. But she also recognized that there were many things in her favour and she was grateful for those. For example, she found that like students in other streams, there were opportunities like the EAE that validated her aspirations and strengths.
 
-“The EAE interviews really motivated me to do better and prove that although we don’t have as many subjects, we NT students can still do well and are worthy of the same respect other streams get.” 
+“The EAE interviews really motivated me to do better and prove that although we don’t have as many subjects, we NT students can still do well and are worthy of the same respect other streams get.”&nbsp;
 
 Nakeisha felt that it was important for her to be a role model for her peers in the Normal Technical stream. She wanted them to see that if she could do well, so could they. She felt strongly that this positive self-belief would make a difference to them.
 
@@ -111,9 +110,9 @@ The gratified Zachary shared that he was still undecided about his course of stu
 
 Jacob struck a figure of self-assurance when he was asked about his excellent results. Jacob scored 5 points for his EMB3. The confident but humble student shared that he was ‘genuinely and pleasantly surprised’ but ‘not too taken aback’.
 
- “I knew what I was capable of; I was more worried about careless mistakes than my ability to do well,” Jacob reflected.
+&nbsp;“I knew what I was capable of; I was more worried about careless mistakes than my ability to do well,” Jacob reflected.
 
-He was also not afraid of sharing that while he had the fear of failure, he was also quick to become cognisant about how he could overcome them. He shared practical tips for academic excellence with his juniors, and it started with self-awareness. He believed that understanding one’s own method of learning and using the method which works best for one is the answer to making progress. 
+He was also not afraid of sharing that while he had the fear of failure, he was also quick to become cognisant about how he could overcome them. He shared practical tips for academic excellence with his juniors, and it started with self-awareness. He believed that understanding one’s own method of learning and using the method which works best for one is the answer to making progress.&nbsp;
 
 Like many students, Jacob faced his fair share of challenges when pursuing academic excellence. For example, he revealed how he had found it difficult to focus at times when the hours of studying and duration of lessons became longer. Inevitably, towards the examination period, this was an unavoidable reality.
 
@@ -129,7 +128,7 @@ Jacob plans to continue his education in Swiss Cottage in 2022 for his Secondary
 
 **Lui Yu Kai \[4N1\]**
 
-Yu Kai shared that was over the moon about the 5 distinctions that contributed to his excellent EMB3 score of 10 points. A picture of jubilance, he was elated and proud to see that his hard work had indeed paid off.  
+Yu Kai shared that was over the moon about the 5 distinctions that contributed to his excellent EMB3 score of 10 points. A picture of jubilance, he was elated and proud to see that his hard work had indeed paid off. &nbsp;
 
 Yu Kai also shared that he had many things on his plate, other than his studies. He found the going actually quite tough. He recounted how he had to struggle to juggle between his academic commitments and his responsibilities as the former Vice-captain of the school’s Floorball team in Secondary 3. When he felt that he could not cope, he reached out to his teachers and others who cared about him.
 
@@ -139,7 +138,7 @@ He thanked his teachers for offering assistance to him whenever he needed them t
 
 Yu Kai was remembered by his teachers as a polite student who injected positivity during lessons through his enthusiasm and rendered help to his classmates. He exhibited Honour by being honest with teachers when he discussed issues, which helped him build trust and work towards improvement. He also exhibited Humility by respecting the needs of his classmates.
 
-Yu Kai recollected a particular defining moment from his graduating year. He remembered receiving his mid-year examination results which were, in his words, ‘far from ideal’. It was followed by a fleeting but significant flash of realisation that he has to work very much harder to achieve the grades that he had wanted. Not daunted, he decided he could not afford to look back. Instead, he accepted that there was more to master and that fact became the push to focus better, re-examine methods and strive for deeper learning.             
+Yu Kai recollected a particular defining moment from his graduating year. He remembered receiving his mid-year examination results which were, in his words, ‘far from ideal’. It was followed by a fleeting but significant flash of realisation that he has to work very much harder to achieve the grades that he had wanted. Not daunted, he decided he could not afford to look back. Instead, he accepted that there was more to master and that fact became the push to focus better, re-examine methods and strive for deeper learning.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 A firm believer in the humility to reach out when you need support, Yu Kai has this to say: ‘To all my juniors, do not give up even when things become difficult because there are always people to talk to and get support from! Believe that you can do it!’
 
@@ -158,7 +157,7 @@ Matthew shared that success comes from the small successes that one gains along 
 
 “I challenged myself to attempt harder questions so I could be sure I wasn’t getting ahead of myself and so that I could be prepared for anything,” he shared pragmatically.
 
-When asked about how he had succeeded in achieving 5 distinctions and an EMB3 of 9 points, Matthew shared that he took the initiative to clarify his doubts whenever he was unsure about any topic. He did this consistently for all his subjects. This openness to clearing up uncertainties in timely ways allowed him to ensure that he had a good level of understanding of each discipline – which helped in to consolidate larger bodies of knowledge and skills as time progressed and volume of learning multiplied. 
+When asked about how he had succeeded in achieving 5 distinctions and an EMB3 of 9 points, Matthew shared that he took the initiative to clarify his doubts whenever he was unsure about any topic. He did this consistently for all his subjects. This openness to clearing up uncertainties in timely ways allowed him to ensure that he had a good level of understanding of each discipline – which helped in to consolidate larger bodies of knowledge and skills as time progressed and volume of learning multiplied.&nbsp;
 
 As a reflective thinker and learner, Matthew also shared how he had assiduously read through his practice assignment pieces to see where he had made mistakes so that he will not repeat them again in the next test or examination. Hi teachers described him as a highly participative who would inject positivity during lessons to encourage peers to stay focused and learn well.
 
@@ -191,12 +190,12 @@ Akif aspires to work in the medical field to save lives and help others in need.
 
 Haiwen was a picture of joy and satisfaction as he shared how managed to obtain an EMB3 of 8 points including 4 distinctions.
 
-He attributed his success to his consistency in revising what he had learnt in school every single day. He cited how he would stay in school till evening to revisit a concept such as covalent bonds in Chemistry so that he can reinforce his understanding of it.  He also shared that he chose to study in school as he felt that it was a conducive environment that allowed him to be highly prolific. He explained, “I was away from distractions like my computer, I could study more productively without being distracted.”
+He attributed his success to his consistency in revising what he had learnt in school every single day. He cited how he would stay in school till evening to revisit a concept such as covalent bonds in Chemistry so that he can reinforce his understanding of it.&nbsp; He also shared that he chose to study in school as he felt that it was a conducive environment that allowed him to be highly prolific. He explained, “I was away from distractions like my computer, I could study more productively without being distracted.”
 
   
 Haiwen shared that another key reason for his success was his desire to pursue passion in an aerospace related career. “I have a passion for airplanes. And when I saw that some polytechnics offered aerospace courses, I was excited and I set my goals to get the desired grades to land a chance of applying for the aerospace programme.’
 
-His quest for academic excellence was not always a smooth journey, but Haiwen persevered. Like many students, Haiwen shared that one of his greatest fears was falling short of his expected grades. He recounted how he was shocked when his mid-year examination results fell short of his expectations. He could not allow fear of failure to get the better of him.  He went back to the drawing board to work on his revision methods, and he redirected his focus, working on more practice papers to give himself the confidence to do well.
+His quest for academic excellence was not always a smooth journey, but Haiwen persevered. Like many students, Haiwen shared that one of his greatest fears was falling short of his expected grades. He recounted how he was shocked when his mid-year examination results fell short of his expectations. He could not allow fear of failure to get the better of him. &nbsp;He went back to the drawing board to work on his revision methods, and he redirected his focus, working on more practice papers to give himself the confidence to do well.
 
 Besides his self-directed attitude in the academic domain, he also contributed to the school by serving as Staff Sergeant in NCC (Air). In all areas, he exhibited Honour by doing the right thing even if it was difficult or inconvenient. He was also commended for his Humility in the way he actively self-reflected for self-improvement.
 

@@ -1,6 +1,6 @@
 ---
 title: Highlights of 2020
-permalink: /swiss-achievements/Achievements-Archive/highlights-for-2020/
+permalink: /swiss-achievements/achievements-archive/highlights-for-2020/
 description: ""
 third_nav_title: Achievements Archive
 ---
@@ -30,7 +30,7 @@ third_nav_title: Achievements Archive
 <td colspan="2" width="384">Gold</td>
 </tr>
 <tr>
-<td colspan="2">Boys&rsquo; Brigade</td>
+<td colspan="2">Boys’ Brigade</td>
 <td colspan="2">Gold</td>
 </tr>
 <tr>
@@ -47,8 +47,8 @@ third_nav_title: Achievements Archive
 <td width="336">YEO TING WEI TRIXIE, 4E1</td>
 </tr>
 <tr>
-<td width="126">Boys&rsquo; Brigade</td>
-<td colspan="2" width="162">Founder&rsquo;s Award</td>
+<td width="126">Boys’ Brigade</td>
+<td colspan="2" width="162">Founder’s Award</td>
 <td width="336">ETHAN SHIA YEONG RUI, 4E3
 <br><br>EARNEST CHOO, 4N2<br>
 </td>
@@ -91,7 +91,7 @@ third_nav_title: Achievements Archive
 <td colspan="2" width="474">Konfrontasi Memorial Service</td>
 </tr>
 <tr>
-<td colspan="2" width="474">Queen&rsquo;s Birthday Virtual Sunset Ceremony (Bugler)</td>
+<td colspan="2" width="474">Queen’s Birthday Virtual Sunset Ceremony (Bugler)</td>
 </tr>
 </tbody>
 </table>
