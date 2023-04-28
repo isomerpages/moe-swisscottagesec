@@ -132,7 +132,7 @@ All user data which is collected by MOE will be stored in secure servers managed
 *   [Parents Handbook (II) (MOE)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/lp3-parent-handbook-II-on-learning-with-a-pld_8-dec-21.pdf)
 *   [PDLP - Swiss Letter to Parents 2023](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/scss-letter-and-purchase-option-form-to-parents-for-2023-pld-procurement-vhardcopy-purchase.pdf)
 *  [PDLP Admin Form 2023 (for purchase of iPad bundle)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-pdlp-purchase-option-form-vhardcopy.pdf)
-*   [FAQs on PDLP@Swiss Cottage](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/PDLP-FAQs-at-Sch-Website-SCSS-Dec-21.pdf)
+*   [FAQs on PDLP@Swiss Cottage](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/pdlp-faqs-at-sch-website-scss-dec-21.pdf)
 *   [Parent Engagement Session on DMA-26 March 2021](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/04/26Mar21-Parent-Engagement-on-DMA-vSch-Website-1.pdf)
 *   [PDLP Student Device Information Kit](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/Updated-Student-Device-Information-Kit-vOct21-vSCSS_261121-1.pdf)&nbsp;(Information about iPad vendor, insurance &amp; warranty, reporting of device issues and in-school support)
 *   [DMA Parent Guide v2.0 – Option A (IpadOS)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/08/DMA-Parent-Guide-v2.0-Option-A-iPadOS-4.pdf)
