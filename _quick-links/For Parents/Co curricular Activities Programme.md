@@ -40,7 +40,7 @@ third_nav_title: For Parents
 
 ### Sexuality Education
 
-&lt;[Sexuality Education](https://swisscottagesec.moe.edu.sg/swiss-experience/student-development-programme/sexuality-education/)
+[Sexuality Education](https://swisscottagesec.moe.edu.sg/swiss-experience/student-development-programme/sexuality-education/)
 
 (parents will get some tips on how to approach the topic on Sexualtiy education with child)
 
