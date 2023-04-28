@@ -13,7 +13,7 @@ The following are links to websites that we feel may be useful in the developmen
 2\.  [Co-curricular Activities Programme](co-curricular-activities-programme/)  <br>
 3\.  [Post Secondary Education/Career Guidance](post-secondary-educationcareer-guidance/)  <br>
 4\.  [MOE Cyber Wellness Portal](cyber-wellness/)  <br>
-5\.  [Sexuality Education Programme](sexuality-education)
+5\.  [Sexuality Education Programme](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)
 
 Information for 2023
 
