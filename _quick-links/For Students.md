@@ -15,7 +15,7 @@ description: ""
 
 *   [Making appointment with ECG counsellor](https://www.booking.gov.sg/public/services/g4x7dy6z/availability?spId=3l5gO1x9&anonymous=true)
 
-[School Library SPYDUS Online Book Catalogue](https://schoolibrary.moe.edu.sg/swisscottagesec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+[School Library SPYDUS Online Book Catalogue](https://schoolibrary.moe.edu.sg/swisscottagesec/cgi-bin/spydus.exe/msgtrn/wpac/home)
 
 [Student iCON – Guide to Onboarding Exercise](/files/For%20students/Student-iCON-Onboarding-Guide.pdf)
 
