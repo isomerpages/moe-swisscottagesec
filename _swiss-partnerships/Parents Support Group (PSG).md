@@ -77,7 +77,7 @@ Exco members - Theresa Joo
 **Swiss Parent&nbsp; Activities**
 
 1.  [Swiss Cross Country](04_Parents-Support-Group-Website_Swiss-Parent-Activities_Swiss-Cross-Country)
-2.  [Swiss Teachers' Day](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/teachers-day-2021-resent.pdf)
+2.  [Swiss Teachers' Day](https://cms.isomer.gov.sg/sites/moe-swisscottagesec/media/files/mediaDirectory/files/editMediaSettings/teacher%E2%80%99s%20day%202021%20(1).pdf)
 3.  [Night Study](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2019/12/04_parents-support-group-website_swiss-parent-activities_night-study.pdf)
 4.  [Swiss Graduation Day](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/graduation-day-2021-1.pdf)&nbsp;
 5.  [Swiss Family Day](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2019/12/04_parents-support-group-website_swiss-parent-activities_family-day.pdf)
