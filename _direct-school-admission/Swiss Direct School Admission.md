@@ -31,7 +31,7 @@ To find out more about the school, you can refer to&nbsp; <a style="color:red;" 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-l2bf"><span style="font-weight:bold">SA Main Category</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">DSA Main Category</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">DSA Talent Area</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">Boys</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">Girls</span></th>
