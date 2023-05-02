@@ -10,9 +10,11 @@ Swiss Direct School Admission
 
 Swiss Cottage Secondary School delivers a&nbsp;**Total Curriculum**&nbsp;that aims to nurture our students as&nbsp;**Thoughtful Leaders,**&nbsp;to become&nbsp;**Reflective Thinkers**&nbsp;and&nbsp;**Caring Citizens who Lead to Serve**&nbsp;the nation and the world. Swiss Cottage’s Distinctive Programmes include our flagship&nbsp;**Thoughtful Leadership Programme**&nbsp;(covering the Global Perspectives, Student Leadership and Values-In-Action programmes) and our&nbsp;**Applied Sciences for Sustainable Development Programme**&nbsp;for the entire student body. Under the Total Curriculum Framework, these flagship programmes are well integrated with our rigorous Instructional Programme and our comprehensive Student Development Programme to enable our students to become Thoughtful Leaders with&nbsp;**Intellectual Excellence**&nbsp;and&nbsp;**Character Excellence.**
 
-We welcome Primary 6 students who desire to be a Thoughtful Leader to join us through the Direct School Admission (DSA) Exercise.
+We welcome Primary 6 students who desire to be a Thoughtful Leader to join us through the Direct School Admission (DSA-Sec) Exercise.
 
 To find out more about the school, you can refer to&nbsp; <a style="color:red;" href="/files/Direct%20School%20Admission/2021-At-a-glance-new.pdf">Swiss Cottage At A Glance.</a>
+
+
 
 
 
