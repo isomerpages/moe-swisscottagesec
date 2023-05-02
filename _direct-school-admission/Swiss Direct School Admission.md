@@ -12,7 +12,8 @@ Swiss Cottage Secondary School delivers a&nbsp;**Total Curriculum**&nbsp;that ai
 
 We welcome Primary 6 students who desire to be a Thoughtful Leader to join us through the Direct School Admission (DSA) Exercise.
 
-To find out more about the school, you can refer to&nbsp;[Swiss Cottage At A Glance.](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/04/2021-At-a-glance-new.pdf)
+To find out more about the school, you can refer to&nbsp; <a style="color:red;" href="/files/Direct%20School%20Admission/2021-At-a-glance-new.pdf">Swiss Cottage At A Glance.</a>
+
 
 
 **DSA Talents Offered**
