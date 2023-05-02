@@ -12,7 +12,7 @@ Swiss Cottage Secondary School delivers a&nbsp;**Total Curriculum**&nbsp;that ai
 
 We welcome Primary 6 students who desire to be a Thoughtful Leader to join us through the Direct School Admission (DSA) Exercise.
 
-To find out more about the school, you can refer to&nbsp;[Swiss Cottage At A Glance.](file:///C:/Users/S1164613A/Downloads/Swiss%20Cottage%20At%20A%20Glance%202021.pdf)
+To find out more about the school, you can refer to&nbsp;[Swiss Cottage At A Glance.](file:///C:/Users/S1164613A/Downloads/Swiss%20Cottage%20At%20A%20Glance%202021%20(1).pdf)
 
 
 **DSA Talents Offered**
@@ -44,7 +44,7 @@ To find out more about the school, you can refer to&nbsp;[Swiss Cottage At A Gla
     <td class="tg-xyrl">√</td>
   </tr>
   <tr>
-    <td rowspan="5" class="tg-tsok">Sports and Games</td>
+    <td class="tg-tsok" rowspan="5">Sports and Games</td>
     <td class="tg-tsok">Badminton</td>
     <td class="tg-tsok"> </td>
     <td class="tg-tsok">√</td>
@@ -70,7 +70,7 @@ To find out more about the school, you can refer to&nbsp;[Swiss Cottage At A Gla
     <td class="tg-tsok"> </td>
   </tr>
   <tr>
-    <td rowspan="6" class="tg-xyrl">Performing Arts</td>
+    <td class="tg-xyrl" rowspan="6">Performing Arts</td>
     <td class="tg-xyrl">Chinese Orchestra</td>
     <td class="tg-xyrl">√</td>
     <td class="tg-xyrl">√</td>
