@@ -5,9 +5,6 @@ description: ""
 ---
 # Admission Criteria
 
-==============
-
-
 
 
 **Admission Criteria**
