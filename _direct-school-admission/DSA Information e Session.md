@@ -33,7 +33,7 @@ Click on the links below to view our latest SCSS Moments videos on YouTube!
 
 <a href="https://www.youtube.com/watch?v=BLSV6RVhkZg">2023 WZ Basketball Girls B Div Finals</a>
 
-<a href="https://www.youtube.com/watch?v=O15LLQIlero">2023 WZ Basketball Boyss B Div Finals</a>
+<a href="https://www.youtube.com/watch?v=O15LLQIlero">2023 WZ Basketball Boys B Div Finals</a>
 
 <a href="https://www.youtube.com/watch?v=6Za-KSqM-hM">2023 National Basketball Boys B Div Finals</a>
 
