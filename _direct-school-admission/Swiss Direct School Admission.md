@@ -12,7 +12,7 @@ Swiss Cottage Secondary School delivers a&nbsp;**Total Curriculum**&nbsp;that ai
 
 We welcome Primary 6 students who desire to be a Thoughtful Leader to join us through the Direct School Admission (DSA-Sec) Exercise.
 
-To find out more about the school, you can refer to&nbsp; <a style="color:red;" href="/files/Direct%20School%20Admission/2021-At-a-glance-new.pdf">Swiss Cottage At A Glance.</a>
+To find out more about the school, you can refer to&nbsp; <a style="color:blue;" href="/files/Direct%20School%20Admission/2021-At-a-glance-new.pdf">Swiss Cottage At A Glance.</a>
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from **4 May 2023 (Thursday), 11am to 31 May 2023 (Wednesday),3pm**.
 

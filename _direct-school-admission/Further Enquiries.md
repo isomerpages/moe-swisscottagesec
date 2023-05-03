@@ -9,10 +9,10 @@ description: ""
 
 For further enquiries, you may
 
-\*   Contact our General Office at 6563 7173 (Monday to Friday, 8 am to 3 pm).
+\*&nbsp;&nbsp; Contact our General Office at 6563 7173 (Monday to Friday, 8 am to 3 pm).
 
-\*   Come personally to Swiss Cottage Secondary School at 3 Bukit Batok Street 34, Singapore 659322 (Monday to Friday, 8 am to 3 pm).
+\*&nbsp;&nbsp; Come personally to Swiss Cottage Secondary School at&nbsp;3 Bukit Batok Street 34, Singapore 659322 (Monday to Friday, 8 am to 3 pm).
 
-\*   Email to us at scss@moe.edu.sg, please indicate “DSA Enquiries” in the subject field.
+\*&nbsp;&nbsp; Email to us at&nbsp;scss@moe.edu.sg, please indicate “DSA Enquiries” in the subject field.
 
-More information regarding the DSA can be found on the MOE website: \(https://www.moe.gov.sg/)
+More information regarding the DSA can be found on the [MOE Website](https://www.moe.gov.sg/)
