@@ -3,9 +3,9 @@ title: Other Information
 permalink: /direct-school-admission/other-information/
 description: ""
 ---
-Other Information
+# Other Information
 
-\=================
+
 
 \*\*Important Notes for International Students & Students who are not studying in MOE Schools\*\*
 
