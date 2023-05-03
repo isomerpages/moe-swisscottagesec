@@ -3,9 +3,9 @@ title: Application Timeline
 permalink: /direct-school-admission/application-timeline/
 description: ""
 ---
-Application Timeline
+# Application Timeline
 
-\====================
+
 
 <style type="text/css">
 
