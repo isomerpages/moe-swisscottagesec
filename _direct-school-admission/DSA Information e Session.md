@@ -6,7 +6,7 @@ description: ""
 DSA Information e-Session
 =========================
 
-Find out more on the Swiss Direct School Admission during our DSA Information e-Sessions on&nbsp;**13 May 2023 (Saturday)**. Briefings by the School Principal and Teachers as well as a short presentation by our current students will start at&nbsp;**9 am**&nbsp;and&nbsp;**11 am**, followed by a Question-and-Answer Session. Details of the e-sessions will be shared during our next page update.
+Find out more on the Swiss Direct School Admission during our DSA Information e-Sessions on&nbsp;**13 May 2023 (Saturday)**. Briefings by the School Principal and Teachers as well as a short presentation by our current students will start at&nbsp;**9 am**&nbsp;and&nbsp;**11 am**, followed by a Question-and-Answer Session. 
 
 
 Click on the links below to view our latest SCSS Moments videos on YouTube!
