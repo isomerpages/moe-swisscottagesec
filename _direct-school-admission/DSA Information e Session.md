@@ -12,7 +12,7 @@ To attend the DSA Information e-Sessions hosted on YouTube Live, please click on
 
 9 am session: <a href="https://www.youtube.com/watch?v=Dxfq94AWEb8">e Session 1</a>
 
-11 am session: (https://www.youtube.com/watch?v=4HO7Gb_ZikY)
+11 am session: <a href="https://www.youtube.com/watch?v=Dxfq94AWEb8">e Session 2</a>
 
 
 Click on the links below to view our latest SCSS Moments videos on YouTube!
