@@ -3,9 +3,9 @@ title: FAQs
 permalink: /direct-school-admission/faqs/
 description: ""
 ---
-FAQs
+# FAQs
 
-\====
+
 
 <style type="text/css">
 
