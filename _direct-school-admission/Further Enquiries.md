@@ -3,8 +3,6 @@ title: Further Enquiries
 permalink: /direct-school-admission/further-enquiries/
 description: ""
 ---
-
-
 Further Enquiries
 
 \=================
@@ -17,4 +15,4 @@ For further enquiries, you may
 
 \*   Email to us at scss@moe.edu.sg, please indicate “DSA Enquiries” in the subject field.
 
-More information regarding the DSA can be found on the MOE website: \[https://www.moe.gov.sg/\](https://www.moe.gov.sg/)
+More information regarding the DSA can be found on the MOE website: \(https://www.moe.gov.sg/)
