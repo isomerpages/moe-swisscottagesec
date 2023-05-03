@@ -3,289 +3,39 @@ title: FAQs
 permalink: /direct-school-admission/faqs/
 description: ""
 ---
-
-
 FAQs
 
 \====
 
 <style type="text/css">
 
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-
-.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-
 </style>
 
 
 
-&nbsp; 
 
-&nbsp;&nbsp;&nbsp; 
 
-&nbsp;&nbsp;&nbsp; 
+ 
 
-&nbsp; 
+ 
 
-&nbsp; 
+ 
 
-&nbsp;&nbsp;&nbsp; 
+ 
 
-&nbsp;&nbsp;&nbsp; 
+ 
 
-&nbsp; 
 
-&nbsp; 
 
-&nbsp;&nbsp;&nbsp; 
 
-&nbsp;&nbsp;&nbsp; 
 
-&nbsp; 
 
-&nbsp; 
 
-&nbsp;&nbsp;&nbsp; 
 
-&nbsp;&nbsp;&nbsp; 
 
-&nbsp; 
 
-&nbsp; 
 
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; <table class="tg">
+ <table class="tg">
 
 <thead><tr><th class="tg-l2bf"><span style="font-weight:bold">1</span></th><th class="tg-l2bf"><span style="font-weight:bold">What are the minimum requirements for direct school admission to Swiss Cottage Secondary School? </span></th></tr>
 
