@@ -3,9 +3,9 @@ title: Further Enquiries
 permalink: /direct-school-admission/further-enquiries/
 description: ""
 ---
-Further Enquiries
+# Further Enquiries
 
-\=================
+
 
 For further enquiries, you may
 
