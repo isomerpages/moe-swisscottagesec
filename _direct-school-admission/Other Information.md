@@ -15,4 +15,4 @@ Any student, Singapore Citizens (SC) and Permanent Residents (PR) inclusive, who
 
 Shortlisted International Students are reminded to take the&nbsp;\*\*Admissions Exercise for International Students (AEIS)\*\*&nbsp;test. Please refer to AEIS website below for more information:
 
-(https://www.moe.gov.sg/international-students/admission)
+[International Students Admission](https://www.moe.gov.sg/international-students/admission)
