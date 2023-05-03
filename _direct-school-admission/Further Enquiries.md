@@ -15,4 +15,4 @@ For further enquiries, you may
 
 \*&nbsp;&nbsp; Email to us at&nbsp;scss@moe.edu.sg, please indicate “DSA Enquiries” in the subject field.
 
-More information regarding the DSA can be found on the MOE website:&nbsp;\<a href="https://www.moe.gov.sg"></a>
+More information regarding the DSA can be found on the MOE website:"https://www.moe.gov.sg"
