@@ -10,11 +10,13 @@ Swiss Direct School Admission
 
 Swiss Cottage Secondary School delivers a&nbsp;**Total Curriculum**&nbsp;that aims to nurture our students as&nbsp;**Thoughtful Leaders,**&nbsp;to become&nbsp;**Reflective Thinkers**&nbsp;and&nbsp;**Caring Citizens who Lead to Serve**&nbsp;the nation and the world. Swiss Cottage’s Distinctive Programmes include our flagship&nbsp;**Thoughtful Leadership Programme**&nbsp;(covering the Global Perspectives, Student Leadership and Values-In-Action programmes) and our&nbsp;**Applied Sciences for Sustainable Development Programme**&nbsp;for the entire student body. Under the Total Curriculum Framework, these flagship programmes are well integrated with our rigorous Instructional Programme and our comprehensive Student Development Programme to enable our students to become Thoughtful Leaders with&nbsp;**Intellectual Excellence**&nbsp;and&nbsp;**Character Excellence.**
 
-We welcome Primary 6 students who desire to be a Thoughtful Leader to join us through the Direct School Admission (DSA) Exercise.
+We welcome Primary 6 students who desire to be a Thoughtful Leader to join us through the Direct School Admission (DSA-Sec) Exercise.
 
 To find out more about the school, you can refer to&nbsp; <a style="color:red;" href="/files/Direct%20School%20Admission/2021-At-a-glance-new.pdf">Swiss Cottage At A Glance.</a>
 
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from **4 May 2023 (Thursday), 11am to 31 May 2023 (Wednesday),3pm**.
 
+For more information on DSA Exercise, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">Here</a>
 
 **DSA Talents Offered**
 
@@ -31,7 +33,7 @@ To find out more about the school, you can refer to&nbsp; <a style="color:red;" 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-l2bf"><span style="font-weight:bold">SA Main Category</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">DSA Main Category</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">DSA Talent Area</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">Boys</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">Girls</span></th>
@@ -111,7 +113,3 @@ To find out more about the school, you can refer to&nbsp; <a style="color:red;" 
 </table>
 
 \* NCC Command Band – Swiss Winds
-
-The selection criteria and selection process for the talent areas will be updated from early May.
-
-For more information on DSA Exercise, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">Here</a>
