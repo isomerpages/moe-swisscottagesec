@@ -43,4 +43,4 @@ Click on the links below to view our latest SCSS Moments videos on YouTube!
 
 <a href="https://www.youtube.com/watch?v=6Za-KSqM-hM">2023 National Basketball Boys B Div Finals</a>
 
-To find out more about the school, you can refer to&nbsp;<a style="color:blue;" href="/files/Direct%20School%20Admission/2021-At-a-glance-new.pdf">Swiss Cottage At A Glance.</a>
+To find out more about the school, you can refer to&nbsp;[Swiss Cottage At A Glance](/files/Direct%20School%20Admission/we%20stories%20publication%202023%20v2-compressed.pdf)
