@@ -68,20 +68,22 @@ Exco members - Sonali Ahuja Makhijani
 Exco members - Theresa Joo		
 
 
-**[Swiss PSG Exco Members (click to view message)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/psg-orgn-chart-2023-final-1.pdf)**&nbsp;
+[Swiss PSG Exco Members](/files/PSG/Swiss-PSG-Exco-Members-2022.pdf)
 &nbsp;
+
+[PSG Exco Message](/files/PSG/Swiss-PSG-Exco-Message-.pdf)
 
 [**PSG Video**](https://onedrive.live.com/?authkey=%21AGzVsrwoJb4N1Cw&amp;cid=CCC66450AF79773E&amp;id=CCC66450AF79773E%214955&amp;parId=root&amp;o=OneUp)
 
 
 **Swiss Parent&nbsp; Activities**
 
-1.  [Swiss Cross Country](04_Parents-Support-Group-Website_Swiss-Parent-Activities_Swiss-Cross-Country)
-2.  [Swiss Teachers' Day](http://teacher'sday2021(1))
-3.  [Night Study](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2019/12/04_parents-support-group-website_swiss-parent-activities_night-study.pdf)
-4.  [Swiss Graduation Day](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/graduation-day-2021-1.pdf)
-5.  [Swiss Family Day](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2019/12/04_parents-support-group-website_swiss-parent-activities_family-day.pdf)
-6.  [Breakfast with Principal and Parenting Workshop](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2019/12/04_parents-support-group-website_swiss-parent-Activities_BwP_Parent-workshop.pdf)
-7.  [Appreciation of Un-sung Heroes](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/heroes-of-swiss-2021.pdf)
+1.  [Swiss Cross Country](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Swiss-Cross-Country.pdf)
+2.  [Swiss Teachers' Day](/files/PSG/Teachers-Day-2021-resent.pdf)
+3.  [Swiss Night Study](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Night-Study.pdf)
+4.  [Swiss Graduation Day](/files/PSG/Graduation-Day-2021-1.pdf)
+5.  [Swiss Family Day](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Family-Day.pdf)
+6.  [Breakfast with Principal and Parenting Workshop](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_BwP_Parent-workshop.pdf)
+7.  [Appreciation of Un-sung Heroes](/files/PSG/Heroes-of-Swiss-2021.pdf)
 
 WE CAN MAKE A DIFFERENCE! Join the Swiss PSG by completing the&nbsp;[online form](https://docs.google.com/forms/d/1fJXM49TpJbvKbAnVvCGxnefPSgQWP1yn7tXRYrums3g/viewform?edit_requested=true)
