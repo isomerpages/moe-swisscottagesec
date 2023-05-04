@@ -30,4 +30,4 @@ Information for 2023
 11\.  [School Uniform Online Sales Guide](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/sales-of-school-uniform-info.pdf)[School Uniform Online Sales Guide](/files/For%20parents/School-Uniform-Online-Sales-Guide.pdf)  <br>
 12\.  [Guide for Measurement for Uniform](/files/For%20parents/Guide-for-Measurement-for-Uniform.pdf) <br>
 13\.  [Secondary 1 Meet-the-Parents Session](/files/For%20parents/2023-S1-MTP-Combined-Slides-vSchWebsite.pdf)<br>
-14\.  [Geography Briefing for Parents](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2023/02/2023-geography-briefing-for-parents.pdf)
+14\.  [Geography Briefing for Parents](/files/For%20parents/2023-Geography-Briefing-For-Parents.pdf)
