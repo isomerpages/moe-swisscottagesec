@@ -18,9 +18,9 @@ The following are links to websites that we feel may be useful in the developmen
 Information for 2023
 
 1\.  [Secondary 1 Booklist](/files/For%20parents/2023-SCSS-Booklist-SECONDARY-1.pdf) <br>
-2\.  [2023 Sec 1 Stationary List](/files/For%20parents/2023-SCSS-Booklist-SEC1-Miscellaneous.pdf) <br>
+2\.  [Secondary 1 Stationary List](/files/For%20parents/2023-SCSS-Booklist-SEC1-Miscellaneous.pdf) <br>
 3\.  [Secondary 2 Booklist](/files/For%20parents/2023-Sec-2-Booklist.pdf)  <br>
-4\.  [Secondary 2 Stationary List](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-scss-booklist-sec2-miscellaneous.pdf) <br> 
+4\.  [Secondary 2 Stationary List](/files/For%20parents/2023-SCSS-Booklist-SEC2-Miscellaneous.pdf) <br> 
 5\.  [Secondary 3 Booklist and Stationary List](/files/For%20parents/2023-SCSS-Booklist-SECONDARY-3.pdf) <br> 
 6\.  [Secondary 4 Booklist](/files/For%20parents/2023-SCSS-Booklist-SECONDARY-4.pdf)  <br>
 7\.  [Secondary 4 Stationary List](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-scss-booklist-sec4-miscellaneous.pdf)  <br>
