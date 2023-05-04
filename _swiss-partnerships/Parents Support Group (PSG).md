@@ -71,6 +71,8 @@ Exco members - Theresa Joo
 [Swiss PSG Exco Members](/files/PSG/Swiss-PSG-Exco-Members-2022.pdf)
 &nbsp;
 
+[PSG Exco Message](/files/PSG/Swiss-PSG-Exco-Message-.pdf)
+
 [**PSG Video**](https://onedrive.live.com/?authkey=%21AGzVsrwoJb4N1Cw&amp;cid=CCC66450AF79773E&amp;id=CCC66450AF79773E%214955&amp;parId=root&amp;o=OneUp)
 
 
