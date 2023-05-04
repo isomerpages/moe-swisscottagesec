@@ -25,7 +25,7 @@ Information for 2023
 6\.  [Secondary 4 Booklist](/files/For%20parents/2023-SCSS-Booklist-SECONDARY-4.pdf)  <br>
 7\.  [Secondary 4 Stationary List](/files/For%20parents/2023-SCSS-Booklist-SEC4-Miscellaneous.pdf)  <br>
 8\.  [Secondary 5 Booklist](/files/For%20parents/2023-SCSS-Booklist-SECONDARY-5NA.pdf)  <br>
-9\.  [Secondary 5 Stationary List](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2023-scss-booklist-sec5-miscellaneous.pdf)  <br>
+9\.  [Secondary 5 Stationary List](/files/For%20parents/2023-SCSS-Booklist-SEC5-Miscellaneous.pdf)  <br>
 10\.  [Sales of School Textbooks](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/ez-stationery-sale-of-textbooks-2022-yearend.pdf) <br>
 11\.  [School Uniform Online Sales Guide](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/sales-of-school-uniform-info.pdf)  <br>
 12\.  [Guide for Measurement for Uniform](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/2022-guide-for-measurement-for-uniform.pdf) <br>
