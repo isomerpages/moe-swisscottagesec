@@ -14,6 +14,13 @@ To attend the DSA Information e-Sessions hosted on YouTube Live, please click on
 
 11 am session: <a style="color:blue;" href="https://www.youtube.com/watch?v=4HO7Gb_ZikY">e Session 2.</a>
 
+![DSA Brochure(1)](
+/images/Direct%20School%20Admission/dsa%20brochure(1).jpeg)
+
+
+
+![DSA Brochure(2)](/images/Direct%20School%20Admission/dsa%20brochure(2).jpeg)
+
 
 Click on the links below to view our latest SCSS Moments videos on YouTube!
 
