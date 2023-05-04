@@ -82,6 +82,6 @@ Exco members - Theresa Joo
 4.  [Swiss Graduation Day](/files/PSG/Graduation-Day-2021-1.pdf)
 5.  [Swiss Family Day](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Family-Day.pdf)
 6.  [Breakfast with Principal and Parenting Workshop](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_BwP_Parent-workshop.pdf)
-7.  [Appreciation of Un-sung Heroes](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/11/heroes-of-swiss-2021.pdf)
+7.  [Appreciation of Un-sung Heroes](/files/PSG/Heroes-of-Swiss-2021.pdf)
 
 WE CAN MAKE A DIFFERENCE! Join the Swiss PSG by completing the&nbsp;[online form](https://docs.google.com/forms/d/1fJXM49TpJbvKbAnVvCGxnefPSgQWP1yn7tXRYrums3g/viewform?edit_requested=true)
