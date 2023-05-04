@@ -68,7 +68,7 @@ Exco members - Sonali Ahuja Makhijani
 Exco members - Theresa Joo		
 
 
-**[Swiss PSG Exco Members (click to view message)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/psg-orgn-chart-2023-final-1.pdf)**&nbsp;
+[Swiss PSG Exco Members](/files/PSG/Swiss-PSG-Exco-Members-2022.pdf)
 &nbsp;
 
 [**PSG Video**](https://onedrive.live.com/?authkey=%21AGzVsrwoJb4N1Cw&amp;cid=CCC66450AF79773E&amp;id=CCC66450AF79773E%214955&amp;parId=root&amp;o=OneUp)
