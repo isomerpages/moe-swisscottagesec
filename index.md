@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage.gif
       key_highlights:
         - title: Direct School Admission 2023
           description: ""
