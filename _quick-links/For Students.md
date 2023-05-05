@@ -9,7 +9,7 @@ description: ""
 
 [Student Learning Space - Guide to Student Account Activation & FAQ](/files/For%20students/SLS-Step-by-Step-Guide-to-Student-Acct-Activation-N-FAQ.pdf)
 
-[Student Learning Space (SLS) – Students Briefing (29Mar 2018)](/files/for%20students/2018-sls-students-briefing-29mar.pdf)
+[SLS - Students Briefing 29 Mar 2018](/files/For%20students/2018-SLS-Students-Briefing-29Mar.pdf)
 
 [My SkillsFuture Portal (for students)](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
