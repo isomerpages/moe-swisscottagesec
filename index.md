@@ -11,6 +11,7 @@ sections:
         - title: Direct School Admission 2023
           description: ""
           url: /direct-school-admission/Swiss-Direct-School-Admission/
+      background: /images/hero (1).GIF
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
       subtitle: FEATURED POSTS
