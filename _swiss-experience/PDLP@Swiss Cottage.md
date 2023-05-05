@@ -128,8 +128,7 @@ All user data which is collected by MOE will be stored in secure servers managed
 **Resources for Parents/Students**
 
 *   [2022 Sec 1 eMTP – PDLP Briefing](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/01/2022-sec1-emtp-06jan22-pdlp-briefing.pdf)
-*   [Parents Handbook (I) (MOE)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/Ip2-parent-handbook-I-on-learning-with-a-pld_8-dec-21.pdf)
-*   [Parents Handbook (II) (MOE)](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/lp3-parent-handbook-II-on-learning-with-a-pld_8-dec-21.pdf)
+*   [Parents Handbook (1) (MOE)](/files/PDLP@Swiss%20Cottage/IP2-Parent-Handbook-I-on-Learning-with-a-PLD_8-Dec-21.pdf)
 *   [PDLP - Swiss Letter to Parents 2023](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2022/12/scss-letter-and-purchase-option-form-to-parents-for-2023-pld-procurement-vhardcopy-purchase.pdf)
 *  [PDLP Admin Form 2023 (for purchase of iPad bundle)](/files/Swiss%20Experience/scss%20-%20letter%20and%20purchase%20option%20form%20to%20parents%20for%202023%20pld%20procurement%20(vhardcopy%20purchase)%20(1).pdf)
 *   [FAQs on PDLP@Swiss Cottage](https://swisscottagesec.moe.edu.sg/wp-content/uploads/2021/12/pdlp-faqs-at-sch-website-scss-dec-21.pdf)
