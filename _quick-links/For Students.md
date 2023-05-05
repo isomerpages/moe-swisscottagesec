@@ -7,9 +7,9 @@ description: ""
 
 [Singapore Student Learning Space (MOE)](https://vle.learning.moe.edu.sg/login)
 
-[Student Learning Space – Guide to Student Account Activation & FAQ](/files/for%20students/sls-step-by-step-guide-to-student-acct-activation-n-faq.pdf)
+[Student Learning Space - Guide to Student Account Activation & FAQ](/files/For%20students/SLS-Step-by-Step-Guide-to-Student-Acct-Activation-N-FAQ.pdf)
 
-[Student Learning Space (SLS) – Students Briefing (29Mar 2018)](/files/for%20students/2018-sls-students-briefing-29mar.pdf)
+[SLS - Students Briefing 29 Mar 2018](/files/For%20students/2018-SLS-Students-Briefing-29Mar.pdf)
 
 [My SkillsFuture Portal (for students)](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
@@ -19,7 +19,7 @@ description: ""
 
 [Student iCON – Guide to Onboarding Exercise](/files/for%20students/student-icon-onboarding-guide.pdf)
 
-[Student iCON –  Guide to Setting Strong Passwords](/files/students/student-icon-password-requirements-vmarch2021.pdf)
+[Student iCON - Guide to Setting Strog Passwords](/files/For%20students/Student-iCON-Password-Requirements-vMarch2021.pdf)
 
 [Application Form for Leave of Absence](https://form.gov.sg/#!/60b99f0b5cc3410012909dbe)
 
