@@ -17,9 +17,9 @@ description: ""
 
 [School Library SPYDUS Online Book Catalogue](https://schoolibrary.moe.edu.sg/swisscottagesec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
-[Student iCON – Guide to Onboarding Exercise](/files/for%20students/student-icon-onboarding-guide.pdf)
+[Student Icon - Guide to  Onboarding Exercise](/files/For%20students/Student-iCON-Onboarding-Guide.pdf)
 
-[Student iCON - Guide to Setting Strog Passwords](/files/For%20students/Student-iCON-Password-Requirements-vMarch2021.pdf)
+[Student Icon - Guide to Setting Strong Passwords](/files/For%20students/Student-iCON-Password-Requirements-vMarch2021.pdf)
 
 [Application Form for Leave of Absence](https://form.gov.sg/#!/60b99f0b5cc3410012909dbe)
 
