@@ -5,168 +5,217 @@ description: ""
 ---
 # **Swiss Achievements**
 
-<b><u>Swiss Achievements for Year 2022</u></b>
+<b><u>Swiss Achievements for Year 2023</u></b>
 
-**On the Uniform Groups Front**
+**CCA Achievements**
 
-|                            |                                       |                                                               |
-|----------------------------|---------------------------------------|---------------------------------------------------------------|
-| NCDCC                      | SCDF-NCDCC Pinnacle Badge Award       | Maisarah Binte Marih,  4N1Er Shi En, Abigail,  4E3            |
-| National Police Cadet Corp | SPF-NPCC Badge                        | Baskar Sudha Krishna Prakash, 4E1<br>Darien Yap Jie Ming, 4N1 |
-| Scouts                     | Frank Cooper Sands Award              | Gold for 2021 (received in 2022)                              |
-| Girl Guides                | Puan Noor Aishah Award                | Gold for 2021 (received in 2022)                              |
-| Boys Brigade               | JM Fraser Award                       | Gold for 2021 (received in 2022)                              |
-| NPCC                       | Unit Overall Proficiency (UOPA) Award | Gold for 2021 (received in 2022)                              |
-| NCDCC                      | Unit Overall Proficiency (UOPA) Award | Gold for 2021 (received in 2022)                              |
-| NCC (Air)                  | 2021 Unit Recognition                 | Distinction Award (received in 2022)                          |
+**On the Uniform Groups Front (2023)**
 
 
-**On the Sports Front**
 
-<table border="7">
-<tbody>
-<tr>
-<td rowspan="4"><strong>Floorball&nbsp;</strong> </td>
-<td>B Div Girls</td>
-<td>NSG Championship &ndash; 1st (National Champions)</td>
-</tr>
-<tr>
-<td>B Div Boys</td>
-<td>NSG Championship &ndash; Round of 16</td>
-</tr>
-<tr>
-<td>C Div Girls&nbsp;</td>
-<td>NSG Championship &ndash; 1st (National Champions)</td>
-</tr>
-<tr>
-<td>C Div Boys</td>
-<td>NSG Championship &ndash; 3rd Runner-Up (4th place)</td>
-</tr>
-<tr>
-<td rowspan="2"><strong>Badminton</strong></td>
-<td>B Div Girls</td>
-<td>NSG West Zone &ndash; Quarter Finals&nbsp;</td>
-</tr>
-<tr>
-<td>C Div Girls</td>
-<td>NSG West Zone &ndash; 1st Runner-Up (2nd place)</td>
-</tr>
-<tr>
-<td rowspan="3"><strong>Basketball</strong></td>
-<td>B Div Boys</td>
-<td>NSG West Zone &ndash; 2nd Runner-Up (3rd place)</td>
-</tr>
-<tr>
-<td>C Div Boys</td>
-<td>NSG West Zone &ndash; Quarter Finals (Top 8)</td>
-</tr>
-<tr>
-<td>C Div Girls</td>
-<td>NSG West Zone &ndash; 1st Runner-Up (2nd place)</td>
-</tr>
-<tr>
-<td rowspan="7"><strong><br /></strong><strong><br /></strong><strong>Bowling</strong> <br /><strong><br /></strong><strong><br /></strong><br /><strong><br /></strong></td>
-<td rowspan="5">B Div Boys</td>
-<td>Overall 5<sup>th</sup>&nbsp;placing for school</td>
-</tr>
-<tr>
-<td>4th position in Singles Category &ndash; Jeremy Yeo, 4E2</td>
-</tr>
-<tr>
-<td>9th position in Singles Category &ndash; Jayden Loh, 3S1</td>
-</tr>
-<tr>
-<td>4th position in Doubles Category &ndash; Jeremy Yeo, 4E2 &amp; Jayden Loh, 3S1</td>
-</tr>
-<tr>
-<td>National Champion &ndash; Jeremy Yeo, 4E2</td>
-</tr>
-<tr>
-<td rowspan="2">C Div Boys</td>
-<td>Overall 5th placing for school</td>
-</tr>
-<tr>
-<td>3rd position in Doubles Category &ndash; Kyaw Chan Nyein 2S4, Jayden Ng 2S2</td>
-</tr>
-<tr>
-<td rowspan="2"><strong>Football<br /></strong><strong><br /></strong></td>
-<td>B Div Boys</td>
-<td>NSG West Zone &ndash; 1st</td>
-</tr>
-<tr>
-<td>C Div Boys</td>
-<td>NSG West Zone &ndash; 2nd Runner-Up (3rd place)</td>
-</tr>
-</tbody>
-</table>
+         
 
-**NSG Sportsmanship Awards**
-
-|                             |                                   |
-|-----------------------------|-----------------------------------|
-| Bowling Championship 2022   | Jeremy Yeo                        |
-| Floorball Championship 2022 | Nur Shadrina Zakirah Binte Sharil |
-| Football Championship 2022  | Izz Haris Bin Mohammad Yazid      |
-
-**On the Academy Front**
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:.3in"><td width="126" style="width:94.25pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">NCDCC</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"></span></p></td><td width="216" style="width:2.25in;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">NCDCC Precision Drill Challenge 2023</span><span lang="EN-SG" style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"></span></p></td><td width="282" style="width:211.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">3<sup>rd</sup> placing</span></p></td></tr><tr style="mso-yfti-irow:1;height:.3in"><td width="126" style="width:94.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">NCDCC</span></p></td><td width="216" style="width:2.25in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">SCDF-NCDCC Badge</span></p></td><td width="282" style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Resshwin Robert, 4S1</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Lim Jia Xuan, 4S2</span></p></td></tr><tr style="mso-yfti-irow:2;height:.3in"><td width="126" style="width:94.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">National Police Cadet Corp</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-ansi-language:EN-SG"></span></p></td><td width="216" style="width:2.25in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">SPF-NPCC Badge</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-ansi-language:EN-SG"></span></p></td><td width="282" style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Baskar Sudha Krishna Prakash, 4E1</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Darien Yap Jie Ming, 4N1</span></p></td></tr><tr style="mso-yfti-irow:3;height:.3in"><td width="126" style="width:94.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">Scouts</span></p></td><td width="216" style="width:2.25in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">Frank Cooper Sands Award</span></p></td><td width="282" style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Gold for 2022 (received in 2023)</span></p></td></tr><tr style="mso-yfti-irow:4;height:.3in"><td width="126" style="width:94.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Girl Guides</span></p></td><td width="216" style="width:2.25in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Puan Noor Aishah Award</span></p></td><td width="282" style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Gold for 2022 (received in 2023)</span></p></td></tr><tr style="mso-yfti-irow:5;height:.3in"><td width="126" style="width:94.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Boys Brigade</span></p></td><td width="216" style="width:2.25in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">JM Fraser Award</span></p></td><td width="282" style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">High Distinction for 2022 (received in 2023)</span></p></td></tr><tr style="mso-yfti-irow:6;height:.3in"><td width="126" style="width:94.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">NPCC</span></p></td><td width="216" style="width:2.25in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">Unit Overall Proficiency (UOPA) Award</span></p></td><td width="282" style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Participation for 2022 (received in 2023)</span></p></td></tr><tr style="mso-yfti-irow:7;height:.3in"><td width="126" style="width:94.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">NCDCC</span></p></td><td width="216" style="width:2.25in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">Unit Overall Proficiency (UOPA) Award</span><b><span lang="EN-SG" style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"></span></b></p></td><td width="282" style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Gold for 2022 (received in 2023)</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:.3in"><td width="126" style="width:94.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">NCC (Air)</span></p></td><td width="216" style="width:2.25in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">2022 Unit Recognition</span></p></td><td width="282" style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Distinction Award (received in 2023)</span></p></td></tr></tbody></table>
 
 
-<div>
-<table border="7">
-<tbody>
-<tr>
-<td rowspan="3">River Valley Model United Nations 2022</td>
-<td>Best Improved Delegate</td>
-<td>Mirdusni Madhavan 4E1</td>
-</tr>
-<tr>
-<td>Honourable Mention</td>
-<td>Le Trung Kien 4E2</td>
-</tr>
-<tr>
-<td>Outstanding Delegate</td>
-<td>Wu Wan Ying, Dorine 3E3</td>
-</tr>
-<tr>
-<td>NUS Geography Challenge</td>
-<td>Semi-Final</td>
-	<td></td>
-</tr>
-<tr>
-<td>
-<p>National Malay 3T (Terjemah, Tutur, Tepat) Translation Competition</p>
-</td>
-<td>Champion</td>
-<td>
-Ilyas Husaini Bin Ahmad Farid 4E4<br><br>Purinita Danielle Justine Jay Kaur D/O Gurmit Singh 4E3 (Best Translator Award)<br><br>Muhd Syukri Shah S/O Muhd Fitri Vetri 4E2
-</td>
-</tr>
-</tbody>
-</table>
-</div>
 
-**On the Clubs and Societies Front**
 
-<div>
-<table border="7">
-<tbody>
-<tr>
-<td rowspan="5">2022 First Lego League/Engineering Excellence Award</td>
-<td rowspan="5">Engineering Excellence Award</td>
-<td>Kannan Aadhithya, 2S3</td>
-</tr>
-<tr>
-<td>Lam Jing Xuan, 3S1</td>
-</tr>
-<tr>
-<td>Ng Zi Cheng, 3S7</td>
-</tr>
-<tr>
-<td>Murugavel Anbuhselvan, 4E1</td>
-</tr>
-<tr>
-<td>Andrew Nathaniel Tanubrata, 4E4</td>
-</tr>
-</tbody>
-</table>
-</div>
+
+
+
+
+**On the Sports Front (2023)**
+
+
+         
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:.3in"><td width="91" style="width:68.25pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Floorball</span></p></td><td width="94" style="width:70.8pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">B Div Girls</span></p></td><td width="438" style="width:328.45pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">NSG Championship – Round 2 <span style="mso-spacerun:yes">&nbsp;</span><b></b></span></p></td></tr><tr style="mso-yfti-irow:1;height:.3in"><td width="91" style="width:68.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Badminton</span></p></td><td width="94" style="width:70.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">B Div Girls</span></p></td><td width="438" style="width:328.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">NSG West Zone – 3<sup>rd</sup> <span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr><tr style="mso-yfti-irow:2;height:40.0pt"><td width="91" rowspan="2" style="width:68.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:40.0pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Basketball</span></p></td><td width="94" style="width:70.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:40.0pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">B Div Boys</span></p></td><td width="438" style="width:328.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:40.0pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">NSG West Zone – 1<sup>st</sup> Runner-Up (2<sup>nd</sup> place)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">NSG Nationals – 1<sup>st</sup> Runner-Up (2<sup>nd</sup> place)</span></p></td></tr><tr style="mso-yfti-irow:3;height:.3in"><td width="94" style="width:70.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">B Div Girls</span></p></td><td width="438" style="width:328.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">NSG West Zone – 1<sup>st </sup>Runner-Up (2<sup>nd</sup> place)</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:.3in"><td width="91" style="width:68.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Bowling</span></p></td><td width="94" style="width:70.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">B Div Boys</span></p></td><td width="438" style="width:328.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Overall 7<sup>th</sup> placing for school</span></p></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+**On the Performing Arts  Front (2023)**         
+				 
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:.3in"><td width="623" colspan="2" style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Singapore Youth Festival Presentation</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:.3in"><td width="210" style="width:157.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Chinese Dance</span></p></td><td width="414" style="width:310.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Distinction</span></p></td></tr><tr style="mso-yfti-irow:2;height:.3in"><td width="210" style="width:157.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Chinese Orchestra</span></p></td><td width="414" style="width:310.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Distinction</span></p></td></tr><tr style="mso-yfti-irow:3;height:.3in"><td width="210" style="width:157.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Choir</span></p></td><td width="414" style="width:310.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Accomplishment</span></p></td></tr><tr style="mso-yfti-irow:4;height:.3in"><td width="210" style="width:157.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Drama</span></p></td><td width="414" style="width:310.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Accomplishment</span></p></td></tr><tr style="mso-yfti-irow:5;height:.3in"><td width="210" style="width:157.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Malay Dance</span></p></td><td width="414" style="width:310.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Accomplishment</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:.3in"><td width="210" style="width:157.25pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">NCC Command Band Swiss Winds</span></p></td><td width="414" style="width:310.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Percussion – Distinction</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Brass - Accomplishment</span></p></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**On the Clubs and Societies Front (2023)**
+
+         
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:.3in"><td width="210" style="width:157.25pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Science &amp; Technology Club</span></p></td><td width="414" style="width:310.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">First Lego League (FLL)</span></p><p class="MsoListParagraphCxSpFirst" style="margin-bottom:0in;mso-add-space:
+  auto;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo1"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Coopertition Award</span></p><p class="MsoListParagraphCxSpLast" style="margin-bottom:0in;mso-add-space:
+  auto;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo1"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Engineering Excellence Award</span></p></td></tr></tbody></table>
+
+
+
+
+
+
+
