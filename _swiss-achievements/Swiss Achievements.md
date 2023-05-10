@@ -210,12 +210,5 @@ description: ""
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">Science &amp; Technology Club</span></p></td><td width="414" style="width:310.25pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:.3in"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">First Lego League (FLL)</span></p><p class="MsoListParagraphCxSpFirst" style="margin-bottom:0in;mso-add-space:
-  auto;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo1"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Coopertition Award</span></p><p class="MsoListParagraphCxSpLast" style="margin-bottom:0in;mso-add-space:
+  auto;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo1"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Cooperation Award</span></p><p class="MsoListParagraphCxSpLast" style="margin-bottom:0in;mso-add-space:
   auto;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo1"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Engineering Excellence Award</span></p></td></tr></tbody></table>
-
-
-
-
-
-
-
