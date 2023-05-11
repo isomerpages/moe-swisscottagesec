@@ -44,7 +44,7 @@ You may visit our CCA Google Site for more information on CCA here:
 
 **CCA Practices &amp; Venues**&nbsp;
 
-Please refer to the table below for the schedules of CCA in 2022.
+Please refer to the table below for the schedules of CCA in 2023.
 <table>
 <thead>
   <tr>
