@@ -7,10 +7,6 @@ description: ""
 
 [Singapore Student Learning Space (MOE)](https://vle.learning.moe.edu.sg/login)
 
-[Student Learning Space - Guide to Student Account Activation & FAQ](/files/For%20students/SLS-Step-by-Step-Guide-to-Student-Acct-Activation-N-FAQ.pdf)
-
-[SLS - Students Briefing 29 Mar 2018](/files/For%20students/2018-SLS-Students-Briefing-29Mar.pdf)
-
 [My SkillsFuture Portal (for students)](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
 *   [Making appointment with ECG counsellor](https://www.booking.gov.sg/public/services/g4x7dy6z/availability?spId=3l5gO1x9&anonymous=true)
