@@ -37,6 +37,8 @@ Click on the links below to view our latest SCSS Moments videos on YouTube!
 
 <a href="https://www.youtube.com/watch?v=QheNr_SJkV4">2022 Floorball Girls C Div Finals</a>
 
+<a href="https://www.youtube.com/watch?v=YzH3W974oEc">2022 WZ Football Boys  B Div Finals</a>
+
 <a href="https://www.youtube.com/watch?v=BLSV6RVhkZg">2023 WZ Basketball Girls B Div Finals</a>
 
 <a href="https://www.youtube.com/watch?v=O15LLQIlero">2023 WZ Basketball Boys B Div Finals</a>
