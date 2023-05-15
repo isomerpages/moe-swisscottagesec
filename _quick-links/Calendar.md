@@ -82,4 +82,25 @@ description: ""
 | Date | Day | Event |
 | - | -------- | -------- |
 | 2-6-2023    | Fri     | Vesak Day    |
+ |29-6-2023    | Thu     | Hari Raya Haji    |
+ 
+ 
+ #### July 2023
 
+
+
+| Date | Day | Event |
+| - | -------- | -------- |
+| 3-7-2023    | Mon     | Youth Day    |
+| 5-7-2023    | Wed     | Attendance & Temperature Taking Exercise for All    |
+| 7-7-2023    | Fri     | HBL #11    |
+| 7-7-2023    | Fri     | Sec 1/2 PTC   | 
+| 11-7-2023    | Tue    | Start N Level EL Oral (PM) |
+| 12-7-2023    | Wed    | N Level EL Oral (PM)  |
+| 13-7-2023    | Thu    | N Level EL Oral (PM)  |
+| 14-7-2023    | Fri   | N Level EL Oral (PM)  |
+| 17-7-2023    | Mon    | End N Level EL Oral (PM) |
+	
+	
+ 
+ 
