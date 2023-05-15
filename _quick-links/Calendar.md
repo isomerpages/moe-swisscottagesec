@@ -105,7 +105,7 @@ description: ""
 | 25-7-2023    | Tue    | Start O Level EL Oral (PM) |
 | 26-7-2023    | Wed   | N Level MT Oral (PM) |
 | 26-7-2023    | Wed    | O Level EL Oral (PM) |
-| 27-7-2023    | Thu   | N Level MT Oral (PM) |
+| 27-7-2023    | Thu   | End N Level MT Oral (PM) |
 | 27-7-2023    | Thu    | O Level EL Oral (PM)
 | 28-7-2023    | Fri   | O Level EL Oral (PM) |
 | 28-7-2023    | Fri    | Start O Level HMT Oral (PM)
