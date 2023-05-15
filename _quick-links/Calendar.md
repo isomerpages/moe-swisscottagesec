@@ -31,7 +31,7 @@ description: ""
 | Date | Day | Event |
 | -------- | -------- | -------- |
 | 9-2-2023   | Thu    | Release of CCA Allocation Results    |
-| 10-2-2023 | Fri | HBL #3
+| 10-2-2023 | Fri | HBL #3 
 | 10-2-2023 | Thu | PDLP Ipad Rollout ( Sec 1 only) |
 | 15-2-2023 | Wed | Total Defence Day Commemoration |
 | 17-2-2023 | Fri | Sec 3-5 Principal's Address Online(6.30-8.30pm) |
@@ -93,7 +93,7 @@ description: ""
 | - | -------- | -------- |
 | 3-7-2023    | Mon     | Youth Day    |
 | 5-7-2023    | Wed     | Attendance & Temperature Taking Exercise for All    |
-| 7-7-2023    | Fri     | HBL #11    |
+| 7-7-2023    | Fri     | HBL #11 (Sec 1-3)   |
 | 7-7-2023    | Fri     | Sec 1/2 PTC   | 
 | 11-7-2023    | Tue    | Start N Level EL Oral (PM) |
 | 12-7-2023    | Wed    | N Level EL Oral (PM)  |
@@ -111,5 +111,3 @@ description: ""
 | 31-7-2023    | Fri    | Start N Level Prelims (PM)
 | 31-7-2023    | Fri    | Start O Level EL Oral (PM)
 | 31-7-2023    | Fri    | Start O Level HMT Oral (PM)
-
-
