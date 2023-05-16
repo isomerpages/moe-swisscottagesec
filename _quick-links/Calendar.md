@@ -123,21 +123,4 @@ description: ""
 | 2-8-2023    | Wed    | O Level HMT Oral (PM)  |
 | 3-8-2023    | Tue     | End : O Level EL Oral (PM)     |
 | 3-8-2023    | Tue     | End : O Level HMT Oral (PM)     |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 4-8-2023    | Fri     | HBL #13 (Sec1-3)     |
