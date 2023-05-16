@@ -130,7 +130,8 @@ description: ""
 | 10-8-2023    | Thu   | National Day School Holiday    |
 | 18-8-2023    | Fri   | HBL #14 (PM)  |
 | 21-8-2023    | Mon   | Start : O Level Prelims  |
-
-
-
+| 24-8-2023    | Thu   | CCA Last Day  |
+| 30-8-2023    | Wed   | Teachers'  Day High Tea at 3.00pm. Students Dismissed at 1.00 pm |
+| 31-8-2023    | Thu   | ACES Day. Teachers' Day Celebration. Students Dismissed at 11.00 am  |
+|
 
