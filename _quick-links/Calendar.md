@@ -84,12 +84,6 @@ description: ""
 | 2-6-2023    | Fri     | Vesak Day    |
  |29-6-2023    | Thu     | Hari Raya Haji    |
  
- 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
 
  #### July 2023
 
@@ -97,7 +91,7 @@ description: ""
 
 | Date | Day | Event |
 | - | -------- | -------- |
-| 3-7-2023    | Mon     | Youth Day    |
+|  3-7-2023   | Mon     | Youth Day    |
 | 5-7-2023    | Wed     | Attendance & Temperature Taking Exercise for All    |
 | 7-7-2023    | Fri     | HBL #11 (Sec 1-3)   |
 | 7-7-2023    | Fri     | Sec 1/2 PTC   | 
@@ -118,3 +112,10 @@ description: ""
 | 31-7-2023    | Fri    | Start N Level Prelims 
 | 31-7-2023    | Fri    | O Level EL Oral (PM)
 | 31-7-2023    | Fri    | O Level HMT Oral (PM)
+
+#### August 2023
+
+| Date | Day | Event |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
