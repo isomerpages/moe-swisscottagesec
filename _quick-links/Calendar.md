@@ -125,3 +125,19 @@ description: ""
 | 3-8-2023    | Tue     | End : O Level HMT Oral (PM)     |
 | 4-8-2023    | Fri     | HBL #13 (Sec1-3)     |
 | 7-8-2023    | Mon    | End : N Level Prelims     |
+| 8-8-2023    | Tue    | National Day Observance     |
+| 9-8-2023    | Wed   | National Day     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
