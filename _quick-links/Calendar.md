@@ -127,16 +127,9 @@ description: ""
 | 7-8-2023    | Mon    | End : N Level Prelims     |
 | 8-8-2023    | Tue    | National Day Observance     |
 | 9-8-2023    | Wed   | National Day     |
-
-
-
-
-
-
-
-
-
-
+| 10-8-2023    | Thu   | National Day School Holiday    |
+| 18-8-2023    | Fri   | HBL #14 (PM)  |
+| 21-8-2023    | Mon   | Start : O Level Prelims  |
 
 
 
