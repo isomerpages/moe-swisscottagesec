@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Direct School Admission 2023 (Click Here)
+        - title: ""
           description: ""
           url: /direct-school-admission/Swiss-Direct-School-Admission/
-      background: /images/2022 swiss student banner (1).jpg
+      background: /images/school-website copy.jpg
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
       subtitle: FEATURED POSTS
