@@ -14,7 +14,7 @@ sections:
       background: /images/school-website copy.jpg
   - infobar:
       title: The 60th Anniversary T-Shirts
-      button: View All Events
+      button: Read More
       url: /quick-links/The 60th Anniversary
       subtitle: Featured Posts
       description: The 60th Anniversary T-Shirts Order Form
