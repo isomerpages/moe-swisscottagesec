@@ -15,7 +15,7 @@ sections:
   - infobar:
       title: The 60th Anniversary T-Shirts
       button: View All Events
-      url: /quick-links/calendar/
+      url: /quick-links/The 60th Anniversary
       subtitle: Featured Posts
       description: The 60th Anniversary T-Shirts Order Form
   - infobar:
