@@ -15,7 +15,7 @@ sections:
   - infobar:
       title: The 60th Anniversary T-Shirts
       button: Read More
-      url: /quick-links/The 60th Anniversary
+      url: https://docs.google.com/forms/d/e/1FAIpQLSfTY5hlCVmFcaxTZQgevZYwRUSxgxUcds9VR2wURzQ8CUumCQ/viewform
       subtitle: Featured Posts
       description: The 60th Anniversary T-Shirts Order Form
   - infobar:
