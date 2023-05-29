@@ -8,7 +8,7 @@ third_nav_title: For Parents
 
 ### The 60th Anniversary T-Shirts!![The 60th Anniversary T Shirts](/images/the%2060th%20anniversary%20t-shirts.jpeg)
 
-### The 60th Anniversary T-Shirts Order Form![Order Form](/images/the%2060th%20anniversary%20t-shirt%20order%20form.jpeg)
+### The 60th Anniversary T-Shirts Order Form!<img src="/images/the%2060th%20anniversary%20t-shirt%20order%20form.jpeg" style="width: 40%">
 
 
 The following are links to websites that we feel may be useful in the development of your child in their physical and emotional areas:
