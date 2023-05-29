@@ -10,7 +10,7 @@ third_nav_title: Instructional Programme
 
 <p style="text-align: justify;">         
 
-The Swiss Science curriculum is designed to develop Swiss students to be Thoughtful Leaders who can apply critical and inventive thinking to solving real world issues. Students are provided opportunities to explore deeper into the subject matter both within as well as outside of the classroom. All our students will acquire the necessary skills and attitudes to be an independent and self-directed Science learner who enjoys Science and values Science as an important tool in helping them explore their natural and physical world./p&gt;
+The Swiss Science curriculum is designed to develop Swiss students to be Thoughtful Leaders who can apply critical and inventive thinking to solving real world issues. Students are provided opportunities to explore deeper into the subject matter both within as well as outside of the classroom. All our students will acquire the necessary skills and attitudes to be an independent and self-directed Science learner who enjoys Science and values Science as an important tool in helping them explore their natural and physical world.
 
 **Lower Secondary**
 
