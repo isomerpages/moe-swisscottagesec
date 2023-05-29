@@ -35,7 +35,9 @@ sections:
       button: Read more
       url: /swiss-experience/Distinctive-Programmes/
   - infobar:
-      title: Events
+      title: The 60th Anniversary T-Shirts
       button: View All Events
       url: /quick-links/calendar/
+      subtitle: Featured Posts
+      description: The 60th Anniversary T-Shirts Order Form
 ---
