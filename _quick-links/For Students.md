@@ -5,7 +5,9 @@ description: ""
 ---
 # For Students
 
-The 60th Anniversary T-Shirts
+The 60th Anniversary T-Shirts![The 60th Anniversary T-Shirts](/images/the%2060th%20anniversary%20t-shirt.jpeg)
+
+The 60th Anniversary T-Shirts Order Form
 
 [Singapore Student Learning Space (MOE)](https://vle.learning.moe.edu.sg/login)
 
