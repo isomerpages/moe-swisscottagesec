@@ -3,9 +3,17 @@ title: Christmas Day
 permalink: /christmas-day/
 description: ""
 ---
-Christmas Day
+The 60th Anniversary T-Shirts
 =============
 
-#### Event Details
+![The 60th Anniversary T Shirts](/images/the%2060th%20anniversary%20t-shirt.jpeg)
 
-*   **Start:** 2022-12-25
+
+
+
+
+
+
+#### The 60th Anniversary T-Shirts Order Form
+
+![Order Form](/images/the%2060th%20anniversary%20t-shirt%20order%20form.jpeg)
