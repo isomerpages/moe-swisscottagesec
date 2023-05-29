@@ -13,6 +13,12 @@ sections:
           url: /direct-school-admission/Swiss-Direct-School-Admission/
       background: /images/school-website copy.jpg
   - infobar:
+      title: The 60th Anniversary T-Shirts
+      button: View All Events
+      url: /quick-links/calendar/
+      subtitle: Featured Posts
+      description: The 60th Anniversary T-Shirts Order Form
+  - infobar:
       title: INSTRUCTIONAL PROGRAMME
       subtitle: FEATURED POSTS
       description: Swiss Cottage is committed in delivering a comprehensive and
@@ -34,10 +40,4 @@ sections:
         sustainable change in their [...]"
       button: Read more
       url: /swiss-experience/Distinctive-Programmes/
-  - infobar:
-      title: The 60th Anniversary T-Shirts
-      button: View All Events
-      url: /quick-links/calendar/
-      subtitle: Featured Posts
-      description: The 60th Anniversary T-Shirts Order Form
 ---
