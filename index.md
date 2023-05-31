@@ -12,6 +12,13 @@ sections:
           description: ""
           url: /direct-school-admission/Swiss-Direct-School-Admission/
       background: /images/school-website copy.jpg
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: HAVE A QUESTION
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://go.ask.gov.sg/scss
+      image: /images/scss-askgov.png
+      alt: Image alt text
   - infobar:
       title: The 60th Anniversary T-Shirts
       button: Read More
