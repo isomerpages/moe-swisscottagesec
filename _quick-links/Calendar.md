@@ -95,7 +95,7 @@ description: ""
 | 5-7-2023    | Wed     | Attendance & Temperature Taking Exercise for All    |
 | 7-7-2023    | Fri     | HBL #11 (Sec 1-3)   |
 | 7-7-2023    | Fri     | Sec 1/2 PTC   | 
-| 11-7-2023    | Tue    | Start : N Level EL Oral (PM) |
+| 11-7-2023     | Tue    | Start : N Level EL Oral (PM) |
 | 12-7-2023    | Wed    | N Level EL Oral (PM)  |
 | 13-7-2023    | Thu    | N Level EL Oral (PM)  |
 | 14-7-2023    | Fri   | N Level EL Oral (PM)  |
@@ -133,4 +133,29 @@ description: ""
 | 24-8-2023    | Thu   | CCA Last Day  |
 | 30-8-2023    | Wed   | Teachers'  Day High Tea at 3.00pm. Students Dismissed at 1.00 pm |
 | 31-8-2023    | Thu   | ACES Day. Teachers' Day Celebration. Students Dismissed at 11.00 am  |
-|
+
+
+
+
+| Date | Day | Event |
+| -------- | -------- | -------- |
+| 1-9-2023     | Fri     | Teachers' Day     |
+| 11-9-2023     | Mon     | Start : GCE  NT/NA  LC     |
+| 12-9-2023     | Tue     | End : GCE NT/NA LC     |
+| 12-9-2023     | Tue     | N Level SET Practical Exam     |
+| 13-9-2023     | Wed     | Start : N Level Written Exam (phase 1)    |
+| 14-9-2023     | Thu     | N Level Written Exam (phase 1)   |
+| 15-9-2023     | Fri     | End of O Level Prelims   |
+| 15-9-2023     | Fri     | N Level Written Exam (phase 1)   |
+| 18-9-2023     | Mon     | End : N Level Written Exam (phase 1)
+| 19-9-2023     | Tue     | N Level CPA Practical Exam |
+| 20-9-2023     | Wed     | N Level SET Practical Exam |
+| 21-9-2023     | Thu     | N Level CPA Practical Exam |
+| 22-9-2023     | Fri     | HBL #15 (Sec1-3) |
+| 28-9-2023     | Thu    | Start of EYE Examination) |
+
+
+
+
+
+
