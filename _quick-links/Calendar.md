@@ -177,3 +177,14 @@ description: ""
 | 12-10-2023    | Thu | O Level Science Practical
 | 13-10-2023    | Fri   | HBL #16 (Sec 1-3 )
 | 13-10-2023    | Fri | O Level Science Practical
+| 16-10-2023    | Mon   | O Level Science Practical
+| 17-10-2023    | Tue | End : O Level Science Practical
+| 19-10-2023    | Thu   | O Level EL/MTB LC (pm)
+| 20-10-2023    | Fri | Start : O Level Year End Exam (written)
+| 20-10-2023    | Fri   | HBL #17 (Sec 1-3 )
+| 23-10-2023    | Mon | O Level Year End Exam (written)
+| 24-10-2023    | Tue | O Level Year End Exam (written)
+| 25-10-2023    | Wed | O Level Year End Exam (written)
+| 25-10-2023    | Wed | Sec 3 Social Action Forum
+| 26-10-2023    | Thu | O Level Year End Exam (written)
+| 26-10-2023    | Thu | Sec 3 Social Action Forum
