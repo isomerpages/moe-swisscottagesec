@@ -188,3 +188,10 @@ description: ""
 | 25-10-2023    | Wed | Sec 3 Social Action Forum
 | 26-10-2023    | Thu | O Level Year End Exam (written)
 | 26-10-2023    | Thu | Sec 3 Social Action Forum
+| 27-10-2023    | Fri | Last Day of School
+| 27-10-2023    | Fri | PTC
+| 27-10-2023    | Fri | O Level Year End Exam (written)
+| 30-10-2023    | Mon | O Level Year End Exam (written)
+| 30-10-2023    | Mon | OBS (Batch 1) 30 oct - 3 Nov
+| 31-10-2023    | Tue | O Level Year End Exam (written)
+| 31-10-2023    | Tue | OBS (Batch 1) 30 oct - 3 Nov
