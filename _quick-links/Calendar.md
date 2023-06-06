@@ -135,7 +135,7 @@ description: ""
 | 31-8-2023    | Thu   | ACES Day. Teachers' Day Celebration. Students Dismissed at 11.00 am  |
 
 
-
+#### September 2023
 
 | Date | Day | Event |
 | -------- | -------- | -------- |
@@ -155,7 +155,7 @@ description: ""
 | 28-9-2023     | Thu    | Start of EYE Examination) |
 
 
-
+#### October 2023
 
 | Date | Day | Event |
 | -------- | -------- | -------- |
@@ -192,6 +192,7 @@ description: ""
 | 27-10-2023    | Fri | PTC
 | 27-10-2023    | Fri | O Level Year End Exam (written)
 | 30-10-2023    | Mon | O Level Year End Exam (written)
-| 30-10-2023    | Mon | OBS (batch 1) 30 oct - 3 Nov
+| 30-10-2023    | Mon | OBS (batch 1) 30 Oct - 3 Nov
 | 31-10-2023    | Tue | O Level Year End Exam (written)
-| 31-10-2023    | Tue | OBS (batch 1) 30 oct - 3 Nov
+| 31-10-2023    | Tue | OBS (batch 1) 30 Oct - 3 Nov
+
