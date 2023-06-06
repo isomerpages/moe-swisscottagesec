@@ -192,7 +192,44 @@ description: ""
 | 27-10-2023    | Fri | PTC
 | 27-10-2023    | Fri | O Level Year End Exam (written)
 | 30-10-2023    | Mon | O Level Year End Exam (written)
-| 30-10-2023    | Mon | OBS (batch 1) 30 Oct - 3 Nov
+| 30-10-2023    | Mon | OBS (Batch 1): 30 Oct - 3 Nov
 | 31-10-2023    | Tue | O Level Year End Exam (written)
-| 31-10-2023    | Tue | OBS (batch 1) 30 Oct - 3 Nov
+| 31-10-2023    | Tue | OBS (Batch 1): 30 Oct - 3 Nov
+
+#### November 2023
+
+
+
+| Date | Day | Event |
+| -------- | -------- | -------- |
+| 1-11-2023     | Wed     |   O Level Year End Exam (written)
+| 1-11-2023    | Wed | OBS (Batch 1): 30 Oct - 3 Nov   |
+| 2-11-2023     | Thu     |   O Level Year End Exam (written)
+| 2-11-2023    | Thu | OBS (Batch 1): 30 Oct - 3 Nov   |
+| 3-11-2023     | Fri     |   O Level Year End Exam (written)
+| 3-11-2023    | Fri | OBS (Batch 1): 30 Oct - 3 Nov   |
+| 6-11-2023     | Mon     |   O Level Year End Exam (written)
+| 6-11-2023    | Mon | OBS (Batch 2): 6 - 10 Nov   |
+| 7-11-2023     | Tue     |   O Level Year End Exam (written)
+| 7-11-2023    | Tue | OBS (Batch 2): 6 - 10 Nov   |
+| 8-11-2023     | Wed     |   O Level Year End Exam (written)
+| 8-11-2023    | Wed | OBS (Batch 2): 6 - 10 Nov   |
+| 9-11-2023     | Thu     |   O Level Year End Exam (written)
+| 9-11-2023    | Thu | OBS (Batch 2): 6 - 10 Nov   |
+| 10-11-2023     | Fri     |   O Level Year End Exam (written)
+| 10-11-2023    | Fri | OBS (Batch 2): 6 - 10 Nov   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
