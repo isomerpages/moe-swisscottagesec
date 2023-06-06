@@ -95,7 +95,7 @@ description: ""
 | 5-7-2023    | Wed     | Attendance & Temperature Taking Exercise for All    |
 | 7-7-2023    | Fri     | HBL #11 (Sec 1-3)   |
 | 7-7-2023    | Fri     | Sec 1/2 PTC   | 
-| 11-7-2023    | Tue    | Start : N Level EL Oral (PM) |
+| 11-7-2023     | Tue    | Start : N Level EL Oral (PM) |
 | 12-7-2023    | Wed    | N Level EL Oral (PM)  |
 | 13-7-2023    | Thu    | N Level EL Oral (PM)  |
 | 14-7-2023    | Fri   | N Level EL Oral (PM)  |
@@ -133,4 +133,90 @@ description: ""
 | 24-8-2023    | Thu   | CCA Last Day  |
 | 30-8-2023    | Wed   | Teachers'  Day High Tea at 3.00pm. Students Dismissed at 1.00 pm |
 | 31-8-2023    | Thu   | ACES Day. Teachers' Day Celebration. Students Dismissed at 11.00 am  |
-|
+
+
+#### September 2023
+
+| Date | Day | Event |
+| -------- | -------- | -------- |
+| 1-9-2023     | Fri     | Teachers' Day     |
+| 11-9-2023     | Mon     | Start : GCE  NT/NA  LC     |
+| 12-9-2023     | Tue     | End : GCE NT/NA LC     |
+| 12-9-2023     | Tue     | N Level SET Practical Exam     |
+| 13-9-2023     | Wed     | Start : N Level Written Exam (phase 1)    |
+| 14-9-2023     | Thu     | N Level Written Exam (phase 1)   |
+| 15-9-2023     | Fri     | End of O Level Prelims   |
+| 15-9-2023     | Fri     | N Level Written Exam (phase 1)   |
+| 18-9-2023     | Mon     | End : N Level Written Exam (phase 1)
+| 19-9-2023     | Tue     | N Level CPA Practical Exam |
+| 20-9-2023     | Wed     | N Level SET Practical Exam |
+| 21-9-2023     | Thu     | N Level CPA Practical Exam |
+| 22-9-2023     | Fri     | HBL #15 (Sec1-3) |
+| 28-9-2023     | Thu    | Start of EYE Examination) |
+
+
+#### October 2023
+
+| Date | Day | Event |
+| -------- | -------- | -------- |
+| 2-10-2023    | Mon    | Start : N Level Written Exam (phase 2) 
+| 3-10-2023    | Tue    | N Level Written Exam (phase 2)
+| 4-10-2023    | Wed    | N Level Written Exam (phase 2)
+| 4-10-2023    | Wed    | Start : O Level Science Practical
+| 5-10-2023    | Thu    | N Level Written Exam (phase 2)
+| 5-10-2023    | Thu    | O Level Science Practical
+| 6-10-2023    | Fri    | N Level Written Exam (phase 2)
+| 6-10-2023    | Fri    | O Level Science Practical
+| 9-10-2023    | Mon    | N Level Written Exam (phase 2)
+| 9-10-2023    | Mon    | O Level Science Practical
+| 10-10-2023    | Tue    | N Level Written Exam (phase 2)
+| 10-10-2023    | Tue    | O Level Science Practical
+| 11-10-2023    | Wed   | Last Day of EYE
+| 11-10-2023    | Wed  | O Level Science Practical
+| 12-10-2023    | Thu   | Marking Day
+| 12-10-2023    | Thu | O Level Science Practical
+| 13-10-2023    | Fri   | HBL #16 (Sec 1-3 )
+| 13-10-2023    | Fri | O Level Science Practical
+| 16-10-2023    | Mon   | O Level Science Practical
+| 17-10-2023    | Tue | End : O Level Science Practical
+| 19-10-2023    | Thu   | O Level EL/MTB LC (pm)
+| 20-10-2023    | Fri | Start : O Level Year End Exam (written)
+| 20-10-2023    | Fri   | HBL #17 (Sec 1-3 )
+| 23-10-2023    | Mon | O Level Year End Exam (written)
+| 24-10-2023    | Tue | O Level Year End Exam (written)
+| 25-10-2023    | Wed | O Level Year End Exam (written)
+| 25-10-2023    | Wed | Sec 3 Social Action Forum
+| 26-10-2023    | Thu | O Level Year End Exam (written)
+| 26-10-2023    | Thu | Sec 3 Social Action Forum
+| 27-10-2023    | Fri | Last Day of School
+| 27-10-2023    | Fri | PTC
+| 27-10-2023    | Fri | O Level Year End Exam (written)
+| 30-10-2023    | Mon | O Level Year End Exam (written)
+| 30-10-2023    | Mon | OBS (Batch 1): 30 Oct - 3 Nov
+| 31-10-2023    | Tue | O Level Year End Exam (written)
+| 31-10-2023    | Tue | OBS (Batch 1): 30 Oct - 3 Nov
+
+#### November 2023
+
+
+
+| Date | Day | Event |
+| -------- | -------- | -------- |
+| 1-11-2023     | Wed     |   O Level Year End Exam (written)
+| 1-11-2023    | Wed | OBS (Batch 1): 30 Oct - 3 Nov   |
+| 2-11-2023     | Thu     |   O Level Year End Exam (written)
+| 2-11-2023    | Thu | OBS (Batch 1): 30 Oct - 3 Nov   |
+| 3-11-2023     | Fri     |   O Level Year End Exam (written)
+| 3-11-2023    | Fri | OBS (Batch 1): 30 Oct - 3 Nov   |
+| 6-11-2023     | Mon     |   O Level Year End Exam (written)
+| 6-11-2023    | Mon | OBS (Batch 2): 6 - 10 Nov   |
+| 7-11-2023     | Tue     |   O Level Year End Exam (written)
+| 7-11-2023    | Tue | OBS (Batch 2): 6 - 10 Nov   |
+| 8-11-2023     | Wed     |   O Level Year End Exam (written)
+| 8-11-2023    | Wed | OBS (Batch 2): 6 - 10 Nov   |
+| 9-11-2023     | Thu     |   O Level Year End Exam (written)
+| 9-11-2023    | Thu | OBS (Batch 2): 6 - 10 Nov   |
+| 10-11-2023     | Fri     |   O Level Year End Exam (written)
+| 10-11-2023    | Fri | OBS (Batch 2): 6 - 10 Nov   |
+| 13-11-2023     | Mon     |   Deepavali Public Holiday)
+| 18-11-2023    | Sat | Open House (Tentative)   |
