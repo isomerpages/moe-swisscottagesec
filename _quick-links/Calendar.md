@@ -218,15 +218,5 @@ description: ""
 | 9-11-2023    | Thu | OBS (Batch 2): 6 - 10 Nov   |
 | 10-11-2023     | Fri     |   O Level Year End Exam (written)
 | 10-11-2023    | Fri | OBS (Batch 2): 6 - 10 Nov   |
-| 13-11-2023     | Mon     |   Deepavali Publicc Holiday)
+| 13-11-2023     | Mon     |   Deepavali Public Holiday)
 | 18-11-2023    | Sat | Open House (Tentative)   |
-
-
-
-
-
-
-
-
-
-
