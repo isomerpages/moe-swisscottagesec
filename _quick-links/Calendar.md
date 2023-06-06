@@ -173,5 +173,7 @@ description: ""
 | 10-10-2023    | Tue    | O Level Science Practical
 | 11-10-2023    | Wed   | Last Day of EYE
 | 11-10-2023    | Wed  | O Level Science Practical
-
-
+| 12-10-2023    | Thu   | Marking Day
+| 12-10-2023    | Thu | O Level Science Practical
+| 13-10-2023    | Fri   | HBL #16
+| 13-10-2023    | Fri | O Level Science Practical
