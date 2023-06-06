@@ -157,5 +157,21 @@ description: ""
 
 
 
+| Date | Day | Event |
+| -------- | -------- | -------- |
+| 2-10-2023    | Mon    | Start : N Level Written Exam (phase 2) 
+| 3-10-2023    | Tue    | N Level Written Exam (phase 2)
+| 4-10-2023    | Wed    | N Level Written Exam (phase 2)
+| 4-10-2023    | Wed    | Start : O Level Science Practical
+| 5-10-2023    | Thu    | N Level Written Exam (phase 2)
+| 5-10-2023    | Thu    | O Level Science Practical
+| 6-10-2023    | Fri    | N Level Written Exam (phase 2)
+| 6-10-2023    | Fri    | O Level Science Practical
+| 9-10-2023    | Mon    | N Level Written Exam (phase 2)
+| 9-10-2023    | Mon    | O Level Science Practical
+| 10-10-2023    | Tue    | N Level Written Exam (phase 2)
+| 10-10-2023    | Tue    | O Level Science Practical
+| 11-10-2023    | Wed   | Last Day of EYE
+| 11-10-2023    | Wed  | O Level Science Practical
 
 
