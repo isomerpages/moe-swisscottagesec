@@ -103,9 +103,8 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="4">1530-1815<br><br>1530-1815</td>
     <td rowspan="4">LT1, Choir Room<br>(4-N1,<br>4-N2),<br>1-S5, 1-S6, 1-S7, 1-S8</td>
     <td>Ms Tan Mee Han</td>
-    <td><a href="mailto:tan_mee_han@moe.edu.sg">
-  </a></td></tr>
-  <tr>
+    
+  </tr><tr>
     <td>Ms Faith Wang</td>
     
   </tr><tr>
