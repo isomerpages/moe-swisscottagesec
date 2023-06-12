@@ -261,9 +261,8 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="3">1530-1815<br><br>1530-1815</td>
     <td rowspan="3">NCDCC Room,      3-S2</td>
     <td>Mr Heng Teng Boon</td>
-    <td><a href="mailto:heng_teng_boon@moe.edu.sg">heng_teng_boon@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+    <td><a href="mailto:heng_teng_boon@moe.edu.sg">
+  </a></td></tr><tr>
     <td>Mdm Tan Poh Kim</td>
     <td><a href="mailto:tan_poh_kim@moe.edu.sg">tan_poh_kim@moe.edu.sg</a></td>
   </tr>
