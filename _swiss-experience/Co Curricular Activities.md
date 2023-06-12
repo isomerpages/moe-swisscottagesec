@@ -47,6 +47,8 @@ You may visit our CCA Google Site for more information on CCA here:
 Please refer to the table below for the schedules of CCA in 2023.
 
     &lt;
+  
+    &lt;
   <table>
 <thead>
   <tr>
@@ -372,10 +374,7 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td>teo_yew_bing_simon@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Ms Hazel Tan</td>
-    <td>tan_yan_lin_hazel@moe.edu.sg</td>
-  </tr>
-  <tr>
+    <td>Ms Hazel Tan</td></tr><tr>
     <td>
     </td><td></td>
   </tr>
