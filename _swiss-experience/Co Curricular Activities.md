@@ -212,7 +212,7 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Ms Hon Soo Sien</td>
-    <td>soo_sien_hon@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Mr Kat Kar Sien</td>
