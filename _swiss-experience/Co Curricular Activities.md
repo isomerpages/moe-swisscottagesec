@@ -287,17 +287,14 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="4">1530 -1815<br><br>1500 –1815<br>1500-1815</td>
     <td rowspan="4">ISH  Level 1 &amp; Level 3, 2-S2</td>
     <td>Mr Alex Chew</td>
-    <td>chew_kok_chung_alex@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Mdm Low Hwee Cheng</td>
-    <td>low_hwee_cheng@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Mdm Young Tsui Hwa</td>
-    <td>young_tsui_hwa@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Ms Li Xiaorong</td>
     
   </tr><tr>
