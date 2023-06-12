@@ -267,9 +267,8 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td><a href="mailto:tan_poh_kim@moe.edu.sg">
   </a></td></tr><tr>
     <td>Mr Sim Wen Hong</td>
-    <td><a href="mailto:sunil_nair_kalarasingam@moe.edu.sg">sim_wen_hong@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+    <td><a href="mailto:sunil_nair_kalarasingam@moe.edu.sg">
+  </a></td></tr><tr>
     <td rowspan="3">12</td>
     <td rowspan="3">Badminton</td>
     <td rowspan="3">Mon<br><br>Thu</td>
