@@ -316,9 +316,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Ms Serene Lee</td>
-    <td>lee_ching_lien_serene@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Mr Choo Shi Qian</td>
     
   </tr><tr>
