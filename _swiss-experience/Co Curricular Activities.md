@@ -333,9 +333,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Ms Faza Mahira</td>
-    <td>faza_mahirah_md_suhimi@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Mrs Thasaradha Chandraleka</td>
     
   </tr><tr>
