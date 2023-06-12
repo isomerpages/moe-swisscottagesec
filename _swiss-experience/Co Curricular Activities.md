@@ -95,9 +95,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Ms Fan Yun Yun</td>
-    <td><a href="mailto:fan_yunyun@moe.edu.sg">
-  </a></td></tr>
-  <tr>
+    
+  </tr><tr>
     <td rowspan="4">3</td>
     <td rowspan="4">Show Choir</td>
     <td rowspan="4">Mon<br><br>Thu</td>
