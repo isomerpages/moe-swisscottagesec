@@ -229,7 +229,7 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Mdm Shahada</td>
-    <td>shahada_rahmat@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Ms Tan Kai Li Kelly</td>
