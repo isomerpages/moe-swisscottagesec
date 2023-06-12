@@ -148,11 +148,11 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="5">1530-1815<br><br>1530-1815<br>1330-1745</td>
     <td rowspan="5">Band Room,      3-S2, 3-S3, 3-S4, 3-S6, 3-S7, SR-D1, SR-D2</td>
     <td>Mr Kenneth Neo</td>
-    <td>neo_cheng_wee_kenneth@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Mr Salleh Bin Merwan</td>
-    <td>salleh_merwan@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Mdm Vijaya</td>
