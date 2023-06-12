@@ -246,9 +246,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Ms Maheshwari</td>
-    <td><a href="mailto:maheswari_thangaiah@moe.edu.sg">maheswari_thangaiah@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+    <td><a href="mailto:maheswari_thangaiah@moe.edu.sg">
+  </a></td></tr><tr>
     <td>Ms Tam Siew Kee</td>
     <td>tam_siew_kee@moe.edu.sg</td>
   </tr>
