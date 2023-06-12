@@ -225,7 +225,7 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="3">1530-1815<br><br>1530-1815</td>
     <td rowspan="3">NPCC Room,         2-S6</td>
     <td>Mr Ng Kok Hin</td>
-    <td>ng_kok_hin@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Mdm Shahada</td>
