@@ -308,9 +308,8 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="4">1530-1815<br><br>1530-1815</td>
     <td rowspan="4">Hall, 2-S3, 2-S4</td>
     <td>Mr Irfan</td>
-    <td>muhammad_irfan_hussein@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Ms Kek Hui Yu</td>
     
   </tr><tr>
