@@ -54,7 +54,7 @@ Please refer to the table below for the schedules of CCA in 2023.
     <th>Time</th>
     <th>Venues</th>
     <th>Teachers I/C</th>
-    <th>E-mail Address</th>
+    
   </tr>
 </thead>
 <tbody>
@@ -86,11 +86,11 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="4">1530-1815<br><br>1530-1815</td>
     <td rowspan="4">CO Room, 1-S1, 1-S2, 1-S3, 1-S4, ITR1A, ITR3A, ITR3B, MTLL1</td>
     <td>Ms Teo Lei Xin Alviena</td>
-    <td><a href="mailto:low_yu_hui@moe.edu.sh">lteo_lei_xin_alviena@moe.edu.sg</a></td>
+    <td><a href="mailto:low_yu_hui@moe.edu.sh"></a></td>
   </tr>
   <tr>
     <td>Mrs Chen Yen Wah</td>
-    <td><a href="mailto:lim_yen_wah@moe.edu.sg">lim_yen_wah@moe.edu.sg</a></td>
+    <td><a href="mailto:lim_yen_wah@moe.edu.sg"></a></td>
   </tr>
   <tr>
     <td>Mdm Tan Pui San</td>
