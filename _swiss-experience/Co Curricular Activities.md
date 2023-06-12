@@ -94,12 +94,12 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Mdm Tan Pui San</td>
-    <td>tan_pui_san@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Ms Fan Yun Yun</td>
-    <td><a href="mailto:fan_yunyun@moe.edu.sg">fan_yunyun@moe.edu.sg</a></td>
-  </tr>
+    <td><a href="mailto:fan_yunyun@moe.edu.sg">
+  </a></td></tr>
   <tr>
     <td rowspan="4">3</td>
     <td rowspan="4">Show Choir</td>
@@ -107,12 +107,12 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="4">1530-1815<br><br>1530-1815</td>
     <td rowspan="4">LT1, Choir Room<br>(4-N1,<br>4-N2),<br>1-S5, 1-S6, 1-S7, 1-S8</td>
     <td>Ms Tan Mee Han</td>
-    <td><a href="mailto:tan_mee_han@moe.edu.sg">tan_mee_han@moe.edu.sg</a></td>
-  </tr>
+    <td><a href="mailto:tan_mee_han@moe.edu.sg">
+  </a></td></tr>
   <tr>
     <td>Ms Faith Wang</td>
-    <td><a href="mailto:faith_wang_yi_shan@moe.edu.sg">faith_wang_yi_shan@moe.edu.sg</a></td>
-  </tr>
+    <td><a href="mailto:faith_wang_yi_shan@moe.edu.sg">
+  </a></td></tr>
   <tr>
     <td>Mdm Lau Lee Leng</td>
     <td><a href="mailto:lau_lee_leng@moe.edu.sg">lau_lee_leng@moe.edu.sg</a></td>
