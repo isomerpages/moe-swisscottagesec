@@ -195,7 +195,7 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td><a href="mailto:yeo_koon_koon@moe.edu.sg">
   </a></td></tr><tr>
     <td>Mdm See To</td>
-    <td>Seeto_chee_choong@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td rowspan="4">8</td>
