@@ -320,9 +320,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Mr Choo Shi Qian</td>
-    <td>choo_shi_qian@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td rowspan="4">15</td>
     <td rowspan="4">Tenpin Bowling</td>
     <td rowspan="4">Mon<br><br>Thu<br> </td>
