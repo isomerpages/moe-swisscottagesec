@@ -341,9 +341,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Mdm Wong Yoke Ung</td>
-    <td>wong_yoke_ung@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td rowspan="3">16</td>
     <td rowspan="3">Football</td>
     <td rowspan="3">Mon<br><br>Thu</td>
