@@ -371,9 +371,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Mr Simon Teo</td>
-    <td>teo_yew_bing_simon@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Ms Hazel Tan</td></tr><tr>
     <td>
     </td><td></td>
