@@ -204,7 +204,7 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="4">1530-1815<br><br>1530-1815<br> </td>
     <td rowspan="4">NCC Room, 2-S8</td>
     <td>Mr Ngoh Kia Joon</td>
-    <td>ngoh_kia_joon@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Mr Tan Jeng Gordon</td>
