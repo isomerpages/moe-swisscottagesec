@@ -172,7 +172,7 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="3">1530-1815<br><br>0730-1300</td>
     <td rowspan="3">BB Room,<br>2-S5</td>
     <td>Mr Koh Joon Teck</td>
-    <td>koh_joon_teck@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Mr Daniel Teguh</td>
