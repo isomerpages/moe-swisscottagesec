@@ -358,9 +358,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Ms Ong Yuan Shin</td>
-    <td>ong_yuan_shin@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td rowspan="4">17</td>
     <td rowspan="4">Publications and Media Club</td>
     <td rowspan="4">Mon<br><br>Thu<br> </td>
