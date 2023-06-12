@@ -312,9 +312,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Ms Kek Hui Yu</td>
-    <td><a href="mailto:kek_hui_yu@moe.edu.sg">kek_hui_yu@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Ms Serene Lee</td>
     
   </tr><tr>
