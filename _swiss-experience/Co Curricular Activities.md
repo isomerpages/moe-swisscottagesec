@@ -180,9 +180,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Mdm Koh Shin Yee</td>
-    <td><a href="mailto:koh_shin_yee@moe.edu.sg">koh_shin_yee@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+    <td><a href="mailto:koh_shin_yee@moe.edu.sg">
+  </a></td></tr><tr>
     <td rowspan="3">7</td>
     <td rowspan="3">Girl Guides                               (no sec 1 intake in 2023)</td>
     <td rowspan="3">Mon<br><br>Thu</td>
