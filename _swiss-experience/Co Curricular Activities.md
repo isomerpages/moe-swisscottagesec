@@ -367,9 +367,8 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="4">1530-1815<br><br>1530-1815<br> </td>
     <td rowspan="4">PMC Lab, ITR2B,               GP 2 Room</td>
     <td>Mr Christopher Lim</td>
-    <td>lim_junxuan_christopher@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Mr Simon Teo</td>
     
   </tr><tr>
