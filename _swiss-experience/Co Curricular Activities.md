@@ -392,7 +392,7 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Ms Fong Sook Theng</td>
-    <td>fong_sook_theng@moe.edu.sg</td>
-  </tr>
+    <td>
+  </td></tr>
 </tbody>
 </table>
