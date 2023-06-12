@@ -233,7 +233,7 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Ms Tan Kai Li Kelly</td>
-    <td>tan_kai_li_kelly@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td rowspan="4">10</td>
