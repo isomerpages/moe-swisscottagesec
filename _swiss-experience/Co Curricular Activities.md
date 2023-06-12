@@ -159,7 +159,7 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Ms Ng Poh Keow</td>
-    <td>ng_poh_keow@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Mr Sunil Nair</td>
