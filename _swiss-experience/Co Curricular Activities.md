@@ -128,8 +128,7 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="4">1530-1815<br><br>1530-1815<br> </td>
     <td rowspan="4">MTLL E3,<br>3-S8</td>
     <td>Ms Herina Roslin</td>
-    <td><a href="mailto:herina_roslin@moe.edu.sg">
-  </a></td></tr><tr>
+    <td>  </td></tr><tr>
     <td>Mdm Nur Zuliana Bte Hamdan</td>
     <td><a href="mailto:nur_zuliana_hamdan@moe.edu.sg">
   </a></td></tr>
