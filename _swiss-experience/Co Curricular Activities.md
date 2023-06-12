@@ -109,9 +109,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </a></td></tr>
   <tr>
     <td>Ms Faith Wang</td>
-    <td><a href="mailto:faith_wang_yi_shan@moe.edu.sg">
-  </a></td></tr>
-  <tr>
+    
+  </tr><tr>
     <td>Mdm Lau Lee Leng</td>
     <td><a href="mailto:lau_lee_leng@moe.edu.sg">
   </a></td></tr>
