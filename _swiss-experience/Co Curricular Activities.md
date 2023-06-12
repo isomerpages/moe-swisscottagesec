@@ -278,9 +278,8 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td><a href="mailto:lee_hongyun_eric@moe.edu.sg">
   </a></td></tr><tr>
     <td>Mdm Nurfarihah</td>
-    <td>nurfarihah_ahmad_rifaeh@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Mr Thou Reaksmey</td>
     <td><a href="mailto:thou_reaksmey@moe.edu.sg">thou_reaksmey@moe.edu.sg</a></td>
   </tr>
