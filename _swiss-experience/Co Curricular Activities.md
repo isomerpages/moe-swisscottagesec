@@ -163,7 +163,7 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Mr Sunil Nair</td>
-    <td>sunil_nair_kalarasingam@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td rowspan="3">6</td>
