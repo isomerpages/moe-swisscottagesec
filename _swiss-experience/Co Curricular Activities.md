@@ -242,7 +242,7 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="4">1530-1815<br><br>1530-1815</td>
     <td rowspan="4">Scouts Room,<br>SR-C1A</td>
     <td>Mr Syed Segaff</td>
-    <td>syed_segaff_syed_khaled@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Ms Maheshwari</td>
