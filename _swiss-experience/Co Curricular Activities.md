@@ -176,7 +176,7 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Mr Daniel Teguh</td>
-    <td>teguh_daniel_tampemawa@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Mdm Koh Shin Yee</td>
