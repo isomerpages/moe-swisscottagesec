@@ -253,9 +253,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Ms Iznur Shahidah</td>
-    <td><a href="mailto:iznur_shahidah_ishak@moe.edu.sg">iznur_shahidah_ishak@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+    <td><a href="mailto:iznur_shahidah_ishak@moe.edu.sg">
+  </a></td></tr><tr>
     <td rowspan="3">11</td>
     <td rowspan="3">NCDCC</td>
     <td rowspan="3">Mon<br><br>Thu</td>
