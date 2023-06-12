@@ -337,9 +337,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Mrs Thasaradha Chandraleka</td>
-    <td>thasaradha_chandraleka@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Mdm Wong Yoke Ung</td>
     
   </tr><tr>
