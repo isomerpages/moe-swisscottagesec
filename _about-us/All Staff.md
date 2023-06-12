@@ -243,12 +243,26 @@ description: ""
 
 | Name | Subject |  |
 | -------- | -------- | -------- |
-| MDM SOPHIA ANG SOK LENG     | MATHS     |    |
-| MR ROY CHUA KWEE CHENG     | MATHS     |      |
+| MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
+| MR ROY CHUA KWEE CHENG     | MATHEMATICS     |      |
+| MDM SEE TO CHEE CHONG    | CHEMISTRY    |      |
+| MDM WEE AI JEE    | PHYSICS     |      |
+| MDM LEE SI WEI    | HISTORY     |      |
+| MS LIM SU-FERN   | GEORGRAPHY     |      |
+| MR LOW KEOH    | D&amp;T     |      |
+| MS GLADYS CHOO HUI MING  | SCIENCE     |      |
+| MS NG HWEE CHUN    | MATHEMATICS     |      |
+| MS CHEN XI    | CHINESE  LANGUAGE   |      |
+| MDM CHEW WYE MUN    | MATHEMATICS     |      |
+| MS NUR AQILAH BINTE JOHARI    | ART     |      |
+| MS SUHANA BINTI SHAFIK    | LITERATURE     |      |
+| MR TAN KIM HIANG    | ENGLISH     |      |
+| MR MUHAMMAD IMAN HAKIM BIN SUGEN    | RT-LITERATURE    |      |
+| MS GINA HIU FENG PING    | ENGLISH    |      |
+| MS PRENUJA D/O PANNIRCHELVAM   | TAMIL LANGUAGE    |      |
 
 
 
-<br>MS HU FANG (CL)&nbsp;&nbsp;&nbsp;MDM SOPHIA ANG SOK LENG (MATHS)&nbsp; &nbsp;MR ROY CHUA KWEE CHENG (MATHS)&nbsp;&nbsp;MDM SEE TO CHEE CHONG (CHEM)&nbsp;&nbsp;&nbsp;&nbsp;MDM WEE AI JEE&nbsp; (PHY)&nbsp;&nbsp;&nbsp; MDM LEE SI WEI (HISTORY)&nbsp; MISS LIM SU-FERN (GEOG) MR LOW KEOH (D&amp;T) MS GLADYS CHOO HUI MING (SCIENCE)&nbsp; &nbsp; MS NG HWEE CHUN&nbsp; (MATHS)&nbsp; DANIEL ARIFFIN BIN AZMAN (RT-EL)&nbsp; MS CHEN XI&nbsp; (CL)&nbsp; MR VELLASAMY RASANDRAN (EL) MDM CHEW WYE MUN (MATHS) MS NUR AQILAH BINTE JOHARI (ART)&nbsp; MDM VISWALINGAM THENMOZHI (TL) MS LEE JIA YUN (GEOG)&nbsp; MS SUHANA BINTI SHAFIK (LIT)&nbsp; MR TAN KIM HIANG (EL)&nbsp; &nbsp; MR MUHAMMAD IMAN HAKIM BIN SUGEN (RT-LIT)&nbsp; MDM LEE JIA YUN (HUM)) |
 
 
 &nbsp;**EXECUTIVE AND ADMINISTRATIVE STAFF**
