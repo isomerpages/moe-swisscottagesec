@@ -278,9 +278,8 @@ Please refer to the table below for the schedules of CCA in 2023.
     
   </tr><tr>
     <td>Mr Thou Reaksmey</td>
-    <td><a href="mailto:thou_reaksmey@moe.edu.sg">thou_reaksmey@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td rowspan="4">13</td>
     <td rowspan="4">Basketball</td>
     <td rowspan="4">Mon (all)<br><br>Wed (B) / Thu (G)</td>
