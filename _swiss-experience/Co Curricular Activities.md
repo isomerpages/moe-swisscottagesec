@@ -88,9 +88,8 @@ Please refer to the table below for the schedules of CCA in 2023.
     
   </tr><tr>
     <td>Mrs Chen Yen Wah</td>
-    <td><a href="mailto:lim_yen_wah@moe.edu.sg"></a></td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Mdm Tan Pui San</td>
     
   </tr>
