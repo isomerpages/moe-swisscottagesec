@@ -65,19 +65,19 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="4">1530-1815<br><br>1530-1815</td>
     <td rowspan="4">LT3 / Malay Dance Studio</td>
     <td>Ms Leung Yan Ru</td>
-    <td>leung_yan_ru@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Mdm Siti Aishah</td>
-    <td>siti_aishah_mohamed_kamsani@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Mdm Tee Lay Kean</td>
-    <td><a href="mailto:tee_lay_kean_a@moe.edu.sg">tee_lay_kean_a@moe.edu.sg</a></td>
-  </tr>
+    <td><a href="mailto:tee_lay_kean_a@moe.edu.sg">
+  </a></td></tr>
   <tr>
     <td>Mdm Noorhidaya</td>
-    <td>noorhidaya_abdul_karim@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td rowspan="4">2</td>
