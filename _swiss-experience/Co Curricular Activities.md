@@ -350,9 +350,8 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="3">1530-1815<br><br>1530-1815</td>
     <td rowspan="3">School Field, 3-S1</td>
     <td>Mr Michael R</td>
-    <td><a href="mailto:rajanayagam_michael@moe.edu.sg">rajanayagam_michael@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Mdm Redha</td>
     
   </tr><tr>
