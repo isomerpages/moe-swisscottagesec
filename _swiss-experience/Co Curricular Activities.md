@@ -299,9 +299,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Ms Li Xiaorong</td>
-    <td><a href="mailto:subramanian_radhakrishnan@moe.edu.sg">li_xiaorong @moe.edu.sg</a></td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td rowspan="4">14</td>
     <td rowspan="4">Floorball</td>
     <td rowspan="4"> <br><br>Mon<br>Thu<br> </td>
