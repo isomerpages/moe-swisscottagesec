@@ -188,13 +188,12 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="3">1530-1815<br><br>1530-1815</td>
     <td rowspan="3">GG Room,<br>2-S7</td>
     <td>Ms Ang Kai Lun Karen</td>
-    <td>ang_kai_lun_karen@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Ms Yeo Koon Koon</td>
-    <td><a href="mailto:yeo_koon_koon@moe.edu.sg">yeo_koon_koon@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+    <td><a href="mailto:yeo_koon_koon@moe.edu.sg">
+  </a></td></tr><tr>
     <td>Mdm See To</td>
     <td>Seeto_chee_choong@moe.edu.sg</td>
   </tr>
