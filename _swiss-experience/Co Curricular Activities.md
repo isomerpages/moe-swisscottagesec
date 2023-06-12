@@ -275,8 +275,8 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="3">1530-1815<br><br>1530-1815</td>
     <td rowspan="3">ISH Level 2 &amp; Level 3, 2-S1</td>
     <td>Mr Eric Lee</td>
-    <td><a href="mailto:lee_hongyun_eric@moe.edu.sg">
-  </a></td></tr><tr>
+    
+  </tr><tr>
     <td>Mdm Nurfarihah</td>
     
   </tr><tr>
