@@ -155,7 +155,7 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Mdm Vijaya</td>
-    <td>vijayaprabha_natarajan@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>Ms Ng Poh Keow</td>
