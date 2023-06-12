@@ -329,9 +329,8 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="4">1600-1815<br><br>1600-1815<br> </td>
     <td rowspan="4"> Westwood Bowl, 3-S5</td>
     <td>Ms Rose Nabilah</td>
-    <td>rose_nabilah_rosli@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Ms Faza Mahira</td>
     
   </tr><tr>
