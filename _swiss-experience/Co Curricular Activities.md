@@ -354,9 +354,8 @@ Please refer to the table below for the schedules of CCA in 2023.
   </tr>
   <tr>
     <td>Mdm Redha</td>
-    <td>redha_nasuha_masod@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Ms Ong Yuan Shin</td>
     
   </tr><tr>
