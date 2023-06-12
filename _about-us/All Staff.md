@@ -247,7 +247,6 @@ description: ""
 | MR ROY CHUA KWEE CHENG     | MATHEMATICS     |      |
 | MDM SEE TO CHEE CHONG    | CHEMISTRY    |      |
 | MDM WEE AI JEE    | PHYSICS     |      |
-| MDM LEE SI WEI    | HISTORY     |      |
 | MS LIM SU-FERN   | GEORGRAPHY     |      |
 | MR LOW KEOH    | D&amp;T     |      |
 | MS GLADYS CHOO HUI MING  | SCIENCE     |      |
