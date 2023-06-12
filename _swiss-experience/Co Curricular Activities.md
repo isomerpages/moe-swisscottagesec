@@ -386,9 +386,8 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td rowspan="3">1530-1815<br><br>1530-1815</td>
     <td rowspan="3">S&amp;T Room,<br><br>Comp Lab 3</td>
     <td>Mr Simon Wong</td>
-    <td>wong_yin_kew@moe.edu.sg</td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td>Mr Tan Hong Cheong</td></tr>
   <tr>
     <td>Ms Fong Sook Theng</td>
