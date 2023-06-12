@@ -125,9 +125,8 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td>Ms Herina Roslin</td>
     <td>  </td></tr><tr>
     <td>Mdm Nur Zuliana Bte Hamdan</td>
-    <td><a href="mailto:nur_zuliana_hamdan@moe.edu.sg">
-  </a></td></tr>
-  <tr>
+    
+  </tr><tr>
     <td>Mdm Norazela Rosli</td>
     
   </tr>
