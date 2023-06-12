@@ -45,7 +45,9 @@ You may visit our CCA Google Site for more information on CCA here:
 **CCA Practices &amp; Venues**&nbsp;
 
 Please refer to the table below for the schedules of CCA in 2023.
-<table>
+
+    &lt;
+  <table>
 <thead>
   <tr>
     <th>No.</th>
@@ -387,9 +389,7 @@ Please refer to the table below for the schedules of CCA in 2023.
     <td>wong_yin_kew@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr Tan Hong Cheong</td>
-    <td>tan_hong_cheong@moe.edu.sg</td>
-  </tr>
+    <td>Mr Tan Hong Cheong</td></tr>
   <tr>
     <td>Ms Fong Sook Theng</td>
     <td>
