@@ -31,7 +31,7 @@ sections:
       description: The aim of the Student Development Programme is the holistic
         development of our students.
       button: Read more
-      url: /swiss-experience/Student-Development-Programme/
+      url: /swiss-experience/student-development-programme/
   - infobar:
       title: DISTINCTIVE PROGRAMMES
       subtitle: FEATURED POSTS
