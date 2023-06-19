@@ -54,8 +54,8 @@ You may visit our CCA Google Site for more information on CCA here:
     <th>CCA</th>
     <th>Days</th>
     <th>Time</th>
-    <th>Venues</th>
     <th>Teachers I/C</th>
+    
     
   </tr>
 </thead>
@@ -65,7 +65,7 @@ You may visit our CCA Google Site for more information on CCA here:
     <td rowspan="4">Swiss Dance (Chinese / Malay)</td>
     <td rowspan="4">Mon<br><br>Thu</td>
     <td rowspan="4">1530-1815<br><br>1530-1815</td>
-    <td rowspan="4">LT3 / Malay Dance Studio</td>
+   
     <td>Ms Leung Yan Ru</td>
     
   </tr>
@@ -85,7 +85,7 @@ You may visit our CCA Google Site for more information on CCA here:
     <td rowspan="4">Chinese Orchestra</td>
     <td rowspan="4">Mon<br><br>Thu</td>
     <td rowspan="4">1530-1815<br><br>1530-1815</td>
-    <td rowspan="4">CO Room, 1-S1, 1-S2, 1-S3, 1-S4, ITR1A, ITR3A, ITR3B, MTLL1</td>
+   
     <td>Ms Teo Lei Xin Alviena</td>
     
   </tr><tr>
@@ -103,7 +103,7 @@ You may visit our CCA Google Site for more information on CCA here:
     <td rowspan="4">Show Choir</td>
     <td rowspan="4">Mon<br><br>Thu</td>
     <td rowspan="4">1530-1815<br><br>1530-1815</td>
-    <td rowspan="4">LT1, Choir Room<br>(4-N1,<br>4-N2),<br>1-S5, 1-S6, 1-S7, 1-S8</td>
+    
     <td>Ms Tan Mee Han</td>
     
   </tr><tr>
