@@ -230,14 +230,10 @@ description: ""
 </tbody>
 </table>
 
-|                                                    |                          |
-|----------------------------------------------------|--------------------------|
-| **ALLIED EDUCATOR (COUNSELLING)**                      | MS MANDY WONG SOO PING   |
-| **ALLIED EDUCATOR (LEARNING AND BEHAVIOURAL SUPPORT)** | MS SHARLENE TAN LEE WOON |
 
 
-|   |
-|---|
+
+
 
 <b><u>ADJUNCT TEACHERS</u></b>
 
