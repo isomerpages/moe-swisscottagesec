@@ -238,8 +238,8 @@ description: ""
 
 |   |
 |---|
-|  **ADJUNCT TEACHERS**
 
+<b><u>ADJUNCT TEACHERS</u></b>
 
 | Name | Subject |  |
 | -------- | -------- | -------- |
