@@ -5,7 +5,7 @@ description: ""
 ---
 # All Staff
 
-<b><u>YEAR HEADS/MASTERS AND FORM TEACHERS 2023</u></b>
+<b><u>YEAR HEADS AND FORM TEACHERS 2023</u></b>
 
 <table>
 <thead>
