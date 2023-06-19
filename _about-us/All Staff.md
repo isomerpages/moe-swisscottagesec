@@ -243,23 +243,19 @@ description: ""
 
 | Name | Subject |  |
 | -------- | -------- | -------- |
-| MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
-| MR ROY CHUA KWEE CHENG     | MATHEMATICS     |      |
-| MDM SEE TO CHEE CHONG    | CHEMISTRY    |      |
-| MDM WEE AI JEE    | PHYSICS     |      |
-| MS LIM SU-FERN   | GEORGRAPHY     |      |
-| MR LOW KEOH    | D&amp;T     |      |
-| MS GLADYS CHOO HUI MING  | SCIENCE     |      |
-| MS NG HWEE CHUN    | MATHEMATICS     |      |
-| MS CHEN XI    | CHINESE  LANGUAGE   |      |
-| MDM CHEW WYE MUN    | MATHEMATICS     |      |
 | MS NUR AQILAH BINTE JOHARI    | ART     |      |
+| MDM SEE TO CHEE CHONG    | CHEMISTRY    |      |
+| MS CHEN XI    | CHINESE  LANGUAGE   |      |
+| MR LOW KEOH    | D&amp;T     |      |
+| MS LIM SU-FERN   | GEORGRAPHY     |      |
 | MS SUHANA BINTI SHAFIK    | LITERATURE     |      |
+| MR ROY CHUA KWEE CHENG     | MATHEMATICS     |      |
+| MDM CHEW WYE MUN    | MATHEMATICS     |      |
+| MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
+| MS NG HWEE CHUN    | MATHEMATICS     |      |
+| MDM WEE AI JEE    | PHYSICS     |      |
+| MS GLADYS CHOO HUI MING  | SCIENCE     |      |
 | MS PRENUJA D/O PANNIRCHELVAM   | TAMIL LANGUAGE    |      |
-
-
-
-
 
 
 <b><u>EXECUTIVE AND ADMINSTRATIVE STAFF</u></b>
