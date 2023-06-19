@@ -255,8 +255,6 @@ description: ""
 | MDM CHEW WYE MUN    | MATHEMATICS     |      |
 | MS NUR AQILAH BINTE JOHARI    | ART     |      |
 | MS SUHANA BINTI SHAFIK    | LITERATURE     |      |
-| MR TAN KIM HIANG    | ENGLISH     |      |
-| MR MUHAMMAD IMAN HAKIM BIN SUGEN    | RT-LITERATURE    |      |
 | MS GINA HIU FENG PING    | ENGLISH    |      |
 | MS PRENUJA D/O PANNIRCHELVAM   | TAMIL LANGUAGE    |      |
 
