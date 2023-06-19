@@ -539,5 +539,3 @@ You may visit our CCA Google Site for more information on CCA here:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:16.85pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">Ms Fong Sook Theng</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr></tbody></table>
-    
-  
