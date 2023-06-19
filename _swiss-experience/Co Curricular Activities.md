@@ -42,13 +42,11 @@ You may visit our CCA Google Site for more information on CCA here:
 
 [https://sites.google.com/moe.edu.sg/swissccas/our-ccas](https://sites.google.com/moe.edu.sg/swissccas/our-ccas)
 
-**CCA Practices &amp; Venues**&nbsp;
+**CCA Schedule 2023**&nbsp;
 
-Please refer to the table below for the schedules of CCA in 2023.
 
-    &lt;
-  
-    &lt;
+
+    
   <table>
 <thead>
   <tr>
