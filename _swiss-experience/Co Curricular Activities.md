@@ -122,8 +122,7 @@ You may visit our CCA Google Site for more information on CCA here:
     <td rowspan="4">Swiss Drama</td>
     <td rowspan="4">Mon<br><br>Thu<br> </td>
     <td rowspan="4">1530-1815<br><br>1530-1815<br> </td>
-    <td rowspan="4">MTLL E3,<br>3-S8</td>
-    <td>Ms Herina Roslin</td>
+    <td rowspan="<td">Ms Herina Roslin</td>
     <td>  </td></tr><tr>
     <td>Mdm Nur Zuliana Bte Hamdan</td>
     
