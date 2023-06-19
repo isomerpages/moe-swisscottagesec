@@ -104,7 +104,7 @@ You may visit our CCA Google Site for more information on CCA here:
     <td rowspan="4">Mon<br><br>Thu</td>
     <td rowspan="4">1530-1815<br><br>1530-1815</td>
     
-    <td>Ms Tan Mee Han</td>
+    
     
   </tr><tr>
     <td>Ms Faith Wang</td>
