@@ -5,7 +5,7 @@ description: ""
 ---
 # All Staff
 
-<b><u>YEAR HEADS/MASTERS AND FORM TEACHERS 2023</u></b>
+<b><u>YEAR HEADS AND FORM TEACHERS 2023</u></b>
 
 <table>
 <thead>
@@ -230,41 +230,31 @@ description: ""
 </tbody>
 </table>
 
-|                                                    |                          |
-|----------------------------------------------------|--------------------------|
-| **ALLIED EDUCATOR (COUNSELLING)**                      | MS MANDY WONG SOO PING   |
-| **ALLIED EDUCATOR (LEARNING AND BEHAVIOURAL SUPPORT)** | MS SHARLENE TAN LEE WOON |
 
 
-|   |
-|---|
-|  **ADJUNCT TEACHERS**
 
+
+
+<b><u>ADJUNCT TEACHERS</u></b>
 
 | Name | Subject |  |
 | -------- | -------- | -------- |
-| MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
-| MR ROY CHUA KWEE CHENG     | MATHEMATICS     |      |
-| MDM SEE TO CHEE CHONG    | CHEMISTRY    |      |
-| MDM WEE AI JEE    | PHYSICS     |      |
-| MS LIM SU-FERN   | GEORGRAPHY     |      |
-| MR LOW KEOH    | D&amp;T     |      |
-| MS GLADYS CHOO HUI MING  | SCIENCE     |      |
-| MS NG HWEE CHUN    | MATHEMATICS     |      |
-| MS CHEN XI    | CHINESE  LANGUAGE   |      |
-| MDM CHEW WYE MUN    | MATHEMATICS     |      |
 | MS NUR AQILAH BINTE JOHARI    | ART     |      |
+| MDM SEE TO CHEE CHONG    | CHEMISTRY    |      |
+| MS CHEN XI    | CHINESE  LANGUAGE   |      |
+| MR LOW KEOH    | D&amp;T     |      |
+| MS LIM SU-FERN   | GEORGRAPHY     |      |
 | MS SUHANA BINTI SHAFIK    | LITERATURE     |      |
-| MR TAN KIM HIANG    | ENGLISH     |      |
-| MR MUHAMMAD IMAN HAKIM BIN SUGEN    | RT-LITERATURE    |      |
-| MS GINA HIU FENG PING    | ENGLISH    |      |
+| MR ROY CHUA KWEE CHENG     | MATHEMATICS     |      |
+| MDM CHEW WYE MUN    | MATHEMATICS     |      |
+| MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
+| MS NG HWEE CHUN    | MATHEMATICS     |      |
+| MDM WEE AI JEE    | PHYSICS     |      |
+| MS GLADYS CHOO HUI MING  | SCIENCE     |      |
 | MS PRENUJA D/O PANNIRCHELVAM   | TAMIL LANGUAGE    |      |
 
 
-
-
-
-&nbsp;**EXECUTIVE AND ADMINISTRATIVE STAFF**
+<b><u>EXECUTIVE AND ADMINSTRATIVE STAFF</u></b>
  
 |  |  |
 |---|---|
@@ -272,6 +262,8 @@ description: ""
 | OPERATIONS MANAGER 1 | KOO HONG KEE (MR) |
 | OPERATIONS MANAGER 2 | CHUA HENG HENG (MR) |
 |  ICT MANAGER | GIAM CHIN LEONG (MR) |
+|  ALLIED EDUCATOR (COUNSELLING) | MANDY WONG SOO PING (MS) |
+|  ALLIED EDUCATOR (LEARNING AND BEHAVIOURAL SUPPORT) | SHARLENE TAN LEE WOON (MS) |
 | CORPORATE SUPPORT OFFICER | ONG POH CHOO RACHEL (MDM) |
 | CORPORATE SUPPORT OFFICER | LIM SIEW LING (MDM) |
 | CORPORATE SUPPORT OFFICER | NORSIMAH BINTE AMAN (MDM) |
@@ -288,5 +280,5 @@ description: ""
 | OPERATIONS SUPPORT OFFICER | WONG KWAI HOONG (MDM) |
 | LIBRARY ASSISTANT | LAM WENG KWAN ALAN (MR) |
 | DESKTOP ENGINEER (NCS) | MUHAMMAD ZUHAIRI BIN ZAILANI (MR) |
-| DESK TOP ENGINEER (NCS) | GOKILA NAGARAJAN @ MANIVANNAN GOKILA (MRS) |
+| DESKTOP ENGINEER (NCS) | GOKILA NAGARAJAN @ MANIVANNAN GOKILA (MRS) |
 | KITCHEN ASSISTANT | KAHYATI BTE SAPUAN (MDM) |
