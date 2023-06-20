@@ -80,3 +80,4 @@ We aim to
 | Mdm Nur Ashkin Binte Abu Bakar | Adjunct / English  |
 | Mr Vellasamy Rasandran |  Adjunct / English |
 | Ms Faith Ong Qi Rui | Adjunct / English |
+| Miss Suhana Binti Shafik | Adjunct / English |
