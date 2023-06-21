@@ -78,6 +78,5 @@ We aim to
 | Ms Tan Yan Lin, Hazel | English Language and Literature |
 | Miss Gina Hiu Feng Ping | English Language |
 | Mdm Nur Ashkin Binte Abu Bakar | Adjunct / English  |
-| Mr Vellasamy Rasandran |  Adjunct / English |
 | Ms Faith Ong Qi Rui | Adjunct / English |
 | Miss Suhana Binti Shafik | Adjunct / English |
