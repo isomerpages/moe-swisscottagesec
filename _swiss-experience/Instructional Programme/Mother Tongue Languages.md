@@ -20,7 +20,7 @@ third_nav_title: Instructional Programme
 
 **Malay Language Experiences**
 
-<p style="text-align: justify;">Students have better understanding of the different aspects of their language, history and culture through Amazing Race at Fort Canning Park.  They went through hands-on sessions such as playing traditional games, dancing a traditional dance. Indeed the students experience ML as a ‘living language’ in a fun and engaging way.</p>
+<p style="text-align: justify;">Students have better understanding of the different aspects of their language, history and culture through Amazing Race at Fort Canning Park.&nbsp; They went through hands-on sessions such as playing traditional games, dancing a traditional dance. Indeed the students experience ML as a ‘living language’ in a fun and engaging way.</p>
 
 **Tamil Language Experiences**
 
@@ -51,3 +51,4 @@ third_nav_title: Instructional Programme
 | Mdm Vijayaprabha Natarajan | Tamil Language Teacher |
 | Mdm Thasradha Chandraleka | Tamil Language Teacher |
 | Mr Viswalingam Thenmozhi |  Flexi-Adjunct Teacher / Tamil Language |
+| Ms Prenuja D/O Pannirchelvam | Flexi-Adjunct Teacher / Tamil Language |
