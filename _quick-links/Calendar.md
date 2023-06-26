@@ -107,6 +107,7 @@ description: ""
 | 13-7-2023    | Thu    | N Level EL Oral (PM) |
 | 13-7-2023    | Thu    | O Level MT Oral (PM)   |
 | 14-7-2023    | Fri   | N Level EL Oral (PM)  |
+| 14-7-2023    | Fri    | O Level MT Oral (PM)   |
 | 17-7-2023    | Mon    | End :N Level EL Oral (PM) |
 | 21-7-2023    | Fri     | HBL #12 (Sec 1-3)   |
 | 25-7-2023    | Tue    | Start : N Level MT Oral (PM) |
