@@ -92,14 +92,24 @@ description: ""
 | Date | Day | Event |
 | - | -------- | -------- |
 |  3-7-2023   | Mon     | Youth Day    |
+|  4-7-2023   | Tue     | O Level NT/MTB LC (PM)    |
 | 5-7-2023    | Wed     | Attendance & Temperature Taking Exercise for All    |
+|  5-7-2023   | Wed     | SA + MEL Bonding 3 (3.30 - 4.30PM) |
+|  6-7-2023   | Thur     | Start/End: O Level MTB Oral (PM)
 | 7-7-2023    | Fri     | HBL #11 (Sec 1-3)   |
-| 7-7-2023    | Fri     | Sec 1/2 PTC   | 
+| 7-7-2023    | Fri     | Sec 1/2 PTC   |
+| 7-7-2023    | Fri     | Start: O Level MT Oral (PM)   |
+| 10-7-2023    | Mon     | O Level MT Oral (PM)   |
 | 11-7-2023     | Tue    | Start : N Level EL Oral (PM) |
+| 11-7-2023    | Tue     | O Level MT Oral (PM)   |
 | 12-7-2023    | Wed    | N Level EL Oral (PM)  |
-| 13-7-2023    | Thu    | N Level EL Oral (PM)  |
+| 12-7-2023    | Wed     | O Level MT Oral (PM)   |
+| 13-7-2023    | Thu    | N Level EL Oral (PM) |
+| 13-7-2023    | Thu    | O Level MT Oral (PM)   |
 | 14-7-2023    | Fri   | N Level EL Oral (PM)  |
-| 17-7-2023    | Mon    | End :N Level EL Oral (PM) |
+| 14-7-2023    | Fri    | O Level MT Oral (PM)   |
+| 17-7-2023    | Mon    | End :N Level EL Oral (PM)|
+| 17-7-2023    | Mon    |End: O Level MT Oral (PM)   |
 | 21-7-2023    | Fri     | HBL #12 (Sec 1-3)   |
 | 25-7-2023    | Tue    | Start : N Level MT Oral (PM) |
 | 25-7-2023    | Tue    | Start : O Level EL Oral (PM) |
@@ -109,9 +119,9 @@ description: ""
 | 27-7-2023    | Thu    | O Level EL Oral (PM)
 | 28-7-2023    | Fri   | O Level EL Oral (PM) |
 | 28-7-2023    | Fri    | Start : O Level HMT Oral (PM)
-| 31-7-2023    | Fri    | Start : N Level Prelims 
-| 31-7-2023    | Fri    | O Level EL Oral (PM)
-| 31-7-2023    | Fri    | O Level HMT Oral (PM)
+| 31-7-2023    | Mon    | Start : N Level Prelims 
+| 31-7-2023    | Mon    | O Level EL Oral (PM)
+| 31-7-2023    | Mon    | O Level HMT Oral (PM)
 
 #### August 2023
 
@@ -125,14 +135,19 @@ description: ""
 | 3-8-2023    | Tue     | End : O Level HMT Oral (PM)     |
 | 4-8-2023    | Fri     | HBL #13 (Sec1-3)     |
 | 7-8-2023    | Mon    | End : N Level Prelims     |
-| 8-8-2023    | Tue    | National Day Observance     |
+| 8-8-2023    | Tue    | National Day Observance (7.30am - 12.30pm)   |
 | 9-8-2023    | Wed   | National Day     |
 | 10-8-2023    | Thu   | National Day School Holiday    |
-| 18-8-2023    | Fri   | HBL #14 (PM)  |
-| 21-8-2023    | Mon   | Start : O Level Prelims  |
-| 24-8-2023    | Thu   | CCA Last Day  |
-| 30-8-2023    | Wed   | Teachers'  Day High Tea at 3.00pm. Students Dismissed at 1.00 pm |
-| 31-8-2023    | Thu   | ACES Day. Teachers' Day Celebration. Students Dismissed at 11.00 am  |
+| 16-8-2023    | Wed   | Science Ambassadors General Meeting 3&4      |
+| 16-8-2023    | Wed   | Science ICAS (Selected Sec 1-3)    |
+| 18-8-2023    | Fri   | HBL #14 (Sec1-3)     |
+| 21-8-2023    | Mon   |  Start : O Level Prelims    |
+| 24-8-2023    | Thu   |  CCA Last Day    |
+| 30-8-2023    | Thu   | Teachers'  Day High Tea at 3.00pm    |
+| 31-8-2023    | Fri   |  ACES Day    |
+| 31-8-2023    | Fri     | Teachers' Day Celebration    |
+
+
 
 
 #### September 2023
