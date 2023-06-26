@@ -143,9 +143,9 @@ description: ""
 | 18-8-2023    | Fri   | HBL #14 (Sec1-3)     |
 | 21-8-2023    | Mon   |  Start : O Level Prelims    |
 | 24-8-2023    | Thu   |  CCA Last Day    |
-| 30-8-2023    | Thu   | Teachers'  Day High Tea at 3.00pm.        Students Dismissed at 1.00 pm    |
+| 30-8-2023    | Thu   | Teachers'  Day High Tea at 3.00pm    |
 | 31-8-2023    | Fri   |  ACES Day    |
-| 31-8-2023    | Fri     | Teachers' Day Celebration Sismissal : 11am     |
+| 31-8-2023    | Fri     | Teachers' Day Celebration    |
 
 
 
