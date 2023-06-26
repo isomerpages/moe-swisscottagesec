@@ -94,11 +94,16 @@ description: ""
 |  3-7-2023   | Mon     | Youth Day    |
 |  4-7-2023   | Tue     | O Level NT/MTB LC (PM)    |
 | 5-7-2023    | Wed     | Attendance & Temperature Taking Exercise for All    |
-|  5-7-2023   | Wed     | SA + MEL Bonding 3 (3.30 - 4.30PM)    |
+|  5-7-2023   | Wed     | SA + MEL Bonding 3 (3.30 - 4.30PM) |
+|  6-7-2023   | Thur     | Start/End: O Level MTB Oral (PM)
 | 7-7-2023    | Fri     | HBL #11 (Sec 1-3)   |
-| 7-7-2023    | Fri     | Sec 1/2 PTC   | 
+| 7-7-2023    | Fri     | Sec 1/2 PTC   |
+| 7-7-2023    | Fri     | Start: O Level MT Oral (PM)   |
+| 10-7-2023    | Mon     | O Level MT Oral (PM)   |
 | 11-7-2023     | Tue    | Start : N Level EL Oral (PM) |
+| 11-7-2023    | Tue     | O Level MT Oral (PM)   |
 | 12-7-2023    | Wed    | N Level EL Oral (PM)  |
+| 12-7-2023    | Wed     | O Level MT Oral (PM)   |
 | 13-7-2023    | Thu    | N Level EL Oral (PM)  |
 | 14-7-2023    | Fri   | N Level EL Oral (PM)  |
 | 17-7-2023    | Mon    | End :N Level EL Oral (PM) |
