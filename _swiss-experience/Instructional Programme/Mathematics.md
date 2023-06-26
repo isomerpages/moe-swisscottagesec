@@ -7,9 +7,7 @@ third_nav_title: Instructional Programme
 # Mathematics
 
 
-**Mathematics**
-
-         
+**Mathematics**         
 
 The Mathematics Department aims to develop every student into a self-directed learner, effective problem solver and strong team player who is capable of adapting to change and overcoming challenges. Our key teaching and learning approaches include the use of technology for learning, thinking routines and varied learning experiences to enrich students’ learning. Using Polya’s Problem Solving Process, we develop students’ problem solving skills by guiding them to solve problems in an organized and efficient manner. At lower secondary levels, students are given authentic tasks which allow them to learn to apply Mathematics in real world situations. Mathematical Modelling is also used in upper secondary to teach students a systematic approach to solving problems in real-world contexts.
 
@@ -18,8 +16,6 @@ Our Mathematics Talent Programme provides opportunities for Swiss students with 
 **Principles of Accounts**
 
 Principles of Accounts is offered to upper secondary students in both Express and Normal Academic streams. Students learning Principles of Accounts will develop a keen eye for detail and learn to be organised and structured. They will learn to use both accounting and non-accounting information to make decisions, and to become critical thinkers who solve problems and adapt to the evolving needs of stakeholders.
-
-
 
 ### Our Team:
 
