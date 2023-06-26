@@ -119,9 +119,9 @@ description: ""
 | 27-7-2023    | Thu    | O Level EL Oral (PM)
 | 28-7-2023    | Fri   | O Level EL Oral (PM) |
 | 28-7-2023    | Fri    | Start : O Level HMT Oral (PM)
-| 31-7-2023    | Fri    | Start : N Level Prelims 
-| 31-7-2023    | Fri    | O Level EL Oral (PM)
-| 31-7-2023    | Fri    | O Level HMT Oral (PM)
+| 31-7-2023    | Mon    | Start : N Level Prelims 
+| 31-7-2023    | Mon    | O Level EL Oral (PM)
+| 31-7-2023    | Mon    | O Level HMT Oral (PM)
 
 #### August 2023
 
