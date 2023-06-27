@@ -93,6 +93,8 @@ description: ""
 | - | -------- | -------- |
 |  3-7-2023   | Mon     | Youth Day    |
 |  4-7-2023   | Tue     | O Level NT/MTB LC (PM)    |
+|  4-7-2023   | Tue     | Sec 1-3 students dismissed at 1pm.     |
+|  4-7-2023   | Tue     | Sec 4/5 & Sec 3 HMTL students dismissed at 12pm    |
 | 5-7-2023    | Wed     | Attendance & Temperature Taking Exercise for All    |
 |  5-7-2023   | Wed     | SA + MEL Bonding 3 (3.30 - 4.30PM) |
 |  6-7-2023   | Thur     | Start/End: O Level MTB Oral (PM)
