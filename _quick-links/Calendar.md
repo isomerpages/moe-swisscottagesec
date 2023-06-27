@@ -81,47 +81,247 @@ description: ""
 ####  June - July 2023
 
         
+         
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="7%" valign="top" style="width:7.54%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><a name="_Hlk138747333"><b>Sun 25/6</b></a></p></td><td width="17%" valign="top" style="width:17.62%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138747333"><b>Mon 26/6</b></span></p></td><td width="14%" valign="top" style="width:14.74%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138747333"><b>Tue 27/6</b></span></p></td><td width="19%" valign="top" style="width:19.32%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138747333"><b>Wed 28/6</b></span></p></td><td width="16%" valign="top" style="width:16.02%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138747333"><b>Thu 29/6</b></span></p></td><td width="17%" valign="top" style="width:17.3%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138747333"><b>Fri 30/6</b></span></p></td><td width="7%" valign="top" style="width:7.46%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138747333"><b>Sat 1/7</b></span></p></td></tr><tr style="mso-yfti-irow:1"><td width="7%" valign="top" style="width:7.54%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">&nbsp;</span></p></td><td width="17%" valign="top" style="width:17.62%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">&nbsp;</span></p></td><td width="14%" valign="top" style="width:14.74%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">&nbsp;</span></p></td><td width="19%" valign="top" style="width:19.32%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Health Screening Sec 1-Sec 2 and Sec 3 Selected Students (26 Jun-7 July)</span></p></td><td width="16%" valign="top" style="width:16.02%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Hari Raya Haji</span></p></td><td width="17%" valign="top" style="width:17.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Health Screening Sec 1-Sec 2 and Sec 3 Selected Students (26 Jun-7 July)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Swiss Olympics (FD)</span></p></td><td width="7%" valign="top" style="width:7.46%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="7%" valign="top" style="width:7.54%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Sun 2/7</b></p></td><td width="17%" valign="top" style="width:17.62%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Mon 3/7</b></p></td><td width="14%" valign="top" style="width:14.74%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Tue 4/7</b></p></td><td width="19%" valign="top" style="width:19.32%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Wed <span style="mso-spacerun:yes">&nbsp;</span>5/7</b></p></td><td width="16%" valign="top" style="width:16.02%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Thu 6/7</b></p></td><td width="17%" valign="top" style="width:17.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Fri 7/7</b></p></td><td width="7%" valign="top" style="width:7.46%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Sat 8/7</b></p></td></tr><tr style="mso-yfti-irow:3"><td width="7%" valign="top" style="width:7.54%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">&nbsp;</span></p></td><td width="17%" valign="top" style="width:17.62%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Youth Day</span></p></td><td width="14%" valign="top" style="width:14.74%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">O Level NT/MTB LC (PM)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Sec1-3 students dismissed at 1pm</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Sec 4/5 &amp; Sec 3 HMTL students dismissed at 12pm</span></p></td><td width="19%" valign="top" style="width:19.32%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Attendance &amp; Temperature Taking Exercise for All</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">SA + MEL Bonding 3 (3.30 - 4.30PM)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Health Screening Sec 1- Sec 2 and Sec 3 Selected Students (26 Jun-7 July)</span></p></td><td width="16%" valign="top" style="width:16.02%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Start/End: O Level MTB Oral (PM)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Health Screening Sec 1-Sec 2 and Sec 3 Selected Students (26 Jun-7 July)</span></p></td><td width="17%" valign="top" style="width:17.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">HBL #11 (Sec 1-3)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Sec 1/2 PTC</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Start: O Level MT Oral (PM)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Health Screening Sec 1- Sec 2 and Sec 3 Selected Students (26 Jun-7 July)</span></p></td><td width="7%" valign="top" style="width:7.46%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="7%" valign="top" style="width:7.54%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><a name="_Hlk138748050"><b>Sun 9/7</b></a></p></td><td width="17%" valign="top" style="width:17.62%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138748050"><b>Mon 10/7</b></span></p></td><td width="14%" valign="top" style="width:14.74%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138748050"><b>Tue 11/7</b></span></p></td><td width="19%" valign="top" style="width:19.32%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138748050"><b>Wed 12/7</b></span></p></td><td width="16%" valign="top" style="width:16.02%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138748050"><b>Thu 13/7</b></span></p></td><td width="17%" valign="top" style="width:17.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138748050"><b>Fri 14/7</b></span></p></td><td width="7%" valign="top" style="width:7.46%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138748050"><b>Sat 15/7</b></span></p></td></tr><tr style="mso-yfti-irow:5"><td width="7%" valign="top" style="width:7.54%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">&nbsp;</span></p></td><td width="17%" valign="top" style="width:17.62%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">O Level MT Oral (PM)</span></p></td><td width="14%" valign="top" style="width:14.74%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Start: N Level EL Oral (PM)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">O Level MT Oral (PM)</span></p></td><td width="19%" valign="top" style="width:19.32%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">N Level EL Oral (PM)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">O Level MT Oral (PM)</span></p></td><td width="16%" valign="top" style="width:16.02%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">N Level EL Oral (PM)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">O Level MT Oral (PM)</span></p></td><td width="17%" valign="top" style="width:17.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">N Level EL Oral (PM)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">O Level MT Oral (PM)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Sec 1 History LJ-1S1-1S4 (2.30-6pm)</span></p></td><td width="7%" valign="top" style="width:7.46%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:6"><td width="7%" valign="top" style="width:7.54%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Sun 16/7</b></p></td><td width="17%" valign="top" style="width:17.62%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Mon 17/7</b></p></td><td width="14%" valign="top" style="width:14.74%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Tue 18/7</b></p></td><td width="19%" valign="top" style="width:19.32%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Wed 19/7</b></p></td><td width="16%" valign="top" style="width:16.02%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Thu 20/7</b></p></td><td width="17%" valign="top" style="width:17.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Fri 21/7</b></p></td><td width="7%" valign="top" style="width:7.46%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Sat 22/7</b></p></td></tr><tr style="mso-yfti-irow:7"><td width="7%" valign="top" style="width:7.54%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><a name="_Hlk138751571"></a><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138751571"><span style="font-size:9.0pt">&nbsp;</span></span></p></td><td width="17%" valign="top" style="width:17.62%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138751571"><span style="font-size:9.0pt">End: N Level EL Oral (PM)</span></span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138751571"><span style="font-size:9.0pt">End: O Level MT Oral (PM)</span></span></p></td><td width="14%" valign="top" style="width:14.74%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138751571"><span style="font-size:9.0pt">Sec 3 OBS Medical Examination (3-7pm) 3S1-3S4</span></span></p></td><td width="19%" valign="top" style="width:19.32%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138751571"><span style="font-size:9.0pt">Sec 3 OBS Medical Examination (3-7pm) 3S5-3S8</span></span></p></td><td width="16%" valign="top" style="width:16.02%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><span style="mso-bookmark:_Hlk138751571"></span><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138751571"><span style="font-size:9.0pt">&nbsp;</span></span></p></td><td width="17%" valign="top" style="width:17.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138751571"><span style="font-size:9.0pt">Racial Harmony Day</span></span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138751571"><span style="font-size:9.0pt">HBL #12 (Sec 1-3)</span></span></p></td><td width="7%" valign="top" style="width:7.46%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><span style="mso-bookmark:_Hlk138751571"></span><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-bookmark:_Hlk138751571"><span style="font-size:9.0pt">&nbsp;</span></span></p></td></tr><tr style="mso-yfti-irow:8"><td width="7%" valign="top" style="width:7.54%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Sun 23/7</b></p></td><td width="17%" valign="top" style="width:17.62%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Mon 24/7</b></p></td><td width="14%" valign="top" style="width:14.74%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Tue 25/7</b></p></td><td width="19%" valign="top" style="width:19.32%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Wed 26/7</b></p></td><td width="16%" valign="top" style="width:16.02%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Thu 27/7</b></p></td><td width="17%" valign="top" style="width:17.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Fri 28/7</b></p></td><td width="7%" valign="top" style="width:7.46%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Sat 29/7</b></p></td></tr><tr style="mso-yfti-irow:9"><td width="7%" valign="top" style="width:7.54%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">&nbsp;</span></p></td><td width="17%" valign="top" style="width:17.62%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">&nbsp;</span></p></td><td width="14%" valign="top" style="width:14.74%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Start: N Level MT Oral (PM)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Start: O Level EL Oral (PM)</span></p></td><td width="19%" valign="top" style="width:19.32%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">N Level MT Oral (PM)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">O Level EL Oral (PM)</span></p></td><td width="16%" valign="top" style="width:16.02%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">End: N Level MT Oral (PM)<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>O <span style="mso-spacerun:yes">&nbsp;</span>Level EL Oral (PM)</span></p></td><td width="17%" valign="top" style="width:17.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">O Level EL Oral (PM)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Start: O Level HMT Oral (PM)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Sec 1 History LJ: 1S5-1S8 (2.30-6pm)</span></p></td><td width="7%" valign="top" style="width:7.46%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:10"><td width="7%" valign="top" style="width:7.54%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Sun 30/7</b></p></td><td width="17%" valign="top" style="width:17.62%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>Mon 31/7</b></p></td><td width="14%" valign="top" style="width:14.74%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>&nbsp;</b></p></td><td width="19%" valign="top" style="width:19.32%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>&nbsp;</b></p></td><td width="16%" valign="top" style="width:16.02%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>&nbsp;</b></p></td><td width="17%" valign="top" style="width:17.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>&nbsp;</b></p></td><td width="7%" valign="top" style="width:7.46%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b>&nbsp;</b></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes"><td width="7%" valign="top" style="width:7.54%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td><td width="17%" valign="top" style="width:17.62%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">Start: N Level Prelims<span style="mso-tab-count:
+  1">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="mso-spacerun:yes">&nbsp;</span></span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">O Level EL Oral (PM)<span style="mso-tab-count:1"> </span><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="mso-spacerun:yes">&nbsp;</span></span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt">O Level HMT Oral (PM)</span></p></td><td width="14%" valign="top" style="width:14.74%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td><td width="19%" valign="top" style="width:19.32%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td><td width="16%" valign="top" style="width:16.02%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td><td width="17%" valign="top" style="width:17.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td><td width="7%" valign="top" style="width:7.46%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td></tr></tbody></table>
 
 
 
-| Date | Day | Event |
-| - | -------- | -------- |
-|  3-7-2023   | Mon     | Youth Day    |
-|  4-7-2023   | Tue     | O Level NT/MTB LC (PM)    |
-|  4-7-2023   | Tue     | Sec 1-3 students dismissed at 1pm.     |
-|  4-7-2023   | Tue     | Sec 4/5 &amp; Sec 3 HMTL students dismissed at 12pm    |
-| 5-7-2023    | Wed     | Attendance &amp; Temperature Taking Exercise for All    |
-|  5-7-2023   | Wed     | SA + MEL Bonding 3 (3.30 - 4.30PM) |
-|  6-7-2023   | Thur     | Start/End: O Level MTB Oral (PM)
-| 7-7-2023    | Fri     | HBL #11 (Sec 1-3)   |
-| 7-7-2023    | Fri     | Sec 1/2 PTC   |
-| 7-7-2023    | Fri     | Start: O Level MT Oral (PM)   |
-| 7-7-2023   | Fri     | Health Screening Sec 1-Sec 2 and Sec 3 Selected Students (26 Jun-7 July)    |
-| 10-7-2023    | Mon     | O Level MT Oral (PM)   |
-| 11-7-2023     | Tue    | Start : N Level EL Oral (PM) |
-| 11-7-2023    | Tue     | O Level MT Oral (PM)   |
-| 12-7-2023    | Wed    | N Level EL Oral (PM)  |
-| 12-7-2023    | Wed     | O Level MT Oral (PM)   |
-| 13-7-2023    | Thu    | N Level EL Oral (PM) |
-| 13-7-2023    | Thu    | O Level MT Oral (PM)   |
-| 14-7-2023    | Fri   | N Level EL Oral (PM)  |
-| 14-7-2023    | Fri    | O Level MT Oral (PM)   |
-| 17-7-2023    | Mon    | End :N Level EL Oral (PM)|
-| 17-7-2023    | Mon    |End: O Level MT Oral (PM)   |
-| 21-7-2023    | Fri     | HBL #12 (Sec 1-3)   |
-| 21-7-2023   | Fri     | Racial Harmony Day  |
-| 25-7-2023    | Tue    | Start : N Level MT Oral (PM) |
-| 25-7-2023    | Tue    | Start : O Level EL Oral (PM) |
-| 26-7-2023    | Wed   | N Level MT Oral (PM) |
-| 26-7-2023    | Wed    | O Level EL Oral (PM) |
-| 27-7-2023    | Thu   | End : N Level MT Oral (PM) |
-| 27-7-2023    | Thu    | O Level EL Oral (PM)
-| 28-7-2023    | Fri   | O Level EL Oral (PM) |
-| 28-7-2023    | Fri    | Start : O Level HMT Oral (PM)
-| 28-7-2023   | Fri     |   Sec1 History LJ: 1S5-1S8 (2.30-6pm)  |
-| 31-7-2023    | Mon    | Start : N Level Prelims 
-| 31-7-2023    | Mon    | O Level EL Oral (PM)
-| 31-7-2023    | Mon    | O Level HMT Oral (PM)
 
 #### August 2023
 
