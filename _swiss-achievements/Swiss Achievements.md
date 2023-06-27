@@ -9,7 +9,7 @@ description: ""
 
 **CCA Achievements**
 
-**On the Uniform Groups Front (2023)**
+**On the Uniform Groups Front**
 
          
 
