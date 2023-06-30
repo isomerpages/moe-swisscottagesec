@@ -488,7 +488,7 @@ description: ""
 | MS CHEN XI    | CHINESE  LANGUAGE   |      |
 | MR LOW KEOH    | D&amp;T     |      |
 | MS LIM SU-FERN   | GEORGRAPHY     |      |
-| MS LEE JIA YUN | HUMMINITIES |
+| MS LEE JIA YUN | HUMANITIES |
 | MS SUHANA BINTI SHAFIK    | LITERATURE     |      |
 | MR ROY CHUA KWEE CHENG     | MATHEMATICS     |      |
 | MDM CHEW WYE MUN    | MATHEMATICS     |      |
