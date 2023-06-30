@@ -63,6 +63,7 @@ Talent Development Programmes/Competitions
 | Mdm See To Chee Choong | Contract Adjunct Teacher / Chemistry |
 | Ms Choo Hui Ming Gladys | Flexi Adjunct Teacher / Chemistry |
 | Mdm Wee Ai Jee | Flexi-Adjunct Teacher / Physics |
+| Mdm Chew Kim Eng | Flexi-Adjunct Teacher |
 | Mr Loh Keow | Flexi-Adjunct Teacher / ALP |
 | Ms Nur Bazilah Binte Abdul Majid | Laboratory Technician |
 | Mdm Arafah Binte Abdul Majid | Laboratory Technician |
