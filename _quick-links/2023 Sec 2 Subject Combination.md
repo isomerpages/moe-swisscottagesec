@@ -3,8 +3,6 @@ title: 2023 Sec 2 Subject Combination
 permalink: /quick-links/2023-sec-2-subject-combination/
 description: ""
 ---
-
-
 Dear Parents of the 2023 Secondary 2 cohort,
 
 The subject combination exercise done at the end of Secondary 2 is an important exercise that aims to provide our students with interesting and relevant subject options of study at the upper secondary level for future academic progression and careers.
@@ -15,7 +13,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 1\.           [Introduction to 2022 Subject Combination Exercise](https://www.loom.com/share/9426d2d03f204064b1d0ee0e052b192e)
 
-2\.           **For Students taking mostly G1 Subjects**                           [https://for.edu.sg/2023-g1-subjects](https://for.edu.sg/2023-g1-subjects)
+2\.           [For Students Taking Mostly G1 Subjects](https://www.loom.com/share/8623a7569900463399807c38c417e8cb?sid=1f8afbd5-6c5a-4e4a-b207-17facaab63f6)
 
 3\.           **For Students Taking mostly G2 Subjects**                           [https://for.edu.sg/2023-g2-subjects](https://for.edu.sg/2023-g2-subjects)
 
