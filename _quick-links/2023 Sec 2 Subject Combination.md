@@ -15,6 +15,6 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 2\.           [For Students Taking Mostly G1 Subjects](https://www.loom.com/share/8623a7569900463399807c38c417e8cb?sid=1f8afbd5-6c5a-4e4a-b207-17facaab63f6)
 
-3\.           **For Students Taking mostly G2 Subjects**                           [https://for.edu.sg/2023-g2-subjects](https://for.edu.sg/2023-g2-subjects)
+3\.           [For Students Taking Mostly G2 Subjects ](https://www.loom.com/share/f2a29ab112a0457f85f2da3c08ddd682?sid=c6b5a3c9-763a-4adf-b2b3-c85a58f59918)
 
 4\.           **For Students Taking mostly G3 Subjects**               [https://for.edu.sg/2023-g3-subjects](https://for.edu.sg/2023-g3-subjects)
