@@ -488,14 +488,16 @@ description: ""
 | MS CHEN XI    | CHINESE  LANGUAGE   |      |
 | MR LOW KEOH    | D&amp;T     |      |
 | MS LIM SU-FERN   | GEORGRAPHY     |      |
+| MS LEE JIA YUN | HUMANITIES |
 | MS SUHANA BINTI SHAFIK    | LITERATURE     |      |
 | MR ROY CHUA KWEE CHENG     | MATHEMATICS     |      |
 | MDM CHEW WYE MUN    | MATHEMATICS     |      |
 | MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
 | MS NG HWEE CHUN    | MATHEMATICS     |      |
+| MS GOH SHI LE PRISCILLA | PSYSICAL EDUCATION |
 | MDM WEE AI JEE    | PHYSICS     |      |
-| MS GLADYS CHOO HUI MING  | SCIENCE     |      |
-| MS PRENUJA D/O PANNIRCHELVAM   | TAMIL LANGUAGE    |      |
+| MDM CHEW KIM ENG  | SCIENCE     |      |
+
 
 
 <b><u>EXECUTIVE AND ADMINSTRATIVE STAFF</u></b>
