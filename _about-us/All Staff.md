@@ -494,7 +494,6 @@ description: ""
 | MDM CHEW WYE MUN    | MATHEMATICS     |      |
 | MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
 | MS NG HWEE CHUN    | MATHEMATICS     |      |
-| MS GOH SHI LE PRISCILLA | PSYSICAL EDUCATION |
 | MDM WEE AI JEE    | PHYSICS     |      |
 | MDM CHEW KIM ENG  | SCIENCE     |      |
 
