@@ -496,6 +496,7 @@ description: ""
 | MS NG HWEE CHUN    | MATHEMATICS     |      |
 | MDM WEE AI JEE    | PHYSICS     |      |
 | MDM CHEW KIM ENG  | SCIENCE     |      |
+| MS PRENUJA D/O PANNIRCHELVAM  | TAMIL     |      |
 
 
 
