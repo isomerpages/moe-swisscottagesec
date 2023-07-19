@@ -65,6 +65,7 @@ Talent Development Programmes/Competitions
 | Mdm Wee Ai Jee | Flexi-Adjunct Teacher / Physics |
 | Mdm Chew Kim Eng | Flexi-Adjunct Teacher |
 | Mr Loh Keow | Flexi-Adjunct Teacher / ALP |
+| Mr Ma Chung Wai | Flexi-Adjunct Teacher |
 | Ms Nur Bazilah Binte Abdul Majid | Laboratory Technician |
 | Mdm Arafah Binte Abdul Majid | Laboratory Technician |
 | Mdm Puspalatha D/O Chandra Sagaran | Operations Support Officer |
