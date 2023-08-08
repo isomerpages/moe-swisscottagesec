@@ -8,932 +8,277 @@ description: ""
 <b><u>YEAR HEADS AND FORM TEACHERS 2023</u></b>
 
 
-         
+<style type="text/css">
+  .tg {
+    border-collapse: collapse;
+    border: 1px solid black;
+    border-spacing: 0;
+    margin: 0px auto;
+  }
 
-<table class="MsoNormalTable" border="1" cellspacing="3" cellpadding="0" width="366" style="mso-cellspacing:1.0pt;margin-left:-31.75pt;mso-table-layout-alt:fixed;
- border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:
- 1184;mso-padding-alt:0in 0in 0in 0in;mso-border-insideh:.5pt solid windowtext;
- mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#B0B0B0;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><b><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Class</span></b><b><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></b></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#B0B0B0;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><b><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Form Teacher</span></b><b><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></b></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#B0B0B0;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><b><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Form Teacher</span></b><b><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></b></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#B0B0B0;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><b><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Form Teacher</span></b><b><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></b></p></td><td width="75" style="width:56.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#B0B0B0;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><b><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Year Heads</span></b><b><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">1S1</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">WONG YIN KEW (MR)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TAN KAI LI, KELLY (MDM)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="75" rowspan="8" style="width:56.25pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">MS KEK HUI YU(GUO HUIYU)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">1S2</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">NUR ZULIANA BTE HAMDAN (MDM)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">SYED SEGAFF BIN SYED KHALED ALSREE (MR)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:3;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">1S3</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">KOH JOON TECK (MR)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">NUR AQILAH BINTE JOHARI (MDM)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">1S4</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">SALLEH BIN MERWAN (MR)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">VIJAYAPRABHA NATARAJAN (MDM)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">1S5</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">NG KOK HIN (MR)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TEE LAY KEAN (MDM)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:6;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">1S6</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">NURFARIHAH BINTE AHAMAD RIFA'EH (MDM)<span style="mso-tab-count:1"></span></span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TAN XIN YI (MISS)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:7;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">1S7</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">NORAZELA BTE ROSLI (MISS)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">SIM WEN HONG<span style="mso-spacerun:yes">&nbsp; </span>(MR)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:8;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">1S8</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">KAT KAR SIEN (MR) <span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">ONG YUAN SHIN (MDM)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:9;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">2S1</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">LEE SI WEI (MDM)<span style="mso-tab-count:1"></span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TAN POH KIM (CHEN BAOJIN) (MDM)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="75" rowspan="8" style="width:56.25pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">MS NG POH KEOW</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:10;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">2S2</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">HON SOO SIEN (MISS)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TEGUH DANIEL TAMPEMAWA (MR)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:11;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">2S3</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TEO LEI XIN, ALVIENA (MS)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">HERINA BINTE ROSLIN (MISS)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:12;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">2S4</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">CHEN WENHUI (MR) <span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">LI XIAORONG (MRS)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:13;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">2S5</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">SHAHADA BINTE RAHMAT (MDM)<span style="mso-tab-count:
-  1"></span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">SU ZIYAN (MISS)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:14;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">2S6</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TEO YEW BING SIMON (MR)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">FAN YUN YUN (MISS)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:15;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">2S7</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TAN -YOUNG TSUI HWA (MRS)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">SITI AISHAH BINTE MOHAMED KAMSANI (MISS)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:16;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">2S8</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">LOW HWEE CHENG (MDM)<span style="mso-tab-count:
-  1"></span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">SERENE LEE CHING LIEN (MDM)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:17;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">3S1</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">REDHA NASUHA BTE MAS'OD (MDM)<span style="mso-tab-count:
-  1"></span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">YEO KOON KOON (MISS)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="75" rowspan="8" style="width:56.25pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">MR TAN HAN CHONG TIMOTHY<span style="mso-spacerun:yes">&nbsp; </span>(SEM 1)<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>MS ANNIE TAN (SEM 2)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:18;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">3S2</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">FAZA MAHIRAH BINTE MD SUHIMI (MISS)<span style="mso-tab-count:1">&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">RAJANAYAGAM MICHAEL (MR)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:19;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">3S3</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">XU YIPING (MDM)<span style="mso-tab-count:1"></span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">LIM JUNXUAN CHRISTOPHER (MR)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:20;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">3S4</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">LAU LEE LENG (MDM) <span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">ROSE NABILAH BINTE ROSLI (MISS)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:21;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">3S5</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">ANG KAI LUN KAREN (MISS)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">WONG YU UNG (MDM)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:22;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">3S6</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TAN YAN LIN, HAZEL (MS)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">LIM YEN WAH (MDM)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">NUR ASHIKIN BINTE ABU BAKAR (MDM)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:23;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">3S7</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">IZNUR SHAHIDAH BTE ISHAK (MISS)<span style="mso-tab-count:1">&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">HENG TENG BOON (MR)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:24;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">3S8</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">GINA HIU FENG PING (MISS)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">NEO CHENG WEE, KENNETH (MR)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">MAHESWARI THANGHAIAH (MDM)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:25;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">4S1</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">FAITH WANG YI SHAN (MS)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TAN JENG, GORDON (MR)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="75" rowspan="8" style="width:56.25pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">MR MUHAMMAD IRFAN HUSSEIN BIN ABDUL KAFFAUR</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:26;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">4S2</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TAN HONG CHEONG (MR)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">LEUNG YAN RU (MISS)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:27;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">4S3</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">KOH SHIN YEE (MDM) <span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TAN PUI SAN (MDM)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:28;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">4S4</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">CONSTANCE WONG (MRS)<span style="mso-tab-count:1">&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">SUNIL NAIR S/O KALARASINGAM (MR)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:29;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">4S5</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">CHOO SHI QIAN (MR)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TAM SIEW KEE (MS)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:30;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">4S6</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">NURAIDA BTE SAWI (MDM)<span style="mso-tab-count:
-  1"></span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">THOU REAKSMEY (MR)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:31;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">4S7</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">NGOH KIA JOON (MR)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">NOORHIDAYA BINTE ABDUL KARIM (MDM)<span style="mso-tab-count:1">&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">FONG-SIM HUI BENG (MRS)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:32;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">4S8</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">TAN MEE HAN (MISS) <span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">JASON SEOW (MR)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:33;mso-yfti-lastrow:yes;height:18.7pt"><td width="39" style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">5S1</span><span lang="EN-SG" style="mso-ansi-language:
-  EN-SG"></span></p></td><td width="88" style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">FONG SOOK THENG (MS)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">LEE HONGYUN ERIC (MR)</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="76" style="width:57.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="75" style="width:56.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">MS ANNIE TAN / MR MUHAMMAD IRFAN HUSSEIN BIN ABDUL KAFFAUR</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr></tbody></table>
+  .tg td,
+  .tg th {
+    border: 1px solid black;
+    padding: 10px 5px;
+    overflow: hidden;
+    word-break: normal;
+  }
 
+  .tg .tg-kveo {
+    background-color: #EAEAEA;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid black;
+  }
 
-
-
-
-
-
-
-
-
-
-         
-<table style="mso-cellspacing:0.5pt;margin-left:-31.75pt;mso-table-layout-alt:fixed;
- border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:
- 1184;mso-padding-alt:0in 0in 0in 0in;mso-border-insideh:.5pt solid windowtext;
- mso-border-insidev:.5pt solid windowtext" width="450" cellpadding="0" cellspacing="3" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#B0B0B0;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="39"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">Class</span></b><b><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></b></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#B0B0B0;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="100"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">Form Teacher</span></b><b><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></b></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#B0B0B0;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="100"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">Form Teacher</span></b><b><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></b></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#B0B0B0;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="88"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">Form Teacher</span></b><b><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></b></p></td><td style="width:83.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#B0B0B0;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="111"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">Year Heads</span></b><b><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">1S1</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">WONG YIN KEW (MR)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TAN KAI LI, KELLY (MDM)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td><td style="width:83.25pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" rowspan="8" width="111"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">MS KEK HUI YU(GUO HUIYU)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">1S2</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">NUR ZULIANA BTE HAMDAN (MDM)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">SYED SEGAFF BIN SYED KHALED ALSREE (MR)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:3;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">1S3</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">KOH JOON TECK (MR)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">NUR AQILAH BINTE JOHARI (MDM)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">1S4</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">SALLEH BIN MERWAN (MR)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">VIJAYAPRABHA NATARAJAN (MDM)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">1S5</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">NG KOK HIN (MR)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TEE LAY KEAN (MDM)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:6;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">1S6</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">NURFARIHAH BINTE AHAMAD RIFA'EH (MDM)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TAN XIN YI (MISS)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:7;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">1S7</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">NORAZELA BTE ROSLI (MISS)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">SIM WEN HONG<span style="mso-spacerun:yes">&nbsp; </span>(MR)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:8;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">1S8</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">KAT KAR SIEN (MR) <span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">ONG YUAN SHIN (MDM)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:9;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">2S1</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">LEE SI WEI (MDM)<span style="mso-tab-count:1"></span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TAN POH KIM (CHEN BAOJIN) (MDM)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td><td style="width:83.25pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" rowspan="8" width="111"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">MS NG POH KEOW</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:10;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">2S2</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">HON SOO SIEN (MISS)<span style="mso-tab-count:1">&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TEGUH DANIEL TAMPEMAWA (MR)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:11;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">2S3</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TEO LEI XIN, ALVIENA (MS)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">HERINA BINTE ROSLIN (MISS)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:12;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">2S4</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">CHEN WENHUI (MR) <span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">LI XIAORONG (MRS)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:13;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">2S5</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">SHAHADA BINTE RAHMAT (MDM)<span style="mso-tab-count:
-  1"></span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">SU ZIYAN (MISS)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:14;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">2S6</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TEO YEW BING SIMON (MR)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">FAN YUN YUN (MISS)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:15;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">2S7</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TAN -YOUNG TSUI HWA (MRS)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">SITI AISHAH BINTE MOHAMED KAMSANI (MISS)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:16;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">2S8</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">LOW HWEE CHENG (MDM) <span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">SERENE LEE CHING LIEN (MDM)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:17;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">3S1</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">REDHA NASUHA BTE MAS'OD (MDM)<span style="mso-tab-count:
-  1"></span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">YEO KOON KOON (MISS)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td><td style="width:83.25pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" rowspan="8" width="111"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">MR TAN HAN CHONG TIMOTHY<span style="mso-spacerun:yes">&nbsp; </span>(SEM 1)<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>MS ANNIE TAN (SEM 2)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:18;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">3S2</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">FAZA MAHIRAH BINTE MD SUHIMI (MISS)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">RAJANAYAGAM MICHAEL (MR)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:19;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">3S3</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">XU YIPING (MDM)<span style="mso-tab-count:1"></span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">LIM JUNXUAN CHRISTOPHER (MR)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:20;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">3S4</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">LAU LEE LENG (MDM)<span style="mso-tab-count:1"></span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">ROSE NABILAH BINTE ROSLI (MISS)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:21;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">3S5</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">ANG KAI LUN KAREN (MISS)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">WONG YU UNG (MDM)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:22;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">3S6</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TAN YAN LIN, HAZEL (MS)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">LIM YEN WAH (MDM)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">NUR ASHIKIN BINTE ABU BAKAR (MDM)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:23;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">3S7</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">IZNUR SHAHIDAH BTE ISHAK (MISS)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">HENG TENG BOON (MR)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:24;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">3S8</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">GINA HIU FENG PING (MISS)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">NEO CHENG WEE, KENNETH (MR)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">MAHESWARI THANGHAIAH (MDM)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:25;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">4S1</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">FAITH WANG YI SHAN (MS)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TAN JENG, GORDON (MR)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td><td style="width:83.25pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" rowspan="8" width="111"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">MR MUHAMMAD IRFAN HUSSEIN BIN ABDUL KAFFAUR</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:26;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">4S2</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TAN HONG CHEONG (MR)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">LEUNG YAN RU (MISS)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:27;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">4S3</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">KOH SHIN YEE (MDM)<span style="mso-tab-count:1"></span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TAN PUI SAN (MDM)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:28;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">4S4</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">CONSTANCE WONG (MRS)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">SUNIL NAIR S/O KALARASINGAM (MR)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:29;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">4S5</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">CHOO SHI QIAN (MR)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TAM SIEW KEE (MS)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:30;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">4S6</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">NURAIDA BTE SAWI (MDM)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">THOU REAKSMEY (MR)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:31;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">4S7</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">NGOH KIA JOON (MR)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">NOORHIDAYA BINTE ABDUL KARIM (MDM)<span style="mso-tab-count:1">&nbsp;&nbsp;</span></span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">FONG-SIM HUI BENG (MRS)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:32;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">4S8</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">TAN MEE HAN (MISS) <span style="mso-tab-count:1">&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">JASON SEOW (MR)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:33;mso-yfti-lastrow:yes;height:18.7pt"><td style="width:29.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="39"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">5S1</span><span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">FONG SOOK THENG (MS)<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:75.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="100"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">LEE HONGYUN ERIC (MR)</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:66.0pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="88"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td><td style="width:83.25pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:18.7pt" width="111"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG">MS ANNIE TAN / MR MUHAMMAD IRFAN HUSSEIN BIN ABDUL KAFFAUR</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td></tr></tbody></table>
-
-
-
-
-
-
-    
-    
-  
-  
-   
-  
-    
-
-
+  .tg .tg-in3t {
+    background-color: #B0B0B0;
+    text-align: left;
+    vertical-align: top;
+    font-weight: bold;
+    border: 1px solid black;
+  }
+</style>
+<table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-in3t"><span style="font-weight:inherit;font-style:inherit;color:black">Class</span></th>
+      <th class="tg-in3t"><span style="font-weight:inherit;font-style:inherit;color:black">Form Teacher</span></th>
+      <th class="tg-in3t"><span style="font-weight:inherit;font-style:inherit;color:black">Form Teacher</span></th>
+      <th class="tg-in3t"><span style="font-weight:inherit;font-style:inherit;color:black">Form Teacher</span></th>
+      <th class="tg-in3t"><span style="font-weight:inherit;font-style:inherit;color:black">Year Heads</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S1</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">WONG YIN KEW (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN KAI LI, KELLY (MDM)</span></td>
+      <td class="tg-kveo"></td>
+      <td rowspan="8" class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MS KEK HUI YU(GUO HUIYU)</span><br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S2</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NUR ZULIANA BTE HAMDAN (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SYED SEGAFF BIN SYED KHALED ALSREE (MR)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S3</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">KOH JOON TECK (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NUR AQILAH BINTE JOHARI (MDM)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S4</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SALLEH BIN MERWAN (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">VIJAYAPRABHA NATARAJAN (MDM)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S5</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NG KOK HIN (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TEE LAY KEAN (MDM)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S6</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NURFARIHAH BINTE AHAMAD RIFA'EH (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN XIN YI (MISS)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S7</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NORAZELA BTE ROSLI (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SIM WEN HONG</span> <span style="font-weight:inherit;font-style:inherit;color:black">(MR)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S8</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">KAT KAR SIEN (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">ONG YUAN SHIN (MDM)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">2S1</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LEE SI WEI (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN POH KIM (CHEN BAOJIN) (MDM)</span></td>
+      <td class="tg-kveo"></td>
+      <td rowspan="8" class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MS NG POH KEOW</span><br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">2S2</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">HON SOO SIEN (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TEGUH DANIEL TAMPEMAWA (MR)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">2S3</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TEO LEI XIN, ALVIENA (MS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">HERINA BINTE ROSLIN (MISS)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">2S4</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">CHEN WENHUI (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LI XIAORONG (MRS)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">2S5</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SHAHADA BINTE RAHMAT (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SU ZIYAN (MISS)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">2S6</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TEO YEW BING SIMON (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FAN YUN YUN (MISS)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">2S7</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN -YOUNG TSUI HWA (MRS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SITI AISHAH BINTE MOHAMED KAMSANI (MISS)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">2S8</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LOW HWEE CHENG (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SERENE LEE CHING LIEN (MDM)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S1</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">REDHA NASUHA BTE MAS'OD (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">YEO KOON KOON (MISS)</span></td>
+      <td class="tg-kveo"></td>
+      <td rowspan="8" class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MR TAN HAN CHONG TIMOTHY</span> <span style="font-weight:inherit;font-style:inherit;color:black">(SEM 1)</span> <span style="font-weight:inherit;font-style:inherit;color:black">MS ANNIE TAN (SEM 2)</span><br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S2</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FAZA MAHIRAH BINTE MD SUHIMI (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">RAJANAYAGAM MICHAEL (MR)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S3</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">XU YIPING (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LIM JUNXUAN CHRISTOPHER (MR)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S4</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LAU LEE LENG (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">ROSE NABILAH BINTE ROSLI (MISS)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S5</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">ANG KAI LUN KAREN (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">WONG YU UNG (MDM)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S6</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN YAN LIN, HAZEL (MS)</span><br></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LIM YEN WAH (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NUR ASHIKIN BINTE ABU BAKAR (MDM)</span></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S7</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">IZNUR SHAHIDAH BTE ISHAK (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">HENG TENG BOON (MR)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S8</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">GINA HIU FENG PING (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NEO CHENG WEE, KENNETH (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MAHESWARI THANGHAIAH (MDM)</span></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S1</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FAITH WANG YI SHAN (MS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN JENG, GORDON (MR)</span></td>
+      <td class="tg-kveo"></td>
+      <td rowspan="8" class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MR MUHAMMAD IRFAN HUSSEIN BIN ABDUL KAFFAUR</span><br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S2</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN HONG CHEONG (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LEUNG YAN RU (MISS)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S3</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">KOH SHIN YEE (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN PUI SAN (MDM)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S4</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">CONSTANCE WONG (MRS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SUNIL NAIR S/O KALARASINGAM (MR)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S5</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">CHOO SHI QIAN (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAM SIEW KEE (MS)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S6</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NURAIDA BTE SAWI (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">THOU REAKSMEY (MR)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S7</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NGOH KIA JOON (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NOORHIDAYA BINTE ABDUL KARIM (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FONG-SIM HUI BENG (MRS)</span></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S8</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN MEE HAN (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">JASON SEOW (MR)</span></td>
+      <td class="tg-kveo"></td>
+    </tr>
+    <tr>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">5S1</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FONG SOOK THENG (MS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LEE HONGYUN ERIC (MR)</span></td>
+      <td class="tg-kveo"></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MS ANNIE TAN / MR MUHAMMAD IRFAN HUSSEIN BIN ABDUL KAFFAUR</span></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
