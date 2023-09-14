@@ -194,7 +194,7 @@ description: ""
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S5</span></td>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">ANG KAI LUN KAREN (MISS)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">WONG YU UNG (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">WONG YOKE UNG (MDM)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
