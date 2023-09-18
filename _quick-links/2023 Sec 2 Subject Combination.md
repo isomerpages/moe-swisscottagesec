@@ -44,7 +44,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 [G3] Pure Physics please click
 
-[G3] Social Studies please click
+[G3] Social Studies please click [here]()
 
 
 
