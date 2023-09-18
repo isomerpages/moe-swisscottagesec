@@ -28,7 +28,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 [G2] Literature in English Please click
 
-[G2] Principles of Accounts please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2_principles%20of%20accounts.pdf) 
+[G2] Principles of Accounts Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2_principles%20of%20accounts.pdf) 
 
 [G2] Social Studies Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2%20social%20studies.pdf)
 
