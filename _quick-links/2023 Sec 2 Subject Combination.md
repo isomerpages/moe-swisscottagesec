@@ -25,7 +25,7 @@ To download the appeal form, please click [here](/files/2022%20Sec%202%20Subject
 
 **Introductory Videos**
 
-Please view the introductory video before proceeding to the respective videos, depending on which level of subjects (G1, G2 or G3) the students predominantly takes.
+
 
 1\.           [Introduction](https://www.loom.com/share/9426d2d03f204064b1d0ee0e052b192e)
 
