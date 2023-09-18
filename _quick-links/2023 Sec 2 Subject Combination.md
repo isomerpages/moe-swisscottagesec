@@ -7,17 +7,17 @@ description: ""
 
 Please view the Introductory video before proceeding to the respective videos, depending on which level of subjects (G1, G2 or G3) the student predominantly takes.
 
-Important Dates:
+**Important Dates:**
 
 
 ![2023 Important dates for Sec 2 Subject Combination Exercise](/images/important%20dates%20for%20sec%202%20subject%20combination%20exercise%20(picture%20for%20school%20website).JPG)
 
-Briefing Slides (Subject Talks)
+**Briefing Slides (Subject Talks)**
 
 
 [Parent Engagement Briefing Slides](/files/2023_15%20sept_%20parent%20student%20engagement%20-%20qna%20on%20subject%20combination_180923.pdf)
 
-Introductory Videos
+**Introductory Videos**
 
 Please view the introductory video before proceeding to the respective videos, depending on which level of subjects (G1, G2 or G3) the students predominantly takes.
 
