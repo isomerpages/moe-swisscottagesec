@@ -36,7 +36,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 [G3] History Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_history.pdf)
 
-[G3] Literature in English Please click
+[G3] Literature in English Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_literature%20in%20english.pdf)
 
 [G3] Principles of Accounts Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_principles%20of%20accounts_4.pdf)
 
