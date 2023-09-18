@@ -14,37 +14,37 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 **Briefing Slides (Subject Talks)**
 
-[G1] Art, D&T, NFS please click
+[G1] Art, D&T, NFS Please click
 
-[G1] Smart Electrical Technology please click
+[G1] Smart Electrical Technology Please click
 
-[G2_G3] Art, D&T, NFS (O Level) please click
+[G2_G3] Art, D&T, NFS (O Level) Please click
 
-[G2_G3] Combined Sciences please click
+[G2_G3] Combined Sciences Please click
 
-[G2] Geography Elective please click
+[G2] Geography Elective Please click
 
-[G2] History Elective please click
+[G2] History Elective Please click
 
-[G2] Literature in English please click
+[G2] Literature in English Please click
 
 [G2] Principles of Accounts please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2_principles%20of%20accounts.pdf) 
 
-[G2] Social Studies please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2%20social%20studies.pdf)
+[G2] Social Studies Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2%20social%20studies.pdf)
 
-[G3] Geography please click
+[G3] Geography Please click
 
-[G3] History please click
+[G3] History Please click
 
-[G3] Literature in English please click
+[G3] Literature in English Please click
 
-[G3] Principles of Accounts please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_principles%20of%20accounts_4.pdf)
+[G3] Principles of Accounts Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_principles%20of%20accounts_4.pdf)
 
-[G3] Pure Biology please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_pure%20biology.pdf) 
+[G3] Pure Biology Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_pure%20biology.pdf) 
 
-[G3] Pure Physics please click
+[G3] Pure Physics Please click
 
-[G3] Social Studies please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_social%20studies.pdf)
+[G3] Social Studies Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_social%20studies.pdf)
 
 
 
