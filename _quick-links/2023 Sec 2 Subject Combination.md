@@ -42,7 +42,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 [G3] Pure Biology Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_pure%20biology.pdf) 
 
-[G3] Pure Physics Please click
+[G3] Pure Physics Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_pure%20physics.pdf)
 
 [G3] Social Studies Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_social%20studies.pdf)
 
