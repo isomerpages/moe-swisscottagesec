@@ -22,7 +22,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 [G2_G3] Combined Sciences Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2_g3_combined%20sciences.pdf)
 
-[G2] Geography Elective Please click
+[G2] Geography Elective Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2_geography%20elective.pdf)
 
 [G2] History Elective Please click
 
