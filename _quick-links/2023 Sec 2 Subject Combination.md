@@ -18,7 +18,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 [G1] Smart Electrical Technology Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g1_smart%20electrical%20technology.pdf)
 
-[G2_G3] Art, D&T, NFS (O Level) Please click
+[G2_G3] Art, D&T, NFS (O Level) Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2_g3_art_d&t_nfs_only%20o%20level.pdf)
 
 [G2_G3] Combined Sciences Please click
 
