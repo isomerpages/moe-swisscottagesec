@@ -19,4 +19,4 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 4\.           [For Students Taking Mostly G3 Subjects](https://www.loom.com/share/cb9e5fe17fcb437db4c0b2a7d8e73df3?sid=eb146cb8-1b77-4d67-8a7a-0fa82fc4b7da)
 
-5\.           [15 Sept Parent Engagement Q&A Session Slides
+5\.           [15 Sept Parent Engagement Q&A Session Slides](/files/2022%20Sec%202%20Subject%20Combination/2023_15%20sept_%20parent%20student%20engagement%20-%20q&a%20on%20subject%20combination_180923.pdf)
