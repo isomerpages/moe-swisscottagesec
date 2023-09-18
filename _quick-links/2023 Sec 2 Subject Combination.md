@@ -28,7 +28,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 [G2] Literature in English please click
 
-[G2] Principles of Accounts please click
+[G2] Principles of Accounts please click 
 
 [G2] Social Studies please click
 
