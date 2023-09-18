@@ -14,7 +14,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 **Briefing Slides (Subject Talks)**
 
-
+[G1] Art, D&T, NFS please click 
 
 
 **Parent Engagement Briefing Slides**
