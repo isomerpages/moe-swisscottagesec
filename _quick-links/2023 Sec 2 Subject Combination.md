@@ -14,7 +14,41 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 **Briefing Slides (Subject Talks)**
 
-[G1] Art, D&T, NFS please click 
+[G1] Art, D&T, NFS please click
+
+[G1] Smart Electrical Technology please click
+
+[G2_G3] Art, D&T, NFS (O Level) please click
+
+[G2_G3] Combined Sciences please click
+
+[G2] Geography Elective please click
+
+[G2] History Elective please click
+
+[G2] Literature in English please click
+
+[G2] Principles of Accounts please click
+
+[G2] Social Studies please click
+
+[G3] Geography please click
+
+[G3] History please click
+
+[G3] Literature in English please click
+
+[G3] Principles of Accounts please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_principles%20of%20accounts_4.pdf)
+
+[G3] Pure Biology please click
+
+[G3] Pure Physics please click
+
+[G3] Social Studies please click
+
+
+
+
 
 
 **Parent Engagement Briefing Slides**
