@@ -30,7 +30,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 [G2] Principles of Accounts please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2_principles%20of%20accounts.pdf) 
 
-[G2] Social Studies please click
+[G2] Social Studies please click 
 
 [G3] Geography please click
 
