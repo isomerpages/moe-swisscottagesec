@@ -17,7 +17,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 
 
-Parent Engagement Briefing Slides
+**Parent Engagement Briefing Slides**
 
 2023 [15 September] Parent Student Engagement Q&A please click [here](/files/2023_15%20sept_%20parent%20student%20engagement%20-%20qna%20on%20subject%20combination_180923.pdf)
 
