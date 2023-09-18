@@ -27,7 +27,7 @@ To download the appeal form, please click [here](/files/2022%20Sec%202%20Subject
 
 
 
-1\.           [Introduction](https://www.loom.com/share/9426d2d03f204064b1d0ee0e052b192e)
+1\.           [Introduction to 2022 Subject Combination Exercise](https://www.loom.com/share/9426d2d03f204064b1d0ee0e052b192e)
 
 2\.           [For Students Taking Mostly G1 Subjects](https://www.loom.com/share/8623a7569900463399807c38c417e8cb?sid=1f8afbd5-6c5a-4e4a-b207-17facaab63f6)
 
