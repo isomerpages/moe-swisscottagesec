@@ -20,7 +20,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 [G2_G3] Art, D&T, NFS (O Level) Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2_g3_art_d&t_nfs_only%20o%20level.pdf)
 
-[G2_G3] Combined Sciences Please click
+[G2_G3] Combined Sciences Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2_g3_combined%20sciences.pdf)
 
 [G2] Geography Elective Please click
 
@@ -28,7 +28,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 [G2] Literature in English Please click
 
-[G2] Principles of Accounts P[G1_Art_DnT_NFS]()lease click [here](/files/2022%20Sec%202%20Subject%20Combination/g2_principles%20of%20accounts.pdf) 
+[G2] Principles of Accounts Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2_principles%20of%20accounts.pdf) 
 
 [G2] Social Studies Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2%20social%20studies.pdf)
 
