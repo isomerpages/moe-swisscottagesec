@@ -44,7 +44,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 [G3] Pure Physics please click
 
-[G3] Social Studies please click [here]()
+[G3] Social Studies please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_social%20studies.pdf)
 
 
 
