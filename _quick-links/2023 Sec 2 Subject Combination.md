@@ -32,7 +32,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 [G2] Social Studies Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g2%20social%20studies.pdf)
 
-[G3] Geography Please click
+[G3] Geography Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_geography.pdf)
 
 [G3] History Please click
 
