@@ -34,7 +34,7 @@ Please view the Introductory video before proceeding to the respective videos, d
 
 [G3] Geography Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_geography.pdf)
 
-[G3] History Please click
+[G3] History Please click [here](/files/2022%20Sec%202%20Subject%20Combination/g3_history.pdf)
 
 [G3] Literature in English Please click
 
