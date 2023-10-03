@@ -19,7 +19,7 @@ description: ""
 65693028
 
 **Have a question?**  
-Ask and get answered on our [Q&amp;A Page](https://go.ask.gov.sg/scss)
+Ask and get answered on our [Q&amp;A Page](https://ask.gov.sg/scss)
 <br>
 <span style="color:#999999"><em>Powered by:
 <br><img src="/images/logo-askgov.png" style="width:10%;float:left">
