@@ -16,7 +16,7 @@ description: ""
 
 |   Sports / Games   |      Uniformed Groups          |                 Performing Arts      |   Clubs &amp; Societies        |
 |:----------:|:----------:|:---------:|:-------------:|
-| • Badminton (Girls)<br>• Basketball<br>• Floorball<br>• Soccer (Boys)<br>• Tenpin Bowling (Boys) | • Boys’ Brigade<br>• NCC (Air)<br>• NCDCC<br>• NPCC (Boys)<br>• Scouts <br> | • Chinese Orchestra<br>• Show Choir<br>• Malay Dance<br>• Chinese Dance<br>• Drama<br>• NCC Command Band | • Publications and Media Club<br>• Science &amp; Technology |
+| • Badminton (Girls)<br>• Basketball<br>• Floorball<br>• Soccer (Boys)<br>• Tenpin Bowling (Boys) | • Boys’ Brigade<br>• NCC (Air)<br>• NCDCC<br>• NPCC (Boys)<br>• Scouts <br> • Girl Guides (to cease in 2025)| • Chinese Orchestra<br>• Show Choir<br>• Swiss Dance<br>• Drama<br>• NCC Command Band | • Publications and Media Club<br>• Science &amp; Technology |
 
 **LEAPS CCA Grading Scheme**&nbsp;&nbsp;
 
