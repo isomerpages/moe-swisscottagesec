@@ -123,10 +123,10 @@ Please refer to the table below for the schedules of CCA in 2024
   mso-ansi-language:EN-SG">Mrs Chen Yen Wah</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:7;height:26.05pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:26.05pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mdm Tan Pui San</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:8;height:10.75pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Ms Fan Yun Yun</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:8;height:10.75pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:10.75pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Ms Fan Yun Yun</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:9;height:21.05pt"><td width="33" rowspan="4" style="width:24.75pt;border:solid windowtext 1.0pt;
+  mso-ansi-language:EN-SG">Mdm Low Hwee Cheng</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:9;height:21.05pt"><td width="33" rowspan="4" style="width:24.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:21.05pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">3</span><span lang="EN-SG" style="mso-ansi-language:
@@ -180,7 +180,7 @@ Please refer to the table below for the schedules of CCA in 2024
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">Mdm Norazela Rosli</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:16"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mdm Nuraida</span><span lang="EN-SG" style="mso-ansi-language:
+  mso-ansi-language:EN-SG">New</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:17"><td width="33" rowspan="5" style="width:24.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">5</span><span lang="EN-SG" style="mso-ansi-language:
@@ -239,7 +239,7 @@ Please refer to the table below for the schedules of CCA in 2024
   mso-ansi-language:EN-SG">8</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td><td width="82" rowspan="3" style="width:61.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Girl Guides<br><i>(no Sec 1 intake in 2023)</i></span><span lang="EN-SG" style="mso-ansi-language:
+  mso-ansi-language:EN-SG">Girl Guides<br><i>(only Sec 3&amp; 4 in 2024)</i></span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td><td width="58" rowspan="3" style="width:43.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">Mon</span><span lang="EN-SG" style="mso-ansi-language:
@@ -277,9 +277,9 @@ Please refer to the table below for the schedules of CCA in 2024
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">Mr Tan Jeng Gordon</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:30"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Ms Hon Soo Sien</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:31"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Mr Kat Kar Sien</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:31"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mr Kat Kar Sien</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:32"><td width="33" rowspan="3" style="width:24.75pt;border:solid windowtext 1.0pt;
+  mso-ansi-language:EN-SG">new</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:32"><td width="33" rowspan="3" style="width:24.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">10</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td><td width="82" rowspan="3" style="width:61.5pt;border:solid windowtext 1.0pt;
