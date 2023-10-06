@@ -296,13 +296,13 @@ Please refer to the table below for the schedules of CCA in 2024
   mso-ansi-language:EN-SG">1530-1815</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mr Ng Kok Hin</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:33"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Mdm Shahada</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:33"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mdm Shahada</span><span lang="EN-SG" style="mso-ansi-language:
+  mso-ansi-language:EN-SG">Mdm Kelly</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:34;height:1.25pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:1.25pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mdm Kelly</span><span lang="EN-SG" style="mso-ansi-language:
+  mso-ansi-language:EN-SG">new</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:35"><td width="33" rowspan="4" style="width:24.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">11</span><span lang="EN-SG" style="mso-ansi-language:
@@ -320,15 +320,15 @@ Please refer to the table below for the schedules of CCA in 2024
   mso-ansi-language:EN-SG">1530-1815</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mr Syed Segaff</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:36"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Ms Tam Siew Kee</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:36"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Ms Maheshwari</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:37;height:17.2pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Ms Iznur Shahidah</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:37;height:17.2pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:17.2pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">Ms Tam Siew Kee</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:38;height:17.2pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:17.2pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Ms Iznur Shahidah</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:39"><td width="33" rowspan="3" style="width:24.75pt;border:solid windowtext 1.0pt;
+  mso-ansi-language:EN-SG">Ms Maheshwari</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:39"><td width="33" rowspan="3" style="width:24.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">12</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td><td width="82" rowspan="3" style="width:61.5pt;border:solid windowtext 1.0pt;
@@ -349,7 +349,7 @@ Please refer to the table below for the schedules of CCA in 2024
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">Mdm Tan Poh Kim</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:41"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mr Sim Wen Hong</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:42"><td width="33" rowspan="3" style="width:24.75pt;border:solid windowtext 1.0pt;
+  mso-ansi-language:EN-SG">Mr Sunil Nair</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:42"><td width="33" rowspan="3" style="width:24.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">13</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td><td width="82" rowspan="3" style="width:61.5pt;border:solid windowtext 1.0pt;
@@ -398,7 +398,7 @@ Please refer to the table below for the schedules of CCA in 2024
   mso-ansi-language:EN-SG">Mr Alex Chew</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:46;height:19.9pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:19.9pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mdm Low Hwee Cheng</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:47;height:19.9pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Mr Simon Wong</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:47;height:19.9pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:19.9pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">Mdm Young Tsui Hwa</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:48;height:19.9pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
@@ -424,7 +424,7 @@ Please refer to the table below for the schedules of CCA in 2024
   mso-ansi-language:EN-SG">1530-1815<br>1530-1815</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:29.45pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mr Irfan</span><span lang="EN-SG" style="mso-ansi-language:
+  mso-ansi-language:EN-SG">Mr Choo Shi Qian</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:50;height:29.45pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:29.45pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
@@ -434,7 +434,7 @@ Please refer to the table below for the schedules of CCA in 2024
   mso-ansi-language:EN-SG">Ms Serene Lee</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:52;height:29.45pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:29.45pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mr Choo Shi Qian</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:53"><td width="33" rowspan="4" style="width:24.75pt;border:solid windowtext 1.0pt;
+  mso-ansi-language:EN-SG">Mdm Tan Pui San</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:53"><td width="33" rowspan="4" style="width:24.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">16</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td><td width="82" rowspan="4" style="width:61.5pt;border:solid windowtext 1.0pt;
@@ -505,13 +505,13 @@ Please refer to the table below for the schedules of CCA in 2024
   EN-SG"></span></p></td><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:1.25pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mr Christopher Lim</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:61"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Ms Hazel Tan</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:61"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mr Simon Teo</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:62"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Mr Christopher Lim</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:62"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Ms Hazel Tan</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:63"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Ms Gina</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:63"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Ms Gina</span><span lang="EN-SG" style="mso-ansi-language:
+  mso-ansi-language:EN-SG">Ms Li Xiaorong</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:64;height:16.85pt"><td width="33" rowspan="3" style="width:24.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:16.85pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
@@ -534,10 +534,10 @@ Please refer to the table below for the schedules of CCA in 2024
   EN-SG"></span></p></td><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:16.85pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mr Simon Wong</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:65;height:16.9pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Mr Tan Hong Cheong</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:65;height:16.9pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:16.9pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mr Tan Hong Cheong</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:66;mso-yfti-lastrow:yes;height:16.85pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Ms Fong Sook Theng</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:66;mso-yfti-lastrow:yes;height:16.85pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:16.85pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Ms Fong Sook Theng</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr></tbody></table>
+  mso-ansi-language:EN-SG">Mr Simon Teo</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr></tbody></table>
