@@ -298,7 +298,7 @@ Please refer to the table below for the schedules of CCA in 2024
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">Mdm Shahada</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:33"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mdm Kelly</span><span lang="EN-SG" style="mso-ansi-language:
+  mso-ansi-language:EN-SG">Mdm Kelly Tan</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:34;height:1.25pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:1.25pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
@@ -509,7 +509,7 @@ Please refer to the table below for the schedules of CCA in 2024
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">Mr Christopher Lim</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:62"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Ms Gina</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:63"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Ms Gina Hiu</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:63"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">Ms Li Xiaorong</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:64;height:16.85pt"><td width="33" rowspan="3" style="width:24.75pt;border:solid windowtext 1.0pt;
