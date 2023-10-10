@@ -42,7 +42,7 @@ You may visit our CCA Google Site for more information on CCA here:
 
 [https://sites.google.com/moe.edu.sg/swissccas/our-ccas](https://sites.google.com/moe.edu.sg/swissccas/our-ccas)
 
-**CCA Pratices &amp; Venues**&nbsp;
+**CCA Pratices &amp; Schedules**&nbsp;
 
 Please refer to the table below for the schedules of CCA in 2024
 
@@ -251,11 +251,11 @@ Please refer to the table below for the schedules of CCA in 2024
   mso-ansi-language:EN-SG">1530-1815</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Ms Ang Kai Lun Karen</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:26"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Ms Yeo Koon Koon</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:26"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Ms Yeo Koon Koon</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:27"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+  mso-ansi-language:EN-SG">Mdm See To</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:27"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mdm See To</span><span lang="EN-SG" style="mso-ansi-language:
+  mso-ansi-language:EN-SG">new</span><span lang="EN-SG" style="mso-ansi-language:
   EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:28"><td width="33" rowspan="4" style="width:24.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">9</span><span lang="EN-SG" style="mso-ansi-language:
@@ -404,7 +404,7 @@ Please refer to the table below for the schedules of CCA in 2024
   mso-ansi-language:EN-SG">Mdm Young Tsui Hwa</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:48;height:19.9pt"><td width="132" style="width:99.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:19.9pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Ms Li Xiaorong</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:49;height:29.45pt"><td width="33" rowspan="4" style="width:24.75pt;border:solid windowtext 1.0pt;
+  mso-ansi-language:EN-SG">new</span><span lang="EN-SG" style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:49;height:29.45pt"><td width="33" rowspan="4" style="width:24.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:29.45pt"><p class="MsoNormal"><span lang="EN-SG" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">15</span><span lang="EN-SG" style="mso-ansi-language:
