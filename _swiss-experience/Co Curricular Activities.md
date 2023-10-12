@@ -341,7 +341,6 @@ Please refer to the table below for the schedules of CCA in 2024
     <td class="tg-dayz"><span style="color:black">Mr Simon Teo</span></td>
   </tr>
   <tr>
-    <td style="border-bottom: 1px solid #000;" class="tg-kftd"><span style="font-weight:400;font-style:normal">Mdm Su Ziyan</span></td> </tr>
-  
+    <td style="border-bottom: 1px solid #000;" class="tg-kftd"><span style="color:black">Mdm Su Ziyan</span></td> </tr>
 </tbody>
 </table>
