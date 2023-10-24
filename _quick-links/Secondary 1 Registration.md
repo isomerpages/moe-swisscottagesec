@@ -6,7 +6,7 @@ description: ""
 [Secondary 1 Booklist 2024](/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%201_241023(1).pdf)
 
 
-Secondary 2 - Booklist 2024
+[Secondary 2 Booklist 2024](/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%202.pdf)
 
 Secondary 3 - Booklist 2024
 
