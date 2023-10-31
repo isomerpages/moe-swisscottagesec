@@ -27,7 +27,7 @@ Information for 2024
 3\.  [Secondary 3 Booklist 2024](/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%203.pdf) <br>
 4\.  [Secondary 4 Booklist 2024](/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%204(1).pdf)  <br>
 5\.  [Secondary 5 Booklist 2024](/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%205.pdf)  <br>
-6\.  [School Uniform Online Sales Guide](/files/For%20parents/School-Uniform-Online-Sales-Guide.pdf)  <br>
+6\.  [Swiss Uniform Online Sales Guide](/files/For%20parents/swiss%20uniform%2023%20(2).pdf)  <br>
 7\.  [Secondary 1 Meet-the-Parents Session](/files/For%20parents/2023-S1-MTP-Combined-Slides-vSchWebsite.pdf)<br>
 8\.  [Geography Briefing for Parents](/files/For%20parents/2023-Geography-Briefing-For-Parents.pdf)<br>
 9\.  [Bookshop Services Provider](/files/For%20parents/new%20bookshop%20services%20provider%20wef%201%20apr%202023.pdf)
