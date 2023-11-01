@@ -33,7 +33,7 @@ description: ""
 
 ·       Fax No: 65693028
 
-·       Email: scss@moe.edu.sg
+·       Email: [scss@moe.edu.sg](scss@moe.edu.sg)
 
 ·       Contact Person: Mr Koo Hong Kee (OM) or Ms R Mahalakshimi (AM)
 
