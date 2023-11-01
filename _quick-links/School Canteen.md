@@ -3,7 +3,6 @@ title: School Canteen
 permalink: /quick-links/school-canteen/
 description: ""
 ---
-         
 # School Canteen Advertisement
 
 
@@ -18,7 +17,7 @@ description: ""
 
 1.  Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-Application Form (PDF)
+[Application Form](/files/School%20Canteen/application%20for%20canteen%20stall%20in%20existing%20sch%20(3).pdf)
 
 2.      Attached the following documents together with the application form:
 
