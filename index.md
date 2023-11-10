@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Open House 2023 (click here)
           description: ""
-          url: ""
+          url: /total-curriculum/open-house-2023/
   - infobar:
       title: The 60th Anniversary T-Shirts
       button: Read More
