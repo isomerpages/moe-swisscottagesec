@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Open House 2023/.keep
-      - Total Curriculum.md
       - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme.md
       - Instructional Programme/English Language.md
