@@ -2,6 +2,7 @@ collections:
   swiss-experience:
     output: true
     order:
+      - Open House 2023/Total Curriculum.md
       - Open House 2023/.keep
       - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme.md
