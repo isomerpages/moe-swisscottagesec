@@ -10,7 +10,7 @@ sections:
       background: /images/school-website copy.jpg
       key_highlights:
         - title: Open House 2023 (click here)
-          description: Key Highlight description
+          description: ""
           url: ""
   - infobar:
       title: The 60th Anniversary T-Shirts
