@@ -2,7 +2,7 @@ collections:
   swiss-experience:
     output: true
     order:
-      - Swiss Experience.md
+      - Total Curriculum.md
       - Total Curriculum/Total Curriculum.md
       - Total Curriculum/.keep
       - Instructional Programme/.keep
