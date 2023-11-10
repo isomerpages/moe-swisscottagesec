@@ -2,6 +2,7 @@
 title: Calendar
 permalink: /quick-links/calendar/
 description: ""
+variant: markdown
 ---
 #### January 2023
 
@@ -1184,7 +1185,7 @@ description: ""
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="8%"><p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="font-size:9.0pt;line-height:107%;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin">Open House (Tentative)</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:8.1%;border:solid windowtext 1.0pt;
+  mso-bidi-theme-font:minor-latin">Open House (9am - 1pm)</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:8.1%;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt" valign="top" width="8%"><p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><a name="_Hlk138772190"><b><span style="font-size:9.0pt;line-height:107%;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Sun 19/11</span></b></a></p></td><td style="width:13.34%;border-top:none;border-left:
