@@ -15,7 +15,7 @@ sections:
   - infobar:
       title: The 60th Anniversary Celebration
       button: Read More
-      url: hh
+      url: https://www.swisscottagesec.moe.edu.sg/60-anniversary-celebration/
       subtitle: Featured Posts
       description: >-
         1) Commemorative House Tee-Shirt
