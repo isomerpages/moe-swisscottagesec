@@ -13,11 +13,15 @@ sections:
           description: ""
           url: /total-curriculum/open-house-2023/
   - infobar:
-      title: The 60th Anniversary T-Shirts
+      title: The 60th Anniversary Celebration
       button: Read More
-      url: https://docs.google.com/forms/d/e/1FAIpQLSfTY5hlCVmFcaxTZQgevZYwRUSxgxUcds9VR2wURzQ8CUumCQ/viewform
+      url: hh
       subtitle: Featured Posts
-      description: The 60th Anniversary T-Shirts Order Form
+      description: >-
+        1) Commemorative House Tee-Shirt
+        SALE                                      
+
+        2) Commemorative Plush Bear SALE
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
       subtitle: FEATURED POSTS
