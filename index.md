@@ -17,7 +17,7 @@ sections:
       button: Read More
       url: https://www.swisscottagesec.moe.edu.sg/quick-links/60-anniversary-celebration/
       subtitle: Featured Posts
-      description: "Commemorative House T-Shirt and plush Toy Bear SALE                 "
+      description: Commemorative House T-Shirt and plush Toy Bear SALE
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
       subtitle: FEATURED POSTS
