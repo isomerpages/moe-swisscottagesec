@@ -3,6 +3,7 @@ title: English Language
 permalink: /swiss-experience/Instructional-Programme/english-language-and-literature/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 # English Language
 
@@ -72,11 +73,9 @@ We aim to
 | Ms Kek Huiyu | Year Head / English Language |
 | Mdm Ong Yuan Shin | English Language |
 | Miss Tan Mee Han | English Language |
-| Mr Syed Segaff Bin Syed Khaled Alsree | English Language |
 | Ms Serene Lee Ching Lien | English Language |
 | Ms Faith Wang Yi Shan | English Language and Geography |
 | Ms Tan Yan Lin, Hazel | English Language and Literature |
 | Miss Gina Hiu Feng Ping | English Language |
 | Mdm Nur Ashkin Binte Abu Bakar | Adjunct / English  |
 | Ms Faith Ong Qi Rui | Adjunct / English |
-| Miss Suhana Binti Shafik | Adjunct / English |
