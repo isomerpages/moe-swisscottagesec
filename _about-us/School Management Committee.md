@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
+variant: markdown
 ---
 # School Management Committee
 
@@ -9,6 +10,7 @@ description: ""
 |---|---|
 |  PRINCIPAL |  CHENG MUN YI MANDY (MDM) |
 |  VICE-PRINCIPAL (ACADEMIC) |  WONG WEE LING (MS) |
+|  VICE-PRINCIPAL (ACADEMIC) |  TAN BOON PIANG (MR) |
 |  VICE-PRINCIPAL (ADMIN) |  CHAN CHEE WEI (MR) |
 |  SCHOOL STAFF DEVELOPER |  LIM JUN LI (MR) |
 |  YEAR HEAD |  TAN ANNIE (MS) |
