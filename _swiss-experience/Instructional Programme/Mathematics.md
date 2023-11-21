@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /swiss-experience/Instructional-Programme/mathematics/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 # Mathematics
 
@@ -37,5 +38,4 @@ Principles of Accounts is offered to upper secondary students in both Express an
 | Mr Tan Hong Cheong | Mathematics Teacher |
 | Mdm Chew Wye Mun Serene |Adjunct Teacher  Mathematics |
 | Mdm Ang Sok Leng Sophia | Adjunct Teacher / Mathematics |
-| Mr Chua Kwee Cheng Roy | Adjunct Teacher / Mathematics |
 | Ms Ng Hwee Chun Joyce | Adjunct Teacher / Mathematics |
