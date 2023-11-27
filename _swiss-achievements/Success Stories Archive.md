@@ -8,7 +8,7 @@ variant: markdown
 
 [2020 N-level Success Stories](https://cms.isomer.gov.sg/sites/moe-swisscottagesec/folders/swiss-achievements/subfolders/Swiss%20Success%20Stories/editPage/2020%20N%20Level%20Success%20Stories.md)
 
-[2020 O-Level Success Stories]
+[2020 O-Level Success Stories](https://cms.isomer.gov.sg/sites/moe-swisscottagesec/folders/swiss-achievements/subfolders/Swiss%20Success%20Stories/editPage/2020%20O%20Level%20Success%20Stories.md)
 
 [2019 N-Level Success Stories]
 
