@@ -12,7 +12,7 @@ variant: markdown
 
 [2019 N-Level Success Stories](https://cms.isomer.gov.sg/sites/moe-swisscottagesec/folders/swiss-achievements/subfolders/Swiss%20Success%20Stories/editPage/2019%20N%20Level%20Success%20Stories.md)
 
-[2019 O-Level Success Stories]
+[2019 O-Level Success Stories](https://cms.isomer.gov.sg/sites/moe-swisscottagesec/folders/swiss-achievements/subfolders/Swiss%20Success%20Stories/editPage/2019%20O%20Level%20Success%20Stories.md)
 
 [2018 N-Level Success Stories]
 
