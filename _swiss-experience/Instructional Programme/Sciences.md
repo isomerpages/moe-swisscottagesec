@@ -3,6 +3,7 @@ title: Sciences
 permalink: /swiss-experience/Instructional-Programme/sciences/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 # Sciences
 
@@ -61,7 +62,6 @@ Talent Development Programmes/Competitions
 | Mr Kat Kar Sien | Teacher / Chemistry |
 | Mdm Wong Yoke  Ung | Teacher / Chemistry |
 | Mdm See To Chee Choong | Contract Adjunct Teacher / Chemistry |
-| Ms Choo Hui Ming Gladys | Flexi Adjunct Teacher / Chemistry |
 | Mdm Wee Ai Jee | Flexi-Adjunct Teacher / Physics |
 | Mdm Chew Kim Eng | Flexi-Adjunct Teacher |
 | Mr Loh Keow | Flexi-Adjunct Teacher / ALP |
