@@ -2,6 +2,7 @@
 title: All Staff
 permalink: /about-us/all-staff/
 description: ""
+variant: markdown
 ---
 # All Staff
 
@@ -293,8 +294,6 @@ description: ""
 | MR LOW KEOH    | D&amp;T     |      |
 | MS LIM SU-FERN   | GEORGRAPHY     |      |
 | MS LEE JIA YUN | HUMANITIES |
-| MS SUHANA BINTI SHAFIK    | LITERATURE     |      |
-| MR ROY CHUA KWEE CHENG     | MATHEMATICS     |      |
 | MDM CHEW WYE MUN    | MATHEMATICS     |      |
 | MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
 | MS NG HWEE CHUN    | MATHEMATICS     |      |
