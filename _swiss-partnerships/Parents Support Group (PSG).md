@@ -2,6 +2,7 @@
 title: Parents Support Group (PSG)
 permalink: /swiss-partnerships/parents-support-group-psg/
 description: ""
+variant: markdown
 ---
 #### **Swiss Parents Support Group (PSG)**
 
@@ -13,7 +14,7 @@ description: ""
 
 <p style="text-align: justify;">BE PART OF YOUR CHILD JOURNEY... join us at Swiss Parent Connect by submitting the form via the QR code below. Swiss Parents Connect is a platform for Swiss Parents to receive and share school related information. It also serves as a platform for parents to ask questions related to school operations and share their experiences.</p>
 
-[Swiss Parent Connect](https://docs.google.com/forms/d/1fJXM49TpJbvKbAnVvCGxnefPSgQWP1yn7tXRYrums3g/viewform?edit_requested=true)
+[Swiss Parent Connect](https://docs.google.com/forms/d/1sgbZWCS6Bd0A5V5K4x8Adk45MIoYWv-vSxzucBRq4vs/viewform?pli=1&amp;pli=1&amp;edit_requested=true)
 
 
 **OUR MISSION**
