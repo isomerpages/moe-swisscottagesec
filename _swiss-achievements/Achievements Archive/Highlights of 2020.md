@@ -3,10 +3,11 @@ title: Highlights of 2020
 permalink: /swiss-achievements/achievements-archive/highlights-for-2020/
 description: ""
 third_nav_title: Achievements Archive
+variant: markdown
 ---
 # Highlights of 2020
 
-**Swiss Achievements for Year 2020**
+**Swiss's  Achievements for Year 2020**
 
 **On the Uniform Groups Front**
 
