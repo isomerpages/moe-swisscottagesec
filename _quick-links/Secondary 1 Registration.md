@@ -4,8 +4,6 @@ permalink: /quick-links/secondary-1-registration/
 description: ""
 variant: markdown
 ---
-
-
 # **A warm welcome to the Swiss Cottage Family**!
 
 Sec 1 Welcome Video (pending need to insert video)
@@ -442,9 +440,9 @@ Here are some important things to note:
 
 a.  [Secondary One Booklist and Sales Guide](/files/Secondary%201%20Registration/Swiss_Cottage_Secondary_School_Booklist_2024_FINAL_Sec_1__14_Dec_.pdf)
 
-b. [Guide For School Uniform Measurement](/files/Secondary%201%20Registration/Swiss_Uniform___Sale_of_Uniform_Guide.pdf)
+b. [Guide For School Uniform Measurement](/files/Secondary%201%20Registration/Guide_For_School_Uniform_Measurement__included_as_per_2023_.pdf)
 
-c.  School Uniform Online Sales Guide
+c.  [School Uniform Online Sales Guide](/files/Secondary%201%20Registration/Swiss_Uniform___Sale_of_Uniform_Guide.pdf)
 
 
 
