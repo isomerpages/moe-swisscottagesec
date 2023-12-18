@@ -442,7 +442,7 @@ Here are some important things to note:
 
 a.  [Secondary One Booklist and Sales Guide](/files/Secondary%201%20Registration/Swiss_Cottage_Secondary_School_Booklist_2024_FINAL_Sec_1__14_Dec_.pdf)
 
-b. Guide For School Uniform Measurement
+b. [Guide For School Uniform Measurement](/files/Secondary%201%20Registration/Swiss_Uniform___Sale_of_Uniform_Guide.pdf)
 
 c.  School Uniform Online Sales Guide
 
