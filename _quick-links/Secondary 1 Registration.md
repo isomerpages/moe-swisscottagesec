@@ -440,7 +440,7 @@ Here are some important things to note:
 *   There will be **no trying of uniforms**. All uniforms will be purchased based on measurements. Any exchange can be done after purchase (until the end of the first week of school). Please keep the uniforms in their original condition and present the receipt.
 *   You may access further information on the Secondary 1 Booklist and Uniform Sales through these links:&nbsp;
 
-a.  Secondary One Booklist and Sales Guide
+a.  [Secondary One Booklist and Sales Guide](/files/Secondary%201%20Registration/Swiss_Cottage_Secondary_School_Booklist_2024_FINAL_Sec_1__14_Dec_.pdf)
 
 b. Guide For School Uniform Measurement
 
