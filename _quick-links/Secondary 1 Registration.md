@@ -452,7 +452,7 @@ c.  [School Uniform Online Sales Guide](/files/Secondary%201%20Registration/Swis
 
 5\. **THIRD LANGUAGE REGISTRATION (INCLUDING MSP AND CSP) INFORMATION** (will be given by Hui Jing on 21st Dec (tentative))
 
-6\. **JOINING THE PARENTS SUPPORT GROUP** (link to: https://swisscottagesec.moe.edu.sg/swiss-partnerships/parents-support-group-psg/)
+6\. [Joining the Parents Support Group](https://www.swisscottagesec.moe.edu.sg/swiss-partnerships/parents-support-group-psg/)
 
 7\. [**THE HEALTH PROMOTION BOARD (HPB)’s SCHOOL HEALTH AND DENTAL SERVICES**](file:///C:/wp-content/uploads/2021/12/HPB_22.12.21_Letter-to-S1-Parents_Final3.pdf)
 
