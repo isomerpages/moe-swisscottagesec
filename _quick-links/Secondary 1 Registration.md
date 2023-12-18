@@ -6,7 +6,7 @@ variant: markdown
 ---
 
 
-A warm welcome to the **Swiss Cottage Family**!
+# **A warm welcome to the Swiss Cottage Family**!
 
 Sec 1 Welcome Video (pending need to insert video)
 
