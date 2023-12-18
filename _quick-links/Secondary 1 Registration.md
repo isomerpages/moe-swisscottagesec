@@ -464,7 +464,7 @@ The digital letter contains information on the upcoming HPB’s health, immunisa
 
 9\. **DIRECT APPEAL FORM**
 
-11\. **FURTHER INFORMATION**&nbsp;
+10\. **FURTHER INFORMATION**&nbsp;
 
 Besides calling our school for any necessary information, you may prefer to approach our teaching and admin staff for further inquiries.
 
