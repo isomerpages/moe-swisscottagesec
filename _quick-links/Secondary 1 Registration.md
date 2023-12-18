@@ -448,7 +448,7 @@ c.  [School Uniform Online Sales Guide](/files/Secondary%201%20Registration/Swis
 
 3. **FIRST DAY AND SECONDARY 1 ORIENTATION MATTERS** (Pending: link to a PDF doc from Clement.)
 
-4\. **SWISS COTTAGE CCA INFORMATION**&nbsp;
+4\. [Swiss Cottage CCA Information 2024](/files/Secondary%201%20Registration/A4___CCA_Information_2024.pdf);
 
 5\. **THIRD LANGUAGE REGISTRATION (INCLUDING MSP AND CSP) INFORMATION** (will be given by Hui Jing on 21st Dec (tentative))
 
