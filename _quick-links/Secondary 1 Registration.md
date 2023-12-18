@@ -440,11 +440,13 @@ Here are some important things to note:
 *   There will be **no trying of uniforms**. All uniforms will be purchased based on measurements. Any exchange can be done after purchase (until the end of the first week of school). Please keep the uniforms in their original condition and present the receipt.
 *   You may access further information on the Secondary 1 Booklist and Uniform Sales through these links:&nbsp;
 
-1.  Secondary One Booklist and Sales Guide
+a.  Secondary One Booklist and Sales Guide
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide For School Uniform Measurement
+b. Guide For School Uniform Measurement
 
-3.  School Uniform Online Sales Guide
+c.  School Uniform Online Sales Guide
+
+
 
 3. **FIRST DAY AND SECONDARY 1 ORIENTATION MATTERS** (Pending: link to a PDF doc from Clement.)
 
