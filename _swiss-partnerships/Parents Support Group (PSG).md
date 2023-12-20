@@ -87,4 +87,4 @@ Exco members - Theresa Joo
 6.  [Breakfast with Principal and Parenting Workshop](/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_BwP_Parent-workshop.pdf)
 7.  [Appreciation of Un-sung Heroes](/files/PSG/Heroes-of-Swiss-2021.pdf)
 
-WE CAN MAKE A DIFFERENCE! Join the Swiss PSG by completing the&nbsp;[online form](https://docs.google.com/forms/d/1fJXM49TpJbvKbAnVvCGxnefPSgQWP1yn7tXRYrums3g/viewform?edit_requested=true)
+WE CAN MAKE A DIFFERENCE! Join the Swiss PSG by completing the&nbsp;[Online Form](https://docs.google.com/forms/d/1sgbZWCS6Bd0A5V5K4x8Adk45MIoYWv-vSxzucBRq4vs/viewform?pli=1&amp;pli=1&amp;edit_requested=true)
