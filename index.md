@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/school-website copy.jpg
       key_highlights:
-        - title: Open House 2023 (click here)
+        - title: Sec 1 Registration 2024 (click here)
           description: ""
-          url: /total-curriculum/open-house-2023/
+          url: https://www.swisscottagesec.moe.edu.sg/secondary-1-registration-2024/secondary-1-registration-2024/
   - infobar:
       title: The 60th Anniversary Celebration
       button: Read More
