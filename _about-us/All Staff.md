@@ -238,8 +238,8 @@ variant: markdown
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S3</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">KOH SHIN YEE (MDM)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN PUI SAN (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LIM JUNXUAN CHRISTOPHER (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">XU YIPING (MDM)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
