@@ -207,8 +207,8 @@ variant: markdown
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S7</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">IZNUR SHAHIDAH BTE ISHAK (MISS)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">HENG TENG BOON (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN PUI SAN (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black"> (M)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
