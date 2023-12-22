@@ -219,10 +219,10 @@ variant: markdown
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S1</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FAITH WANG YI SHAN (MS)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN JENG, GORDON (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">REDHA NASUHA BTE MAS'OD (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">YEO KOON KOON (MISS)</span></td>
       <td class="tg-kveo"></td>
-      <td rowspan="8" class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MR MUHAMMAD IRFAN HUSSEIN BIN ABDUL KAFFAUR</span><br>
+      <td rowspan="8" class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MR TAN HAN CHONG TIMOTHY</span><br>
       <br>
       <br>
       <br>
@@ -232,8 +232,8 @@ variant: markdown
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S2</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN HONG CHEONG (MR)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LEUNG YAN RU (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FAZA MAHIRAH BINTE MD SUHIMI (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">RAJANAYAGAM MICHAEL (MR)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
