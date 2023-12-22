@@ -262,8 +262,8 @@ variant: markdown
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S7</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NGOH KIA JOON (MR)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NOORHIDAYA BINTE ABDUL KARIM (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">HENG TENG BOON (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NOORHIDAYA BINTE ABDUL KARIM (MISS)</span></td>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FONG-SIM HUI BENG (MRS)</span></td>
     </tr>
     <tr>
