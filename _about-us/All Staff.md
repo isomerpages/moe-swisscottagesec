@@ -6,7 +6,7 @@ variant: markdown
 ---
 # All Staff
 
-<b><u>YEAR HEADS AND FORM TEACHERS 2023</u></b>
+<b><u>YEAR HEADS AND FORM TEACHERS 2024</u></b>
 
 
 <style type="text/css">
@@ -56,7 +56,7 @@ variant: markdown
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">HERINA BINTE ROSLIN (MISS)</span></td>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LEE PEI QI (MDM)</span></td>
       <td class="tg-kveo"></td>
-      <td rowspan="8" class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MS KEK HUI YU(GUO HUIYU)</span><br>
+      <td rowspan="8" class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN ANNIE (MISS)</span><br>
       <br>
       <br>
       <br>
@@ -78,32 +78,32 @@ variant: markdown
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S4</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SALLEH BIN MERWAN (MR)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">VIJAYAPRABHA NATARAJAN (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FAITH WANG YI SHAN (MS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">ADRIAN KHOO (MR)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S5</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NG KOK HIN (MR)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TEE LAY KEAN (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LEUNG YAN RU (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN MEE HAN (MISS)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S6</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NURFARIHAH BINTE AHAMAD RIFA'EH (MDM)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN XIN YI (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">CHOO SHI QIAN (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LI XIAORONG (MDM)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S7</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NORAZELA BTE ROSLI (MISS)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SIM WEN HONG</span> <span style="font-weight:inherit;font-style:inherit;color:black">(MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">KOH SHIN YEE RACHEL (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NUR ASHIKIN BINTE ABU BAKAR</span> <span style="font-weight:inherit;font-style:inherit;color:black">(MS)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S8</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">KAT KAR SIEN (MR)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">ONG YUAN SHIN (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FONG-SIM HUI BENG (MRS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SERENE LEE CHING LIEN (MDM)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
@@ -111,7 +111,7 @@ variant: markdown
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LEE SI WEI (MDM)</span></td>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN POH KIM (CHEN BAOJIN) (MDM)</span></td>
       <td class="tg-kveo"></td>
-      <td rowspan="8" class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MS NG POH KEOW</span><br>
+      <td rowspan="8" class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MS KEK HUI YU (GUO HUIYU) </span><br>
       <br>
       <br>
       <br>
