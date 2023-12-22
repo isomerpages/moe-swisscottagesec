@@ -97,7 +97,7 @@ variant: markdown
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S7</span></td>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">KOH SHIN YEE RACHEL (MDM)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NUR ASHIKIN BINTE ABU BAKAR</span> <span style="font-weight:inherit;font-style:inherit;color:black">(MS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NUR ASHIKIN BINTE ABU BAKAR</span> <span style="font-weight:inherit;font-style:inherit;color:black">(MDM)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
