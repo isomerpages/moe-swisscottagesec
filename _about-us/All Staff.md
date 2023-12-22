@@ -201,9 +201,9 @@ variant: markdown
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S6</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN YAN LIN, HAZEL (MS)</span><br></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LIM YEN WAH (MDM)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NUR ASHIKIN BINTE ABU BAKAR (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FAN YUN YUN (MDM)</span><br></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">ONG LAY KWAN (M)</span></td>
+      <td class="tg-kveo"><span span="" style="font-weight:inherit;font-style:inherit;color:black"></span></td>
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S7</span></td>
