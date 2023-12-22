@@ -269,15 +269,15 @@ variant: markdown
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S8</span></td>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">GINA HIU FENG PING (MISS)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">JASON SEOW (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NEO CHENG WEE, KENNETH (MR)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">5S1</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FONG SOOK THENG (MS)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LEE HONGYUN ERIC (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">CONSTANCE WONG (MRS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TEO YEW BING SIMON (MR)</span></td>
       <td class="tg-kveo"></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MS ANNIE TAN / MR MUHAMMAD IRFAN HUSSEIN BIN ABDUL KAFFAUR</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black"></span></td>
     </tr>
   </tbody>
 </table>
