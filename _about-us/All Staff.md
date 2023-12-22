@@ -244,20 +244,20 @@ variant: markdown
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S4</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">CONSTANCE WONG (MRS)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SUNIL NAIR S/O KALARASINGAM (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LAU LEE LENG (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">ROSE NABILAH BINTE ROSLI (MISS)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S5</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">CHOO SHI QIAN (MR)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAM SIEW KEE (MS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FONG SOOK THENG (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">WONG YOKE UNG (MDM)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S6</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NURAIDA BTE SAWI (MDM)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">THOU REAKSMEY (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LIM YEN WAH (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN YAN LIN, HAZEL (MS)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
