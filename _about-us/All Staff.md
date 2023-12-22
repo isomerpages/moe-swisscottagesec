@@ -268,7 +268,7 @@ variant: markdown
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">4S8</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN MEE HAN (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">GINA HIU FENG PING (MISS)</span></td>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">JASON SEOW (MR)</span></td>
       <td class="tg-kveo"></td>
     </tr>
