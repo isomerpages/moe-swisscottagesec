@@ -164,8 +164,8 @@ variant: markdown
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S1</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">REDHA NASUHA BTE MAS'OD (MDM)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">YEO KOON KOON (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TEGUH DANIEL TAMPEMAWA (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TEO LEI XIN, ALVIENA (MISS)</span></td>
       <td class="tg-kveo"></td>
       <td rowspan="8" class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MS NG POH KEOW</span> <span style="font-weight:inherit;font-style:inherit;color:black"><br>
       <br>
@@ -177,26 +177,26 @@ variant: markdown
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S2</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">FAZA MAHIRAH BINTE MD SUHIMI (MISS)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">RAJANAYAGAM MICHAEL (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">JASON SEOW (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SITI AISHAH BINTE MOHAMED KAMSANI (MDM)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S3</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">XU YIPING (MDM)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LIM JUNXUAN CHRISTOPHER (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LEE HONGYUN ERIC (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SHAHADA BINTE RAHMAT (MDM)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S4</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LAU LEE LENG (MDM)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">ROSE NABILAH BINTE ROSLI (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">THOU REAKSMEY (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MAHESWARI THANGAIAH (MDM)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S5</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">ANG KAI LUN KAREN (MISS)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">WONG YOKE UNG (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LOW HWEE CHENG (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black"> (M)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
