@@ -53,8 +53,8 @@ variant: markdown
   <tbody>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S1</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">WONG YIN KEW (MR)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN KAI LI, KELLY (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">HERINA BINTE ROSLIN (MISS)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LEE PEI QI (MDM)</span></td>
       <td class="tg-kveo"></td>
       <td rowspan="8" class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">MS KEK HUI YU(GUO HUIYU)</span><br>
       <br>
@@ -66,14 +66,14 @@ variant: markdown
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S2</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NUR ZULIANA BTE HAMDAN (MDM)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SYED SEGAFF BIN SYED KHALED ALSREE (MR)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">SU ZIYAN (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NOORHIDAYA BINTE ABDUL KARIM (MDM)</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S3</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">KOH JOON TECK (MR)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">NUR AQILAH BINTE JOHARI (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LEE SI WEI (MDM)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black"> ()</span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
