@@ -73,7 +73,7 @@ variant: markdown
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">1S3</span></td>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LEE SI WEI (MDM)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black"> ()</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black"> </span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
@@ -196,7 +196,7 @@ variant: markdown
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S5</span></td>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">LOW HWEE CHENG (MDM)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black"> (M)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black"> </span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
@@ -208,7 +208,7 @@ variant: markdown
     <tr>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">3S7</span></td>
       <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black">TAN PUI SAN (MDM)</span></td>
-      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black"> (M)</span></td>
+      <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit;color:black"> </span></td>
       <td class="tg-kveo"></td>
     </tr>
     <tr>
