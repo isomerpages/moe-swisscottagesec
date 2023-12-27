@@ -5,34 +5,4 @@ description: ""
 third_nav_title: Total Curriculum
 variant: tiptap
 ---
-# Total Curriculum
-
-**Towards Thoughtful Leadership**
-
-The future economies of the world need individuals who can embrace and lead change with discretion.
-
-_“In an increasingly dynamic marketplace, new learning is a prerequisite for effective change. And thoughtful leadership is a prerequisite for fostering that new learning and applying it productively.”_
-
-Cathy A. Higgins and David J. Kreischer in&nbsp;_The Case for Thoughtful Leadership._
-
-<p style="text-align: justify;">In our school, we nurture Thoughtful leaders to lead by being reflective, caring and engaged in being an active contributor. Hence, our students are encouraged to process problems reflectively and work towards solutions, primarily by demonstrating care for the human condition – in various aspects of school life.</p>
-
-![](/images/Swiss%20Experience/Total%20Curriculum/Mini-Website-Update1.jpg)
-
-<p style="text-align: justify;">To achieve the outcome of Thoughtful Leadership in all students, we developed a Future Ready Total Curriculum (FRTC) approach to designing holistic and authentic learning experiences that continue to inspire a love to learn for its own sake and for the world. The FRTC is values-centric, complementing values with the necessary knowledge, skills and dispositions to equip and guide students on a continual journey of&nbsp;<b>Thoughtful Leadership</b>&nbsp;– even after they leave our school.&nbsp;</p>
-
-**A ‘Total Curriculum’ to deliver Thoughtful Leadership**
-
-<p style="text-align: justify;">The journey begins with character. As Thoughtful Leaders, our students are guided by values in their decision-making.&nbsp; They take reference from the school values of Honour and Humility as well as the national core values of Respect, Responsibility, Resilience, Integrity, Care and Harmony.</p>
-
-<p style="text-align: justify;">To successfully access their values to make responsible decisions, our Thoughtful Leaders are equipped with the enabling social-emotional competencies and 21st century competencies to help them become work and world ready.</p>
-
-![](/images/Swiss%20Experience/Total%20Curriculum/Mini-Website-Update2.png)
-
-**Our Future Ready Total Curriculum**
-
-<p style="text-align: justify;"><i>Note: R<sup>3</sup>ICH values (Respect, Responsibility, Resilience, Integrity, Care and Harmony) are fundamental to the Character and Citizenship syllabus because they are derived from Our Shared Values, the Singapore Family Values, the Singapore 21 Vision and National Education messages.</i></p> &nbsp;&nbsp;
-
-**Our Future Ready Total Curriculum**
-
-<p style="text-align: justify;">Across the curriculum and co-curriculum, learning experiences are deliberately designed to effect joyful development of each individual’s intellectual, character and leadership dispositions – to Think, Care and Lead like a Thoughtful Leader. To do so, we provide every student with concrete examples of desired dispositions that we hope to see in them in the domains of Learning, Character and Leadership that make up the Total Curriculum in Swiss.</p>
+<h1>Total Curriculum</h1><p><strong>Towards Thoughtful Leadership</strong></p><p>The future economies of the world need individuals who can embrace and lead change with discretion.</p><p><em>“In an increasingly dynamic marketplace, new learning is a prerequisite for effective change. And thoughtful leadership is a prerequisite for fostering that new learning and applying it productively.”</em></p><p>Cathy A. Higgins and David J. Kreischer in&nbsp;<em>The Case for Thoughtful Leadership.</em></p><p>In our school, we nurture Thoughtful leaders to lead by being reflective, caring and engaged in being an active contributor. Hence, our students are encouraged to process problems reflectively and work towards solutions, primarily by demonstrating care for the human condition – in various aspects of school life.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Swiss%20Experience/Total%20Curriculum/Mini-Website-Update1.jpg"></div><p>To achieve the outcome of Thoughtful Leadership in all students, we developed a Future Ready Total Curriculum (FRTC) approach to designing holistic and authentic learning experiences that continue to inspire a love to learn for its own sake and for the world. The FRTC is values-centric, complementing values with the necessary knowledge, skills and dispositions to equip and guide students on a continual journey of&nbsp;<strong>Thoughtful Leadership</strong>&nbsp;– even after they leave our school.&nbsp;</p><p><strong>A ‘Total Curriculum’ to deliver Thoughtful Leadership</strong></p><p>The journey begins with character. As Thoughtful Leaders, our students are guided by values in their decision-making.&nbsp; They take reference from the school values of Honour and Humility as well as the national core values of Respect, Responsibility, Resilience, Integrity, Care and Harmony.</p><p>To successfully access their values to make responsible decisions, our Thoughtful Leaders are equipped with the enabling social-emotional competencies and 21st century competencies to help them become work and world ready.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Swiss%20Experience/Total%20Curriculum/Mini-Website-Update2.png"></div><p><strong>Our Future Ready Total Curriculum</strong></p><p><em>Note: R3ICH values (Respect, Responsibility, Resilience, Integrity, Care and Harmony) are fundamental to the Character and Citizenship syllabus because they are derived from Our Shared Values, the Singapore Family Values, the Singapore 21 Vision and National Education messages.</em></p><p> &nbsp;&nbsp;</p><p><strong>Our Future Ready Total Curriculum</strong></p><p>Across the curriculum and co-curriculum, learning experiences are deliberately designed to effect joyful development of each individual’s intellectual, character and leadership dispositions – to Think, Care and Lead like a Thoughtful Leader. To do so, we provide every student with concrete examples of desired dispositions that we hope to see in them in the domains of Learning, Character and Leadership that make up the Total Curriculum in Swiss.</p>
