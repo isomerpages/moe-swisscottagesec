@@ -35,7 +35,6 @@ variant: markdown
     background-color: #EAEAEA;
     text-align: left;
     vertical-align: top;
-    font-weight: bold;
     border: 1px solid black;
   }
 	
