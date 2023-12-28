@@ -44,14 +44,13 @@ variant: markdown
 | Mr Koh Joon Teck | Subject Head / Smart Electrical Technology and Design &amp; Technology |
 | Mr Lee Hongyun Eric | Design &amp; Technology and Smart Electrical Technology |
 | Mr Simon Wong Yin Kew | Design &amp; Technology |
-| Mrs Tan – Young Tsui Hwa | Design &amp; Technology |
 | Mdm Iznur Shahidah Bte Ishak | Design &amp; Technology |
 | Mdm Koh Shin Yee | Food &amp; Nutrition |
 | Mdm Su Ziyan | Food &amp; Nutrition |
 | Mdm Nurfarihah Bte Ahmad Rifa’eh |  Art |
 | Ms Nur Aqilah Bte Johari |  Art |
-| Mr Tan Yong Huat |  Flexi Adjunct Teacher |
 | Mdm Kahyati Bte Sapuan | Kitchen Assistant |
 | Mr Chua Soo Chuan | Educational Workshop Instructor |
 | Mr S. Rozaini Bin Yusoff | Educational Workshop Instructor |
 | Mr Low Keoh | Flexi Adjunct |
+| Mr Tan Yong Huat |  Flexi Adjunct  |
