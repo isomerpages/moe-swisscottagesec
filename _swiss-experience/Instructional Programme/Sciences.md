@@ -50,12 +50,10 @@ Talent Development Programmes/Competitions
 | Mdm Tan Pui San | Senior Teacher / Chemistry |
 | Mr Tan Han Chong Timothy | Year Head / Biology |
 | Mdm Sitti Aishah Bte Yusof | Subject Head CCA / Biology &amp; Chemistry |
-| Mdm Stephanie Hngh Sze Hui | Teacher /  Biology 
 | Mr Choo Shi Qian | Teacher / Chemistry |
 | Mr Kenneth Neo Cheng Wee | Teacher / Biology |
 | Mdm Lau Lee Leng | Teacher / Chemistry |
 | Mdm Low Hwee Cheng | Teacher / Physics |
-| Mr Ng Kok Hin | Teacher / Physics |
 | Mdm Shahada Bte Rahmat | Teacher / Science |
 | Mr Teo Yew Bing Simon | Teacher / Chemistry |
 | Mr Teguh Daniel | Teacher / Physics |
