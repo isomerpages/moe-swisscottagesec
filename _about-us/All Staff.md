@@ -279,6 +279,7 @@ variant: markdown
 | MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
 | MS NG HWEE CHUN    | MATHEMATICS     |      |
 | MDM ONG LAY KWAN    | MATHEMATICS     |      |
+| MS GOH SHI LE PRISCILLA    | PHYSICAL EDUCATION     |      |
 | MDM WEE AI JEE    | PHYSICS     |      |
 | MDM CHEW KIM ENG  | SCIENCE     |      |
 | MR MA CHUNG WAI  | SCIENCE     |      |
