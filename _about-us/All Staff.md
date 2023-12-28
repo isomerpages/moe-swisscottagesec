@@ -60,7 +60,7 @@ variant: markdown
   <tr>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">1S1</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">HERINA BINTE ROSLIN (MISS)</span></td>
-    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">LEE PEI QI (MDM)</span></td>
+    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">LEE PEI QI (MS)</span></td>
     <td class="tg-i0fa"></td>
     <td rowspan="8" class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">TAN ANNIE (MISS)</span><br><br><br><br><br><br><br></td>
   </tr>
