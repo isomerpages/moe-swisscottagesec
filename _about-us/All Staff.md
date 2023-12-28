@@ -277,6 +277,7 @@ variant: markdown
 | MDM CHEW WYE MUN    | MATHEMATICS     |      |
 | MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
 | MS NG HWEE CHUN    | MATHEMATICS     |      |
+| MDM ONG LAY KWAN    | MATHEMATICS     |      |
 | MDM WEE AI JEE    | PHYSICS     |      |
 | MDM CHEW KIM ENG  | SCIENCE     |      |
 | MR MA CHUNG WAI  | SCIENCE     |      |
