@@ -189,7 +189,7 @@ variant: markdown
   <tr>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">3S6</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">FAN YUN YUN (MDM)</span><br></td>
-    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">ONG LAY KWAN (M)</span></td>
+    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">ONG LAY KWAN (MDM)</span></td>
     <td class="tg-i0fa"></td>
   </tr>
   <tr>
