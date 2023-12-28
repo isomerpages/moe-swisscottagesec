@@ -281,6 +281,7 @@ variant: markdown
 | MDM WEE AI JEE    | PHYSICS     |      |
 | MDM CHEW KIM ENG  | SCIENCE     |      |
 | MR MA CHUNG WAI  | SCIENCE     |      |
+| MS LAI LIAN CHING | SCIENCE     |      |
 | MS PRENUJA D/O PANNIRCHELVAM  | TAMIL     |      |
 
 
