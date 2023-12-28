@@ -272,7 +272,8 @@ variant: markdown
 | MDM SEE TO CHEE CHONG    | CHEMISTRY    |      |
 | MS CHEN XI    | CHINESE  LANGUAGE   |      |
 | MR LOW KEOH    | D&amp;T     |      |
-| MS LIM SU-FERN   | GEORGRAPHY     |      |
+| MR TAN YONG HUAT    | D&amp;T   |      |
+| MS LIM SU-FERN   | HUMANITIES     |      |
 | MS LEE JIA YUN | HUMANITIES |
 | MDM CHEW WYE MUN    | MATHEMATICS     |      |
 | MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
