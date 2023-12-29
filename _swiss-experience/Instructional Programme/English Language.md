@@ -79,3 +79,5 @@ We aim to
 | Miss Gina Hiu Feng Ping | English Language |
 | Mdm Nur Ashkin Binte Abu Bakar | Adjunct / English  |
 | Ms Faith Ong Qi Rui | Adjunct / English |
+| Ms Tan Wei Si Stella | Adjunct / English |
+| Ms Esther Yeoh | Relief / English |

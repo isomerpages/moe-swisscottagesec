@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /swiss-experience/Instructional-Programme/physical-education/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 # Physical Education
 
@@ -28,7 +29,6 @@ The PE department will continue to innovate and inspire our students to live an 
 | Physical Education &amp; Co-Curricular Activities |  |
 | Mr Toh Chee Keong | HOD PE &amp; CCA |
 | Mdm Sitti Aishah Yusof | Subject Head CCA |
-| Mr Muhammad  Irfan | Assistant Year Head |
 | Mr Chew Kok Chung Alex | Subject Head / Student Management |
 | Mr Lim Junxuan Christopher | Subject Head / Student Well-Being &amp; Technology for Learning |
 | Mr Chen Wenhui Jason | PE Teacher |

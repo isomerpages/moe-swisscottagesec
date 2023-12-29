@@ -3,6 +3,7 @@ title: Mother Tongue Languages
 permalink: /swiss-experience/Instructional-Programme/mother-tongue-languages/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 # Mother Tongue Languages
 
@@ -39,7 +40,6 @@ third_nav_title: Instructional Programme
 | Ms Teo Lei Xin Alviena | Chinese Language Teacher |
 | Mdm Li Xiaorong | Chinese Language Teacher |
 | Ms Tam Siew Kee | Chinese Language Teacher |
-| Ms Hon Soo Sien | Chinese Language Teacher |
 | Ms Fan Yunyun | Chinese Language Teacher |
 | Mdm Hu Fang | Flexi-Adjunct Teacher / Chinese Language |
 | Ms Chen Xi | Flexi-Adjunct Teacher / Chinese Language |

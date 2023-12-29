@@ -39,3 +39,5 @@ Principles of Accounts is offered to upper secondary students in both Express an
 | Mdm Chew Wye Mun Serene |Adjunct Teacher  Mathematics |
 | Mdm Ang Sok Leng Sophia | Adjunct Teacher / Mathematics |
 | Ms Ng Hwee Chun Joyce | Adjunct Teacher / Mathematics |
+| Ms Lee Peiqi | Adjunct Teacher / Mathematics |
+| Mdm Ong Lay Kwan | Adjunct Teacher / Mathematics |
