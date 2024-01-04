@@ -42,6 +42,7 @@ variant: markdown
 | Ms Fan Yunyun | Chinese Language Teacher |
 | Mdm Hu Fang | Flexi-Adjunct Teacher / Chinese Language |
 | Ms Chen Xi | Flexi-Adjunct Teacher / Chinese Language |
+| Mdm Koh Hui Sze| Flexi-Adjunct Teacher / Chinese Language |
 | Mdm Redha Nasuha Bte Mas’od | Malay Language Teacher |
 | Mdm Siti Aishah Binti Mohamed Kamsani | Malay Language Teacher |
 | Mdm Nur Zuliana Bte Hamdan | Malay Language Teacher |
