@@ -32,7 +32,6 @@ variant: markdown
 |  |  |
 |---|---|
 | Miss Toh Hui Jing | HOD Mother Tongue Languages |
-| Mr Koh Soon Liang | Subject Head / Chinese Language /Student Well-Being |
 | Mr Abdul Nasser S/O T A Mitten | Lead Teacher / Tamil Language |
 | Mdm Xu Yiping | Senior Teacher / Chinese Language |
 | Mdm Noorhidaya Bte Abdul Karim | Senior Teacher / Malay Language |
