@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /swiss-experience/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 # Co-Curricular Activities
 **Aim**
@@ -151,10 +152,10 @@ Please refer to the table below for the schedules of CCA in 2024
     <td class="tg-dayz"><span style="color:black">Ms Ng Poh Keow</span></td>
   </tr>
   <tr>
-    <td class="tg-dayz"><span style="color:black">Mr Sunil Nair</span></td>
+    <td class="tg-dayz"><span style="color:black">Mr Adrian Koo</span></td>
   </tr>
   <tr>
-    <td rowspan="3" class="tg-dayz"><span style="color:black">7</span></td>
+    <td rowspan="3" class="tg-dayz"><span style="color:black">6</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">Boys' Brigade</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">Thu</span><br><span style="color:black">Sat</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">1530-1815</span><br><span style="color:black">0730-1300</span></td>
@@ -167,7 +168,7 @@ Please refer to the table below for the schedules of CCA in 2024
     <td class="tg-dayz"><span style="color:black">Mdm Koh Shin Yee</span></td>
   </tr>
   <tr>
-    <td rowspan="3" class="tg-dayz"><span style="color:black">8</span></td>
+    <td rowspan="3" class="tg-dayz"><span style="color:black">7</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">Girl Guides</span><br><span style="color:#2B5FCE">(only Sec 3&amp; 4 in 2024)</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">Mon</span><br><span style="color:black">Thu</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">1530-1815</span><br><span style="color:black">1530-1815</span></td>
@@ -180,7 +181,7 @@ Please refer to the table below for the schedules of CCA in 2024
     <td class="tg-dayz"><span style="color:black">new</span></td>
   </tr>
   <tr>
-    <td rowspan="4" class="tg-dayz"><span style="color:black">9</span></td>
+    <td rowspan="4" class="tg-dayz"><span style="color:black">8</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">NCC (Air)</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">Mon</span><br><span style="color:black">Thu</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">1530-1815</span><br><span style="color:black">1530-1815</span></td>
@@ -196,7 +197,7 @@ Please refer to the table below for the schedules of CCA in 2024
     <td class="tg-dayz"><span style="color:black">new</span></td>
   </tr>
   <tr>
-    <td rowspan="3" class="tg-dayz"><span style="color:black">10</span></td>
+    <td rowspan="3" class="tg-dayz"><span style="color:black">9</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">NPCC</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">Mon</span><br><span style="color:black">Thu</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">1530-1815</span><br><span style="color:black">1530-1815</span></td>
@@ -209,7 +210,7 @@ Please refer to the table below for the schedules of CCA in 2024
     <td class="tg-dayz"><span style="color:black">new</span></td>
   </tr>
   <tr>
-    <td rowspan="4" class="tg-dayz"><span style="color:black">11</span></td>
+    <td rowspan="4" class="tg-dayz"><span style="color:black">10</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">Scouts</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">Mon</span><br><span style="color:black">Thu</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">1530-1815</span><br><span style="color:black">1530-1815</span></td>
@@ -225,7 +226,7 @@ Please refer to the table below for the schedules of CCA in 2024
     <td class="tg-dayz"><span style="color:black">new</span></td>
   </tr>
   <tr>
-    <td rowspan="3" class="tg-dayz"><span style="color:black">12</span></td>
+    <td rowspan="3" class="tg-dayz"><span style="color:black">11</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">NCDCC</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">Mon</span><br><span style="color:black">Thu</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">1530-1815</span><br><span style="color:black">1530-1815</span></td>
@@ -238,7 +239,7 @@ Please refer to the table below for the schedules of CCA in 2024
     <td class="tg-dayz"><span style="color:black">Mr Sunil Nair</span></td>
   </tr>
   <tr>
-    <td rowspan="3" class="tg-dayz"><span style="color:black">13</span></td>
+    <td rowspan="3" class="tg-dayz"><span style="color:black">12</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">Badminton</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">Mon</span><br><span style="color:black">Thu</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">1530-1815</span><br><span style="color:black">1530-1815</span></td>
@@ -251,7 +252,7 @@ Please refer to the table below for the schedules of CCA in 2024
     <td class="tg-dayz"><span style="color:black">Mr Thou Reaksmey</span></td>
   </tr>
   <tr>
-    <td rowspan="4" class="tg-dayz"><span style="color:black">14</span></td>
+    <td rowspan="4" class="tg-dayz"><span style="color:black">13</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">Basketball</span></td>
     <td rowspan="4" class="tg-dayz"> <br><span style="color:black">Mon (all)</span><br> <br> <br><span style="color:black">Wed (B) / Thu (G)</span></td>
     <td rowspan="4" class="tg-dayz"> <br><span style="color:black">1530 -1815</span><br> <br> <br><span style="color:black">1500 –1815</span><br><span style="color:black">1500-1815</span></td>
@@ -261,13 +262,13 @@ Please refer to the table below for the schedules of CCA in 2024
     <td class="tg-dayz"><span style="color:black">Mr Simon Wong</span></td>
   </tr>
   <tr>
-    <td class="tg-dayz"><span style="color:black">Mdm Young Tsui Hwa</span></td>
+    <td class="tg-dayz"><span style="color:black">Mdm Lee Si Wei</span></td>
   </tr>
   <tr>
     <td class="tg-dayz"><span style="color:black">new</span></td>
   </tr>
   <tr>
-    <td rowspan="4" class="tg-dayz"><span style="color:black">15</span></td>
+    <td rowspan="4" class="tg-dayz"><span style="color:black">14</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">Floorball</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">Mon</span><br><span style="color:black">Thu</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">1530-1815</span><br><span style="color:black">1530-1815</span></td>
@@ -283,23 +284,23 @@ Please refer to the table below for the schedules of CCA in 2024
     <td class="tg-dayz"><span style="color:black">Mdm Tan Pui San</span></td>
   </tr>
   <tr>
-    <td rowspan="4" class="tg-dayz"><span style="color:black">16</span></td>
+    <td rowspan="4" class="tg-dayz"><span style="color:black">15</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">Tenpin Bowling</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">Mon</span><br><span style="color:black">Thu</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">1600-1815</span><br><span style="color:black">1600-1815</span></td>
     <td class="tg-dayz"><span style="color:black">Ms Rose Nabilah</span></td>
   </tr>
   <tr>
-    <td class="tg-dayz"><span style="color:black">Ms Faza Mahira</span></td>
+    <td class="tg-dayz"><span style="color:black">Mdm Wong Yoke Ung</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dayz"><span style="color:black">Ms Li Xiaorong</span></td>
   </tr>
   <tr>
     <td class="tg-dayz"><span style="color:black">Mrs Thasaradha Chandraleka</span></td>
   </tr>
   <tr>
-    <td class="tg-dayz"><span style="color:black">Mdm Wong Yoke Ung</span></td>
-  </tr>
-  <tr>
-    <td rowspan="3" class="tg-dayz"><span style="color:black">17</span></td>
+    <td rowspan="3" class="tg-dayz"><span style="color:black">16</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">Football</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">Mon</span><br><span style="color:black">Thu</span></td>
     <td rowspan="3" class="tg-dayz"><span style="color:black">1530-1815</span><br><span style="color:black">1530-1815</span></td>
@@ -312,7 +313,7 @@ Please refer to the table below for the schedules of CCA in 2024
     <td class="tg-dayz"><span style="color:black">Ms Ong Yuan Shin</span></td>
   </tr>
   <tr>
-    <td rowspan="4" class="tg-dayz"><span style="color:black">18</span></td>
+    <td rowspan="4" class="tg-dayz"><span style="color:black">17</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">Publications and Media Club</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">Mon</span><br><span style="color:black">Thu</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">1530-1815</span><br><span style="color:black">1530-1815</span></td>
@@ -325,10 +326,10 @@ Please refer to the table below for the schedules of CCA in 2024
     <td class="tg-dayz"><span style="color:black">Ms Gina Hiu</span></td>
   </tr>
   <tr>
-    <td class="tg-dayz"><span style="color:black">Ms Li Xiaorong</span></td>
+    <td class="tg-dayz"><span style="color:black">New</span></td>
   </tr>
   <tr>
-    <td rowspan="4" class="tg-dayz"><span style="color:black">19</span></td>
+    <td rowspan="4" class="tg-dayz"><span style="color:black">18</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">Science &amp; Technology Club</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">Mon</span><br><span style="color:black">Thu</span></td>
     <td rowspan="4" class="tg-dayz"><span style="color:black">1530-1815</span><br><span style="color:black">1530-1815</span></td>

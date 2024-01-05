@@ -32,7 +32,6 @@ variant: markdown
 |  |  |
 |---|---|
 | Miss Toh Hui Jing | HOD Mother Tongue Languages |
-| Mr Koh Soon Liang | Subject Head / Chinese Language /Student Well-Being |
 | Mr Abdul Nasser S/O T A Mitten | Lead Teacher / Tamil Language |
 | Mdm Xu Yiping | Senior Teacher / Chinese Language |
 | Mdm Noorhidaya Bte Abdul Karim | Senior Teacher / Malay Language |
@@ -43,6 +42,7 @@ variant: markdown
 | Ms Fan Yunyun | Chinese Language Teacher |
 | Mdm Hu Fang | Flexi-Adjunct Teacher / Chinese Language |
 | Ms Chen Xi | Flexi-Adjunct Teacher / Chinese Language |
+| Mdm Koh Hui Sze| Flexi-Adjunct Teacher / Chinese Language |
 | Mdm Redha Nasuha Bte Mas’od | Malay Language Teacher |
 | Mdm Siti Aishah Binti Mohamed Kamsani | Malay Language Teacher |
 | Mdm Nur Zuliana Bte Hamdan | Malay Language Teacher |
@@ -52,3 +52,4 @@ variant: markdown
 | Mdm Thasradha Chandraleka | Tamil Language Teacher |
 | Mr Viswalingam Thenmozhi |  Flexi-Adjunct Teacher / Tamil Language |
 | Ms Prenuja D/O Pannirchelvam | Flexi-Adjunct Teacher / Tamil Language |
+| Mdm Kaliee Muthu Silvi | Flexi-Adjunct Teacher / Tamil Language |

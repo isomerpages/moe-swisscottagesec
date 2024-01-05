@@ -42,13 +42,9 @@ We strive to achieve our mission through the following Areas of Focus:
 
 Chairperson - Alexis Kam
 
-Vice Chairperson - Paul Ng        
+Secretary - Penny Tan        
 
-Secretary    -   Adeline Hong 
-
-Treasurer - Penny Tan
-
-Assistant Treasurer - Eileen Bee
+Treasurer -   Adeline Koh 
 
 Alumini Exco - Erik Sim
 
@@ -56,17 +52,19 @@ Exco members -  Amanda Ang
 												 
 Exco members - Esther Lim
 												 
-Exco members -Jo-anne Wee
+Exco members - Faridah Binte Abdul Karim
 												 
-Exco members - Leong Weng Fei
+Exco members - Jaqueline Onn
+
+Exco members - Molly Mohana
 												 
-Exco members - Ng May Hsia
+Exco members - Pearlyn Ng
 												 
-Exco members - Sahronizam Bin Selamat
+Exco members - Roy Low
 												 
-Exco members - Sonali Ahuja Makhijani
+Exco members - Sandy Lim
 												 
-Exco members - Theresa Joo		
+Exco members - Sonali Ahuja Makhijani		
 
 
 [Swiss PSG Exco Members](/files/PSG_Orgn_Chart_2024_v2.pdf)
