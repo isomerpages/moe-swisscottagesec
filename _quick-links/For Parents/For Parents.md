@@ -3,31 +3,6 @@ title: For Parents
 permalink: /quick-links/for-parents/
 description: ""
 third_nav_title: For Parents
+variant: tiptap
 ---
-# For Parents
-
-### The 60th Anniversary T-Shirts!![The 60th Anniversary T Shirts](/images/the%2060th%20anniversary%20t-shirts.jpeg)
-
-### The 60th Anniversary T-Shirts Order Form!<img src="/images/the%2060th%20anniversary%20t-shirt%20order%20form.jpeg" style="width: 40%">
-
-
-The following are links to websites that we feel may be useful in the development of your child in their physical and emotional areas:
-
-
-1\. [Physical Development](physical-development/)<br>
-2\.  [Co-curricular Activities Programme](co-curricular-activities-programme/)  <br>
-3\.  [Post Secondary Education/Career Guidance](post-secondary-educationcareer-guidance/)  <br>
-4\.  [MOE Cyber Wellness Portal](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)  <br>
-5\.  [Sexuality Education Programme](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)
-
-Information for 2024
-
-1\.  [Secondary 1 Booklist 2024](/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%201_241023(1).pdf) <br>
-2\.  [Secondary 2 Booklist 2024](/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%202.pdf)  <br>
-3\.  [Secondary 3 Booklist 2024](/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%203.pdf) <br>
-4\.  [Secondary 4 Booklist 2024](/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%204(1).pdf)  <br>
-5\.  [Secondary 5 Booklist 2024](/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%205.pdf)  <br>
-6\.  [Swiss Uniform Online Sales Guide](/files/For%20parents/swiss%20uniform%2023%20(2).pdf)  <br>
-7\.  [Secondary 1 Meet-the-Parents Session](/files/For%20parents/2023-S1-MTP-Combined-Slides-vSchWebsite.pdf)<br>
-8\.  [Geography Briefing for Parents](/files/For%20parents/2023-Geography-Briefing-For-Parents.pdf)<br>
-9\.  [Bookshop Services Provider](/files/For%20parents/new%20bookshop%20services%20provider%20wef%201%20apr%202023.pdf)
+<h1>For Parents</h1><h3>The 60th Anniversary T-Shirts!</h3><h3>The 60th Anniversary T-Shirts Order Form!</h3><p>The following are links to websites that we feel may be useful in the development of your child in their physical and emotional areas:</p><p>1. <a href="physical-development/" rel="noopener noreferrer nofollow" target="_blank">Physical Development</a><br>2. <a href="co-curricular-activities-programme/" rel="noopener noreferrer nofollow" target="_blank">Co-curricular Activities Programme</a> <br>3. <a href="post-secondary-educationcareer-guidance/" rel="noopener noreferrer nofollow" target="_blank">Post Secondary Education/Career Guidance</a> <br>4. <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Portal</a> <br>5. <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education Programme</a></p><p><strong><u>Information for 2024</u></strong></p><p>1. <a href="/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%201_241023(1).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Booklist 2024</a> <br>2. <a href="/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%202.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Booklist 2024</a> <br>3. <a href="/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%203.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Booklist 2024</a> <br>4. <a href="/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%204(1).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Booklist 2024</a> <br>5. <a href="/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%205.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Booklist 2024</a> <br>6. <a href="/files/For%20parents/swiss%20uniform%2023%20(2).pdf" rel="noopener noreferrer nofollow" target="_blank">Swiss Uniform Online Sales Guide</a> <br>7. <a href="/files/2024_S1_MTP_050124_vWebsite.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Meet-the-Parents Session 2024</a><br>8. <a href="/files/For%20parents/2023-Geography-Briefing-For-Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Geography Briefing for Parents</a><br>9. <a href="/files/For%20parents/new%20bookshop%20services%20provider%20wef%201%20apr%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Bookshop Services Provider</a></p>
