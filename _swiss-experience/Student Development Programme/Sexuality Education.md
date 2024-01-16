@@ -250,7 +250,7 @@ You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/
     <td class="tg-h5mn">This is Where I Draw the Line<br><br>(60 mins)<br> </td>
     <td class="tg-h5mn">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.</td>
     <td class="tg-h5mn">·       understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
-    <td class="tg-h5mn">Term 3 Week 1</td>
+    <td class="tg-h5mn">Term 3 Week 2</td>
   </tr>
 </tbody>
 </table>
