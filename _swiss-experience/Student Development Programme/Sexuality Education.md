@@ -302,6 +302,6 @@ You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/
 
 11\. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form via the link&nbsp;[here](https://form.gov.sg/65a4fa5c399a250012bc0e89)         &nbsp;The completed form is to be submitted by 31/01/2024.
 
-12\.  Parents who wish to opt their children out of the&nbsp;**eTeens**&nbsp;need to complete an opt-out form via the link&nbsp;[here](https://form.gov.sg/63be7a08f4876f00137f6dee)&nbsp;. The completed form is to be submitted by 31/01/2024.
+12\.  Parents who wish to opt their children out of the&nbsp;**eTeens**&nbsp;need to complete an opt-out form via the link&nbsp;[here](https://form.gov.sg/65a500f7e008a80011688ae6)&nbsp;. The completed form is to be submitted by 31/01/2024.
 
 13\. Parents can contact the school at&nbsp;[scss@moe.edu.sg](mailto:scss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.
