@@ -42,7 +42,7 @@ You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/
 
 <p style="text-align: justify;">7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 
-<b>At SWISS COTTAGE SECONDARY SCHOOL, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</b>
+<b>At SWISS COTTAGE SECONDARY SCHOOL, the following Sexuality Education lessons will be taught in&nbsp;<u>2024</u>:</b>
 
 **2024 Sexuality Education Lessons in CCE 2021**
 
@@ -120,13 +120,13 @@ You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/
     <td class="tg-h5mn">A Role for Everyone<br><br>Lesson 1<br>(60  mins)</td>
     <td class="tg-h5mn">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.<br><br>Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.<br>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</td>
     <td class="tg-h5mn">·       know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>·       develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·       understand what sexual orientation entails</td>
-    <td class="tg-h5mn">Term 3 Wk 8</td>
+    <td class="tg-h5mn">Term 3 Wk 4</td>
   </tr>
   <tr>
     <td class="tg-1ppo">Online Safety Challenge<br><br>Lesson 2A<br>(60 mins)</td>
     <td class="tg-1ppo">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
     <td class="tg-1ppo">·     recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
-    <td class="tg-1ppo">Term 3 Wk 9</td>
+    <td class="tg-1ppo">Term 3 Wk 6</td>
   </tr>
   <tr>
     <td class="tg-h5mn">Do I or Don’t I<br><br>Lesson 2B<br>(60 mins)</td>
