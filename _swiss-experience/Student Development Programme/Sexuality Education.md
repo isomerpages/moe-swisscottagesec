@@ -3,6 +3,7 @@ title: Sexuality Education
 permalink: /swiss-experience/student-development-programme/sexuality-education/
 description: ""
 third_nav_title: Student Development Programme
+variant: markdown
 ---
 # Sexuality Education
 
@@ -25,7 +26,7 @@ third_nav_title: Student Development Programme
 *   Make responsible decisions for yourself, your family and society; and
 *   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones
 
-You may click&nbsp;[**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)&nbsp; for more information on MOE Sexuality Education.&nbsp;
+You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)&nbsp; for more information on MOE Sexuality Education.&nbsp;
 
 **Overview of Swiss Cottage Secondary School’s Sexuality Education Programme for 2023**
 
