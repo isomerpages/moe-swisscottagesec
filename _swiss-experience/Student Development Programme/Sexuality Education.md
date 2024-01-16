@@ -3,6 +3,7 @@ title: Sexuality Education
 permalink: /swiss-experience/student-development-programme/sexuality-education/
 description: ""
 third_nav_title: Student Development Programme
+variant: markdown
 ---
 # Sexuality Education
 
@@ -25,9 +26,9 @@ third_nav_title: Student Development Programme
 *   Make responsible decisions for yourself, your family and society; and
 *   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones
 
-You may click&nbsp;[**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)&nbsp; for more information on MOE Sexuality Education.&nbsp;
+You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)&nbsp; for more information on MOE Sexuality Education.&nbsp;
 
-**Overview of Swiss Cottage Secondary School’s Sexuality Education Programme for 2023**
+**Overview of Swiss Cottage Secondary School’s Sexuality Education Programme for 2024**
 
 <p style="text-align: justify;">4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
 
@@ -41,9 +42,9 @@ You may click&nbsp;[**here**](https://www.moe.gov.sg/education-in-sg/our-program
 
 <p style="text-align: justify;">7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 
-<b>At SWISS COTTAGE SECONDARY SCHOOL, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</b>
+<b>At SWISS COTTAGE SECONDARY SCHOOL, the following Sexuality Education lessons will be taught in&nbsp;<u>2024</u>:</b>
 
-**2023 Sexuality Education Lessons in CCE 2021**
+**2024 Sexuality Education Lessons in CCE 2021**
 
 **Secondary 1**
 
@@ -119,19 +120,19 @@ You may click&nbsp;[**here**](https://www.moe.gov.sg/education-in-sg/our-program
     <td class="tg-h5mn">A Role for Everyone<br><br>Lesson 1<br>(60  mins)</td>
     <td class="tg-h5mn">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.<br><br>Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.<br>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</td>
     <td class="tg-h5mn">·       know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>·       develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·       understand what sexual orientation entails</td>
-    <td class="tg-h5mn">Term 3 Wk 8</td>
+    <td class="tg-h5mn">Term 3 Wk 4</td>
   </tr>
   <tr>
     <td class="tg-1ppo">Online Safety Challenge<br><br>Lesson 2A<br>(60 mins)</td>
     <td class="tg-1ppo">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
     <td class="tg-1ppo">·     recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
-    <td class="tg-1ppo">Term 3 Wk 9</td>
+    <td class="tg-1ppo">Term 3 Wk 6</td>
   </tr>
   <tr>
     <td class="tg-h5mn">Do I or Don’t I<br><br>Lesson 2B<br>(60 mins)</td>
     <td class="tg-h5mn">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.</td>
     <td class="tg-h5mn">·     recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>·     recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
-    <td class="tg-h5mn">Term 4 Week 1</td>
+    <td class="tg-h5mn">Term 4 Week 2</td>
   </tr>
 </tbody>
 </table>
@@ -249,7 +250,7 @@ You may click&nbsp;[**here**](https://www.moe.gov.sg/education-in-sg/our-program
     <td class="tg-h5mn">This is Where I Draw the Line<br><br>(60 mins)<br> </td>
     <td class="tg-h5mn">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.</td>
     <td class="tg-h5mn">·       understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
-    <td class="tg-h5mn">Term 3 Week 1</td>
+    <td class="tg-h5mn">Term 3 Week 2</td>
   </tr>
 </tbody>
 </table>
@@ -260,7 +261,7 @@ You may click&nbsp;[**here**](https://www.moe.gov.sg/education-in-sg/our-program
 
 <p style="text-align: justify;">9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;<i>eTeens</i>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
 
-**At Swiss Cottage Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:**
+**At Swiss Cottage Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2024:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -284,12 +285,12 @@ You may click&nbsp;[**here**](https://www.moe.gov.sg/education-in-sg/our-program
   <tr>
     <td class="tg-1ppo">Mass Talk by HPB appointed vendor</td>
     <td class="tg-1ppo">·       Awareness of the different STIs and HIV/AIDS<br><br>·       Modes of transmission<br>·       Modes of protection, specifically on how the condom is used<br>·       Consequences and impact of STIs/HIV</td>
-    <td class="tg-1ppo">Term 2 Week 2</td>
+    <td class="tg-1ppo">Term 2 Week 5</td>
   </tr>
   <tr>
     <td class="tg-h5mn">Classroom-based Lesson</td>
     <td class="tg-h5mn">·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
-    <td class="tg-h5mn">Term 2 Week 3</td>
+    <td class="tg-h5mn">Term 2 Week 6</td>
   </tr>
 </tbody>
 </table>
@@ -299,8 +300,8 @@ You may click&nbsp;[**here**](https://www.moe.gov.sg/education-in-sg/our-program
 
 10\.  Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11\. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form via the link&nbsp;[**here**.](https://form.gov.sg/63be6bb7993c710012245c6f)&nbsp;The completed form is to be submitted by 14/02/2023.
+11\. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form via the link&nbsp;[here](https://form.gov.sg/65a4fa5c399a250012bc0e89)         &nbsp;The completed form is to be submitted by 31/01/2024.
 
-12\.  Parents who wish to opt their children out of the&nbsp;**eTeens**&nbsp;need to complete an opt-out form via the link&nbsp;[here](https://form.gov.sg/63be7a08f4876f00137f6dee)&nbsp;. The completed form is to be submitted by 14/02/2023.
+12\.  Parents who wish to opt their children out of the&nbsp;**eTeens**&nbsp;need to complete an opt-out form via the link&nbsp;[here](https://form.gov.sg/65a500f7e008a80011688ae6)&nbsp;. The completed form is to be submitted by 31/01/2024.
 
 13\. Parents can contact the school at&nbsp;[scss@moe.edu.sg](mailto:scss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.
