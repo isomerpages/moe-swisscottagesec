@@ -132,7 +132,7 @@ You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/
     <td class="tg-h5mn">Do I or Don’t I<br><br>Lesson 2B<br>(60 mins)</td>
     <td class="tg-h5mn">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.</td>
     <td class="tg-h5mn">·     recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>·     recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
-    <td class="tg-h5mn">Term 4 Week 1</td>
+    <td class="tg-h5mn">Term 4 Week 2</td>
   </tr>
 </tbody>
 </table>
