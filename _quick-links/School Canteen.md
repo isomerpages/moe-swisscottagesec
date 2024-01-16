@@ -2,6 +2,7 @@
 title: School Canteen
 permalink: /quick-links/school-canteen/
 description: ""
+variant: markdown
 ---
 # School Canteen Advertisement
 
@@ -9,7 +10,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Hot & Cold Drinks Stall     | 17 November 2023     | Nil    |
+| Malay Noodles  Stall     | 31 Jan 2024     | Halal    |
 
          
 
