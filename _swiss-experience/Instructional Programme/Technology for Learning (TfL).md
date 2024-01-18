@@ -3,6 +3,7 @@ title: Technology for Learning (TfL)
 permalink: /swiss-experience/Instructional-Programme/technology-for-learning/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 # Technology for Learning (TfL)
 
@@ -30,7 +31,7 @@ third_nav_title: Instructional Programme
 | ICT &amp; Computer Applications |  |
 |---|---|
 | Mr Wong Wai Kiong Terence | HOD Technology for Learning (TfL) |
-| Mr Lim Junxuan Christopher | Subject Head / Student Well-Being &amp; Technology for Learning |
+| Mr Lim Junxuan Christopher | ICT and  Student Well-Being &amp; Technology for Learning |
 | Mdm Shahada Bte Rahmat | CPA Teacher |
 | Mr Wong Yin Kew | CPA Teacher |
 | Mr Choo Shi Qian | CPA Teacher |
