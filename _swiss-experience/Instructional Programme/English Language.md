@@ -69,10 +69,10 @@ We aim to
 | Mr Wong Wai Kiong Terence | HOD Technology for Learning |
 | Mr Tan Jeng, Gordon | Subject Head / English Language |
 | Mrs Constance Wong | Lead Teacher / English Language |
-| Ms Herina Bte Roslin | Senior Teacher / English Teacher |
+| Ms Herina Bte Roslin | Senior Teacher / Literature Teacher |
+| Miss Tan Mee Han | Senior Teacher / English Language |
 | Ms Kek Huiyu | Year Head / English Language |
 | Mdm Ong Yuan Shin | English Language |
-| Miss Tan Mee Han | English Language |
 | Ms Serene Lee Ching Lien | English Language |
 | Ms Faith Wang Yi Shan | English Language and Geography |
 | Ms Tan Yan Lin, Hazel | English Language and Literature |
