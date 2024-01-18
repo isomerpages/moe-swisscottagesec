@@ -3,6 +3,7 @@ title: English Literature
 permalink: /swiss-experience/Instructional-Programme/english-literature/
 description: ""
 third_nav_title: Instructional Programme
+variant: markdown
 ---
 # English Literature
 
@@ -17,7 +18,7 @@ third_nav_title: Instructional Programme
 <p style="text-align: justify;">In Swiss, Literature in English is offered in the Upper Secondary – both as a core and elective subject, in the Express and Normal Academic courses. Regardless of whether a student reads Literature as a discipline in the Upper Secondary course, they would, through the Lower Secondary programme:</p>
 
 *   have read works from the three literary genres (i.e. poetry, prose and drama);
-*   have read literature from different parts of the world, including Singapore;
+*   have read literature from different parts of the world, including&nbsp;Singapore;
 *   be able to read a text independently;
 *   be able to critically analyse a text;
 *   be able to give a personal response to a text and its concerns; and
@@ -57,9 +58,9 @@ The English Literature unit is a small cohesive unit made up of the following dy
 
 |  |  |
 |---|---|
-| Mdm Mini Sathiya Sidhan | HOD/Total Curriculum & English Literature |
+| Mdm Mini Sathiya Sidhan | HOD/Total Curriculum &amp; English Literature |
 | Mr Tan Jeng, Gordon | Subject Head / English |
 | Mdm Tan Su Yin Constance | Lead Teacher / English |
-| Miss Herina Roslin | Senior Teacher / English |
+| Miss Herina Roslin | Senior Teacher / Literature |
 | Ms Hazel Tan | English Language and Literature Teacher |
 | Mr Salleh Bin Merwan | English Literature / Geography Teacher |
