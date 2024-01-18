@@ -3,10 +3,11 @@ title: Code of Conduct and School Rules
 permalink: /swiss-experience/student-development-programme/code-of-conduct/
 description: ""
 third_nav_title: Student Development Programme
+variant: markdown
 ---
 # Code of Conduct and School Rules
 
-<p style="text-align: justify;"><b>Swiss Cottage takes a&nbsp;<u>Character First</u> approach&nbsp;in developing our students. The school wishes to instil positive values in the students so that they can self-regulate, while at the same time affirm the good in every student through various platforms.</b></p>
+<p style="text-align: justify;"><b>Swiss Cottage takes a&nbsp;Character First approach&nbsp;in developing our students. The school wishes to instil positive values in the students so that they can self-regulate, while at the same time affirm the good in every student through various platforms.</b></p>
 
 ### <b><u>SWISS R.U.L.E.S.</u></b>
 
@@ -59,7 +60,7 @@ As a Swiss student, I will uphold Swiss R.U.L.E.S.:
 
 |                                                |                           |
 |----------------------------|------------------------|
-| **Swiss Cottage strives to build strong school pride in our students.** | **School prid**e is a love for the school, the feeling that we belong to Swiss Cottage – a special school. The Swiss values of **P**assion, **R**esilience, **I**ntegrity, **D**are to Try and **E**mpathy (P.R.I.D.E.), govern the way we Think, Care and Lead.<br><br>Students with a deep sense of pride in the school will conduct themselves with respect and responsibility towards the school, the staff and fellow Swiss students. Swiss students should strive to maintain full attendance, a smart appearance, a positive attitude, high aspirations and hence attain satisfying achievements. |
+| **Swiss Cottage strives to build strong school pride in our students.** | **School prid**e is a love for the school, the feeling that we belong to Swiss Cottage – a special school. The Swiss values of Honour and Humility, govern the way we Think, Care and Lead.<br><br>Students with a deep sense of pride in the school will conduct themselves with respect and responsibility towards the school, the staff and fellow Swiss students. Swiss students should strive to maintain full attendance, a smart appearance, a positive attitude, high aspirations and hence attain satisfying achievements. |
 | **Swiss Cottage strives to help students be self-disciplined.**         | A self-disciplined person is a master of himself who knows how to act with respect and responsibility. A self-disciplined person has the strength of mind to speak and act in ways that are appropriate, and to avoid speech and conduct that are inappropriate.<br><br>A self-disciplined person has the strength of character to persevere in spite of stress or setbacks, to press on to balance academics, CCAs, other school activities and core commitments to family/friends.                                                                                             |
 
 
