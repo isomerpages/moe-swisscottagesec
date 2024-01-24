@@ -1,0 +1,5 @@
+collections:
+  secondary-1-registration-2024:
+    output: true
+    order:
+      - Secondary 1 Registration 2024.md
