@@ -20,7 +20,7 @@ sections:
       url: https://www.swisscottagesec.moe.edu.sg/quick-links/swiss-cottage-diamond-jubilee-concert/
       description: Celebrating Sixty Glorious Years
   - infobar:
-      title: THE 60th ANNIVERSARY CELEBRATION
+      title: THE 60TH ANNIVERSARY CELEBRATION
       button: Read More
       url: https://www.swisscottagesec.moe.edu.sg/quick-links/60-anniversary-celebration/
       subtitle: Featured Posts
