@@ -13,7 +13,7 @@ sections:
           description: ""
           url: https://www.swisscottagesec.moe.edu.sg/secondary-1-registration-2024/secondary-1-registration-2024/
   - infobar:
-      title: Swiss Cottage Diamond Jubilee Concert
+      title: SWISS COTTAGE DIAMOND JUBILEE CONCERT
       subtitle: Featured Posts
       id: infobar
       button: Read More
