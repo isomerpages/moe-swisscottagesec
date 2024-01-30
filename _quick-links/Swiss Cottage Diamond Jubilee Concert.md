@@ -18,7 +18,7 @@ Dance, Drama Club, Military Band, and Show Choir. As we commemorate 60
 years of excellence in education and the arts, we extend a warm invitation
 to the general public to be part of this milestone event.</p>
 <p></p>
-<p>Tickets are priced at $35 and $25. You may place your orders through the
-following link: &nbsp;<a href="https://form.gov.sg/6565ecdf8f103d0012c1a51e" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Tickets are priced at $35 and $25. You may place your orders &nbsp;
+<a href="https://form.gov.sg/6565ecdf8f103d0012c1a51e" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p>Payment is by cash only, via our General Office between 8AM and 4:30PM.</p>
