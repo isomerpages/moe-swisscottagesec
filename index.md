@@ -47,4 +47,10 @@ sections:
       url: https://ask.gov.sg/scss
       image: /images/scss-askgov.png
       alt: Image alt text
+  - infobar:
+      title: Diamond Jubilee Concert
+      subtitle: Featured Posts
+      id: infobar
+      button: Read More
+      url: https://www.swisscottagesec.moe.edu.sg/quick-links/diamond-jubilee-concert/
 ---
