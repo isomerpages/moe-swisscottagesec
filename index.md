@@ -17,7 +17,7 @@ sections:
       subtitle: Featured Posts
       id: infobar
       button: Read More
-      url: https://swisscottagesec.moe.edu.sg/quick-links/swiss-cottage-diamond-jubilee-concert/
+      url: https://www.swisscottagesec.moe.edu.sg/quick-links/swiss-cottage-diamond-jubilee-concert/
       description: Celebrating Sixty Glorious Years
   - infobar:
       title: The 60th Anniversary Celebration
