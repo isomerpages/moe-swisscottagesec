@@ -13,7 +13,14 @@ sections:
           description: ""
           url: https://www.swisscottagesec.moe.edu.sg/secondary-1-registration-2024/secondary-1-registration-2024/
   - infobar:
-      title: The 60th Anniversary Celebration
+      title: SWISS COTTAGE DIAMOND JUBILEE CONCERT
+      subtitle: Featured Posts
+      id: infobar
+      button: Read More
+      url: https://www.swisscottagesec.moe.edu.sg/quick-links/swiss-cottage-diamond-jubilee-concert/
+      description: Celebrating Sixty Glorious Years
+  - infobar:
+      title: THE 60TH ANNIVERSARY CELEBRATION
       button: Read More
       url: https://www.swisscottagesec.moe.edu.sg/quick-links/60-anniversary-celebration/
       subtitle: Featured Posts
