@@ -20,7 +20,7 @@ Personal Learning Device (PLD) by end-2021.</p>
 </p>
 <p>3. <strong><u>Support the Development of Digital Literacies through the PACKAGE FRAMEWORK</u> – PLDs provide an immersive environment for students to develop the dispositions, knowledge and skills to thrive in the digital environment. The PACKAGE Framework (see below) guides the school in:</strong>
 </p>
-<p>a. <strong>Designing tiered skill development of students;</strong>
+<p>a. <strong>Designing tiered skill development of students;</strong> 
 <br>b. <strong>Designing learning experiences that are focused on enabling students to participate in both Synchronous and Asynchronous learning;</strong>
 </p>
 <p><strong><u>PACKAGE Framework</u></strong>
