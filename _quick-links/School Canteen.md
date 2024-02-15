@@ -10,7 +10,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Noodles / Indian Muslim / Western Stall     | 15 Feb 2024     | Halal    |
+| Malay Noodles / Indian Muslim / Western / Asian Fusion Stall     | 8 Mar 2024     | Halal    |
 
          
 
