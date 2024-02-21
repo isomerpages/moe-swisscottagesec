@@ -58,6 +58,9 @@ journey and beyond.</p>
 <p><strong>Lam Jing Xuan (4S1)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Swiss Achievements/Lam_Jing_Xuan.jpg">
+</div>
 <p>In a world often dominated by self-promotion, the humility exuded by Jing
 Xuan in reflecting on his academic achievements stands out as a refreshing
 change. Despite securing impressive O level results, Jing Xuan describes
