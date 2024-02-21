@@ -197,21 +197,14 @@ his academic pursuits with his professional ambitions.</p>
 excellence. It emphasises the importance of support systems, learning from
 setbacks, and adapting strategies to overcome challenges – a narrative
 that inspires others on their academic journeys.</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p>&nbsp;<strong>&nbsp;</strong>
 </p>
 <p><strong>Nor Arleesha Binte Noor Azlan (4S4)</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Swiss Achievements/Nor_Arleesha.jpg">
+</div>
 <p></p>
 <p>Arleesha’s journey through the O level examinations was marked by an unexpected
 blend of triumphs and challenges. While she had set her sights on achieving
