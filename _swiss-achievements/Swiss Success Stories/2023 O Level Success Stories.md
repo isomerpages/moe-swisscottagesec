@@ -407,6 +407,9 @@ course and beyond.</p>
 <p><strong>Ivo Lim (5S1)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Swiss Achievements/Ivo_Lim.jpg">
+</div>
 <p></p>
 <p></p>
 <p>In the realm of his secondary school journey, Ivo, a passionate and determined
@@ -452,4 +455,5 @@ the limitless possibilities that technology offers.</p>
 of resilience, gratitude, and a bright future filled with limitless possibilities.
 We wish Ivo the very best in his pursuit of excellence and boundless creativity
 in the world of IT. Cheers to a future that awaits with open arms!</p>
+<p></p>
 <p></p>
