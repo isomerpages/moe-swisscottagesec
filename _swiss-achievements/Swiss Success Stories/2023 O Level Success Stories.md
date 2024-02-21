@@ -329,6 +329,10 @@ pursuits!</p>
 <p><strong>Liew Shaw Yoong (5S1)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Swiss Achievements/Liew_Shaw_Yoong.jpg">
+</div>
+<p></p>
 <p>In the journey of discovering his results, Shaw Yoong is met with a cascade
 of emotions. Despite investing considerable effort in improving his English
 grades, the overall outcome doesn't diminish his spirits. Instead, he finds
@@ -366,6 +370,9 @@ our support and best wishes for success in all his future endeavours.</p>
 <p><strong>Teo Jun Chao (5S1)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Swiss Achievements/TeoJun_Chao.jpg">
+</div>
 <p>Despite not achieving the exact score he aimed for, Jun Chao finds satisfaction
 in his accomplishments. He attributes a significant part of his success
 to discipline, recognising its importance in navigating the challenges
@@ -399,6 +406,8 @@ course and beyond.</p>
 </p>
 <p><strong>Ivo Lim (5S1)</strong>
 </p>
+<p></p>
+<p></p>
 <p></p>
 <p>In the realm of his secondary school journey, Ivo, a passionate and determined
 individual, paints a canvas of emotions, from the initial paranoia to the
