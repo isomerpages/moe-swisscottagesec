@@ -101,6 +101,9 @@ played a crucial role in shaping his journey.</p>
 <p><strong>Tricia Tan En Qi (4S1)</strong>
 </p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Swiss Achievements/Tricia_Tan_En_Qi.jpg">
+</div>
 <p></p>
 <p>&nbsp;</p>
 <p>In the intricate mosaic of her post-secondary journey, Tricia, a resilient
@@ -151,6 +154,9 @@ success in her future endeavours!</p>
 <p><strong>Jayden Yeo Ruijin (4S4)</strong>
 </p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Swiss Achievements/Jayden_Yeo_Ruijin.jpg">
+</div>
 <p></p>
 <p>Jayden Yeo's journey through the O level examinations is a testament to
 resilience and determination. He expressed a mixed emotion of delight and
@@ -434,3 +440,4 @@ the limitless possibilities that technology offers.</p>
 of resilience, gratitude, and a bright future filled with limitless possibilities.
 We wish Ivo the very best in his pursuit of excellence and boundless creativity
 in the world of IT. Cheers to a future that awaits with open arms!</p>
+<p></p>
