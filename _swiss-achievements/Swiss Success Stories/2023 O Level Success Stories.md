@@ -8,6 +8,9 @@ third_nav_title: Swiss Success Stories
 <p><strong>Ahmad Danial Idraqi Bin Ahmadulhaq (4S1)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Swiss Achievements/Ahmad_Danial_Idraqi.jpg">
+</div>
 <p>&nbsp;</p>
 <p>Ahmad Danial attributes his success to the unwavering support of friends
 who stood by him during his time at Swiss. "Jing Xuan and Resshwin helped
