@@ -282,6 +282,11 @@ all of us to do better. We wish her all the best for her future endeavours!</p>
 <p><strong>Chai Ming Dong (4S8)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Swiss Achievements/Chai_Ming_Dong.jpg">
+</div>
+<p></p>
+<p></p>
 <p>Ming Dong took a humble moment to reflect on his O level results, as he
 recounted a mix of relief and a touch of disappointment. Grateful for his
 hard work paying off and securing a score that opens doors to various courses
