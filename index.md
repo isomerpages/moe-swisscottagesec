@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/school-website copy.jpg
-      key_highlights:
-        - title: Sec 1 Registration 2024 (click here)
-          description: ""
-          url: https://www.swisscottagesec.moe.edu.sg/secondary-1-registration-2024/secondary-1-registration-2024/
   - infobar:
       title: SWISS COTTAGE DIAMOND JUBILEE CONCERT
       subtitle: Featured Posts
