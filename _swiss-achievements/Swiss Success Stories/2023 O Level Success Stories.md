@@ -240,6 +240,11 @@ within to navigate through the unexpected twists that life may present.</p>
 <p><strong>Ng Xin Tong (4S8)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Swiss Achievements/Ng_Xin_Tong.jpg">
+</div>
+<p></p>
+<p></p>
 <p>In the tapestry of her secondary school years, Xin Tong, a determined
 and resilient student, wove a story of dedication and self-discovery. Balancing
 academic rigour and personal well-being became the cornerstone of her final
