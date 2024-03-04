@@ -2,6 +2,7 @@
 title: For Students
 permalink: /quick-links/for-students/
 description: ""
+variant: markdown
 ---
 # For Students
 
@@ -13,7 +14,7 @@ description: ""
 
 [My SkillsFuture Portal (for students)](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
-*   [Making appointment with ECG counsellor](https://www.booking.gov.sg/public/services/g4x7dy6z/availability?spId=3l5gO1x9&amp;anonymous=true)
+*   [Making appointment with ECG counsellor](https://for.edu.sg/swiss-cottage-ecg-counselling)
 
 [School Library SPYDUS Online Book Catalogue](https://schoolibrary.moe.edu.sg/swisscottagesec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
