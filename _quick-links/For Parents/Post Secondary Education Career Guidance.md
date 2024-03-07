@@ -3,6 +3,7 @@ title: Post Secondary Education Career Guidance
 permalink: /quick-links/for-parents/post-secondary-educationcareer-guidance/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 Education and Career Guidance
 =============================
@@ -15,7 +16,7 @@ Education and Career Guidance
 *   Career Chats with alumni from different industries to share their personal journey and experience in respective field
 *   EM / AEM modules with practice-oriented learning experience similar to polytechnic modules
 *   Talks / Learning Journey to Post-Secondary Education Institution
-*   [Making appointment with ECG counsellor](https://www.booking.gov.sg/public/services/G4x7Dy6Z/availability?spId=3l5gO1x9&anonymous=true)
+*   [Making appointment with ECG counsellor](https://for.edu.sg/swiss-cottage-ecg-counselling)
 
 Resources for parents
 
