@@ -118,12 +118,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/mr%20jamin%20gan%20wei%20en%20(committee%20member).jpeg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/mr%20jamin%20gan%20wei%20en%20(committee%20member).jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Amanda%20Loh.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Amanda%20Loh.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
