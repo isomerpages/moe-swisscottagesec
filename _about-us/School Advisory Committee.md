@@ -23,7 +23,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Mr%20Nguyen%20Van%20Vang.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Mr%20Nguyen%20Van%20Vang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,7 +136,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Lim_Cheng_Puay__002_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Lim_Cheng_Puay__002_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
