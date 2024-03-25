@@ -147,8 +147,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SAC Member</p>
-<p>Mr Goh Tze Mien
+<p>SAC Member
+<br>Mr Goh Tze Mien
 <br>
 <br>
 </p>
@@ -160,10 +160,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SAC Member:</strong>
-</p>
-<p><strong>Mr Lim Cheng Puay</strong>
-</p>
+<p>SAC Member
+<br>Mr Lim Cheng Puay</p>
 </td>
 </tr>
 </tbody>
