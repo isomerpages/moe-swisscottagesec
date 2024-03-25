@@ -140,6 +140,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Lim_Cheng_Puay__002_.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -157,7 +160,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>SAC Member:</strong>
+</p>
+<p><strong>Mr Lim Cheng Puay</strong>
+</p>
 </td>
 </tr>
 </tbody>
