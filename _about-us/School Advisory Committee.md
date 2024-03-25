@@ -93,7 +93,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/mr jamin gan wei en (committee member).jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/mr jamin gan wei en (committee member).jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,6 +134,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Jamin__002_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -148,8 +151,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p>SAC Member
+<br>Mr
 <br>
 </p>
 </td>
