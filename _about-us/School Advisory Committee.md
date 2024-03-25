@@ -47,7 +47,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Sardar%20Aslam.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Sardar%20Aslam.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,12 +82,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Mr%20Chan%20Seng%20Fai.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Mr%20Chan%20Seng%20Fai.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Mr%20Lim%20Fung%20Yee%20Danny.jpg">
+<img style="width: 90%;" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Mr%20Lim%20Fung%20Yee%20Danny.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
