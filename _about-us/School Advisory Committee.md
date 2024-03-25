@@ -135,14 +135,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Jamin__002_.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Lim_Cheng_Puay__002_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Lim_Cheng_Puay__002_.jpg">
-</div>
 </td>
 </tr>
 <tr>
@@ -155,13 +152,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Member
-<br>Mr <strong>Mr Jamin Gan Wei En</strong> 
+<br>Mr <strong>Mr Lim Cheng Puay</strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAC Member
-<br>Mr Lim Cheng Puay</p>
+<p></p>
 </td>
 </tr>
 </tbody>
