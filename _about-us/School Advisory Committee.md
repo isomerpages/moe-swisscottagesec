@@ -85,12 +85,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Mr%20Chan%20Seng%20Fai.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Chan_Seng_Fai__002_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/mr jamin gan wei en (committee member).jpeg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -105,7 +109,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>SAC Member
+<br>Mr Jamin Gan Wei En
 <br>
 <br>
 </p>
@@ -118,9 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/mr%20jamin%20gan%20wei%20en%20(committee%20member).jpeg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -133,8 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SAC Member
-<br>Mr Jamin Gan Wei En
+<p>
 <br>
 <br>
 </p>
@@ -152,4 +154,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
