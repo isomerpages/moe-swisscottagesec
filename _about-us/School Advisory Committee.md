@@ -98,6 +98,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Amanda_Loh__002_.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -116,7 +119,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>SAC Member
+<br>Mdm Loh Chew Ni
 <br>
 </p>
 </td>
@@ -124,26 +128,27 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Amanda%20Loh.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Goh_Tze_Mien__002_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
+<p>SAC Member</p>
+<p>Mr Goh Tze Mien
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAC Member
-<br>Mdm Loh Chew Ni
+<p>
 <br>
 <br>
 </p>
