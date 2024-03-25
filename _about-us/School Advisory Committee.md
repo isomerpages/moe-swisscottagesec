@@ -152,7 +152,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Member
-<br>Mr
+<br>Mr <strong>Mr Jamin Gan Wei En</strong>
 <br>
 </p>
 </td>
