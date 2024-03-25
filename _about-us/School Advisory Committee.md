@@ -55,7 +55,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Mdm%20Lim%20Bee%20Gean%20Alice.jpeg">
+<img style="width: 90%;" height="auto" width="100%" src="/images/About%20us/School%20Advisory%20Committee/Mdm%20Lim%20Bee%20Gean%20Alice.jpeg">
 </div>
 </td>
 </tr>
