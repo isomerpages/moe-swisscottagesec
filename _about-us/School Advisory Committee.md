@@ -13,4 +13,4 @@ variant: markdown
 |<img style="width:65%" src="/images/About%20us/School%20Advisory%20Committee/Mr%20Chan%20Seng%20Fai.jpg">|<img src="/images/About%20us/School%20Advisory%20Committee/Mr%20Lim%20Fung%20Yee%20Danny.jpg">|<img src="/images/About%20us/School%20Advisory%20Committee/Chan%20Chek%20Chee.jpg">|  
 |SAC Member <br> Mr Chan Seng Fai<br><br>|SAC Member <br>Mr Lim Fung Yee Danny<br><br>|<br>|
 |<img style="width:50%" src="/images/About%20us/School%20Advisory%20Committee/mr%20jamin%20gan%20wei%20en%20(committee%20member).jpeg">|<img src="/images/About%20us/School%20Advisory%20Committee/Amanda%20Loh.jpg">|
-|SAC Member <br> Mr Jamin Gan Wei En<br><br>|SAC Member <br>Mdm Loh Chew Ni<br><br>|
+|SAC Member <br> Mr Jamin Gan Wei En<br><br>|SAC Member <br>Mdm Loh Chew Ni<br><br>||SAC Member <br> Mr Goh Tze Mien<br><br>|SAC Member <br>Mr Lim Cheng Puay<br><br>|
