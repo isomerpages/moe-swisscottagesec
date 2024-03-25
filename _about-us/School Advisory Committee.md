@@ -9,7 +9,7 @@ variant: markdown
 ||<img src="/images/About%20us/School%20Advisory%20Committee/Mr%20Nguyen%20Van%20Vang.jpg">||  
 ||SAC Chairman  <br>Mr Nguyen Van Vang<br>||
 |<img style="width:50%" src="/images/About%20us/School%20Advisory%20Committee/Sardar%20Aslam.jpg">|<img src="/images/About%20us/School%20Advisory%20Committee/Shen%20Ziqiang.jpg">|<img src="/images/About%20us/School%20Advisory%20Committee/Mdm%20Lim%20Bee%20Gean%20Alice.jpeg">|  
-|SAC Vice Chairman <br>Mr Sardar Aslam<br> |<br>|Mdm Lim Bee Gean Alice<br>Committee Member<br>|  
+|SAC Vice Chairman <br>Mr Sardar Aslam<br> |<br>|SAC Member <br>Mdm Lim Bee Gean Alice<br><br>|  
 |<img style="width:65%" src="/images/About%20us/School%20Advisory%20Committee/Mr%20Chan%20Seng%20Fai.jpg">|<img src="/images/About%20us/School%20Advisory%20Committee/Mr%20Lim%20Fung%20Yee%20Danny.jpg">|<img src="/images/About%20us/School%20Advisory%20Committee/Chan%20Chek%20Chee.jpg">|  
 |Mr Chan Seng Fai<br>Committee Member<br>|Mr Lim Fung Yee Danny<br>Committee Member<br>|Mr Chan Chek Chee<br>Committee Member<br>|
 |<img style="width:50%" src="/images/About%20us/School%20Advisory%20Committee/mr%20jamin%20gan%20wei%20en%20(committee%20member).jpeg">|<img src="/images/About%20us/School%20Advisory%20Committee/Amanda%20Loh.jpg">|
