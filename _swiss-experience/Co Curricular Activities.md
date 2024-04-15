@@ -43,7 +43,7 @@ You may visit our CCA Google Site for more information on CCA here:
 
 [https://sites.google.com/moe.edu.sg/swissccas/our-ccas](https://sites.google.com/moe.edu.sg/swissccas/our-ccas)
 
-**CCA Pratices &amp; Schedules**&nbsp;
+**CCA Pratices &amp; Venus**&nbsp;
 
 Please refer to the table below for the schedules of CCA in 2024
 
