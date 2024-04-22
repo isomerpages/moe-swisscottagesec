@@ -82,7 +82,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>On the Sports Front (2023)</strong>
+<p><strong>On the Sports Front (2024)</strong>
 </p>
 <table>
 <tbody>
