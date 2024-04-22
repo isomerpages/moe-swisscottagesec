@@ -9,7 +9,8 @@ variant: tiptap
 </p>
 <p><strong>CCA Achievements</strong>
 </p>
-<p><strong>On the Uniform Groups Front</strong>&nbsp;</p>
+<p><strong>On the Uniform Groups Front</strong>&nbsp;<strong>(2024)</strong>
+</p>
 <table>
 <tbody>
 <tr>
@@ -17,56 +18,32 @@ variant: tiptap
 <p>NCDCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCDCC Precision Drill Challenge 2023</p>
+<p>NCDCC National Freestyle Drill Competition 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd</sup> placing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCDCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCDF-NCDCC Badge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Resshwin Robert, 4S1</p>
-<p>Lim Jia Xuan, 4S2</p>
+<p>Top 10 placing</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Police Cadet Corp</p>
+<p>NCC (Air)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Freestyle Drills National Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPF-NPCC Badge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Baskar Sudha Krishna Prakash, 4E1 (2022)</p>
-<p>Darien Yap Jie Ming, 4N1 (2022)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Scouts</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Frank Cooper Sands Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold with Pennant for 2022 (received in 2023)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Girl Guides</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Puan Noor Aishah Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold for 2022 (received in 2023)</p>
+<p>Darren Yap Shan Bao</p>
 </td>
 </tr>
 <tr>
@@ -74,24 +51,10 @@ variant: tiptap
 <p>Boys Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JM Fraser Award</p>
+<p>Best Boy, SP Chua Medal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>High Distinction for 2022 (received in 2023)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Boys Brigade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Founders’ Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSG Edric Lee Jun Hong, 4S6</p>
-<p>SSG Kenny See, 4S5</p>
-<p>SSG Ratish Rarthikeyan, 4S2<strong>&nbsp;</strong>
-</p>
+<p>Chua Kang Rui, Samuel</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +65,7 @@ variant: tiptap
 <p>Unit Overall Proficiency (UOPA) Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation for 2022 (received in 2023)</p>
+<p>Distinction for 2023 (received in 2024)</p>
 </td>
 </tr>
 <tr>
@@ -113,22 +76,12 @@ variant: tiptap
 <p>Unit Overall Proficiency (UOPA) Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold for 2022 (received in 2023)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCC (Air)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022 Unit Recognition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction Award (received in 2023)</p>
+<p>Distinction for 2023 (received in 2024)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>On the Sports Front (2023)</strong>
 </p>
 <table>
@@ -142,7 +95,8 @@ variant: tiptap
 <p>B Div Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG Championship – Round 2&nbsp;</p>
+<p><strong>(on-going)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +104,7 @@ variant: tiptap
 <p>C Div Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG Championship Champions</p>
+<p>NSG Championship Championship - Round 2</p>
 </td>
 </tr>
 <tr>
@@ -158,23 +112,12 @@ variant: tiptap
 <p><strong>Badminton</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="2">
 <p>B Div Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG West Zone – 3<sup>rd</sup>&nbsp;</p>
+<p>NSG West Zone – 2<sup>nd</sup>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Div Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG West Zone – 3<sup>rd</sup>
-</p>
-<p>National QF – top 8</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="4" colspan="1">
 <p><strong>Basketball</strong>
