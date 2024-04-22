@@ -104,7 +104,7 @@ variant: tiptap
 <p>B Div Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG Championship Championship - Round 2</p>
+<p>NSG Championship - Round 2</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,6 @@ variant: tiptap
 </td>
 <td rowspan="2" colspan="1">
 <p>NSG West Zone – Champions</p>
-<p></p>
 </td>
 </tr>
 <tr></tr>
