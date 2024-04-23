@@ -11,7 +11,7 @@ variant: tiptap
 aims to nurture our students to be&nbsp;<strong>Thoughtful Leaders,</strong>&nbsp;<strong>Reflective Thinkers</strong>&nbsp;and&nbsp;<strong>Caring Citizens who Lead to Serve</strong>&nbsp;the
 nation and the world. Swiss Cottage’s Distinctive Programmes include our
 flagship&nbsp;<strong>Thoughtful Leadership Programme</strong>&nbsp;(covering
-the Global Perspectives, Student Leadership and Values-In-Action programmes)
+the Glocal Perspectives, Student Leadership and Values-In-Action programmes)
 and our&nbsp;<strong>Applied Sciences for Sustainable Development Programme</strong>&nbsp;for
 the entire student body. Under the Total Curriculum Framework, these flagship
 programmes are well integrated with our rigorous Instructional Programmes
