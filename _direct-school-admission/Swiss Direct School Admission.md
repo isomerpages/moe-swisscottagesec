@@ -2,114 +2,174 @@
 title: Swiss Direct School Admission
 permalink: /direct-school-admission/Swiss-Direct-School-Admission/
 description: ""
+variant: tiptap
 ---
-Swiss Direct School Admission
-=============================
-
-**Swiss Direct School Admission**
-
-Swiss Cottage Secondary School delivers a&nbsp;**Total Curriculum**&nbsp;that aims to nurture our students as&nbsp;**Thoughtful Leaders,**&nbsp;to become&nbsp;**Reflective Thinkers**&nbsp;and&nbsp;**Caring Citizens who Lead to Serve**&nbsp;the nation and the world. Swiss Cottage’s Distinctive Programmes include our flagship&nbsp;**Thoughtful Leadership Programme**&nbsp;(covering the Global Perspectives, Student Leadership and Values-In-Action programmes) and our&nbsp;**Applied Sciences for Sustainable Development Programme**&nbsp;for the entire student body. Under the Total Curriculum Framework, these flagship programmes are well integrated with our rigorous Instructional Programme and our comprehensive Student Development Programme to enable our students to become Thoughtful Leaders with&nbsp;**Intellectual Excellence**&nbsp;and&nbsp;**Character Excellence.**
-
-We welcome Primary 6 students who desire to be a Thoughtful Leader to join us through the Direct School Admission (DSA-Sec) Exercise.
-
-To find out more about the school, you can refer to&nbsp; [Swiss Cottage At A Glance](/files/Direct%20School%20Admission/we%20stories%20publication%202023%20v2-compressed.pdf)
-
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from **4 May 2023 (Thursday), 11am to 31 May 2023 (Wednesday),3pm**.
-
-For more information on DSA Exercise, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">Here</a>
-
-**DSA Talents Offered**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-l2bf"><span style="font-weight:bold">DSA Main Category</span></th>
-    <th class="tg-l2bf"><span style="font-weight:bold">DSA Talent Area</span></th>
-    <th class="tg-l2bf"><span style="font-weight:bold">Boys</span></th>
-    <th class="tg-l2bf"><span style="font-weight:bold">Girls</span></th>
-  </tr>
-</thead>
+<h1>Swiss Direct School Admission</h1>
+<p><strong>Swiss Direct School Admission</strong>
+</p>
+<p>Swiss Cottage Secondary School delivers a&nbsp;<strong>Total Curriculum</strong>&nbsp;that
+aims to nurture our students to be&nbsp;<strong>Thoughtful Leaders,</strong>&nbsp;<strong>Reflective Thinkers</strong>&nbsp;and&nbsp;<strong>Caring Citizens who Lead to Serve</strong>&nbsp;the
+nation and the world. Swiss Cottage’s Distinctive Programmes include our
+flagship&nbsp;<strong>Thoughtful Leadership Programme</strong>&nbsp;(covering
+the Glocal Perspectives, Student Leadership and Values-In-Action programmes)
+and our&nbsp;<strong>Applied Sciences for Sustainable Development Programme</strong>&nbsp;for
+the entire student body. Under the Total Curriculum Framework, these flagship
+programmes are well integrated with our rigorous Instructional Programmes
+and our comprehensive Student Development Programmes to enable our students
+to achieve &nbsp;<strong>Intellectual Excellence</strong>&nbsp;&nbsp;<strong>Character Excellence</strong> and <strong>Leadership Excellence.</strong>
+</p>
+<p>We welcome Primary 6 students who desire to be a Thoughtful Leader to
+join us through the Direct School Admission (DSA-Sec) Exercise.</p>
+<p><strong>DSA-Sec Talents Offered</strong>
+</p>
+<p></p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-xyrl">Leadership &amp; Uniform Groups</td>
-    <td class="tg-xyrl">Leadership</td>
-    <td class="tg-xyrl">√</td>
-    <td class="tg-xyrl">√</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok" rowspan="5">Sports and Games</td>
-    <td class="tg-tsok">Badminton</td>
-    <td class="tg-tsok"> </td>
-    <td class="tg-tsok">√</td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl">Basketball</td>
-    <td class="tg-xyrl">√</td>
-    <td class="tg-xyrl">√</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">Bowling</td>
-    <td class="tg-tsok">√</td>
-    <td class="tg-tsok"> </td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl">Floorball</td>
-    <td class="tg-xyrl">√</td>
-    <td class="tg-xyrl">√</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">Football</td>
-    <td class="tg-tsok">√</td>
-    <td class="tg-tsok"> </td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl" rowspan="6">Performing Arts</td>
-    <td class="tg-xyrl">Chinese Orchestra</td>
-    <td class="tg-xyrl">√</td>
-    <td class="tg-xyrl">√</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">Choir</td>
-    <td class="tg-tsok">√</td>
-    <td class="tg-tsok">√</td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl">Chinese Dance</td>
-    <td class="tg-xyrl">√</td>
-    <td class="tg-xyrl">√</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">Malay Dance</td>
-    <td class="tg-tsok">√</td>
-    <td class="tg-tsok">√</td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl">English Drama</td>
-    <td class="tg-xyrl">√</td>
-    <td class="tg-xyrl">√</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">Military Band *</td>
-    <td class="tg-tsok">√</td>
-    <td class="tg-tsok">√</td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl">Science, Technology, Engineering, Mathematics</td>
-    <td class="tg-xyrl">Science</td>
-    <td class="tg-xyrl">√</td>
-    <td class="tg-xyrl">√</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DSA Main Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DSA Talent Area</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Girls</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leadership &amp; Uniformed Groups</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Sports and Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bowling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Floorball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Military Band *</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science, Technology, Engineering, Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science for Sustainable Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-\* NCC Command Band – Swiss Winds
+<p>* NCC Command Band</p>
+<p>The selection criteria and process for talent areas will be updated from
+early-May. For more details, please refer to the MOE DSA-Sec website -
+<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
+<p></p>
