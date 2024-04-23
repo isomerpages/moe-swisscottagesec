@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Direct School Admission
           description: Click Here
-          url: ""
+          url: /direct-school-admission/Swiss-Direct-School-Admission/
   - infobar:
       title: SWISS COTTAGE DIAMOND JUBILEE CONCERT
       subtitle: Featured Posts
