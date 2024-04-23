@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/school-website copy.jpg
       key_highlights:
-        - title: Key Highlight Title
+        - title: Direct School Admission
           description: Direct School Admission
           url: ""
   - infobar:
