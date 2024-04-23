@@ -167,7 +167,7 @@ join us through the Direct School Admission (DSA-Sec) Exercise.</p>
 </tr>
 </tbody>
 </table>
-<p>* NCC Command Band – Swiss Winds</p>
+<p>* NCC Command Band</p>
 <p>The selection criteria and process for talent areas will be updated from
 early-May. For more details, please refer to the MOE DSA-Sec website -
 <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
