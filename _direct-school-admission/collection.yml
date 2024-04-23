@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Swiss Direct School Admission.md
-      - FAQs.md
       - Further Enquiries.md
