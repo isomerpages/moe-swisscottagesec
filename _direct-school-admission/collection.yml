@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Swiss Direct School Admission.md
-      - Application Timeline.md
       - Other Information.md
       - FAQs.md
       - Further Enquiries.md
