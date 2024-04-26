@@ -17,7 +17,7 @@ sections:
       subtitle: Featured Posts
       id: infobar
       button: Read More
-      url: https://www.swisscottagesec.moe.edu.sg/quick-links/swiss-cottage-diamond-jubilee-concert/
+      url: /direct-school-admission/Swiss-Direct-School-Admission/
   - infobar:
       title: THE 60TH ANNIVERSARY CELEBRATION
       button: Read More
