@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Swiss Cottage Diamond Jubilee Concert.md
       - 60th Anniversary Celebration.md
       - For Students.md
       - For Parents/.keep
