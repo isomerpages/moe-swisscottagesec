@@ -13,12 +13,11 @@ sections:
           description: Click Here
           url: /direct-school-admission/Swiss-Direct-School-Admission/
   - infobar:
-      title: SWISS COTTAGE DIAMOND JUBILEE CONCERT
+      title: DIRECT SCHOOL ADMISSION
       subtitle: Featured Posts
       id: infobar
       button: Read More
       url: https://www.swisscottagesec.moe.edu.sg/quick-links/swiss-cottage-diamond-jubilee-concert/
-      description: Celebrating Sixty Glorious Years
   - infobar:
       title: THE 60TH ANNIVERSARY CELEBRATION
       button: Read More
