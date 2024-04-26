@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/school-website copy.jpg
-      key_highlights:
-        - title: Direct School Admission
-          description: Click Here
-          url: /direct-school-admission/Swiss-Direct-School-Admission/
   - infobar:
       title: DIRECT SCHOOL ADMISSION
       subtitle: Featured Posts
