@@ -23,6 +23,8 @@ variant: tiptap
 </p>
 <p><a href="/files/2024_September_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">September 2024</a>
 </p>
+<p><a href="/files/2024_Oct_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">October 2024</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
