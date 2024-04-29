@@ -19,7 +19,8 @@ variant: tiptap
 </p>
 <p><a href="/files/2024_Jul_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">July 2024</a>
 </p>
-<p></p>
+<p>August 2024</p>
+<p>September 2024</p>
 <p><a href="/files/2024_Oct_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">October 2024</a>
 </p>
 <p></p>
