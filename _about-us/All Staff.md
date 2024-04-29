@@ -244,7 +244,7 @@ variant: markdown
   <tr>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">4S7</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">HENG TENG BOON (MR)</span></td>
-    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">NOORHIDAYA BINTE ABDUL KARIM (MISS)</span></td>
+    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">IZNUR SHAHIDAH BINTE ISHAK (MISS)</span></td>
     <td class="tg-i0fa"></td>
   </tr>
   <tr>
