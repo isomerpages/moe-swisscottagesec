@@ -173,3 +173,8 @@ early-May. For more details, please refer to the MOE DSA-Sec website -
 <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p></p>
+<p><strong>DSA Information e-Session</strong>&nbsp;</p>
+<p>Find out more about the Swiss Direct School Admission during our DSA Information
+e-Sessions on <strong>11 May 2024 (Saturday)</strong>. Principal Address
+will start at <strong>9 am</strong>, followed by a Question-and-Answer Session.</p>
+<p></p>
