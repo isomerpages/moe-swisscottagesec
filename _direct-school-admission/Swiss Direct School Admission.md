@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Swiss Direct School Admission</h1>
-<p><strong>Swiss Direct School Admission</strong>
-</p>
+<p></p>
 <p>Swiss Cottage Secondary School delivers a&nbsp;<strong>Total Curriculum</strong>&nbsp;that
 aims to nurture our students to be&nbsp;<strong>Thoughtful Leaders,</strong>&nbsp;<strong>Reflective Thinkers</strong>&nbsp;and&nbsp;<strong>Caring Citizens who Lead to Serve</strong>&nbsp;the
 nation and the world. Swiss Cottage’s Distinctive Programmes include our
