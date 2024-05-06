@@ -66,11 +66,10 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>Parents and students are encouraged to choose schools wisely based on
-the student’s aptitudes and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.&nbsp;</p>
+<p>&nbsp;Parents and students are encouraged to choose schools wisely based
+on the student’s aptitudes and strengths, bearing in mind the schools’
+academic and non-academic requirements, and the programmes available to
+develop the area of talent.&nbsp;</p>
 <p>All shortlisted applicants will be required to attend a selection trial
 / audition. <strong>Shortlisted applicants will be informed of selection trial date, time and tasks via email between 24 June and 19 July 2024</strong>. <strong>Only further shortlisted applicants will be informed by 16 August 2024 (Friday) to attend an in-person interview. All applicants will know the outcome of their applications by 9 September 2024 (Monday).</strong>&nbsp;</p>
 <p>All communication will be made via email, to the email address that is
