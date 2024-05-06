@@ -19,8 +19,7 @@ to achieve &nbsp;<strong>Intellectual Excellence</strong>&nbsp;&nbsp;<strong>Cha
 </p>
 <p>We welcome Primary 6 students who desire to be a Thoughtful Leader to
 join us through the Direct School Admission (DSA-Sec) Exercise.</p>
-<p><strong>DSA-Sec Talents Offered</strong>
-</p>
+<h4><strong>DSA-Sec Talents Offered</strong></h4>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
