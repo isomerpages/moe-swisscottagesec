@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /quick-links/contact-us/
 description: ""
+variant: markdown
 ---
 # Contact Us
 
@@ -19,4 +20,4 @@ Ask and get answered on our [Q&amp;A Page](https://go.ask.gov.sg/scss)
 <br>
 
 
-Facebook:&nbsp;[https://www.facebook.com/scssnetwork](https://www.facebook.com/scssnetwork)</em></span>
+</em></span>
