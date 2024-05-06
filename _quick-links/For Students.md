@@ -24,4 +24,3 @@ variant: markdown
 
 [Application Form for Leave of Absence](https://form.gov.sg/#!/60b99f0b5cc3410012909dbe)
 
-[Application Form for Leave of Absence&nbsp; Template](https://form.gov.sg/#!/signin)
