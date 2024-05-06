@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Swiss Direct School Admission</h1>
-<p><strong>Swiss Direct School Admission</strong>
-</p>
+<p></p>
 <p>Swiss Cottage Secondary School delivers a&nbsp;<strong>Total Curriculum</strong>&nbsp;that
 aims to nurture our students to be&nbsp;<strong>Thoughtful Leaders,</strong>&nbsp;<strong>Reflective Thinkers</strong>&nbsp;and&nbsp;<strong>Caring Citizens who Lead to Serve</strong>&nbsp;the
 nation and the world. Swiss Cottage’s Distinctive Programmes include our
@@ -20,10 +19,15 @@ to achieve &nbsp;<strong>Intellectual Excellence</strong>&nbsp;&nbsp;<strong>Cha
 </p>
 <p>We welcome Primary 6 students who desire to be a Thoughtful Leader to
 join us through the Direct School Admission (DSA-Sec) Exercise.</p>
-<p><strong>DSA-Sec Talents Offered</strong>
-</p>
+<h4><strong>DSA-Sec Talents Offered</strong></h4>
 <p></p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -168,13 +172,5 @@ join us through the Direct School Admission (DSA-Sec) Exercise.</p>
 </tbody>
 </table>
 <p>* NCC Command Band</p>
-<p>The selection criteria and process for talent areas will be updated from
-early-May. For more details, please refer to the MOE DSA-Sec website -
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
-</p>
 <p></p>
-<p><strong>DSA Information e-Session</strong>&nbsp;</p>
-<p>Find out more about the Swiss Direct School Admission during our DSA Information
-e-Sessions on <strong>11 May 2024 (Saturday)</strong>. Principal Address
-will start at <strong>9 am</strong>, followed by a Question-and-Answer Session.</p>
 <p></p>

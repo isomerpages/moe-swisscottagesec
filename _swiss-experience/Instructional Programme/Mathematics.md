@@ -22,22 +22,22 @@ Principles of Accounts is offered to upper secondary students in both Express an
 
 |  |  |
 |---|---|
-| Mr Ang Hanping | HOD Mathematics |
-| Mdm Pow Tian Si Zoe | SH Mathematics |
+| Mr Ang Hanping | Head of Department Mathematics |
+| Mdm Pow Tian Si Zoe | Subject Head  Mathematics |
 | Ms Ng Poh Keow | Assistant Year Head |
 | Ms Yeo Koon Koon | Senior Teacher / Mathematics |
-| Ms Ang Kai Lun Karen | Principles of Accounts  / Mathematics Teacher |
-| Mr Chen Wenhui | Physical Education / Mathematics Teacher |
-| Mrs Chen Yen Wah | Mathematics Teacher |
-| Mr Christopher Lim Junxuan | Physical Education / Mathematics Teacher |
-| Ms Fong Sook Theng | Principals of Accounts / Mathematics Teacher |
-| Mr Heng Teng Boon | Mathematics Teacher |
-| Ms Leung Yanru | Mathematics Teacher |
-| Mr Ngoh Kia Joon | Mathematics Teacher |
-| Mdm Tan Poh Kim | Mathematics Teacher |
-| Mr Tan Hong Cheong | Mathematics Teacher |
-| Mdm Chew Wye Mun Serene |Adjunct Teacher  Mathematics |
-| Mdm Ang Sok Leng Sophia | Adjunct Teacher / Mathematics |
-| Ms Ng Hwee Chun Joyce | Adjunct Teacher / Mathematics |
-| Ms Lee Peiqi | Adjunct Teacher / Mathematics |
-| Mdm Ong Lay Kwan | Adjunct Teacher / Mathematics |
+| Mr Heng Teng Boon | Subject Head / CCE  |
+| Mr Christopher Lim Junxuan | Subject Head ICT and Student Well-Being  |
+| Ms Ang Kai Lun Karen | Teacher / Principles of Accounts and Mathematics |
+| Mr Chen Wenhui | Teacher / Physical Education and Mathematics  |
+| Mrs Chen Yen Wah | Teacher / Mathematics  |
+| Ms Fong Sook Theng | Teacher / Principals of Accounts and Mathematics  |
+| Ms Leung Yanru | Teacher / Mathematics  |
+| Mr Ngoh Kia Joon | Teacher / Mathematics  |
+| Mdm Tan Poh Kim | Teacher / Mathematics  |
+| Mr Tan Hong Cheong | Teacher / Mathematics  |
+| Mdm Chew Wye Mun Serene | Teacher  Mathematics |
+| Mdm Ang Sok Leng Sophia | Teacher / Mathematics |
+| Ms Ng Hwee Chun Joyce |  Teacher / Mathematics |
+| Ms Lee Peiqi | Teacher / Mathematics |
+| Mdm Ong Lay Kwan | Teacher / Mathematics |
