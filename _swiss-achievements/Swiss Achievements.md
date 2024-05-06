@@ -11,7 +11,12 @@ variant: tiptap
 </p>
 <p><strong>On the Uniform Groups Front</strong>&nbsp;<strong>(2024)</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -84,7 +89,12 @@ variant: tiptap
 <p></p>
 <p><strong>On the Sports Front (2024)</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
@@ -95,8 +105,7 @@ variant: tiptap
 <p>B Div Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>(on-going)</strong>
-</p>
+<p>NSG Championship - Champions</p>
 </td>
 </tr>
 <tr>
@@ -119,6 +128,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>NSG West Zone – 2<sup>nd</sup>
 </p>
+<p></p>
 <p>NSG Nationals - Top 8</p>
 </td>
 </tr>
@@ -133,6 +143,8 @@ variant: tiptap
 </td>
 <td rowspan="2" colspan="1">
 <p>NSG West Zone – Champions</p>
+<p></p>
+<p>NSG Nationals - Champions</p>
 </td>
 </tr>
 <tr></tr>
@@ -141,7 +153,9 @@ variant: tiptap
 <p>B Div Girls</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>NSG West Zone – 1<sup>st </sup>Runner-Up (2<sup>nd</sup> place)</p>
+<p>NSG West Zone – 1<sup>st </sup>Runner-Up</p>
+<p></p>
+<p>NSG Nationals - 3<sup>rd </sup>Runner-Up</p>
 </td>
 </tr>
 <tr></tr>
