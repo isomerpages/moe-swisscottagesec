@@ -64,20 +64,20 @@ We aim to
 
 | English Language Team |  |
 |---|---|
-| Mdm Lim Wee Teng June | HOD English Language |
+| Mdm Lim Wee Teng June | Head of Department English Language |
 | Miss Tan Annie | Year Head  (Upper Secondary) |
-| Mr Wong Wai Kiong Terence | HOD Technology for Learning |
+| Mr Wong Wai Kiong Terence | Head of Department Technology for Learning |
 | Mr Tan Jeng, Gordon | Subject Head / English Language |
 | Mrs Constance Wong | Lead Teacher / English Language |
 | Ms Herina Bte Roslin | Senior Teacher / Literature Teacher |
 | Miss Tan Mee Han | Senior Teacher / English Language |
 | Ms Kek Huiyu | Year Head / English Language |
-| Mdm Ong Yuan Shin | English Language |
-| Ms Serene Lee Ching Lien | English Language |
-| Ms Faith Wang Yi Shan | English Language and Geography |
-| Ms Tan Yan Lin, Hazel | English Language and Literature |
-| Miss Gina Hiu Feng Ping | English Language |
-| Mdm Nur Ashkin Binte Abu Bakar | Adjunct / English  |
-| Ms Faith Ong Qi Rui | Adjunct / English |
-| Ms Tan Wei Si Stella | Adjunct / English |
-| Ms Esther Yeoh | Relief / English |
+| Mdm Ong Yuan Shin | Teacher / English Language |
+| Ms Serene Lee Ching Lien | Teacher / English Language |
+| Ms Faith Wang Yi Shan | Teacher / English Language and Geography |
+| Ms Tan Yan Lin, Hazel | Teacher / English Language and Literature |
+| Miss Gina Hiu Feng Ping | Teacher / English Language |
+| Mdm Nur Ashkin Binte Abu Bakar | Teacher / English Language |
+| Ms Faith Ong Qi Rui | Teacher / English Language |
+| Ms Tan Wei Si Stella | Teacher / English Language |
+| Ms Esther Yeoh | Teacher / English Language |
