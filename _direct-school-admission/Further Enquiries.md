@@ -11,8 +11,8 @@ to Friday, 8 am to 3 pm).</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Come personally to Swiss Cottage Secondary School
 at&nbsp;3 Bukit Batok Street 34, Singapore 659322 (Monday to Friday, 8
 am to 3 pm).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; Email to us at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">scss@moe.edu.sg</a>,
-please indicate "DSA Enquiries" in the subject field.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; Email to us at&nbsp;<a href="scss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scss@moe.edu.sg</a>, please indicate "DSA Enquiries"
+in the subject field.&nbsp;</p>
 <p>More information regarding the DSA can be found on the MOE website:
 <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
