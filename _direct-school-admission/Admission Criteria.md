@@ -13,8 +13,7 @@ performance.&nbsp;</p>
 <p>Please note that an applicant does not need to fulfil all the criteria
 to be considered for shortlisting.</p>
 <p>Furthermore, meeting all the criteria does not guarantee the applicant
-will be shortlisted or given an offer.</p>
-<p>&nbsp;</p>
+will be shortlisted or given an offer.&nbsp;</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
