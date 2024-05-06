@@ -69,15 +69,14 @@ We aim to
 | Mr Wong Wai Kiong Terence | Head of Department Technology for Learning |
 | Mr Tan Jeng, Gordon | Subject Head / English Language |
 | Mrs Constance Wong | Lead Teacher / English Language |
-| Ms Herina Bte Roslin | Senior Teacher / Literature Teacher |
+| Ms Herina Bte Roslin | Senior Teacher / English Literature  |
 | Miss Tan Mee Han | Senior Teacher / English Language |
-| Ms Kek Huiyu | Year Head / English Language |
+| Ms Kek Huiyu | Assistant Year Head / English Language |
 | Mdm Ong Yuan Shin | Teacher / English Language |
 | Ms Serene Lee Ching Lien | Teacher / English Language |
 | Ms Faith Wang Yi Shan | Teacher / English Language and Geography |
-| Ms Tan Yan Lin, Hazel | Teacher / English Language and Literature |
+| Ms Tan Yan Lin, Hazel | Teacher / English Language and English Literature |
 | Miss Gina Hiu Feng Ping | Teacher / English Language |
 | Mdm Nur Ashkin Binte Abu Bakar | Teacher / English Language |
-| Ms Faith Ong Qi Rui | Teacher / English Language |
 | Ms Tan Wei Si Stella | Teacher / English Language |
 | Ms Esther Yeoh | Teacher / English Language |
