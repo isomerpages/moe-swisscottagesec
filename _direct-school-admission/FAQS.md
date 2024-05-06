@@ -145,7 +145,7 @@ schools (e.g. Pathlight, Madrasah, San Yu Adventist) and home-schoolers
 will need to obtain a Registration Number (RGxxxxxxx) before they can apply
 through the DSA-Sec Portal.&nbsp;</p>
 <p>Please refer to MOE website below for more information:&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+<p><a href="https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </td>
 </tr>
