@@ -21,3 +21,7 @@ click <strong><a href="https://youtube.com/live/GkKewQu-vws?feature=share" rel="
 </p>
 <p><a href="https://www.youtube.com/watch?v=jav3AjHfgpY" rel="noopener noreferrer nofollow" target="_blank">2023 Speech Day – Show Choir</a>
 </p>
+<p><a href="https://www.youtube.com/watch?v=7D1LjpNTWlU" rel="noopener noreferrer nofollow" target="_blank">2023 SYF - Malay Dance</a>
+</p>
+<p><a href="https://www.youtube.com/watch?v=BJxC4UGqFns" rel="noopener noreferrer nofollow" target="_blank">2023 SYF - Show Choir</a>
+</p>
