@@ -59,8 +59,8 @@ The English Literature unit is a small cohesive unit made up of the following dy
 |  |  |
 |---|---|
 | Mdm Mini Sathiya Sidhan | Head  of Department /Total Curriculum &amp; English Literature |
-| Mr Tan Jeng, Gordon | Subject Head / English |
-| Mdm Tan Su Yin Constance | Lead Teacher / English |
-| Miss Herina Roslin | Senior Teacher / Literature |
-| Ms Hazel Tan | Teacher / English Language and Literature |
+| Mr Tan Jeng, Gordon | Subject Head / English Language |
+| Mdm Tan Su Yin Constance | Lead Teacher / English Language |
+| Miss Herina Roslin | Senior Teacher / English Literature |
+| Ms Hazel Tan | Teacher / English Language and English Literature |
 | Mr Salleh Bin Merwan | Teacher / English Literature / Geography |
