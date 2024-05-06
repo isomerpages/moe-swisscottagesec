@@ -31,25 +31,25 @@ variant: markdown
 
 |  |  |
 |---|---|
-| Miss Toh Hui Jing | HOD Mother Tongue Languages |
+| Miss Toh Hui Jing | Head of Department Mother Tongue Languages |
 | Mr Abdul Nasser S/O T A Mitten | Lead Teacher / Tamil Language |
 | Mdm Xu Yiping | Senior Teacher / Chinese Language |
 | Mdm Noorhidaya Bte Abdul Karim | Senior Teacher / Malay Language |
-| Mdm Tee Lay Kean | Chinese Language Teacher |
-| Ms Teo Lei Xin Alviena | Chinese Language Teacher |
-| Mdm Li Xiaorong | Chinese Language Teacher |
-| Ms Tam Siew Kee | Chinese Language Teacher |
-| Ms Fan Yunyun | Chinese Language Teacher |
-| Mdm Hu Fang | Flexi-Adjunct Teacher / Chinese Language |
-| Ms Chen Xi | Flexi-Adjunct Teacher / Chinese Language |
-| Mdm Koh Hui Sze| Flexi-Adjunct Teacher / Chinese Language |
-| Mdm Redha Nasuha Bte Mas’od | Malay Language Teacher |
-| Mdm Siti Aishah Binti Mohamed Kamsani | Malay Language Teacher |
-| Mdm Nur Zuliana Bte Hamdan | Malay Language Teacher |
-| Ms Norazela Bte Rosli | Malay Language Teacher |
-| Mdm Maheshwari Thangaiah | Tamil Language Teacher |
-| Mdm Vijayaprabha Natarajan | Tamil Language Teacher |
-| Mdm Thasradha Chandraleka | Tamil Language Teacher |
-| Mr Viswalingam Thenmozhi |  Flexi-Adjunct Teacher / Tamil Language |
-| Ms Prenuja D/O Pannirchelvam | Flexi-Adjunct Teacher / Tamil Language |
-| Mdm Kaliee Muthu Silvi | Flexi-Adjunct Teacher / Tamil Language |
+| Mdm Tee Lay Kean | Teacher / Chinese Language  |
+| Ms Teo Lei Xin Alviena | Teacher / Chinese Language |
+| Mdm Li Xiaorong | Teacher / Chinese Language  |
+| Ms Tam Siew Kee | Teacher / Chinese Language  |
+| Ms Fan Yunyun | Teacher / Chinese Language  |
+| Mdm Hu Fang |  Teacher / Chinese Language |
+| Ms Chen Xi | Teacher / Chinese Language |
+| Mdm Koh Hui Sze| Teacher / Chinese Language |
+| Mdm Redha Nasuha Bte Mas’od | Teacher /  Malay Language  |
+| Mdm Siti Aishah Binti Mohamed Kamsani | Teacher / Malay Language |
+| Mdm Nur Zuliana Bte Hamdan | Teacher / Malay Language  |
+| Ms Norazela Bte Rosli | Teacher / Malay Language |
+| Mdm Maheshwari Thangaiah | Teacher / Tamil Language |
+| Mdm Vijayaprabha Natarajan | Teacher / Tamil Language |
+| Mdm Thasradha Chandraleka | Teacher / Tamil Language |
+| Mr Viswalingam Thenmozhi |   Teacher / Tamil Language |
+| Ms Prenuja D/O Pannirchelvam |  Teacher / Tamil Language |
+| Mdm Kaliee Muthu Silvi |  Teacher / Tamil Language |
