@@ -191,7 +191,7 @@ to further develop your leadership competencies.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Swiss Cottage does not offer athletics. For more information on the CCAs
 offered, please go to:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.swisscottagesec.moe.edu.sg/swiss-experience/co-curricular-activities</a>
+<p><a href="https://www.swisscottagesec.moe.edu.sg/swiss-experience/co-curricular-activities/" rel="noopener noreferrer nofollow" target="_blank">https://www.swisscottagesec.moe.edu.sg/swiss-experience/co-curricular-activities</a>
 </p>
 </td>
 </tr>
