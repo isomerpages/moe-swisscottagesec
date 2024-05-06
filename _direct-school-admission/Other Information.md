@@ -18,6 +18,6 @@ refer to MOE website below for more information:&nbsp;</p>
 <p><a href="https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>&nbsp;</p>
 <p>Shortlisted International Students are reminded to take the <strong>Admissions Exercise for International Students (AEIS)</strong> test.
 Please refer to AEIS website below for more information:&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/admission</a>
+<p><a href="https://www.moe.gov.sg/international-students/admission" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/admission</a>
 </p>
 <p>&nbsp;</p>
