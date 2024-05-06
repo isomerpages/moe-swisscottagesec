@@ -34,20 +34,20 @@ Swiss Cottage offers the following Humanities subjects:
 
 |  |  |
 |---|---|
-| Mdm Serene Tang Hue Sim | HOD Humanities |
-| Mr Sunil K Nair | SH Geography |
-| Ms Christina Fong Hui Beng | Geography Teacher |
-| Mr Clement Tan Wei Xin | Geography / Social Studies Teacher |
-| Miss Faith Wang Yi Shan | Geography Teacher |
-| Mr Alex Chew Kok Chung | Geography Teacher |
-| Mr Salleh Merwan | Geography Teacher |
-| Miss Faza Mahirah MD Suhimi | History / Social Studies Teacher |
-| Miss Rose Nabilah Rosli | History / Social Studies Teacher |
-| Mr Sim Wen Hong | History / Social Studies Teacher |
+| Mdm Serene Tang Hue Sim | Head of Department Humanities |
+| Mr Sunil K Nair | Subject Head Geography |
+| Ms Christina Fong Hui Beng | Teacher / Geography |
+| Mr Clement Tan Wei Xin | Subject Head / Student Leadership |
+| Miss Faith Wang Yi Shan | Teacher / Geography |
+| Mr Alex Chew Kok Chung | Subject Head / Student Management |
+| Mr Salleh Merwan | Teacher / Geography  |
+| Miss Faza Mahirah MD Suhimi | Teacher / History and Social Studies  |
+| Miss Rose Nabilah Rosli | Teacher / History and  Social Studies |
+| Mr Sim Wen Hong | Teacher / History and Social Studies |
 | Ms Kelly Tan Kai Li | Teacher |
-| Ms Lee Si Wei | (CAJT) History / Social Studies |
-| Mdm Lee Su Fern | (FAJT) Geography / Social Studies |
-| Mdm Lee Jia Yun | (FAJT)  |
+| Ms Lee Si Wei |  Teacher /  History and Social Studies |
+| Mdm Lee Su Fern | Teacher / Geography and Social Studies |
+| Mdm Lee Jia Yun | Teacher  |
 
 <b><u>The Study of History</u></b>
 
