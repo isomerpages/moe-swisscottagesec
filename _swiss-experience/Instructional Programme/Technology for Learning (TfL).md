@@ -30,11 +30,11 @@ variant: markdown
 
 | ICT &amp; Computer Applications |  |
 |---|---|
-| Mr Wong Wai Kiong Terence | HOD Technology for Learning (TfL) |
-| Mr Lim Junxuan Christopher | ICT and  Student Well-Being &amp; Technology for Learning |
-| Mdm Shahada Bte Rahmat | CPA Teacher |
-| Mr Wong Yin Kew | CPA Teacher |
-| Mr Choo Shi Qian | CPA Teacher |
+| Mr Wong Wai Kiong Terence | Head of Department Technology for Learning (TfL) |
+| Mr Lim Junxuan Christopher | Subject Head ICT and  Student Well-Being  |
+| Mdm Shahada Bte Rahmat | Teacher / CPA  |
+| Mr Wong Yin Kew | Teacher / CPA  |
+| Mr Choo Shi Qian | Teacher / CPA  |
 | Mr Giam Chin Leong | ICT Manager |
 | Mr Muhd Zuhairi Bin Zailani | Desktop Engineer |
 | Mrs Gokila Nagarajan @ Manivannan Gokila | Desktop Engineer |
