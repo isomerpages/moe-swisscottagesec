@@ -2,5 +2,6 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - Admission Criteria.md
       - DSA Information e Session.md
       - Swiss Direct School Admission.md
