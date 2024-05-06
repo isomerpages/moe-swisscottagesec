@@ -15,7 +15,7 @@ students in Special Education Schools or religious schools (e.g. Pathlight,
 Madrasah, San Yu Adventist) and home-schoolers will need to obtain a Registration
 Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Please
 refer to MOE website below for more information:&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>&nbsp;</p>
+<p><a href="https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>&nbsp;</p>
 <p>Shortlisted International Students are reminded to take the <strong>Admissions Exercise for International Students (AEIS)</strong> test.
 Please refer to AEIS website below for more information:&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/admission</a>
