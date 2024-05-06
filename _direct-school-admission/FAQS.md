@@ -4,8 +4,7 @@ permalink: /direct-school-admission/faqs/
 variant: tiptap
 description: ""
 ---
-<h1>FAQs</h1>
-<h2>&nbsp;</h2>
+<h1>FAQs&nbsp;</h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
