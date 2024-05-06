@@ -4,9 +4,7 @@ permalink: /direct-school-information/other-information/
 variant: tiptap
 description: ""
 ---
-<h1>Other Information</h1>
-<p><strong>&nbsp;</strong>
-</p>
+<h1>Other Information<strong>&nbsp;</strong></h1>
 <p><strong>Important Notes for International Students &amp; Students who are not studying in MOE Schools</strong>&nbsp;</p>
 <p>Any student, Singapore Citizens (SC) and Permanent Residents (PR) inclusive,
 who are not studying in MOE mainstream primary schools i.e. Returning Singaporeans,
