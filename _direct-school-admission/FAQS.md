@@ -279,7 +279,7 @@ to take up another instrument, we will consider your child’s application.</p>
 <td rowspan="1" colspan="1">
 <p>For more information on the list of subjects offered, please go to:</p>
 <p>&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.swisscottagesec.moe.edu.sg/swiss-experience/Instructional-Programme</a>
+<p><a href="https://www.swisscottagesec.moe.edu.sg/swiss-experience/instructional-Programme" rel="noopener noreferrer nofollow" target="_blank">https;//www.swisscottagesec.moe.edu.sg/swiss-experience/Instructional-Programme</a>
 </p>
 </td>
 </tr>
