@@ -2,6 +2,7 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - FAQS.md
       - Other Information.md
       - Application Timeline.md
       - Admission Criteria.md
