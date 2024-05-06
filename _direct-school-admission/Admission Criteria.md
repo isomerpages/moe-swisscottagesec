@@ -4,8 +4,7 @@ permalink: /direct-school-admission/admission-criteria/
 variant: tiptap
 description: ""
 ---
-<h1>Admission Criteria</h1>
-<p>&nbsp;</p>
+<h1>Admission Criteria&nbsp;</h1>
 <p>Primary 6 students will be considered for DSA into Swiss Cottage based
 on leadership excellence as well as excellence in the specific talent area.
 Applicants must demonstrate very good conduct and consistently good academic
