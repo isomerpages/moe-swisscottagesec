@@ -14,5 +14,5 @@ am to 3 pm).</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Email to us at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">scss@moe.edu.sg</a>,
 please indicate "DSA Enquiries" in the subject field.&nbsp;</p>
 <p>More information regarding the DSA can be found on the MOE website:
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
