@@ -168,7 +168,7 @@ variant: tiptap
 <p>B Div Boys</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Overall 6<sup>th</sup> placing for school</p>
+<p>NSG Nationals - Overall 6<sup>th</sup> placing</p>
 </td>
 </tr>
 <tr></tr>
