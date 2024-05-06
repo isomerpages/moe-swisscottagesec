@@ -143,10 +143,8 @@ Returning Singaporeans, International Students studying overseas or in
 local international schools, students in Special Education Schools or religious
 schools (e.g. Pathlight, Madrasah, San Yu Adventist) and home-schoolers
 will need to obtain a Registration Number (RGxxxxxxx) before they can apply
-through the DSA-Sec Portal.</p>
-<p>&nbsp;</p>
-<p>Please refer to MOE website below for more information:</p>
-<p>&nbsp;</p>
+through the DSA-Sec Portal.&nbsp;</p>
+<p>Please refer to MOE website below for more information:&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </td>
