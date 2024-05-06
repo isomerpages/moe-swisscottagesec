@@ -4,7 +4,7 @@ permalink: /direct-school-admission/dsa-information-e-session/
 variant: tiptap
 description: ""
 ---
-<p><strong>DSA Information e-Session</strong>&nbsp;</p>
+<h2><strong>DSA Information e-Session</strong>&nbsp;</h2>
 <p>Find out more about the Swiss Direct School Admission during our DSA Information
 e-Session on <strong>11 May (Saturday)</strong>. Principal Address will
 start at <strong>9 am</strong>, followed by a Question-and-Answer Session.&nbsp;</p>
