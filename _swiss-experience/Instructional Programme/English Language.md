@@ -68,7 +68,7 @@ We aim to
 | Miss Tan Annie | Year Head  (Upper Secondary) |
 | Mr Wong Wai Kiong Terence | Head of Department / Technology for Learning |
 | Mr Tan Jeng, Gordon | Subject Head / English Language |
-| Mrs Constance Wong | Lead Teacher / English Language |
+| Mdm Constance Wong | Lead Teacher / English Language |
 | Ms Herina Bte Roslin | Senior Teacher / English Literature  |
 | Miss Tan Mee Han | Senior Teacher / English Language |
 | Ms Kek Huiyu | Assistant Year Head / English Language |
