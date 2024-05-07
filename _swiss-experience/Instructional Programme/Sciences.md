@@ -49,7 +49,7 @@ Talent Development Programmes/Competitions
 | Mr Thou Reaksmey | Subject Head / Physics and ALP |
 | Mdm Tan Pui San | Senior Teacher / Chemistry |
 | Mr Tan Han Chong Timothy | Year Head / Biology |
-| Mdm Sitti Aishah Bte Yusof | Subject Head CCA / Biology and Chemistry |
+| Mdm Sitti Aishah Bte Yusof | Subject Head / CCA / Biology and Chemistry |
 | Mr Kenneth Neo Cheng Wee | Acting Subject Head / EDTECH |
 | Mr Choo Shi Qian | Teacher / Chemistry |
 | Mdm Lau Lee Leng | Teacher / Chemistry |
