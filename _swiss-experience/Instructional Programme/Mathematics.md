@@ -23,11 +23,11 @@ Principles of Accounts is offered to upper secondary students in both Express an
 |  |  |
 |---|---|
 | Mr Ang Hanping | Head of Department Mathematics |
-| Mdm Pow Tian Si Zoe | Subject Head  Mathematics |
+| Mdm Pow Tian Si Zoe | Subject Head / Mathematics |
 | Ms Ng Poh Keow | Assistant Year Head |
 | Ms Yeo Koon Koon | Senior Teacher / Mathematics |
 | Mr Heng Teng Boon | Subject Head / CCE  |
-| Mr Christopher Lim Junxuan | Subject Head ICT and Student Well-Being  |
+| Mr Christopher Lim Junxuan | Subject Head ICT / Student Well-Being  |
 | Ms Ang Kai Lun Karen | Teacher / Principles of Accounts and Mathematics |
 | Mr Chen Wenhui | Teacher / Physical Education and Mathematics  |
 | Mrs Chen Yen Wah | Teacher / Mathematics  |
@@ -36,7 +36,7 @@ Principles of Accounts is offered to upper secondary students in both Express an
 | Mr Ngoh Kia Joon | Teacher / Mathematics  |
 | Mdm Tan Poh Kim | Teacher / Mathematics  |
 | Mr Tan Hong Cheong | Teacher / Mathematics  |
-| Mdm Chew Wye Mun Serene | Teacher  Mathematics |
+| Mdm Chew Wye Mun Serene | Teacher /  Mathematics |
 | Mdm Ang Sok Leng Sophia | Teacher / Mathematics |
 | Ms Ng Hwee Chun Joyce |  Teacher / Mathematics |
 | Ms Lee Peiqi | Teacher / Mathematics |
