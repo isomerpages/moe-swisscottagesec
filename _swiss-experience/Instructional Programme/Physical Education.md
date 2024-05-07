@@ -27,7 +27,7 @@ The PE department will continue to innovate and inspire our students to live an 
 |                               |                                 |
 |------------------------------|-----------------------------|
 | Physical Education &amp; Co-Curricular Activities |  |
-| Mr Toh Chee Keong | Head Of Department / PE and CCA |
+| Mr Toh Chee Keong | Head Of Department / Physical Education and CCA |
 | Mdm Sitti Aishah Yusof | Subject Head / CCA |
 | Mr Chew Kok Chung Alex | Subject Head / Student Management |
 | Mr Lim Junxuan Christopher | Subject Head / ICT and Student Well-Being  |
