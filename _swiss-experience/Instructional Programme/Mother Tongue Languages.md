@@ -31,7 +31,7 @@ variant: markdown
 
 |  |  |
 |---|---|
-| Miss Toh Hui Jing | Head of Department Mother Tongue Languages |
+| Miss Toh Hui Jing | Head of Department / Mother Tongue Languages |
 | Mr Abdul Nasser S/O T A Mitten | Lead Teacher / Tamil Language |
 | Mdm Xu Yiping | Senior Teacher / Chinese Language |
 | Mdm Noorhidaya Bte Abdul Karim | Senior Teacher / Malay Language |
