@@ -43,7 +43,7 @@ Talent Development Programmes/Competitions
 
 |  |  |
 |---|---|
-| Mr Goh Weibin | Head of Department Science / Biology |
+| Mr Goh Weibin | Head of Department / Science and Biology |
 | Mr Lim Jun Li | School Staff Developer / Physics |
 | Mr Seow Jason | Lead Teacher / Biology |
 | Mr Thou Reaksmey | Subject Head / Physics &amp; ALP |
