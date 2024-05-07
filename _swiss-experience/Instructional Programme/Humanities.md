@@ -34,8 +34,8 @@ Swiss Cottage offers the following Humanities subjects:
 
 |  |  |
 |---|---|
-| Mdm Serene Tang Hue Sim | Head of Department Humanities |
-| Mr Sunil K Nair | Subject Head Geography |
+| Mdm Serene Tang Hue Sim | Head of Department / Humanities |
+| Mr Sunil K Nair | Subject  Head / Geography |
 | Mr Clement Tan Wei Xin | Subject Head / Student Leadership |
 | Mr Alex Chew Kok Chung | Subject Head / Student Management |
 | Ms Christina Fong Hui Beng | Teacher / Geography |

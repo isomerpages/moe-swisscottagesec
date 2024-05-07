@@ -43,13 +43,13 @@ Talent Development Programmes/Competitions
 
 |  |  |
 |---|---|
-| Mr Goh Weibin | Head of Department Science / Biology |
+| Mr Goh Weibin | Head of Department / Science  |
 | Mr Lim Jun Li | School Staff Developer / Physics |
 | Mr Seow Jason | Lead Teacher / Biology |
-| Mr Thou Reaksmey | Subject Head / Physics &amp; ALP |
+| Mr Thou Reaksmey | Subject Head / Physics and ALP |
 | Mdm Tan Pui San | Senior Teacher / Chemistry |
 | Mr Tan Han Chong Timothy | Year Head / Biology |
-| Mdm Sitti Aishah Bte Yusof | Subject Head CCA / Biology &amp; Chemistry |
+| Mdm Sitti Aishah Bte Yusof | Subject Head / CCA  |
 | Mr Kenneth Neo Cheng Wee | Acting Subject Head / EDTECH |
 | Mr Choo Shi Qian | Teacher / Chemistry |
 | Mdm Lau Lee Leng | Teacher / Chemistry |

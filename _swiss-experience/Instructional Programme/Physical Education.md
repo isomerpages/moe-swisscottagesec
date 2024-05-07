@@ -27,14 +27,14 @@ The PE department will continue to innovate and inspire our students to live an 
 |                               |                                 |
 |------------------------------|-----------------------------|
 | Physical Education &amp; Co-Curricular Activities |  |
-| Mr Toh Chee Keong | Head Of Department PE &amp; CCA |
-| Mdm Sitti Aishah Yusof | Subject Head CCA |
+| Mr Toh Chee Keong | Head Of Department / Physical Education and CCA |
+| Mdm Sitti Aishah Yusof | Subject Head / CCA |
 | Mr Chew Kok Chung Alex | Subject Head / Student Management |
-| Mr Lim Junxuan Christopher | Subject Head ICT and Student Well-Being  |
-| Mr Chen Wenhui Jason | Teacher PE |
-| Mr Rajanayagam Michael | Teacher PE |
-| Mr Teguh Daniel Tampemawa | Teacher PE  |
-| Ms Goh Shi Le Priscilla | Teacher PE |
+| Mr Lim Junxuan Christopher | Subject Head / ICT and Student Well-Being  |
+| Mr Chen Wenhui Jason | Teacher / Physical Education |
+| Mr Rajanayagam Michael | Teacher /  Physical Education |
+| Mr Teguh Daniel Tampemawa | Teacher / Physical Education  |
+| Ms Goh Shi Le Priscilla | Teacher / Physical Education |
 
 **Our Swiss PE Programme**
 
