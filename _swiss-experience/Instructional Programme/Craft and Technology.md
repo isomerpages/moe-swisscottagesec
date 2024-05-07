@@ -39,14 +39,14 @@ variant: markdown
 
 |  |  |
 |---|---|
-| Mrs Lim-Ong Ching Ching | Head of Department Craft &amp; Technology |
-| Mdm Chok Shuk Yin | Head of Department CCE &amp; Student Well-being |
+| Mrs Lim-Ong Ching Ching | Head of Department / Craft and Technology |
+| Mdm Chok Shuk Yin | Head of Department / CCE and Student Well-being |
 | Mr Koh Joon Teck | Subject Head / Smart Electrical Technology and Design &amp; Technology |
-| Mr Lee Hongyun Eric | Teacher / Design &amp; Technology and Smart Electrical Technology |
-| Mr Simon Wong Yin Kew | Teacher / Design &amp; Technology |
-| Mdm Iznur Shahidah Bte Ishak | Teacher / Design &amp; Technology |
-| Mdm Koh Shin Yee | Teacher / Food &amp; Nutrition |
-| Mdm Su Ziyan | Teacher / Food &amp; Nutrition |
+| Mr Lee Hongyun Eric | Teacher / Design and Technology and Smart Electrical Technology |
+| Mr Simon Wong Yin Kew | Teacher / Design and Technology |
+| Mdm Iznur Shahidah Bte Ishak | Teacher / Design and Technology |
+| Mdm Koh Shin Yee | Teacher / Food and Nutrition |
+| Mdm Su Ziyan | Teacher / Food and Nutrition |
 | Mdm Nurfarihah Bte Ahmad Rifa’eh |  Teacher / Art |
 | Ms Nur Aqilah Bte Johari |  Teacher / Art |
 | Mr Low Keoh | Teacher |
