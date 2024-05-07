@@ -30,8 +30,8 @@ variant: markdown
 
 | ICT &amp; Computer Applications |  |
 |---|---|
-| Mr Wong Wai Kiong Terence | Head of Department Technology for Learning (TfL) |
-| Mr Lim Junxuan Christopher | Subject Head ICT and  Student Well-Being  |
+| Mr Wong Wai Kiong Terence | Head of Department / Technology for Learning (TfL) |
+| Mr Lim Junxuan Christopher | Subject Head  / ICT and  Student Well-Being  |
 | Mdm Shahada Bte Rahmat | Teacher / CPA  |
 | Mr Wong Yin Kew | Teacher / CPA  |
 | Mr Choo Shi Qian | Teacher / CPA  |
