@@ -30,7 +30,7 @@ third_nav_title: For Parents
 <p>Swiss Uniform Online Sales Guide</p>
 </li>
 <li>
-<p>Secondary 1 Mee-the-Parents Session 2024</p>
+<p>Secondary 1 Meet-the-Parents Session 2024</p>
 </li>
 <li>
 <p>Bookshop Services Provider</p>
