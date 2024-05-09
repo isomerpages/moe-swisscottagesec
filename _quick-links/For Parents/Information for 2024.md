@@ -31,7 +31,8 @@ third_nav_title: For Parents
 </p>
 </li>
 <li>
-<p>Secondary 1 Meet-the-Parents Session 2024</p>
+<p><a href="https://www.swisscottagesec.moe.edu.sg/files/2024_S1_MTP_050124_vWebsite.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Meet-the-Parents Session 2024</a>
+</p>
 </li>
 <li>
 <p><a href="/files/For parents/new bookshop services provider wef 1 apr 2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Bookshop Services Provider</a>
