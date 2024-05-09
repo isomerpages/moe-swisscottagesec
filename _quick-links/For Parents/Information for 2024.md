@@ -19,10 +19,12 @@ third_nav_title: For Parents
 </p>
 </li>
 <li>
-<p>Secondary 4 Booklist 2024</p>
+<p><a href="/files/Secondary 1 Registration/swiss cottage secondary school booklist 2024 final sec 4(1).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Booklist 2024</a>
+</p>
 </li>
 <li>
-<p>Secondary 5 Booklist 2024</p>
+<p><a href="/files/Secondary 1 Registration/swiss cottage secondary school booklist 2024 final sec 5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Booklist 2024</a>
+</p>
 </li>
 <li>
 <p>Swiss Uniform Online Sales Guide</p>
