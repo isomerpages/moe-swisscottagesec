@@ -7,10 +7,12 @@ third_nav_title: For Parents
 ---
 <ol data-tight="true" class="tight">
 <li>
-<p>Secondary 1 Booklist 2024</p>
+<p><a href="/files/Secondary 1 Registration/swiss cottage secondary school booklist 2024 final sec 1_241023(1).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Booklist 2024</a>
+</p>
 </li>
 <li>
-<p>Secondary 2 Booklist 2024</p>
+<p><a href="/files/Secondary 1 Registration/swiss cottage secondary school booklist 2024 final sec 2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Booklist 2024</a>
+</p>
 </li>
 <li>
 <p>Secondary 3 Booklist 2024</p>
