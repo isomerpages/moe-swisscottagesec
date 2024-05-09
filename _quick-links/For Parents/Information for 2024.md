@@ -27,7 +27,7 @@ third_nav_title: For Parents
 </p>
 </li>
 <li>
-<p><a href="/files/For parents/School-Uniform-Online-Sales-Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Swiss Uniform Online Sales Guide</a>
+<p><a href="/files/For parents/Swiss_Uniform_23__2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Swiss Uniform Online Sales Guide</a>
 </p>
 </li>
 <li>
