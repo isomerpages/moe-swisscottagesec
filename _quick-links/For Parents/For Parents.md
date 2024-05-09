@@ -14,6 +14,13 @@ development of your child in their physical and emotional areas:</p>
 <br>4. <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Portal</a> 
 <br>5. <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education Programme</a>
 </p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p><a href="https://form.gov.sg/60b99f0b5cc3410012909dbe" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence (LOA)</a>
+</p>
+</li>
+</ol>
+<p></p>
 <p><strong><u>Information for 2024</u></strong>
 </p>
 <p>1. <a href="/files/Secondary%201%20Registration/swiss%20cottage%20secondary%20school%20booklist%202024%20final%20sec%201_241023(1).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Booklist 2024</a> 
