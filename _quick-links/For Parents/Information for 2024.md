@@ -34,7 +34,8 @@ third_nav_title: For Parents
 <p>Secondary 1 Meet-the-Parents Session 2024</p>
 </li>
 <li>
-<p>Bookshop Services Provider</p>
+<p><a href="/files/For parents/new bookshop services provider wef 1 apr 2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Bookshop Services Provider</a>
+</p>
 </li>
 </ol>
 <p></p>
