@@ -27,7 +27,8 @@ third_nav_title: For Parents
 </p>
 </li>
 <li>
-<p>Swiss Uniform Online Sales Guide</p>
+<p><a href="/files/For parents/School-Uniform-Online-Sales-Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Swiss Uniform Online Sales Guide</a>
+</p>
 </li>
 <li>
 <p>Secondary 1 Meet-the-Parents Session 2024</p>
