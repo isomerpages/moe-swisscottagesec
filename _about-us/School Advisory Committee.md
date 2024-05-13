@@ -4,7 +4,12 @@ permalink: /about-us/school-advisory-committee/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -53,7 +58,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Memebr_Danny_Lim__002_.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/SAC_Member_Lim_Cheng_Puay__002_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,7 +77,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Member
-<br>Mr Lim Fung Yee Danny
+<br>Mr Lim Cheng Puay
 <br>
 </p>
 </td>
@@ -88,7 +93,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Chan_Seng_Fai__002_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Elgin_Goh.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,7 +112,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>SAC Member
-<br>Mr Chan Seng Fai
+<br>Mr Elgin Goh
 <br>
 <br>
 </p>
@@ -129,15 +134,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Goh_Tze_Mien__002_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Lim_Cheng_Puay__002_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -145,15 +144,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SAC Member
-<br>Mr Goh Tze Mien
-<br>
+<p>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAC Member
-<br>Mr Lim Cheng Puay
+<p>
 <br>
 <br>
 </p>
