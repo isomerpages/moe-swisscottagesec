@@ -57,9 +57,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Memebr_Danny_Lim__002_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -77,7 +74,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Member
-<br>Mr Lim Fung Yee Danny
+<br>Mr Lim Cheng Puay
 <br>
 </p>
 </td>
@@ -92,9 +89,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Chan_Seng_Fai__002_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -112,7 +106,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>SAC Member
-<br>Mr Chan Seng Fai
+<br>Mr Elgin Goh
 <br>
 <br>
 </p>
