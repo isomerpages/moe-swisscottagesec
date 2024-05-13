@@ -73,7 +73,7 @@ variant: markdown
   <tr>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">1S3</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">LEE SI WEI (MDM)</span></td>
-    <td class="tg-i0fa"></td>
+    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">LEE JIA LIANG (MR)</span></td>
     <td class="tg-i0fa"></td>
   </tr>
   <tr>
