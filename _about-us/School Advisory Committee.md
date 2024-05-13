@@ -57,6 +57,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/SAC_Member_Lim_Cheng_Puay__002_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -89,6 +92,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Elgin_Goh.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -128,15 +134,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Elgin_Goh.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/About us/School Advisory Committee/SAC_Member_Lim_Cheng_Puay__002_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -144,15 +144,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SAC Member
-<br>Mr Elgin Goh
-<br>
+<p>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAC Member
-<br>Mr Lim Cheng Puay
+<p>
 <br>
 <br>
 </p>
