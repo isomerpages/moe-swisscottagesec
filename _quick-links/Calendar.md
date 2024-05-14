@@ -25,6 +25,7 @@ variant: tiptap
 </p>
 <p><a href="/files/2024_Oct_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">October 2024</a>
 </p>
+<h4><strong>October 2024</strong></h4>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -68,28 +69,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,8 +86,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sun 6/10</strong>
+</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 7/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 8/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 9/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 10/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fri 11/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 12/10</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -116,6 +122,65 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>End EOY exam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marking Day</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun 13/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 14/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 15/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 16/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 17/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fri 18/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 19/10</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Resumption (post exam)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL Day</p>
+<p>O Level LC</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,48 +195,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sun 20/10</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mon 21/10</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Tue 22/10</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Wed 23/10</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Thu 24/10</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Fri 25/10</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sat 26/10</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -182,13 +231,44 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>WeGROW</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WeGROW</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>WeGROW</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Last Day of School</p>
 <p></p>
+<p>PTC (selected students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Horizon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun 27/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 28/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 29/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 30/10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 31/10</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -199,42 +279,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S2 Horizon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Horizon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Horizon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Deepavali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -247,11 +305,7 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>Nov 2024</p>
+<h4><strong>November  2024</strong></h4>
 <p></p>
 <table style="minWidth: 175px">
 <colgroup>
