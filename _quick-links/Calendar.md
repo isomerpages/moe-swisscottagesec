@@ -110,7 +110,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sat 12/10</strong>
+<p><strong>Sat12/10</strong>
 </p>
 </td>
 </tr>
@@ -140,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sun 13/10</strong>
+<p><strong>Sun13/10</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,7 +195,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sun 20/10</strong>
+<p><strong>Sun20/10</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,7 +251,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sun 27/10</strong>
+<p><strong>Sun27/10</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -305,7 +305,7 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<h4><strong>November  2024</strong></h4>
+<h4><strong>November 2024</strong></h4>
 <p></p>
 <table style="minWidth: 175px">
 <colgroup>
