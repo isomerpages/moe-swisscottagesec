@@ -11,7 +11,12 @@ third_nav_title: Achievements Archive
 <p><strong>CCA Achievements</strong>
 </p>
 <p><strong>On the Uniform Groups Front</strong>&nbsp;</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -132,7 +137,12 @@ third_nav_title: Achievements Archive
 </table>
 <p><strong>On the Sports Front (2023)</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
@@ -204,6 +214,7 @@ third_nav_title: Achievements Archive
 </td>
 <td rowspan="1" colspan="1">
 <p>NSG West Zone – 1<sup>st </sup>Runner-Up (2<sup>nd</sup> place)</p>
+<p>NSG Nationals - Top 8</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +262,11 @@ third_nav_title: Achievements Archive
 </table>
 <p><strong>On the Performing Arts Front (2023)</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -311,7 +326,11 @@ third_nav_title: Achievements Archive
 </tbody>
 </table>
 <p><strong>On The Clubs &amp; Societies Front (2023)</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
