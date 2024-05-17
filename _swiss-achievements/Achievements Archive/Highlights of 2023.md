@@ -183,7 +183,7 @@ third_nav_title: Achievements Archive
 <td rowspan="1" colspan="1">
 <p>NSG West Zone – 3<sup>rd</sup>
 </p>
-<p>National QF – top 8</p>
+<p>National QF – Top 8</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ third_nav_title: Achievements Archive
 </td>
 <td rowspan="1" colspan="1">
 <p>NSG West Zone – 3<sup>rd</sup> Runner-Up (4<sup>th</sup> place)</p>
-<p>NSG Nationals top 16</p>
+<p>NSG Nationals - Top 16</p>
 </td>
 </tr>
 <tr>
