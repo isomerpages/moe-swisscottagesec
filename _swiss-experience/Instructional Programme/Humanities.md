@@ -47,7 +47,7 @@ Swiss Cottage offers the following Humanities subjects:
 | Ms Kelly Tan Kai Li | Teacher / History and Social Studies |
 | Ms Lee Si Wei |  Teacher /  History and Social Studies |
 | Mdm Lee Su Fern | Teacher / Geography and Social Studies |
-| Mdm Lee Jia Yun | Teacher  |
+
 
 <b><u>The Study of History</u></b>
 
