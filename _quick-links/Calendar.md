@@ -679,7 +679,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon  5/8</strong>
+<p><strong>Mon 5/8</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -728,48 +728,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sun 11/8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mon 12/8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Tue 13/8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Wed 14/8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Thu 15/8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Fri 16/8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sat 17/8</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -797,25 +781,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sun 18/8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mon 19/8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Tue 20/8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Wed 21/8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Thu 22/8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Fri 23/8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sat 24/8</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -839,6 +830,36 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun 25/8</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 26/8</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 27/8</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 28/8</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 29/8</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fri 30/8</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 31/8</strong>
+</p>
 </td>
 </tr>
 <tr>
