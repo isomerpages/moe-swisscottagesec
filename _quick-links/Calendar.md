@@ -905,25 +905,25 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Sun 1/9</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Mon 2/9</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Tue 3/9</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Wed 4/9</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Thu 5/9</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Fri 6/9</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Sat 7/9</p>
 </th>
 </tr>
 <tr>
@@ -951,8 +951,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sun 8/9</strong>
+</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 9/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 10/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 11/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 12/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fri 13/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 14/9</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -969,7 +996,40 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>End of O Level Prelims</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun 15/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 16/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 17/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 18/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 19/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fri 20/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 21/9</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -997,10 +1057,40 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Sun 22/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 23/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 24/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 25/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 26/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fri 27/9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 28/9</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Start of EYE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1020,128 +1110,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sun 29/9</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mon 30/9</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Tue 31/9</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
