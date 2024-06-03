@@ -17,8 +17,603 @@ variant: tiptap
 </p>
 <p><a href="/files/2024_June_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">June 2024</a>
 </p>
+<h4><strong>June 2024</strong></h4>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 1/6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun 2/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 3/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 4/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 5/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 6/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fri 7/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 8/6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start of Term 2 School Holiday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun 9/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 10/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 11/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 12/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 13/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fri 14/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 15/6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun 16/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 17/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 18/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 19/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 20/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fri 21/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 22/6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hari Ray Haji</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Sun 23/6</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mon 24/6</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Tue 25/6</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Wed 26/6</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Thu 27/6</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Fri 28/6</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sat 29/6</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Check In (sec 1 -5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Swiss Olympics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun 30/6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><a href="/files/2024_Jul_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">July 2024</a>
 </p>
+<p></p>
+<h4><strong>July 2024</strong></h4>
+<p></p>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mon 1/7</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Tue 2/7</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Wed 3/7</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Thu 4/7</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Fri 5/7</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sat 6/7</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Youth Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>O Level LC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start: O Level MT Oral (4-12 July PM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL Day #9</p>
+<p></p>
+<p>O Level MT Oral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (4-12 July PM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun 7/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 8/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 9/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 10/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 11/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fri 12/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 13/7</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>O Level MT Oral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(4-12 July PM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>O Level MT Oral (4-12 July PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>O Level MT Oral (4-12 July PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>O Level MT Oral (4-12 July PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End: O Level MT Oral (4-12 July PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun 14/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 15/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 16/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 17/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 18/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fri 19/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 20/7</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun 21/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 22/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 23/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 24/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 25/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fri 26/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 27/7</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start: N Level EL Oral (PM)</p>
+<p></p>
+<p>Start: O Level EL Oral (PM)</p>
+<p></p>
+<p>Start: O Level HMT Oral (PM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N Level EL Oral (AM)</p>
+<p></p>
+<p>Start: N Level MT/BMT Oral (FD)</p>
+<p></p>
+<p>Start: O Level MTB Oral (PM)</p>
+<p>O Level EL Oral (AM)</p>
+<p>O Level HMT Oral (AM)</p>
+<p>&nbsp;</p>
+<p>HBL Day #10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N Level EL Oral (FD)</p>
+<p></p>
+<p>N Level MT/BMT Oral (FD)</p>
+<p></p>
+<p>O Level MTB Oral (PM)</p>
+<p></p>
+<p>O Level EL Oral (FD)</p>
+<p></p>
+<p>O Level HMT Oral (AM)</p>
+<p></p>
+<p>&nbsp;HBL #11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N Level EL Oral (AM)</p>
+<p></p>
+<p>N Level MT/BMT Oral (FD)</p>
+<p></p>
+<p>End: O Level MTB Oral (PM)</p>
+<p>O Level EL Oral (AM)</p>
+<p>End: O Level HMT Oral (FD)</p>
+<p></p>
+<p></p>
+<p>HBL #12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End: O Level EL Oral (PM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun 28/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 29/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 30/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 31/7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start of N level Prelims</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><a href="/files/2024_August_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">August 2024</a>
 </p>
 <p><a href="/files/2024_September_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">September 2024</a>
