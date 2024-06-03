@@ -616,6 +616,7 @@ variant: tiptap
 </table>
 <p><a href="/files/2024_August_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">August 2024</a>
 </p>
+<h4><strong>August 2024</strong></h4>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -714,13 +715,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>End of N Level Prelims</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Day Observation cum Speech Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -814,7 +815,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Start of O Level Prelims</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -823,7 +824,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Last Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -876,33 +877,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teachers’ Day Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Teachers’ Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
