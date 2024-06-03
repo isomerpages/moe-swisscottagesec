@@ -49,7 +49,6 @@ variant: markdown
 | Mdm Su Ziyan | Teacher / Food and Nutrition |
 | Mdm Nurfarihah Bte Ahmad Rifa’eh |  Teacher / Art |
 | Ms Nur Aqilah Bte Johari |  Teacher / Art |
-| Mr Low Keoh | Teacher |
 | Mr Tan Yong Huat |  Teacher  |
 | Mr Chua Soo Chuan | Educational Workshop Instructor |
 | Mr S. Rozaini Bin Yusoff | Educational Workshop Instructor |
