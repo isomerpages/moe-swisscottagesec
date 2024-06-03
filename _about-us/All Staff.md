@@ -270,13 +270,10 @@ variant: markdown
 | -------- | -------- | -------- |
 | MS NUR AQILAH BINTE JOHARI    | ART     |      |
 | MDM SEE TO CHEE CHONG    | CHEMISTRY    |      |
-| MS CHEN XI    | CHINESE  LANGUAGE   |      |
 | MDM KOH HUI SZE    | CHINESE  LANGUAGE   |      |
-| MR LOW KEOH    | D&amp;T     |      |
 | MR TAN YONG HUAT    | D&amp;T   |      |
 | MTAN WEI SI STELLA    | ENGLISH   |      |
 | MS LIM SU-FERN   | HUMANITIES     |      |
-| MS LEE JIA YUN | HUMANITIES |
 | MDM CHEW WYE MUN    | MATHEMATICS     |      |
 | MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
 | MS NG HWEE CHUN    | MATHEMATICS     |      |
