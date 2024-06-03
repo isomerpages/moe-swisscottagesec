@@ -1763,71 +1763,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sun 8/12</p>
+<p><strong>Sun 8/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 9/12</p>
+<p><strong>Mon 9/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue 10/12</p>
+<p><strong>Tue 10/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 11/12</p>
+<p><strong>Wed 11/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu 12/12</p>
+<p><strong>Thu 12/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 13/12</p>
+<p><strong>Fri 13/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 14/12</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sun 15/12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon 16/12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tue 17/12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wed 18/12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thu 19/12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri 20/12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sat 21/12</p>
+<p><strong>Sat 14/12</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1855,48 +1816,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sun 22/12</p>
+<p><strong>Sun 15/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 23/12</p>
+<p><strong>Mon 16/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue 24/12</p>
+<p><strong>Tue 17/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Wed 18/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Thu 19/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Fri 20/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sat 21/12</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1924,6 +1869,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Sun 22/12</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon 23/12</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tue 24/12</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wed 25/12</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thu 26/12</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fri 27/12</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sat 28/12</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1947,36 +1922,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sun 29/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mon 30/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Tue 31/1</strong>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
