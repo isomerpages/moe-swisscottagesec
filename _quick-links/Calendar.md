@@ -524,13 +524,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>N Level EL Oral (AM)</p>
-<p></p>
 <p>Start: N Level MT/BMT Oral (FD)</p>
-<p></p>
 <p>Start: O Level MTB Oral (PM)</p>
 <p>O Level EL Oral (AM)</p>
-<p>O Level HMT Oral (AM)</p>
-<p>&nbsp;</p>
+<p>O Level HMT Oral (AM)&nbsp;</p>
 <p>HBL Day #10</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -543,7 +540,6 @@ variant: tiptap
 <p>O Level EL Oral (FD)</p>
 <p></p>
 <p>O Level HMT Oral (AM)</p>
-<p></p>
 <p>&nbsp;HBL #11</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1747,6 +1743,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1800,6 +1797,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1852,6 +1850,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1908,7 +1907,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Christmas Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1953,7 +1952,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>New Year Eve</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
