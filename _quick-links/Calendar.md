@@ -367,7 +367,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HBL Day #9</p>
 <p></p>
-<p>O Level MT Oral&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (4-12 July PM)</p>
+<p>O Level MT Oral(4-12 July PM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
