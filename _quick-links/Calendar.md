@@ -1052,7 +1052,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HBL Day</p>
+<p>Sec 4/5 Graduation Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
