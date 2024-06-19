@@ -123,7 +123,7 @@ variant: markdown
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">2S3</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">KOH JOON TECK (MR)</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">NUR AQILAH BINTE JOHARI (MISS)</span></td>
-    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">CHEN WENHUI (MR)</span></td>
+    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black"></span></td>
   </tr>
   <tr>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">2S4</span></td>
