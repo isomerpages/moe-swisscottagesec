@@ -72,7 +72,6 @@ We aim to
 | Ms Herina Bte Roslin | Senior Teacher / English Literature  |
 | Miss Tan Mee Han | Senior Teacher / English Language |
 | Ms Kek Huiyu | Assistant Year Head / English Language |
-| Mdm Ong Yuan Shin | Teacher / English Language |
 | Ms Serene Lee Ching Lien | Teacher / English Language |
 | Ms Faith Wang Yi Shan | Teacher / English Language and Geography |
 | Ms Tan Yan Lin, Hazel | Teacher / English Language and English Literature |
