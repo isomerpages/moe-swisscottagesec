@@ -152,7 +152,7 @@ variant: markdown
   <tr>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">2S8</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">KAT KAR SIEN (MR)</span></td>
-    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">ONG YUAN SHIN (MDM)</span></td>
+    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black"></span></td>
     <td class="tg-i0fa"></td>
   </tr>
   <tr>
