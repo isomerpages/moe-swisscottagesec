@@ -31,7 +31,6 @@ The PE department will continue to innovate and inspire our students to live an 
 | Mdm Sitti Aishah Yusof | Subject Head / CCA |
 | Mr Chew Kok Chung Alex | Subject Head / Student Management |
 | Mr Lim Junxuan Christopher | Subject Head / ICT and Student Well-Being  |
-| Mr Chen Wenhui Jason | Teacher / Physical Education |
 | Mr Rajanayagam Michael | Teacher /  Physical Education |
 | Mr Teguh Daniel Tampemawa | Teacher / Physical Education  |
 | Ms Goh Shi Le Priscilla | Teacher / Physical Education |

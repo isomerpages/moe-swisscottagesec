@@ -123,7 +123,7 @@ variant: markdown
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">2S3</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">KOH JOON TECK (MR)</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">NUR AQILAH BINTE JOHARI (MISS)</span></td>
-    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">CHEN WENHUI (MR)</span></td>
+    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black"></span></td>
   </tr>
   <tr>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">2S4</span></td>
@@ -152,7 +152,7 @@ variant: markdown
   <tr>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">2S8</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">KAT KAR SIEN (MR)</span></td>
-    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">ONG YUAN SHIN (MDM)</span></td>
+    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black"></span></td>
     <td class="tg-i0fa"></td>
   </tr>
   <tr>
@@ -270,13 +270,10 @@ variant: markdown
 | -------- | -------- | -------- |
 | MS NUR AQILAH BINTE JOHARI    | ART     |      |
 | MDM SEE TO CHEE CHONG    | CHEMISTRY    |      |
-| MS CHEN XI    | CHINESE  LANGUAGE   |      |
 | MDM KOH HUI SZE    | CHINESE  LANGUAGE   |      |
-| MR LOW KEOH    | D&amp;T     |      |
 | MR TAN YONG HUAT    | D&amp;T   |      |
 | MTAN WEI SI STELLA    | ENGLISH   |      |
 | MS LIM SU-FERN   | HUMANITIES     |      |
-| MS LEE JIA YUN | HUMANITIES |
 | MDM CHEW WYE MUN    | MATHEMATICS     |      |
 | MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
 | MS NG HWEE CHUN    | MATHEMATICS     |      |
