@@ -15,8 +15,7 @@ variant: tiptap
 </p>
 <p><a href="/files/2024_May_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">May 2024</a>
 </p>
-<p><a href="/files/2024_June_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">June 2024</a>
-</p>
+<p></p>
 <h4><strong>June 2024</strong></h4>
 <table style="minWidth: 175px">
 <colgroup>
@@ -309,8 +308,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="/files/2024_Jul_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">July 2024</a>
-</p>
+<p></p>
 <p></p>
 <h4><strong>July 2024</strong></h4>
 <p></p>
@@ -613,8 +611,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="/files/2024_August_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">August 2024</a>
-</p>
 <h4><strong>August 2024</strong></h4>
 <table style="minWidth: 175px">
 <colgroup>
@@ -890,8 +886,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><a href="/files/2024_September_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">September 2024</a>
-</p>
 <h4><strong>September 2024</strong></h4>
 <table style="minWidth: 175px">
 <colgroup>
@@ -1122,8 +1116,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tue 31/9</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1140,8 +1133,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="/files/2024_Oct_Calendar_Webpage.pdf" rel="noopener noreferrer nofollow" target="_blank">October 2024</a>
-</p>
 <h4><strong>October 2024</strong></h4>
 <table style="minWidth: 175px">
 <colgroup>
@@ -1930,7 +1921,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tue 31/1</strong>2</p>
+<p><strong>Tue 31/12</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
