@@ -4,4 +4,4 @@ permalink: /quick-links/2024-sec-2-subject-combination-exercise/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Sec 2 e-MTP Briefing Slides: Please click</p>
