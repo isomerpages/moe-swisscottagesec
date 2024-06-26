@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
-### **Terms of Use **
+### Terms of Use 
 
          
 
