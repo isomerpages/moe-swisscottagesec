@@ -21,7 +21,7 @@ Thank you for visiting Swiss Cottage Secondary School website. By accessing and 
 
 **Privacy Policy**
 
-5\. Click [here](https://cms.isomer.gov.sg/sites/moe-swisscottagesec/editPage/privacy.md) to review this Web Site Privacy Statement.
+5\. Click [here] to review this Web Site Privacy Statement.
 
 **Restrictions on Use of Materials**
 
