@@ -7,6 +7,5 @@ description: ""
 <p><strong>Sec 2 e-MTP Briefing Slides: Please click here</strong>
 </p>
 <p></p>
-<p><strong>Important Dates:</strong>
+<p><strong>Important Dates</strong>
 </p>
-<p></p>
