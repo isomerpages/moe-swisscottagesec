@@ -9,3 +9,9 @@ description: ""
 <p></p>
 <p><strong>Important Dates</strong>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_Subject_Combination_Exercise_2024.jpg">
+</div>
+<p></p>
