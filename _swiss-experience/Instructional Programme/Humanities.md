@@ -41,12 +41,15 @@ Swiss Cottage offers the following Humanities subjects:
 | Ms Christina Fong Hui Beng | Teacher / Geography |
 | Miss Faith Wang Yi Shan | Teacher / Geography |
 | Mr Salleh Merwan | Teacher / Geography  |
+| Mr Lai Kuok Liang | Teacher / Geography  |
 | Miss Faza Mahirah MD Suhimi | Teacher / History and Social Studies  |
 | Miss Rose Nabilah Rosli | Teacher / History and  Social Studies |
 | Mr Sim Wen Hong | Teacher / History and Social Studies |
 | Ms Kelly Tan Kai Li | Teacher / History and Social Studies |
 | Ms Lee Si Wei |  Teacher /  History and Social Studies |
+| Mr Lim Hong En | Teacher / History and Social Studies 
 | Mdm Lee Su Fern | Teacher / Geography and Social Studies |
+
 
 
 <b><u>The Study of History</u></b>
