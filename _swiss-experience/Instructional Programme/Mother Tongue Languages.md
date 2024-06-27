@@ -42,6 +42,8 @@ variant: markdown
 | Ms Fan Yunyun | Teacher / Chinese Language  |
 | Mdm Hu Fang |  Teacher / Chinese Language |
 | Mdm Koh Hui Sze| Teacher / Chinese Language |
+| Ms Lin Xingshan| Teacher / Chinese Language |
+| Mdm Yong Choon Lan| Teacher / Chinese Language |
 | Mdm Redha Nasuha Bte Mas’od | Teacher /  Malay Language  |
 | Mdm Siti Aishah Binti Mohamed Kamsani | Teacher / Malay Language |
 | Mdm Nur Zuliana Bte Hamdan | Teacher / Malay Language  |
