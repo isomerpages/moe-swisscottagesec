@@ -273,7 +273,8 @@ variant: markdown
 | MDM KOH HUI SZE    | CHINESE  LANGUAGE   |      |
 | MDM YONG CHOON LAN    | CHINESE  LANGUAGE   |      |
 | MR TAN YONG HUAT    | D&amp;T   |      |
-| MTAN WEI SI STELLA    | ENGLISH   |      |
+| MS TAN WEI SI STELLA    | ENGLISH   |      |
+| MS SUHANA BINTE SHAFIK    | ENGLISH   |      |
 | MS LIM SU-FERN   | HUMANITIES     |      |
 | MR LAI KUOK LIANG  | HUMANITIES     |      |
 | MDM CHEW WYE MUN    | MATHEMATICS     |      |
@@ -285,7 +286,6 @@ variant: markdown
 | MDM CHEW KIM ENG  | SCIENCE     |      |
 | MR MA CHUNG WAI  | SCIENCE     |      |
 | MS LAI LIAN CHING | SCIENCE     |      |
-| MS PRENUJA D/O PANNIRCHELVAM  | TAMIL     |      |
 | MDM KALIEE MUTHU SILVI  | TAMIL     |      |
 
 
