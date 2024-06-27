@@ -52,5 +52,4 @@ variant: markdown
 | Mdm Vijayaprabha Natarajan | Teacher / Tamil Language |
 | Mdm Thasradha Chandraleka | Teacher / Tamil Language |
 | Mr Viswalingam Thenmozhi |   Teacher / Tamil Language |
-| Ms Prenuja D/O Pannirchelvam |  Teacher / Tamil Language |
 | Mdm Kaliee Muthu Silvi |  Teacher / Tamil Language |
