@@ -41,3 +41,4 @@ Principles of Accounts is offered to upper secondary students in both Express an
 | Ms Ng Hwee Chun Joyce |  Teacher / Mathematics |
 | Ms Lee Peiqi | Teacher / Mathematics |
 | Mdm Ong Lay Kwan | Teacher / Mathematics |
+| Mr Soh Hong Wei | Teacher / Mathematics  |
