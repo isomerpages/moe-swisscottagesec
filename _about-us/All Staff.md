@@ -275,6 +275,7 @@ variant: markdown
 | MR TAN YONG HUAT    | D&amp;T   |      |
 | MTAN WEI SI STELLA    | ENGLISH   |      |
 | MS LIM SU-FERN   | HUMANITIES     |      |
+| MR LAI KUOK LIANG  | HUMANITIES     |      |
 | MDM CHEW WYE MUN    | MATHEMATICS     |      |
 | MDM SOPHIA ANG SOK LENG     | MATHEMATICS     |    |
 | MS NG HWEE CHUN    | MATHEMATICS     |      |
