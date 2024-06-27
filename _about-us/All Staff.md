@@ -271,6 +271,7 @@ variant: markdown
 | MS NUR AQILAH BINTE JOHARI    | ART     |      |
 | MDM SEE TO CHEE CHONG    | CHEMISTRY    |      |
 | MDM KOH HUI SZE    | CHINESE  LANGUAGE   |      |
+| MDM YONG CHOON LAN    | CHINESE  LANGUAGE   |      |
 | MR TAN YONG HUAT    | D&amp;T   |      |
 | MTAN WEI SI STELLA    | ENGLISH   |      |
 | MS LIM SU-FERN   | HUMANITIES     |      |
