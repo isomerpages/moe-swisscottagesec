@@ -79,3 +79,4 @@ We aim to
 | Mdm Nur Ashkin Binte Abu Bakar | Teacher / English Language |
 | Ms Tan Wei Si Stella | Teacher / English Language |
 | Ms Esther Yeoh | Teacher / English Language |
+| Ms Suhana Binte Shafik | Teacher / English Language |
