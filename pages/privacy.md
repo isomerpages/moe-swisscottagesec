@@ -7,7 +7,7 @@ variant: markdown
 
       
 
-###  Swiss Cottage Secondary School PRIVACY STATMENT
+###  Swiss Cottage Secondary School PRIVACY STATEMENT
 
 1.  This is a Swiss Cottage Secondary School website. Thank you for examining our privacy statement.
 
