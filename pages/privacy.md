@@ -3,12 +3,11 @@ title: Privacy Statement
 permalink: /privacy/
 variant: markdown
 ---
-Privacy Statement
-=================
+                                                                                     ****  Privacy
 
          
 
-**Swiss Cottage Secondary School PRIVACY STATEMENT**
+                                          Swiss Cottage Secondary School PRIVACY STATEMENT**
 
 1.  This is a Swiss Cottage Secondary School website. Thank you for examining our privacy statement.
 
