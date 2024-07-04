@@ -134,9 +134,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="SAC Member" src="/images/Kenneth_Leong__002_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Rose Siow Wen Szu" src="/images/Rose_Siow_Wen_Szu__002_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -144,12 +150,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
+<p>SAC Member</p>
+<p>Mr Kenneth Leong
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>SAC Member</p>
+<p>Ms Rose Siow Wen Szu
 <br>
 <br>
 </p>
