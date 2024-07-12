@@ -64,7 +64,6 @@ Talent Development Programmes/Competitions
 | Mdm Chew Kim Eng |  Teacher |
 | Mr Loh Keow |  Teacher / ALP |
 | Mr Ma Chung Wai |  Teacher |
-| Ms Lai Lian Ching |  Teacher |
 | Ms Nur Bazilah Binte Abdul Majid | Laboratory Technician |
 | Mdm Arafah Binte Abdul Majid | Laboratory Technician |
 | Mdm Puspalatha D/O Chandra Sagaran | Operations Support Officer |
