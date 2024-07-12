@@ -284,8 +284,7 @@ variant: markdown
 | MS GOH SHI LE PRISCILLA    | PHYSICAL EDUCATION     |      |
 | MDM WEE AI JEE    | PHYSICS     |      |
 | MDM CHEW KIM ENG  | SCIENCE     |      |
-| MR MA CHUNG WAI  | SCIENCE     |      |
-| MS LAI LIAN CHING | SCIENCE     |      |
+| MR MA CHUNG WAI  | SCIENCE     |      
 | MDM KALIEE MUTHU SILVI  | TAMIL     |      |
 
 
