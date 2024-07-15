@@ -152,7 +152,7 @@ variant: markdown
   <tr>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">2S8</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">KAT KAR SIEN (MR)</span></td>
-    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black"></span></td>
+    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">LIN XING SHAN (MISS)</span></td>
     <td class="tg-i0fa"></td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ variant: markdown
   <tr>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">3S5</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">LOW HWEE CHENG (MDM)</span></td>
-    <td class="tg-i0fa"></td>
+    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">SOH HONG WEI (MR)</span></td>
     <td class="tg-i0fa"></td>
   </tr>
   <tr>
@@ -195,7 +195,7 @@ variant: markdown
   <tr>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">3S7</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">TAN PUI SAN (MDM)</span></td>
-    <td class="tg-i0fa"></td>
+    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">LIM HONG EN (MR)</span></td>
     <td class="tg-i0fa"></td>
   </tr>
   <tr>
@@ -284,8 +284,7 @@ variant: markdown
 | MS GOH SHI LE PRISCILLA    | PHYSICAL EDUCATION     |      |
 | MDM WEE AI JEE    | PHYSICS     |      |
 | MDM CHEW KIM ENG  | SCIENCE     |      |
-| MR MA CHUNG WAI  | SCIENCE     |      |
-| MS LAI LIAN CHING | SCIENCE     |      |
+| MR MA CHUNG WAI  | SCIENCE     |      
 | MDM KALIEE MUTHU SILVI  | TAMIL     |      |
 
 
