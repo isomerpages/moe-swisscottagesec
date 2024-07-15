@@ -183,7 +183,7 @@ variant: markdown
   <tr>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">3S5</span></td>
     <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">LOW HWEE CHENG (MDM)</span></td>
-    <td class="tg-i0fa">SOH HONG WEI (MR)</td>
+    <td class="tg-i0fa"><span style="font-weight:inherit;font-style:inherit;color:black">SOH HONG WEI (MR)</span></td>
     <td class="tg-i0fa"></td>
   </tr>
   <tr>
