@@ -31,7 +31,6 @@ sections:
       url: /swiss-experience/Instructional-Programme/
   - infobar:
       title: STUDENT DEVELOPMENT PROGRAMME
-      subtitle: FEATURED POSTS
       description: The aim of the Student Development Programme is the holistic
         development of our students.
       button: Read more
