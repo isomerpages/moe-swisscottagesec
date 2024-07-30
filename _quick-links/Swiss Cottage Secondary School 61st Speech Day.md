@@ -15,3 +15,8 @@ are most pleased to receive and welcome you back to your alma mater.</p>
 <p>Date: 08 August 2024 (Thursday)</p>
 <p>Time: 0900am - 1230pm (with reception)</p>
 <p>Venue: School Hall</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Swiss_61st_Speech_Day.jpg">
+</div>
+<p></p>
