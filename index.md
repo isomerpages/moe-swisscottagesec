@@ -49,4 +49,11 @@ sections:
       url: https://ask.gov.sg/scss
       image: /images/scss-askgov.png
       alt: Image alt text
+  - infobar:
+      title: Swiss Cottage Secondary School 61st Speech Day
+      subtitle: Featured Posts
+      id: infobar
+      description: Infobar description
+      button: Read More
+      url: /quick-links/swiss-cottage-secondary-school-61st-speech-day/
 ---
