@@ -37,7 +37,6 @@ sections:
       url: /swiss-experience/student-development-programme/
   - infobar:
       title: DISTINCTIVE PROGRAMMES
-      subtitle: FEATURED POSTS
       description: "Distinctive Programmes Thoughtful Leaders: the vision of giving
         every student a chance to lead – to bring about meaningful and
         sustainable change in their [...]"
