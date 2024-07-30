@@ -25,7 +25,6 @@ sections:
       description: Commemorative House T-Shirt and plush Toy Bear SALE
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
-      subtitle: FEATURED POSTS
       description: Swiss Cottage is committed in delivering a comprehensive and
         holistic education to all who come through our gates.
       button: Read more
