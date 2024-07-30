@@ -22,7 +22,6 @@ sections:
       title: THE 60TH ANNIVERSARY CELEBRATION
       button: Read More
       url: https://www.swisscottagesec.moe.edu.sg/quick-links/60-anniversary-celebration/
-      subtitle: Featured Posts
       description: Commemorative House T-Shirt and plush Toy Bear SALE
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
