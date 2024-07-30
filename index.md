@@ -15,7 +15,6 @@ sections:
       url: /quick-links/swiss-cottage-secondary-school-61st-speech-day/
   - infobar:
       title: DIRECT SCHOOL ADMISSION
-      subtitle: Featured Posts
       id: infobar
       button: Read More
       url: /direct-school-admission/Swiss-Direct-School-Admission/
