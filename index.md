@@ -12,7 +12,6 @@ sections:
       title: SWISS COTTAGE SECONDARY SCHOOL 61ST SPEECH DAY
       subtitle: Featured Posts
       id: infobar
-      description: Infobar description
       button: Read More
       url: /quick-links/swiss-cottage-secondary-school-61st-speech-day/
   - infobar:
