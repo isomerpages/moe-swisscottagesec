@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Open House.md
       - Swiss Cottage Secondary School 61st Speech Day.md
       - 60th Anniversary Celebration.md
       - For Students.md
