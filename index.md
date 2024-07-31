@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/school-website copy.jpg
+      key_highlights:
+        - title: Open house 2024
+          description: Read More
+          url: /quick-links/open-house-2024/
   - infobar:
       title: SWISS COTTAGE SECONDARY SCHOOL 61ST SPEECH DAY
       id: infobar
