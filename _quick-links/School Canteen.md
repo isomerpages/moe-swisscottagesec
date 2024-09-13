@@ -59,7 +59,8 @@ description: ""
 hardcopy from the School’s General Office.</p>
 </li>
 </ol>
-<p>Application Form (PDF)</p>
+<p><a href="/files/application_for_canteen_stall_in_existing_sch_130924.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attached the following documents together
 with the application form:</p>
 <ol data-tight="true" class="tight">
