@@ -63,7 +63,7 @@ hardcopy from the School’s General Office.</p>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attached the following documents together
 with the application form:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
 </li>
@@ -74,17 +74,29 @@ with the application form:</p>
 <p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
 etc</p>
 </li>
-</ol>
+</ul>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit the completed application form
 and documents by closing date via email OR to the School’s General Office.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: No 3, Bukit Batok Street
-34, Singapore 659322</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: 65637173</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fax No: 65693028</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a rel="noopener noreferrer nofollow" target="_blank">scss@moe.edu.sg</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: No 3, Bukit Batok Street 34, Singapore
+659322</p>
+</li>
+<li>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: 65637173</p>
+</li>
+<li>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fax No: 65693028</p>
+</li>
+<li>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a rel="noopener noreferrer nofollow" target="_blank">scss@moe.edu.sg</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Mr Koo Hong Kee
-(OM) or Ms R Mahalakshimi (AM)</p>
+</li>
+<li>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Mr Koo Hong Kee (OM)
+or Ms R Mahalakshimi (AM)</p>
+</li>
+</ul>
 <p><strong>Interest applicants must meet the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
