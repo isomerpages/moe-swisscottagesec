@@ -1349,7 +1349,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>WeGROW</p>
 <p></p>
-<p>Deepavali Celebration cum House Talen Show</p>
+<p>Deepavali Celebration cum House Talent Show</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Last Day of School</p>
