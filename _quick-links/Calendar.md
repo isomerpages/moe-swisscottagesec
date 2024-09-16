@@ -1287,7 +1287,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day</p>
 <p>O Level LC</p>
 <p></p>
 </td>
