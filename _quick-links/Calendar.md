@@ -1088,10 +1088,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start of EYE</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Start of EYE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
