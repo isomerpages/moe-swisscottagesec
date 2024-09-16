@@ -1229,7 +1229,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End of EOY exam</p>
+<p>End of EOY Exam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Marking Day</p>
