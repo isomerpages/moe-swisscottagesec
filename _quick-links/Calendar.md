@@ -1227,17 +1227,17 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>End EOY exam</p>
+<p>End of EOY exam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Marking Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL Day #14</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
