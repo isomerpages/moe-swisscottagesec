@@ -1115,6 +1115,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mon 30/9</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
