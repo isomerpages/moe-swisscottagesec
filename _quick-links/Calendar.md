@@ -1047,6 +1047,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HBL Day #13</p>
+<p></p>
 <p>Sec 4/5 Graduation Day</p>
 </td>
 <td rowspan="1" colspan="1">
