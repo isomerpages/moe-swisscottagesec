@@ -1046,7 +1046,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day</p>
+<p>HBL Day #13</p>
+<p></p>
 <p>Sec 4/5 Graduation Day</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1088,10 +1089,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start of EYE</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Start of EYE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1114,6 +1115,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mon 30/9</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1227,17 +1229,17 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>End EOY exam</p>
+<p>End of EOY Exam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Marking Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL Day #14</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1287,12 +1289,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day</p>
-<p>O Level LC</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Start of O Level Written Exam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1347,6 +1348,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>WeGROW</p>
+<p></p>
+<p>Deepavali Celebration cum House Talent Show</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Last Day of School</p>

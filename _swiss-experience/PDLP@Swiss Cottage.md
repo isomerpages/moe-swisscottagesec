@@ -98,7 +98,12 @@ a PLD. Please note that it is compulsory for all students on the MOE Financial
 Assistance Scheme (FAS) to use their Edusave to pay for the PLD, after
 subsidies have been granted. Please see the table below for information
 on the eligibility for the subsidy:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -313,6 +318,10 @@ and public holidays</p>
 </li>
 <li>
 <p><a href="/files/PDLP@Swiss Cottage/Parents_Briefing_2___Handles_and_Routines_at_Home_and_PDLP_Rollout_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Briefing 2 - Handles and Routines at Home and PDLP Rollout</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Master_Slide_Deck_PSG_Webinar_on_MG_Incident_vSchWebsite.pdf" rel="noopener nofollow" target="_blank">Parents' Zoom Webinar on Mobile Guardian Incident (24/8/24)</a>
 </p>
 </li>
 </ul>
