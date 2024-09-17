@@ -321,7 +321,8 @@ and public holidays</p>
 </p>
 </li>
 <li>
-<p>Parents' Zoom Webinar on Mobile Guardian Incident (24/8/24)</p>
+<p><a href="/files/Master_Slide_Deck_PSG_Webinar_on_MG_Incident_vSchWebsite.pdf" rel="noopener nofollow" target="_blank">Parents' Zoom Webinar on Mobile Guardian Incident (24/8/24)</a>
+</p>
 </li>
 </ul>
 <p><em>Updated 21/12/23</em>
