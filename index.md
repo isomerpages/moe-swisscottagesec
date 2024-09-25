@@ -18,11 +18,6 @@ sections:
       button: Read More
       url: /quick-links/swiss-cottage-secondary-school-61st-speech-day/
   - infobar:
-      title: DIRECT SCHOOL ADMISSION
-      id: infobar
-      button: Read More
-      url: /direct-school-admission/Swiss-Direct-School-Admission/
-  - infobar:
       title: THE 60TH ANNIVERSARY CELEBRATION
       button: Read More
       url: https://www.swisscottagesec.moe.edu.sg/quick-links/60-anniversary-celebration/
