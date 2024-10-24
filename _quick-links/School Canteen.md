@@ -28,7 +28,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Indian/Indian Vegetarian/Indian Muslim cuisine (1)</p>
+<p>Indian/Indian Vegetarian/Indian Muslim cuisine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11 Oct 2024</p>
