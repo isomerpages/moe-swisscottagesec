@@ -20,5 +20,5 @@ with peers not in a classroom setting<strong>.</strong>
 refer to the link for more information.</p>
 </li>
 </ol>
-<p><a rel="noopener noreferrer nofollow" target="_blank">   https://www.swisscottagesec.moe.edu.sg/swiss-experience/co-curricular-activities/</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.swisscottagesec.moe.edu.sg/swiss-experience/co-curricular-activities/</a>
 </p>
