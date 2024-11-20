@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <p>1.&nbsp;&nbsp;<strong><u>How is my child posted?</u><br></strong>Please
-refer to MOE’s Secondary School Posting process at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/how-posting-works</a>
+refer to MOE’s Secondary School Posting process at&nbsp;<a href="https://www.moe.gov.sg/secondary/s1-posting/how-posting-works" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/how-posting-works</a>
 </p>
 <ol start="2" data-tight="true" class="tight">
 <li>
