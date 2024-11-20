@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 ---
 <p>For queries pertaining to PDLP, please refer to this link.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://swisscottagesec.moe.edu.sg/pdlpswiss-cottage/</a></strong>
+<p><a href="https://swisscottagesec.moe.edu.sg/pdlpswiss-cottage/" rel="noopener nofollow" target="_blank">Swiss Cottage PDLP</a>
 </p>
