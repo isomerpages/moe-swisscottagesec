@@ -11,12 +11,12 @@ description: ""
 </p>
 </li>
 </ol>
-<p>For subject offered in Swiss Cottage, please refer to the MOE School Finder<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=swiss-cottage-secondary-school</a>
+<p>For subject offered in Swiss Cottage, please refer to the<strong> </strong>
+<a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=swiss-cottage-secondary-school" rel="noopener nofollow" target="_blank">MOE School Finder</a>
 </p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong><u>What are the criteria for students to be eligible for More Demanding Level (MDL) subjects in Sec 1?</u></strong>
+<p><strong><u>.What are the criteria for students to be eligible for More Demanding Level (MDL) subjects in Sec 1?</u></strong>
 </p>
 </li>
 </ol>

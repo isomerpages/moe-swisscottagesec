@@ -33,9 +33,9 @@ requirements, etc).</p>
 </ol>
 <p><u>For DSA students,</u><strong> </strong>purchase of uniform and books
 commences from 18 Dec 2024 (tentative). They can come to school from that
-day onwards, according to the opening hours of the school bookshop. Information
-can be found here:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://swisscottagesec.moe.edu.sg/quick-links/for-parents/</a>
+day onwards, according to the opening hours of the school bookshop. Updates
+and information can be found here:</p>
+<p><a href="https://swisscottagesec.moe.edu.sg/quick-links/for-parents/" rel="noopener nofollow" target="_blank">For Parents</a>
 </p>
 <p>2024 Sec 1 students are to purchase their uniform and books based on their
 allocated timings and their Orientation Group (OG). They will be informed
