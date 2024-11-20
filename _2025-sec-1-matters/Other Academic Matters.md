@@ -11,8 +11,8 @@ description: ""
 </li>
 </ol>
 <p>For AEP, please refer to the following page for more information:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec" rel="noopener nofollow" target="_blank">Art Elective Programme</a>
 </p>
 <p>For MEP, please refer to the following page for more information:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec" rel="noopener nofollow" target="_blank">Music Elective Programme</a>
 </p>
