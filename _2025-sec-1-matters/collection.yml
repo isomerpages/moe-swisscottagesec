@@ -2,7 +2,7 @@ collections:
   2025-sec-1-matters:
     output: true
     order:
-      - General Informationn.md
+      - General Information.md
       - Admission Appeal Matters.md
       - Personal Device Learning Programme (PDLP).md
       - CCA Matters.md
