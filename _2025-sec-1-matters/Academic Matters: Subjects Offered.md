@@ -11,7 +11,8 @@ description: ""
 </p>
 </li>
 </ol>
-<p>For subject offered in Swiss Cottage, please refer to the MOE School Finder<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=swiss-cottage-secondary-school</a></strong>
+<p>For subject offered in Swiss Cottage, please refer to the MOE School Finder<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>
+<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=swiss-cottage-secondary-school</a>
 </p>
 <ol start="2" data-tight="true" class="tight">
 <li>
