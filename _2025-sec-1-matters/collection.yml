@@ -1,4 +1,5 @@
 collections:
   2025-sec-1-matters:
     output: true
-    order: []
+    order:
+      - General Information.md
