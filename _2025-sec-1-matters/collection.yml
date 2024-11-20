@@ -2,12 +2,12 @@ collections:
   2025-sec-1-matters:
     output: true
     order:
-      - Administration Matters.md
-      - Admission Appeal Matters.md
-      - Personal Device Learning Programme (PDLP).md
-      - CCA Matters.md
-      - Other Academic Matters.md
-      - Mother Tongue Matters.md
-      - "Academic Matters: Subjects Offered.md"
-      - Full Subject Based Banding Matters.md
       - General Information.md
+      - Full Subject Based Banding Matters.md
+      - "Academic Matters: Subjects Offered.md"
+      - Mother Tongue Matters.md
+      - Other Academic Matters.md
+      - CCA Matters.md
+      - Personal Device Learning Programme (PDLP).md
+      - Admission Appeal Matters.md
+      - Administrative Matters.md
