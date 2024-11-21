@@ -35,7 +35,7 @@ requirements, etc).</p>
 commences from 18 Dec 2024 (tentative). They can come to school from that
 day onwards, according to the opening hours of the school bookshop. Updates
 and information can be found here:</p>
-<p><a href="https://swisscottagesec.moe.edu.sg/quick-links/for-parents/" rel="noopener nofollow" target="_blank">For Parents</a>
+<p><a href="https://www.swisscottagesec.moe.edu.sg/information-for-2025/" rel="noopener nofollow" target="_blank">Information for 2025</a>
 </p>
 <p>2024 Sec 1 students are to purchase their uniform and books based on their
 allocated timings and their Orientation Group (OG). They will be informed
