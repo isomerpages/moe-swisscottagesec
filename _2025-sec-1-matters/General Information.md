@@ -18,7 +18,7 @@ refer to MOE’s Secondary School Posting process at&nbsp;<a href="https://www.m
 top-right hand corner of the S1 Option Form. Students should use the S1
 PIN to log in to the Secondary 1 Internet System (S1-IS) and submit their
 S1 school choices and options online. The S1-IS will be accessible <strong><u>from </u><em><u>11.30 am on Wednesday, 20 November 2024 to 3.00 pm on Tuesday, 26 November 2024</u></em></strong><em> </em>through
-<a href="www.moe.gov.sg/s1-posting" rel="noopener nofollow" target="_blank">MOE's Sec 1 Posting website</a>.</p>
+<a href="https://www.moe.gov.sg/secondary/s1-posting" rel="noopener nofollow" target="_blank">MOE Sec 1 Posting website</a>.</p>
 <p>To help you with your school choices, you may wish to use the <a href="https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school" rel="noopener nofollow" target="_blank">MOE School Finder</a> to
 explore schools based on the distance of the school from your home, CCAs,
 subjects and programmes offered.</p>
