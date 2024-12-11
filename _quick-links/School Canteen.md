@@ -28,24 +28,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Indian/Indian Vegetarian/Indian Muslim cuisine</p>
+<p>Western cuisine (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Oct 2024</p>
+<p>10 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nil</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Malay Noodles/Western cuisine (Halal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 Oct 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nill</p>
 </td>
 </tr>
 </tbody>
