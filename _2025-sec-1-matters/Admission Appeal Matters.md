@@ -26,3 +26,12 @@ description: ""
 </p>
 <p><strong>(3) Submit Completed form to the General Office in person with required documents before <u>4.30 pm 23 Dec 2024 </u>(Monday)</strong>
 </p>
+<p><u>OUTCOME OF APPLICATION</u>
+</p>
+<p>Only successful applicants will be notified by phone on <strong><u>Tuesday, 30 Dec 2024 after 11.00 am.</u></strong>
+</p>
+<p>Time will be given for the successful applicants to purchase books and
+uniform during the first few days of the Secondary One Orientation Programme.</p>
+<p><strong>For further information, you may enquire at the General Office at Tel. No: 65637173 (during office hours).</strong>
+</p>
+<p></p>
