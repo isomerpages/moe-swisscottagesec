@@ -12,14 +12,14 @@ description: ""
 </li>
 </ol>
 <p>Sec 1 registration will be held in the afternoon of the day when posting
-results are released.&nbsp;</p>
+results are released i.e. 18 Dec 2024&nbsp;</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong><u>How will Sec 1 Registration be held?</u></strong>
 </p>
 </li>
 </ol>
-<p>Sec 1 registration will be conducted via Parents Gateway.</p>
+<p>Sec 1 registration will be <strong>conducted via Parents Gateway</strong>.</p>
 <p>Information regarding Sec 1 orientation will also be given and collected
 through PG/online (e.g. Allocation of Orientation Group, shirt size, dietary
 requirements, etc).</p>
@@ -48,12 +48,13 @@ would be on 19, 20, 23, 26 and 27 of December. The bookshop will be open
 from 0900 - 1500 hrs. To ensure that they have sufficient time to properly
 serve the students and parents purchasing, they will accept their last
 customer at 1430 hrs. We seek your understanding towards this matter.</p>
-<ol data-tight="true" class="tight">
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong><u>Sec 1 Orientation Matters</u></strong>
 </p>
 </li>
 </ol>
-<p>Details of the 2025 Sec 1 Orientation will be shared on the school webpage
-nearer to date.</p>
+<p>Please refer to the following link for details of the 2025 Sec 1 Orientation
+Programme.</p>
+<p>2025 Sec 1 Orientation</p>
 <p>&nbsp;</p>
