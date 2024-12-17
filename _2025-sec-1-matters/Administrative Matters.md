@@ -20,8 +20,7 @@ Dec 2024.&nbsp;</p>
 </p>
 </li>
 </ol>
-<p>Sec 1 registration will be conducted via Parents Gateway → A form will
-be sent on PG for parents to indicate acceptance of enrollment.</p>
+<p>Sec 1 registration will be conducted via Parents Gateway.</p>
 <p>Information regarding Sec 1 orientation will also be given and collected
 through PG/online (e.g. Allocation of Orientation Group, shirt size, dietary
 requirements, etc).</p>
@@ -32,12 +31,12 @@ requirements, etc).</p>
 </li>
 </ol>
 <p><u>For DSA students,</u><strong> </strong>purchase of uniform and books
-commences from 18 Dec 2024 (tentative). They can come to school from that
-day onwards, according to the opening hours of the school bookshop. Updates
-and information can be found here:</p>
+commences from 18 Dec 2024. They can come to school from that day onwards,
+according to the opening hours of the school bookshop. Updates and information
+can be found here:</p>
 <p><a href="https://www.swisscottagesec.moe.edu.sg/information-for-2025/" rel="noopener nofollow" target="_blank">Information for 2025</a>
 </p>
-<p>2024 Sec 1 students are to purchase their uniform and books based on their
+<p>2025 Sec 1 students are to purchase their uniform and books based on their
 allocated timings and their Orientation Group (OG). They will be informed
 of these through PG during the Sec 1 registration.</p>
 <p>There will be no uniform trying. All uniform purchase will be done through
