@@ -32,7 +32,7 @@ subjects and programmes offered.</p>
 <p><strong>MRT:</strong> NORTH SOUTH LINE (Bukit Gombak station)</p>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p><strong><u>What are the PSLE score ranges for Swiss Cottage? (2023 PSLE score range)</u></strong>
+<p><strong><u>What are the PSLE score ranges for Swiss Cottage? (2024 PSLE score range)</u></strong>
 </p>
 </li>
 </ol>
