@@ -39,23 +39,22 @@ can be found here:</p>
 <p>2025 Sec 1 students are to purchase their uniform and books based on their
 allocated timings and their Orientation Group (OG). They will be informed
 of these through PG during the Sec 1 registration.</p>
-<p>There will be no uniform trying. All uniform purchase will be done through
-measurements. There should be no modifications to the uniform (e.g. tapering
-of the pants).</p>
-<p>Textbook and uniform buying <u>will start one business day</u> after posting
-results release day.</p>
-<p>The tentative dates for the sales of textbooks and uniforms for all Sec
-1 students would be on 19, 20, 23, 26 and 27 of December. The bookshop
-will be open from 0900 - 1500 hrs. To ensure that they have sufficient
-time to properly serve the students and parents purchasing, they will accept
-their last customer at 1430 hrs. We seek your understanding towards this
-matter.</p>
+<p>There will be no trying of uniforms. All uniform purchase will be done
+through measurements. There should be no modifications to the uniform (e.g.
+tapering of the pants).</p>
+<p>Textbook and uniform buying <u>will start one business day</u> after the
+day of release of posting results.</p>
+<p>The dates for the sales of textbooks and uniforms for all 2025 Sec 1 students
+would be on 19, 20, 23, 26 and 27 of December. The bookshop will be open
+from 0900 - 1500 hrs. To ensure that they have sufficient time to properly
+serve the students and parents purchasing, they will accept their last
+customer at 1430 hrs. We seek your understanding towards this matter.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong><u>Sec 1 Orientation Matters</u></strong>
 </p>
 </li>
 </ol>
-<p>Details of the 2024 Sec 1 Orientation will be shared on the school webpage
+<p>Details of the 2025 Sec 1 Orientation will be shared on the school webpage
 nearer to date.</p>
 <p>&nbsp;</p>
