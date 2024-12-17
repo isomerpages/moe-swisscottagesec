@@ -14,7 +14,7 @@ description: ""
 </p>
 <p><u>METHOD OF APPLICATION (3)</u>
 </p>
-<p><strong>(1) Preferred mode: Submit application online together with supporting documents via FormSG by 4.30 pm, 23 Dec 2024 Monday:</strong>
+<p><strong>(1) Preferred mode: Submit application online together with supporting documents via FormSG by 4.30 pm 23 Dec 2024 Monday:</strong>
 </p>
 <p><a href="https://go.gov.sg/scss2025s1appeal" rel="noopener nofollow" target="_blank">https://go.gov.sg/scss2025s1appeal</a>
 </p>
