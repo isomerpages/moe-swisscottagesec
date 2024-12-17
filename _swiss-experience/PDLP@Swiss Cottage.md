@@ -18,16 +18,8 @@ Personal Learning Device (PLD) by end-2021.</p>
 </p>
 <p>2. <strong><u>Support self-directed and collaborative learning</u> – PLDs enable students to learn online according to their needs and interests and to collaborate with each other, anytime and anywhere.</strong>
 </p>
-<p>3. <strong><u>Support the Development of Digital Literacies through the PACKAGE FRAMEWORK</u> – PLDs provide an immersive environment for students to develop the dispositions, knowledge and skills to thrive in the digital environment. The PACKAGE Framework (see below) guides the school in:</strong>
+<p>3. <strong><u>Support the Development of Digital Literacies and Competencies</u> – PLDs provide an immersive environment for students to develop the dispositions, knowledge and skills to thrive in a technology-transformed world.</strong>
 </p>
-<p>a. <strong>Designing tiered skill development of students;</strong> 
-<br>b. <strong>Designing learning experiences that are focused on enabling students to participate in both Synchronous and Asynchronous learning;</strong>
-</p>
-<p><strong><u>PACKAGE Framework</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Swiss%20Experience/Package-Framework.png">
-</div>
 <p><strong><u>Personal Learning Device (PLD)</u></strong>
 </p>
 <p>Swiss Students will be using the Apple iPad as their personal learning
@@ -36,20 +28,20 @@ smart keyboard to maximise the affordances of the iPad as a learning tool.</p>
 <p>Not only is the iPad a portable device that offers students the convenience
 of learning on-the-move, it also allows for a seamless learning experience
 alongside existing learning technologies such as the Student Learning Space
-(SLS) as well as other educational technology to personalise and enhance
+(SLS) as well as other educational technologies to personalise and enhance
 students’ learning. In addition to apps within Apple’s eco-system, students
-will also gain access toa wide range of software from other developers
+will also gain access toa wide range of applications from other developers
 (e.g. Google Suite and Microsoft Office etc), making it the device of choice
 in developing students’ application and creative skills.</p>
-<p>For Swiss Cottage, each 2024 PLD bundle consists of:
-<br>1) Apple iPad 10.2″ 9th&nbsp;Generation (2021) 64 GB Wifi
-<br>2) Logitech Rugged Combo 3 (smart keyboard with casing)
+<p>For Swiss Cottage, each 2025 PLD bundle consists of:
+<br>1) Apple iPad 10.9″ 10th&nbsp;Generation 64 GB Wifi
+<br>2) Logitech Rugged Combo 4 (smart keyboard with casing)
 <br>3) Apple Pencil 1</p>
 <p><strong><u>Digital Citizenship and Cyber Wellness (CW)</u></strong>
 </p>
 <p>As the students develop the digital skills that support their learning,
 it is also imperative that they are empowered to take responsibility for
-their personal well-being when using technology.</p>
+their personal well-being and the well-being of others when using technology.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Swiss%20Experience/MOE-Cyber-Wellness-Framework.png">
 </div>
@@ -83,83 +75,22 @@ resources:</p>
 </ul>
 <p><strong><u>Use of Edusave</u></strong>
 </p>
-<p>To ensure the affordability of devices, MOE has provided Edusave top-ups
-of $200 in 2020, 2021 and 2022 to all eligible SC students in primary and
-secondary schools. This is on top of the annual $290 credited into the
-Edusave account for Secondary School students and $230 for Primary School
-students. Students who are Singapore citizens can use their Edusave to
-pay fully or partly for the PLD, after setting aside provision for payment
-of 2nd-tier miscellaneous fees. Parents/Guardians can also choose to pay
-cash for the PLD.</p>
+<p>Students who are Singapore citizens can use their Edusave to pay fully
+or partly for the PLD, after setting aside provision for payment of 2nd-tier
+miscellaneous fees. Parents/Guardians can also choose to pay cash for the
+PLD.</p>
 <p><strong><u>Financial Assistance</u></strong>
 </p>
 <p>Subsidies are available for students who require funding support to purchase
 a PLD. Please note that it is compulsory for all students on the MOE Financial
 Assistance Scheme (FAS) to use their Edusave to pay for the PLD, after
-subsidies have been granted. Please see the table below for information
-on the eligibility for the subsidy:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Students eligible for subsidy</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Income criteria</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>How to Apply for Subsidy</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students under MOE FAS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gross Household Income (“GHI”) is $3,000 or less, or
-<br>Per Capita Income (“PCI”)* is $750 or less</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No action required. Automatically subsidised for the PLD.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students under School-based FAS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GHI is $4,400 or less, or
-<br>PCI is $1,100 or less</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Approach the school’s General Office to apply for a subsidy.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students who are currently not under the MOE FAS or School-based FAS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GHI is $4,400 or less, or
-<br>PCI is $1,100 or less</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Approach the school’s General Office to apply for a subsidy.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>* PCI</strong>&nbsp;refers to the GHI divided by the total number
-of family members in the household.</p>
+subsidies have been granted. Subsidies are also available for students
+on school-based FAS and needy students not on any FA scheme, subjected
+to suucessful application.</p>
 <p><strong><u>Device Management Application (DMA)</u></strong>
 </p>
 <p>In rolling out the PLD, MOE is acutely aware of concerns regarding students’
-cyber-wellness. The DMA allows the school to manage this by</p>
+cyber-wellness. The DMA allows the school to manage this by:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>collecting data on usage by the student, such as the amount of time spent
@@ -175,9 +106,9 @@ addiction.</p>
 </li>
 </ul>
 <p>When you purchase a PLD (iPad), the PLD will be pre-installed with a Device
-Management Application (DMA) known as Mobile Guardian. The DMA has a variety
-of functions that will support the use of the PLD in the classroom, as
-well as safeguard students’ cyber-wellness. The DMA has 3 main components:</p>
+Management Application (DMA) known as JAMF. The DMA has a variety of functions
+that will support the use of the PLD in the classroom, as well as safeguard
+students’ cyber-wellness. The DMA has 3 main components:</p>
 <p>(a)&nbsp;<strong>Classroom Management Service.</strong>&nbsp;This enables
 teachers to actively monitor and control the student’s use of the PLD during
 lesson time to improve student management and deliver effective teaching.</p>
@@ -196,7 +127,7 @@ that are vital to students’ learning experience and educational journey.</p>
 by Google as part of Google Suite. Every secondary school student will
 be provided with access to the Google Suite set of tools such as Gmail,
 Google Drive, Google Calendar, Google Classroom, etc including email address.</p>
-<p>(b)&nbsp;<strong>Microsoft Pro Plus:</strong>&nbsp;every secondary school
+<p>(b)&nbsp;<strong>Microsoft Office 365:</strong>&nbsp;every secondary school
 is granted a licence to use Microsoft Office tools that include Word, PowerPoint
 and Excel.</p>
 <p>(c)&nbsp;<strong>Zoom:</strong>&nbsp;every secondary school student is
@@ -217,25 +148,22 @@ data will only be used for MOE’s cyber-wellness measures and technical
 troubleshooting. MOE will not disclose the data to any person otherwise
 than permitted under the law.</p>
 <p><strong>I.T. Applications.</strong>&nbsp;For the IT Applications (student
-iCON, Microsoft ProPlus and Zoom), the school will use your child/ward’s
-personal data such as his/her name, birth certificate number and class
-to set up user accounts. This data will also be used for the purposes of
-authenticating and verifying user identity, troubleshooting and facilitating
-system improvements. In addition, the commercial providers of these platforms
-(e.g. Google, Microsoft) will collect and deal with user data generated
-by your child/ward’s use of these applications. The collection use and
-disclosure of such data are governed by the commercial provider’s terms
-of use, which can be found here:</p>
+iCON and Microsoft Office 365), the school will use your child/ward’s personal
+data such as his/her name, birth certificate number and class to set up
+user accounts. This data will also be used for the purposes of authenticating
+and verifying user identity, troubleshooting and facilitating system improvements.
+In addition, the commercial providers of these platforms (e.g. Google,
+Microsoft) will collect and deal with user data generated by your child/ward’s
+use of these applications. The collection use and disclosure of such data
+are governed by the commercial provider’s terms of use, which can be found
+here:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Student_iCON:&nbsp;<a href="https://workspace.google.com/terms/education_terms_japan.html" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/terms/education_terms_japan.html</a>
 </p>
 </li>
 <li>
-<p>Microsoft Pro Plus:&nbsp;<a href="https://portal.office.com/commerce/mosa.aspx" rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com/commerce/mosa.aspx</a>&nbsp;</p>
-</li>
-<li>
-<p>Zoom:&nbsp;<a href="https://zoom.us/docs/en-us/schools-privacy-statement.html" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/docs/en-us/schools-privacy-statement.html</a>
+<p>Microsoft Office 365:&nbsp;<a href="https://portal.office.com/commerce/mosa.aspx" rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com/commerce/mosa.aspx</a>
 </p>
 </li>
 </ul>
@@ -243,7 +171,8 @@ of use, which can be found here:</p>
 managed by the respective vendors of our systems. The Government has put
 in place strong personal data protection laws and policies to safeguard
 sensitive data collected by public agencies such as MOE. Please refer to
-this website for more information on these laws and policies:&nbsp;(https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation)</p>
+this website for more information on these laws and policies:&nbsp;(
+<a href="https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation" rel="noopener nofollow" target="_blank">https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation</a>)</p>
 <p><strong><u>Technical Support</u></strong>
 </p>
 <ol>
@@ -266,11 +195,10 @@ on Sat, Sun &amp; Public Holidays</p>
 <p>School-based Support</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Technical matters: email to <a href="mailto:mz.bin.zailani@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">mz.bin.zailani@ncs.com.sg</a>
-</p>
+<p>Technical matters: email to wong_wai_kiong@moe.edu.sg</p>
 </li>
 <li>
-<p>Administrative matters: email to giam_chin_leong@moe.edu.sg</p>
+<p>Administrative matters: email to wong_wai_kiong@moe.edu.sg</p>
 </li>
 <li>
 <p>Finance matters: email to scss@moe.edu.sg</p>
