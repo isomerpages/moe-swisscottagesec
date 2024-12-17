@@ -56,5 +56,6 @@ customer at 1430 hrs. We seek your understanding towards this matter.</p>
 </ol>
 <p>Please refer to the following link for details of the 2025 Sec 1 Orientation
 Programme.</p>
-<p>2025 Sec 1 Orientation</p>
+<p><a href="/files/Note_for_Sec_1_2025__Sec_1_Orientation_2025__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 Orientation</a>
+</p>
 <p>&nbsp;</p>
