@@ -12,8 +12,7 @@ description: ""
 </li>
 </ol>
 <p>Sec 1 registration will be held in the afternoon of the day when posting
-results are released, which will be around Wed, 18 Dec to Fri,&nbsp; 20
-Dec 2024.&nbsp;</p>
+results are released.&nbsp;</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong><u>How will Sec 1 Registration be held?</u></strong>
