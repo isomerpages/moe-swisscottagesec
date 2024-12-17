@@ -12,7 +12,7 @@ description: ""
 </p>
 <p><strong>18 December 2024 (WEDNESDAY) from 2.00 PM to 23 December 2024 (MONDAY) 4.30 PM</strong>
 </p>
-<p><u>METHOD OF APPLICATION (3)</u>
+<p><u>METHOD OF APPLICATION (Choose 1 of 3)</u>
 </p>
 <p><strong>(1) Preferred mode: Submit application online together with supporting documents via FormSG by 4.30 pm 23 Dec 2024 Monday:</strong>
 </p>
