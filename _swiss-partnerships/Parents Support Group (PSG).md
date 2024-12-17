@@ -19,11 +19,11 @@ learning and prepare them for the different stages of their learning journey.
 We continue as the key contributors who help to reinforce what is taught
 in school, be it basic life skills, academic related knowledge, or core
 values.</p>
-<p>BE PART OF YOUR CHILD JOURNEY... join us at Swiss Parent Connect by submitting
-the form via the QR code below. Swiss Parents Connect is a platform for
-Swiss Parents to receive and share school related information. It also
-serves as a platform for parents to ask questions related to school operations
-and share their experiences.</p>
+<p>WE CAN MAKE A DIFFERENCE! BE A PART OF YOUR CHILD JOURNEY... join the
+Swiss PSG by submitting the form via the link (Swiss Parent Connect) below.
+Swiss Parents Connect is a platform for Swiss Parents to receive and share
+school related information. It also serves as a platform for parents to
+ask questions related to school operations and share their experiences.</p>
 <p><a href="https://docs.google.com/forms/d/1nEcf4Kngw7Sl0SwNLgOhP_X4bHQclq_ta1E7Rrnea54/edit" rel="noopener noreferrer nofollow" target="_blank">Swiss Parent Connect</a>
 </p>
 <p><strong>OUR MISSION</strong>
@@ -122,8 +122,7 @@ other in the parenting journey</p>
 <li>
 <p><a href="/files/PSG/Heroes-of-Swiss-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Appreciation of Un-sung Heroes</a>
 </p>
+<p></p>
 </li>
 </ol>
-<p>WE CAN MAKE A DIFFERENCE! Join the Swiss PSG by completing the&nbsp;
-<a href="https://docs.google.com/forms/d/1sgbZWCS6Bd0A5V5K4x8Adk45MIoYWv-vSxzucBRq4vs/viewform?pli=1&amp;pli=1&amp;edit_requested=true" rel="noopener noreferrer nofollow" target="_blank">Online Form</a>
-</p>
+<p></p>
