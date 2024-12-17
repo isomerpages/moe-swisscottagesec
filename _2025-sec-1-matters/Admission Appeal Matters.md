@@ -20,5 +20,5 @@ description: ""
 </p>
 <p><strong>(2) For those who are unable to submit the FormSG, please obtain the Application Form from the General Office. Complete and scan the Application Form &amp; supporting documents and send via the school’s generic email: <a rel="noopener noreferrer nofollow" target="_blank">scss@moe.edu.sg</a> latest by <u>4.30pm 23 Dec 2024</u> (Monday)</strong>
 </p>
-<p><strong>(3) Submit hard copies of the Application Form in person to the General Office with the supporting documents before <u>4.30pm, 23 Dec 2024 </u>(Monday)</strong>
+<p><strong>(3) Submit Completed form to the General Office in person with required documents before <u>4.30 pm 23 Dec 2024 </u>(Monday)</strong>
 </p>
