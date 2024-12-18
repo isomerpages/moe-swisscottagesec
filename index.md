@@ -12,6 +12,7 @@ sections:
         - title: 2025 Sec One Matters
           description: Read More
           url: https://www.swisscottagesec.moe.edu.sg/administration-matters/
+      variant: center
   - infobar:
       title: SWISS COTTAGE SECONDARY SCHOOL 61ST SPEECH DAY
       id: infobar
