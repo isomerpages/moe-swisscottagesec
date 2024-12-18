@@ -7,11 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/school-website copy.jpg
+      background: /images/2024_Swiss_Banner.jpg
       key_highlights:
-        - title: Open house 2024
+        - title: 2025 Sec One Matters
           description: Read More
-          url: /quick-links/open-house-2024/
+          url: /2025 SEC 1 MATTERS/
   - infobar:
       title: SWISS COTTAGE SECONDARY SCHOOL 61ST SPEECH DAY
       id: infobar
