@@ -37,11 +37,11 @@ subjects and programmes offered.</p>
 </li>
 </ol>
 <p><strong>&nbsp;Posting Group 1:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-25 – 26</p>
+25 - 26</p>
 <p><strong>Posting Group 2:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 21 – 22</p>
 <p><strong>Posting Group 3:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-6 – 11</p>
+6 – 10</p>
 <p><em>Meeting the indicative cut-off point does not guarantee admission to the school. The current year’s PSLE Score ranges may vary depending on the cohort’s school choice patterns and cohort size.</em>
 </p>
 <ol start="5" data-tight="true" class="tight">
