@@ -130,10 +130,7 @@ Google Drive, Google Calendar, Google Classroom, etc including email address.</p
 <p>(b)&nbsp;<strong>Microsoft Office 365:</strong>&nbsp;every secondary school
 is granted a licence to use Microsoft Office tools that include Word, PowerPoint
 and Excel.</p>
-<p>(c)&nbsp;<strong>Zoom:</strong>&nbsp;every secondary school student is
-given a free Zoom account with 40 minutes time limit using Student iCON
-for the schools’ video conferencing needs.</p>
-<p>(d)&nbsp;<strong>Others</strong>: GoodNotes 6 (for digital note-taking,
+<p>(c)&nbsp;<strong>Others</strong>: GoodNotes 6 (for digital note-taking,
 e-filing of notes and assignments, collaborative work)</p>
 <p>The school needs to use your child/ward’s personal data such as his/her
 name and class to set up user accounts. Please refer to our Frequently
@@ -253,5 +250,5 @@ and public holidays</p>
 </p>
 </li>
 </ul>
-<p><em>Updated 21/12/23</em>
+<p><em>Updated 18/12/24</em>
 </p>
