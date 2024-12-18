@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/2024_Swiss_Banner.jpg
       key_highlights:
-        - title: 2025 Sec 1 Admission Appeal
+        - title: 2025 Sec One Matters
           description: Read More
           url: /2025 SEC 1 MATTERS/
   - infobar:
