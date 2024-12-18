@@ -28,7 +28,7 @@ description: ""
 </p>
 <p><u>OUTCOME OF APPLICATION</u>
 </p>
-<p>Only successful applicants will be notified by phone on <strong><u>Tuesday, 30 Dec 2024 between 12.00 pm and 3.00 pm.</u></strong>
+<p>Only successful applicants will be notified by phone on <strong><u>30 Dec 2024 Monday between 12.00 pm and 3.00 pm.</u></strong>
 </p>
 <p>Time will be given for the successful applicants to purchase books and
 uniform during the first few days of the Secondary One Orientation Programme.</p>
