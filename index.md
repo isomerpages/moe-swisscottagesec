@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/school-website copy.jpg
       key_highlights:
-        - title: Open house 2024
+        - title: 2025 Sec 1 Admission Appeal
           description: Read More
-          url: /quick-links/open-house-2024/
+          url: /2025 SEC 1 MATTERS/Admission Appeal Matters/
   - infobar:
       title: SWISS COTTAGE SECONDARY SCHOOL 61ST SPEECH DAY
       id: infobar
