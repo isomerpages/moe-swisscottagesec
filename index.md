@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/school-website copy.jpg
+      background: /images/2024_Swiss_Banner.jpg
       key_highlights:
         - title: 2025 Sec 1 Admission Appeal
           description: Read More
