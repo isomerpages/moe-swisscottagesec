@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: 2025 Sec 1 Admission Appeal
           description: Read More
-          url: /2025 SEC 1 MATTERS/Admission Appeal Matters/
+          url: /2025 SEC 1 MATTERS/
   - infobar:
       title: SWISS COTTAGE SECONDARY SCHOOL 61ST SPEECH DAY
       id: infobar
