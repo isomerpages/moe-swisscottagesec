@@ -22,7 +22,7 @@ description: ""
 </p>
 <p><a href="https://go.gov.sg/scss2025s1appeal" rel="noopener nofollow" target="_blank">https://go.gov.sg/scss2025s1appeal</a>
 </p>
-<p><strong>(2) For those who are unable to submit the FormSG, please obtain the Application Form from the General Office. Complete and scan the Application Form &amp; supporting documents and send via the school’s generic email: <a href="mailto:scss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scss@moe.edu.sg</a> by 12.00 pm 27 Dec 2024 Friday.</strong>
+<p><strong>(2) Download the Application Form </strong><a href="/files/2025_Sec1_Appeal_Application_Form__SCSS_.pdf" rel="noopener nofollow" target="_blank">here</a><strong>. Scan the completed Application Form &amp; supporting documents.  Submit via the school’s generic email: <a href="mailto:scss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scss@moe.edu.sg</a> by 12.00 pm 27 Dec 2024 Friday.</strong>
 </p>
 <p><strong>(3) Submit application form and supporting documents in hard copy to the General Office with required documents by 12.00 pm 27 Dec 2024 Friday.</strong>
 </p>
