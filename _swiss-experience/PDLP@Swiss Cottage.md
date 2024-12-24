@@ -222,10 +222,6 @@ and public holidays</p>
 </p>
 </li>
 <li>
-<p><a href="/files/IP4_Letter_to_Parents_for_PDLP_Procurement__For_GGAS__vSCSS2024__1__signed.pdf" rel="noopener noreferrer nofollow" target="_blank">PDLP Admin Form 2024 (for purchase of iPad bundle)</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit on Cyber Wellness for Your Child</a>
 </p>
 </li>
@@ -239,14 +235,6 @@ and public holidays</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank">Media Literacy Council</a>
-</p>
-</li>
-<li>
-<p><a href="/files/PDLP@Swiss Cottage/Parents_Briefing_2___Handles_and_Routines_at_Home_and_PDLP_Rollout_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Briefing 2 - Handles and Routines at Home and PDLP Rollout</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Master_Slide_Deck_PSG_Webinar_on_MG_Incident_vSchWebsite.pdf" rel="noopener nofollow" target="_blank">Parents' Zoom Webinar on Mobile Guardian Incident (24/8/24)</a>
 </p>
 </li>
 </ul>
