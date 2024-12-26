@@ -214,15 +214,11 @@ and public holidays</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook (1) (MOE)</a>
+<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook I 2025 (MOE)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook (2) (MOE)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/IP4_Letter_to_Parents_for_PDLP_Procurement__For_GGAS__vSCSS2024__1__signed.pdf" rel="noopener noreferrer nofollow" target="_blank">PDLP Admin Form 2024 (for purchase of iPad bundle)</a>
+<p><a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II 2025 (MOE)</a>
 </p>
 </li>
 <li>
@@ -239,14 +235,6 @@ and public holidays</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank">Media Literacy Council</a>
-</p>
-</li>
-<li>
-<p><a href="/files/PDLP@Swiss Cottage/Parents_Briefing_2___Handles_and_Routines_at_Home_and_PDLP_Rollout_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Briefing 2 - Handles and Routines at Home and PDLP Rollout</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Master_Slide_Deck_PSG_Webinar_on_MG_Incident_vSchWebsite.pdf" rel="noopener nofollow" target="_blank">Parents' Zoom Webinar on Mobile Guardian Incident (24/8/24)</a>
 </p>
 </li>
 </ul>
