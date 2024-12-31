@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - 60th Anniversary Celebration.md
       - Open House 2024.md
       - School Canteen.md
       - For Students.md
