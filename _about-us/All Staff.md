@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>All Staff</h1>
-<p><strong><u>YEAR HEADS AND FORM TEACHERS 2024</u></strong>
+<p><strong><u>YEAR HEADS AND FORM TEACHERS 2025</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>NEO CHENG WEE (MR)</p>
 </td>
 <td rowspan="8" colspan="1">
-<p>LIM JUNXUAN CHRISTOPHER (MR)
+<p>Sec 1 - LIM JUNXUAN CHRISTOPHER (MR)
 <br>
 <br>
 <br>
@@ -139,7 +139,7 @@ variant: tiptap
 <p>LEE PEI QI (MS)</p>
 </td>
 <td rowspan="8" colspan="1">
-<p>TAN HAN CHONG TIMOTHY (MR)
+<p>SEC 2 - TAN HAN CHONG TIMOTHY (MR)
 <br>
 <br>
 <br>
@@ -239,7 +239,7 @@ variant: tiptap
 <p>YEO KOON KOON (MS)</p>
 </td>
 <td rowspan="8" colspan="1">
-<p>TAN ANNIE (MS)
+<p>SEC 3 - TAN ANNIE (MS)
 <br>
 <br>
 <br>
@@ -337,7 +337,7 @@ variant: tiptap
 <p>TEO LEI XIN, ALVIENA (MS)</p>
 </td>
 <td rowspan="9" colspan="1">
-<p>NG POH KEOW (MS)
+<p>SEC 4/5 - NG POH KEOW (MS)
 <br>
 <br>
 <br>
