@@ -76,7 +76,7 @@ variant: tiptap
 <p>HBL Day #1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16/1</p>
+<p>17/1</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ variant: tiptap
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 iPad Rollout</p>
+<p>Sec 1 iPad Rollout (tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>28/2</p>
