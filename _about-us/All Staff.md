@@ -686,7 +686,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ALLIED EDUCATOR (COUNSELLING)</p>
+<p>SCHOOL COUNSELLOR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PHANG JIA WEN (MS)</p>
@@ -694,7 +694,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ALLIED EDUCATOR (LEARNING AND BEHAVIOURAL SUPPORT)</p>
+<p>SPECIAL EDUCATIONAL NEEDS OFFICER</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SHARLENE TAN LEE WOON (MS)</p>
