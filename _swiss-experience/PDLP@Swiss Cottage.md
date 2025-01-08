@@ -214,6 +214,10 @@ and public holidays</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/PDLP@Swiss Cottage/IP4_iPad____Parental_Consent_for_Purchase_of_PLD__GGAS_2025__vSCSS_Final.pdf" rel="noopener nofollow" target="_blank">Parental Consent Form for Purchase of PLD 2025 (SCSS)</a>
+</p>
+</li>
+<li>
 <p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook I 2025 (MOE)</a>
 </p>
 </li>
