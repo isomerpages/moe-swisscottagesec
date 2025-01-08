@@ -14,28 +14,28 @@ description: ""
 of 8 or better, those with an overall PSLE score of 9-14 (inclusive) and
 attained AL1/AL2 in MTL or Distinction / Merit in Higher Mother Tongue
 Languages have met MOE’s Criteria for HMTL would be eligible to study Higher
-MT at secondary school level.</p>
+MTL at secondary school level.</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong><u>What is the appeal process for Higher Tongue languages?</u></strong>
+<p><strong><u>What is the appeal process for Higher Mother Tongue Languages?</u></strong>
 </p>
 </li>
 </ol>
 <p>There will not be any appeal for HMTL in secondary 1, instead we will
-look at the MT overall results of&nbsp; the students at the end of secondary
+look at the MTL overall results of&nbsp; the students at the end of secondary
 1, if students have obtained an overall result of 75% and above and have
 a good learning attitude in class, we would offer HMTL to the students
 from secondary 2 onwards.&nbsp;</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong><u>Where are the Higher Mother Tongue classes conducted?</u></strong>
+<p><strong><u>Where are the Higher Mother Tongue Languages classes conducted?</u></strong>
 </p>
 </li>
 </ol>
 <p>HCL, HML and HTL classes are all conducted in the school.</p>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p><strong><u>Can my child take Mother Tongue at a less demanding level?</u></strong>
+<p><strong><u>Can my child take Mother Tongue Language at a less demanding level?</u></strong>
 </p>
 </li>
 </ol>
