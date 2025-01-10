@@ -502,7 +502,7 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon (all)</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Wed (B) / Thu (G</p>
 </td>
 <td rowspan="1" colspan="1">
