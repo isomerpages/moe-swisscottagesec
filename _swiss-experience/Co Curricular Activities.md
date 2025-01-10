@@ -171,619 +171,493 @@ on interest / ability and not on the points awarded.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>No.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>CCA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Days</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Venues</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Teachers I/C</strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>No.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venues</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teachers I/C</p>
+</th>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Swiss Dance</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>LT3, MTLL E3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Leung Yan Ru</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Siti Aishah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Tee Lay Kean</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Noorhidaya</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>2</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Chinese Orchestra</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>CO Room, 1-S5, 1-S6, 1-S7, 1-S8, SR-F3, ITR-3A, ITR-3B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Teo Lei Xin Alviena</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mrs Chen Yen Wah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Ms Fan Yun Yun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Low Hwee Cheng</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>3</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Show Choir</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>LT1, Choir Room (4S2, 4S3), LT2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Mee Han</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Ms Faith Wang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Xu Yi Ping</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>4</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Swiss Drama</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Dance Studio, 5S2, 3S7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Herina Roslin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Norazela Rosli</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Nur Aqilah Johari</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
 <p>5</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
 <p>NCC Command Band</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 <p>Fri (odd)</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 <p>1330-1745</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Band Room, 2S8, 2S3, 3S1, 3S2, 3S5, 3S4, 3S6, 3S8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kenneth Neo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Salleh Bin Merwan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Vijaya</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Ms Ng Poh Keow</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Adrian Koo</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>6</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Boys' Brigade</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Thu</p>
 <p>Sat</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>0730-1300</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>BB Room, SR-D2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Joon Teck</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Daniel Teguh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p>Mdm Koh Shin Yee</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>7</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>NCC (Air)</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>NCC Room, SR-C1, 2S2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ngoh Kia Joon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Kat Kar Sien</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Tan Jeng Gordon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Lee Pei Qi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>8</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>NPCC</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>NPCC Room, 1S1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kelly Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Chia Teck Seng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm See To</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>9</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Scouts</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Scouts Room, 1S2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tam Siew Kee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Ms Adelia Nivaashini Chandra Segar</p>
+<p></p>
+<p>Ms Maheshwari</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Maheshwari</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
 <p>10</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>NCDCC</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>NCDCC Room, 2S4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Heng Teng Boon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Redha</p>
+<p></p>
+<p>Mdm Tan Poh Kim</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Poh Kim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
 <p>11</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Badminton</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>ISH Level 2 and 3, 2S6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eric Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Thou Reaksmey</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Ms Christina</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>12</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Basketball</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;Mon (all)</p>
+<td rowspan="1" colspan="1">
+<p>Mon (all)</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>Wed (B) / Thu (G)</p>
+<p>Wed (B) / Thu (G</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;1530 -1815</p>
+<td rowspan="1" colspan="1">
+<p>1530 -1815</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>1500 –1815</p>
 <p>1500-1815</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>ISH Level 1 and 3, 2S7, 2S4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alex Chew</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Ms Iznur Shahidah</p>
+<p></p>
+<p>Ms Priscilla</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Priscilla</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
 <p>13</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Floorball</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815
 <br>1530-1815</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>ISH Level 2, Hall, 2S1, SR-C2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Choo Shi Qian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Faza Mahirah Md Suhimi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Ms Serene Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Tan Pui San</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>14</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Tenpin Bowling</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1600-1815</p>
 <p>1600-1815</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Westwood Bowl, 3S3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rose Nabilah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Wong Yoke Ung</p>
+<p></p>
+<p>Ms Li Xiaorong</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Li Xiaorong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
 <p>15</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Football</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Field, 2S5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Michael R</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Soh Hong Wei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mdm Nur Aqilah Johari</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>16</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Publications and Media Club</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>PMC Lab, ITR2B, GP2 Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Gina Hiu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Christopher Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Choo Shi Qian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Ms Yeo Koon Koon</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>17</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Science &amp; Technology Club</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>S&amp;T Room, Comp Lab 3, ITR-1A, ITR-1B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Hong Cheong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Ms Fong Sook Theng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Simon Teo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Su Ziyan</p>
 </td>
 </tr>
