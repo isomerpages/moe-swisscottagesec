@@ -200,10 +200,13 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
 <p>Thu</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
 <p>1530-1815</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,10 +232,13 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
+<p></p>
 <p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
 <p>1530-1815</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,10 +264,13 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
+<p></p>
 <p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
 <p>1530-1815</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -285,10 +294,15 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
+<p></p>
 <p>Thu</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
+<p></p>
 <p>1530-1815</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -312,12 +326,23 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
+<p></p>
 <p>Thu</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Fri (odd)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
+<p></p>
 <p>1530-1815</p>
+<p></p>
+<p></p>
+<p></p>
 <p>1330-1745</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -345,10 +370,14 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Thu</p>
 <p></p>
+<p></p>
+<p></p>
 <p>Sat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
+<p></p>
 <p>0730-1300</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -373,10 +402,13 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
+<p></p>
 <p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
 <p>1530-1815</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -402,10 +434,12 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
 <p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
 <p>1530-1815</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -429,10 +463,12 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
 <p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
 <p>1530-1815</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -457,10 +493,12 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
 <p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
 <p>1530-1815</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -486,10 +524,12 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
 <p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
 <p>1530-1815</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -545,11 +585,14 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
 <p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815
-<br>1530-1815</p>
+<br>
+</p>
+<p>1530-1815</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH Level 2, Hall, 2S1, SR-C2</p>
@@ -574,10 +617,12 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
 <p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1600-1815</p>
+<p></p>
 <p>1600-1815</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -602,10 +647,12 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
 <p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
 <p>1530-1815</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -629,10 +676,12 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
 <p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
 <p>1530-1815</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -658,10 +707,12 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mon</p>
 <p></p>
+<p></p>
 <p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530-1815</p>
+<p></p>
 <p>1530-1815</p>
 </td>
 <td rowspan="1" colspan="1">
