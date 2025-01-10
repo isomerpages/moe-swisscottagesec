@@ -160,9 +160,8 @@ on interest / ability and not on the points awarded.</p>
 </p>
 <p><strong>CCA Practices &amp; Venus</strong>&nbsp;</p>
 <p>Please refer to the table below for the schedules of CCA in 2025</p>
-<table style="minWidth: 175px">
+<table style="minWidth: 150px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -196,10 +195,6 @@ on interest / ability and not on the points awarded.</p>
 <p><strong>Teachers I/C</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>E-mail Address</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
@@ -222,36 +217,20 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Leung Yan Ru</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">leung_yan_ru@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Aishah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_aishah_mohamed_kamsani@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Tee Lay Kean</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tee_lay_kean_a@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Noorhidaya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">noorhidaya_abdul_karim@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -275,36 +254,20 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Teo Lei Xin Alviena</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teo_lei_xin_alviena@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Chen Yen Wah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_yen_wah@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Fan Yun Yun</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">fan_yunyun@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Low Hwee Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Low_hwee_cheng@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -328,27 +291,15 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Mee Han</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_mee_han@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Faith Wang</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">faith_wang_yi_shan@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Xu Yi Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">xu_yi_ping@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -373,27 +324,15 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Herina Roslin</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">herina_roslin@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Norazela Rosli</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">norazela_rosli@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Aqilah Johari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_aqilah_johari@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -420,45 +359,25 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Kenneth Neo</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">neo_cheng_wee_kenneth@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Salleh Bin Merwan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">salleh_merwan@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Vijaya</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">vijayaprabha_natarajan@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Poh Keow</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_poh_keow@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Adrian Koo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">adrian_khoo_yi_ming@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -482,27 +401,15 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Joon Teck</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_joon_teck@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Daniel Teguh</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teguh_daniel_tampemawa@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Koh Shin Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_shin_yee@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -526,36 +433,20 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Ngoh Kia Joon</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ngoh_kia_joon@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Kat Kar Sien</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kat_kar_sien@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Jeng Gordon</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_jeng_gordon@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Pei Qi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_pei@<a rel="noopener noreferrer nofollow" target="_blank">qi@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -579,27 +470,15 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Kelly Tan</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_kai_li_kelly@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Chia Teck Seng</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chia_teck_seng@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm See To</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Seeto_chee_choong@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -623,27 +502,15 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Tam Siew Kee</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Tam_siew_kee@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Adelia Nivaashini Chandra Segar</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nivaashini_chandra_segar@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Maheshwari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">maheswari_thangaiah@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -667,27 +534,15 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Heng Teng Boon</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">heng_teng_boon@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Redha</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">redha_nasuha_masod@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Poh Kim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_poh_kim@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -711,27 +566,15 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Eric Lee</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_hongyun_eric@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Thou Reaksmey</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">thou_reaksmey@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Christina</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">fong-sim_hui_beng@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -762,27 +605,15 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Alex Chew</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chew_kok_chung_alex@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Iznur Shahidah</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">iznur_shahidah_ishak@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Priscilla</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">goh_shi_le_priscilla_b@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -806,36 +637,20 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Choo Shi Qian</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>choo_shi_qian_<a rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Faza Mahirah Md Suhimi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">faza_mahirah_md_suhimi@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Serene Lee</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_ching_lien_serene@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Pui San</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_pui_san@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -859,28 +674,15 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Rose Nabilah</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">rose_nabilah_rosli@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Yoke Ung</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_yoke_ung@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Li Xiaorong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:subramanian_radhakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_xiaorong @</a>
-<a rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -904,27 +706,15 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Michael R</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">rajanayagam_michael@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Soh Hong Wei</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hong_wei_soh@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Aqilah Johari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_aqilah_johari@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -948,36 +738,20 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Gina Hiu</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gina_hiu_feng_ping@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Christopher Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_junxuan_christopher@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Choo Shi Qian</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>choo_shi_qian_<a rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Koon Koon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yeo_koon_koon@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -1001,36 +775,20 @@ on interest / ability and not on the points awarded.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Hong Cheong</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_hong_cheong@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Fong Sook Theng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">fong_sook_theng@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Simon Teo</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teo_yew_bing_simon@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Su Ziyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">su_ziyan@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 </tbody>
