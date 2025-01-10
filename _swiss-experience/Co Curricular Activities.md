@@ -583,15 +583,13 @@ on interest / ability and not on the points awarded.</p>
 <p>Basketball</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>Mon (all)</p>
+<p>&nbsp;Mon (all)</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>Wed (B) / Thu (G)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>1530 -1815</p>
+<p>&nbsp;1530 -1815</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>1500 –1815</p>
