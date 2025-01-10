@@ -314,8 +314,7 @@ on interest / ability and not on the points awarded.</p>
 <p>Thu</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>
-<br>1530-1815</p>
+<p>1530-1815</p>
 <p>1530-1815</p>
 </td>
 <td rowspan="3" colspan="1">
@@ -348,8 +347,7 @@ on interest / ability and not on the points awarded.</p>
 <p>Fri (odd)</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>
-<br>1530-1815</p>
+<p>1530-1815</p>
 <p>1530-1815</p>
 <p>1330-1745</p>
 </td>
