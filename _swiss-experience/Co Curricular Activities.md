@@ -554,13 +554,16 @@ on interest / ability and not on the points awarded.</p>
 <p>Mon (all)</p>
 <p>&nbsp;</p>
 <p></p>
-<p>Wed (B) / Thu (G</p>
+<p>Wed (B) /</p>
+<p></p>
+<p>Thu (G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1530 -1815</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>1500 –1815</p>
+<p></p>
 <p>1500-1815</p>
 </td>
 <td rowspan="1" colspan="1">
