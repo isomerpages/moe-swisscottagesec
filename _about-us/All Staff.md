@@ -460,17 +460,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NUR AQILAH BINTE JOHARI (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ART</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SEETO CHEE CHONG (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -625,10 +614,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ROSMAN (MR)</p>
+<p>ROSMAN BIN AZIZ (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FOOD AND CONSUMER EDUCATION</p>
+<p>DESIGN AND TECHNOLOGY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
