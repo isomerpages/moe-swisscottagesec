@@ -34,5 +34,9 @@ third_nav_title: For Parents
 <p><a href="/files/Swiss_Uniform_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Swiss uniform 2025 - online order</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Sec_1_MTP_2025_Presentation_Slides__compiled___vSch_Website.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Meet-the-Parent Session 2025 - Presentation Slides</a>
+</p>
+</li>
 </ol>
 <p></p>
