@@ -790,13 +790,13 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <u>here</u> &nbsp;<u>(hyperlink Annex A) </u>The
-completed form is to be submitted by 05/02/2025.</p>
+of the year and is also downloadable <a href="/files/Swiss Experience/ANNEX_A__Sexuality_Ed___2025_.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 05/02/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <u>here (hyperlink Annex B).</u>The completed
-form is to be submitted by 05/02/2025</p>
+the year and is also downloadable <a href="/files/Swiss Experience/ANNEX_B__Sexuality_Ed___2025_.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 05/02/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a rel="noopener noreferrer nofollow" target="_blank">scss@moe.edu.sg</a>for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
