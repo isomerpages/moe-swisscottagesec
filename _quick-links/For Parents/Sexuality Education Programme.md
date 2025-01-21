@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education Programme</a>
-</p>
+<p>Click <a href="https://www.swisscottagesec.moe.edu.sg/swiss-experience/student-development-programme/sexuality-education/" rel="noopener nofollow" target="_blank">here</a> to
+access the main page of the Sexuality Education Programme.</p>
