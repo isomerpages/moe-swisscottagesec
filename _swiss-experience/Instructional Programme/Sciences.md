@@ -44,26 +44,24 @@ Talent Development Programmes/Competitions
 |  |  |
 |---|---|
 | Mr Goh Weibin | Head of Department / Science  |
-| Mr Lim Jun Li | School Staff Developer / Physics |
 | Mr Seow Jason | Lead Teacher / Biology |
 | Mr Thou Reaksmey | Subject Head / Physics and ALP |
 | Mdm Tan Pui San | Senior Teacher / Chemistry |
 | Mr Tan Han Chong Timothy | Year Head / Biology |
-| Mdm Sitti Aishah Bte Yusof | Subject Head / CCA  |
-| Mr Kenneth Neo Cheng Wee | Acting Subject Head / EDTECH |
-| Mr Choo Shi Qian | Teacher / Chemistry |
-| Mdm Lau Lee Leng | Teacher / Chemistry |
-| Mdm Low Hwee Cheng | Teacher / Physics |
-| Mdm Shahada Bte Rahmat | Teacher / Science |
+| Mdm Sitti Aishah Bte Yusof | Subject Head / CCA /Biology / Chemistry
+| Mr Kenneth Neo Cheng Wee | Subject Head Educational Techonology / Biology|
+Mr.Adrian Khoo Yi Ming  Teacher  / Biology
+| Mr.Chia Teck Seng  | Teacher  /Physics   
+|Mr. Choo Shi Qian    | Teacher / Chemistry
+| Mdm Law Lee Leng  Teacher / Chemistry |
+| Mdm Low Hwee Cheng  | Teacher  / Physics
 | Mr Teo Yew Bing Simon | Teacher / Chemistry |
-| Mr Teguh Daniel | Teacher / Physics |
 | Mr Kat Kar Sien | Teacher / Chemistry |
 | Mdm Wong Yoke  Ung | Teacher / Chemistry |
 | Mdm See To Chee Choong |  Teacher / Chemistry |
-| Mdm Wee Ai Jee |  Teacher / Physics |
-| Mdm Chew Kim Eng |  Teacher |
-| Mr Loh Keow |  Teacher / ALP |
-| Mr Ma Chung Wai |  Teacher |
+| Mr.Ma Chung Wai  Text     | Flexi-Adjunct Teacher  / Biology
+|  Mr.Tan Yong Huat    |  Flexi-Adjunct Teacher / ALP
+| Mdm Wee Ai Jee |Flexi-Adjunct Teacher / Physics|
 | Ms Nur Bazilah Binte Abdul Majid | Laboratory Technician |
 | Mdm Arafah Binte Abdul Majid | Laboratory Technician |
 | Mdm Puspalatha D/O Chandra Sagaran | Operations Support Officer |
