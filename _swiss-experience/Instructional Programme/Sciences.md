@@ -137,10 +137,10 @@ level in science.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr.Adrian Khoo Yi Ming Teacher / Biology</p>
+<p>Mr.Adrian Khoo Yi Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher / Biology &amp; Computer Applications</p>
 </td>
 </tr>
 <tr>
@@ -161,10 +161,10 @@ level in science.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Law Lee Leng Teacher / Chemistry</p>
+<p>Mdm Lau Lee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher / Chemistry</p>
 </td>
 </tr>
 <tr>
