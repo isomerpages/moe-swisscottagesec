@@ -225,8 +225,7 @@ teachers are on hand for consultation by appointment to support or to stretch.</
 <p>Mdm Nur Ashkin Binte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / English</p>
-<p>Language</p>
+<p>Teacher / English Language</p>
 </td>
 </tr>
 <tr>
