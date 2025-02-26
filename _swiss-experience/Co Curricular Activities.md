@@ -60,7 +60,7 @@ one CCA throughout their education in Swiss Cottage.</p>
 <p>• Boys’ Brigade
 <br>• NCC (Air)
 <br>• NCDCC
-<br>• NPCC (Boys)
+<br>• NPCC
 <br>• Scouts
 <br>• Girl Guides (to cease in 2025)</p>
 </td>

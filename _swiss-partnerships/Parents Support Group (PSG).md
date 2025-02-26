@@ -74,23 +74,25 @@ other in the parenting journey</p>
 </ul>
 <p><strong>Parents for Parents - Swiss Parents Executive Committee (Exco)</strong>
 </p>
-<p>Chairperson - Alexis Kam</p>
-<p>Secretary - Penny Tan</p>
-<p>Treasurer - Adeline Koh</p>
-<p>Alumini Exco - Erik Sim</p>
-<p>Exco members - Amanda Ang</p>
-<p>Exco members - Esther Lim</p>
+<p>Chairperson - Muthukumari</p>
+<p>Vice-Chairperson - Roy Low</p>
+<p>Secretary - Amy Yeo</p>
+<p>Treasurers - 1.Adeline Koh 2. Jaqueline Onn</p>
+<p>PSG Alumini Exco - Erik Sim</p>
+<p>PSG Alumini Exco -Amanda Ang</p>
+<p>PSG Alumini Exco - Erik Sim</p>
+<p>Exco members - Christina Tan</p>
 <p>Exco members - Faridah Binte Abdul Karim</p>
-<p>Exco members - Jaqueline Onn</p>
 <p>Exco members - Molly Mohana</p>
 <p>Exco members - Pearlyn Ng</p>
-<p>Exco members - Roy Low</p>
+<p>Exco members - Penny Tan</p>
 <p>Exco members - Sandy Lim</p>
 <p>Exco members - Sonali Ahuja Makhijani</p>
-<p><a href="/files/PSG_Orgn_Chart_2024_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Swiss PSG Exco Members</a>&nbsp;</p>
+<p><a href="https://drive.google.com/file/d/1w-zVZ4g2gYAXhGaaj-ZbGOMGIzZA2iQj/view?usp=sharing" rel="noopener nofollow" target="_blank">Swiss PSG Exco Members</a>
+</p>
 <p><a href="/files/PSG/Swiss-PSG-Exco-Message-.pdf" rel="noopener noreferrer nofollow" target="_blank">PSG Exco Message</a>
 </p>
-<p><strong><a href="https://onedrive.live.com/?authkey=%21AGzVsrwoJb4N1Cw&amp;cid=CCC66450AF79773E&amp;id=CCC66450AF79773E%214955&amp;parId=root&amp;o=OneUp" rel="noopener noreferrer nofollow" target="_blank">PSG Video</a></strong>
+<p><a href="https://drive.google.com/file/d/1oaX3g7QmsPT9ffhqQIG-QcH2-K3NY9qj/view?usp=drive_link" rel="noopener nofollow" target="_blank">PSG Activities</a>
 </p>
 <p><strong>Swiss Parent&nbsp; Activities</strong>
 </p>
