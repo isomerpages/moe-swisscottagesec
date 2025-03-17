@@ -77,17 +77,17 @@ other in the parenting journey</p>
 <p>Chairperson - Muthukumari</p>
 <p>Vice-Chairperson - Roy Low</p>
 <p>Secretary - Amy Yeo</p>
-<p>Treasurers - 1.Adeline Koh 2. Jaqueline Onn</p>
-<p>PSG Alumini Exco - Erik Sim</p>
-<p>PSG Alumini Exco -Amanda Ang</p>
-<p>PSG Alumini Exco - Erik Sim</p>
+<p>Treasurers - 1.Adeline Koh + Jaqueline Onn</p>
 <p>Exco members - Christina Tan</p>
 <p>Exco members - Faridah Binte Abdul Karim</p>
 <p>Exco members - Molly Mohana</p>
-<p>Exco members - Pearlyn Ng</p>
 <p>Exco members - Penny Tan</p>
+<p>Exco members - Pearlyn Ng</p>
 <p>Exco members - Sandy Lim</p>
 <p>Exco members - Sonali Ahuja Makhijani</p>
+<p>PSG Alumini Exco - Alexis Kam</p>
+<p>PSG Alumini Exco - Amanda Ang</p>
+<p>PSG Alumini Exco - Erik Sim</p>
 <p><a href="https://drive.google.com/file/d/1w-zVZ4g2gYAXhGaaj-ZbGOMGIzZA2iQj/view?usp=sharing" rel="noopener nofollow" target="_blank">Swiss PSG Exco Members</a>
 </p>
 <p><a href="/files/PSG/Swiss-PSG-Exco-Message-.pdf" rel="noopener noreferrer nofollow" target="_blank">PSG Exco Message</a>
