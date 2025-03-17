@@ -3,64 +3,200 @@ title: English Literature
 permalink: /swiss-experience/Instructional-Programme/english-literature/
 description: ""
 third_nav_title: Instructional Programme
-variant: markdown
+variant: tiptap
 ---
-# English Literature
-
-**English Literature**
-
-**Rationale**
-
-<p style="text-align: justify;">The study of Literature provides opportunities for students in the Express and Normal Academic courses to explore various types of literary texts to appreciate the ways in which writers view the world as well as how they express their ideas. By using the text as a window into multiple worlds, students navigate areas of human concern and achieve a greater understanding of themselves and others. Expectedly, the programme also helps students appreciate the power of words and its contribution to their aesthetic and imaginative growths.</p>
-
-**Details of the Programme**
-
-<p style="text-align: justify;">In Swiss, Literature in English is offered in the Upper Secondary – both as a core and elective subject, in the Express and Normal Academic courses. Regardless of whether a student reads Literature as a discipline in the Upper Secondary course, they would, through the Lower Secondary programme:</p>
-
-*   have read works from the three literary genres (i.e. poetry, prose and drama);
-*   have read literature from different parts of the world, including&nbsp;Singapore;
-*   be able to read a text independently;
-*   be able to critically analyse a text;
-*   be able to give a personal response to a text and its concerns; and
-*   be able to apply skills of literary appreciation to read new/unseen material.
-
-<p style="text-align: justify;">Students are encouraged to explore the ideas in texts through reflective processes such as dialogue and writing as well as through connections with their worlds – through their own life experiences, other texts that they have encountered and the world at large.</p>
-
-**Lower Secondary**
-
-<p style="text-align: justify;">Open book examinations are used in the Lower Secondary Literature Programme, i.e., to heighten the student focus on quality of thought relative to the use of memorisation and recall of information in the text. These alternative assessment modes are complemented with explorative questions, novel performance tasks, theatre exposure and the use of SOLO Taxonomy as a framework to organise discrete tasks for better synthesis and understanding of an entire text.</p>
-
-**Upper Secondary**
-
-<p style="text-align: justify;">Thinking routines are used in Upper Secondary Literature programme to encourage independent thought and the construction of a well-considered response. Responses are co-constructed through group work, online and class discussions as well as close/ dramatic reading.</p>
-
-**_Year 1 – Introduction to Literature as a Discipline_**
-
-*   Close-Reading Skills and Literary Analysis
-    *   Appreciation of Stories
-    *   Appreciation of Poetry
-
-**_Year 2 – Introduction to Drama and Poetry_**
-
-*   Close-Reading Skills and Literary Analysis
-    *   Appreciation of Drama
-    *   Appreciation of Poetry
-    *   Theatre Exposure
-
-**_Year 3 and 4 – Preparation for the N and O levels_**
-
-*   Prose and The Unseen
-*   Drama (For Pure Literature Students Only)
-*   Theatre Exposure
-*   Enrichment (Targetted Seminars, Workshops)
-
-The English Literature unit is a small cohesive unit made up of the following dynamic teachers
-
-|  |  |
-|---|---|
-| Mdm Mini Sathiya Sidhan | Head  of Department / Total Curriculum and English Literature |
-| Mr Tan Jeng, Gordon | Subject Head / English Language |
-| Mdm Tan Su Yin Constance | Lead Teacher / English Language |
-| Miss Herina Roslin | Senior Teacher / English Literature |
-| Ms Hazel Tan | Teacher / English Language and English Literature |
-| Mr Salleh Bin Merwan | Teacher / English Literature and Geography |
+<h1>English Literature</h1>
+<p><strong>English Literature</strong>
+</p>
+<p><strong>Why Literature Matters</strong>
+</p>
+<p>At its heart, Literature is about stories—those that capture the human
+experience, spark imagination, and connect us to ideas and emotions beyond
+our own. At Swiss, we believe in the transformative power of Literature
+to help students see the world through fresh eyes and develop a deeper
+understanding of themselves and others. By engaging with diverse literary
+texts, students learn to navigate life’s big questions, express their thoughts
+with confidence, and appreciate the beauty and power of words.</p>
+<p><strong>What Makes the Swiss Literature Programme Unique?</strong>
+</p>
+<p>Our English Literature programme offers students in the Express and Normal
+Academic courses a rich and dynamic experience. From Lower to Upper Secondary,
+we nurture students’ critical thinking, creativity, and appreciation for
+the written word. Here’s what you can expect:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>A Gateway to the World of Stories:</strong> Students explore poetry,
+prose, and drama, encountering texts from around the globe, including works
+rooted in Singapore’s culture and heritage.</p>
+</li>
+<li>
+<p><strong>Skills for Life:</strong> Beyond academics, students learn to read
+independently, analyze critically, and express personal responses to the
+themes and ideas in texts. These skills are invaluable in helping them
+navigate life’s complexities.</p>
+</li>
+<li>
+<p><strong>Connections to Real Life:</strong> Through reflection, collaboration,
+and discussion, students relate the ideas in texts to their own experiences,
+fostering empathy and a richer understanding of the world</p>
+</li>
+</ul>
+<p><strong>Lower Secondary: A Journey of Discovery</strong>
+</p>
+<p>In Lower Secondary, students begin their Literature journey by exploring
+the three main genres—poetry, prose, and drama. The programme is designed
+to spark curiosity and creativity through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p> <strong>Hands-On Experiences:</strong> Engaging activities like performance
+tasks, explorative discussions, and even theatre exposure bring texts to
+life.</p>
+</li>
+<li>
+<p><strong>Guided Appreciation:</strong> Students are taught to notice the
+nuances of language and meaning in texts, helping them enjoy Literature
+with fresh insight.</p>
+</li>
+<li>
+<p><strong>Exciting Informal Assessments:</strong> From creative projects
+to thought-provoking questions, assessments are designed to make learning
+meaningful and fun.</p>
+</li>
+</ul>
+<p><strong>Upper Secondary: Mastering the Art of Interpretation</strong>
+</p>
+<p>As students progress to Upper Secondary, the focus shifts to deep analysis
+and independent thinking. Key features of the programme include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Critical Engagement: </strong>Thinking routines help students
+craft thoughtful, well-supported interpretations of texts.</p>
+</li>
+<li>
+<p><strong>Collaborative Learning:</strong> Group discussions, online forums,
+and dramatic readings encourage students to share perspectives and co-construct
+responses.</p>
+</li>
+<li>
+<p><strong>Confident Expression: </strong>By engaging deeply with texts,
+students develop the confidence to articulate and defend their views with
+clarity and conviction.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Why Choose Literature at Swiss?</strong>
+</p>
+<p>The study of Literature at Swiss goes beyond academics—it’s an invitation
+to discover new worlds, understand diverse perspectives, and find joy in
+the written word. Our programme equips students with the skills, confidence,
+and creativity they need to navigate life and make meaningful connections
+with others.</p>
+<p></p>
+<p><strong><em>Year 1 – Introduction to Literature as a Discipline</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Close-Reading Skills and Literary Analysis</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Appreciation of Stories</p>
+</li>
+<li>
+<p>Appreciation of Poetry</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong><em>Year 2 – Introduction to Drama and Poetry</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Close-Reading Skills and Literary Analysis</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Appreciation of Drama</p>
+</li>
+<li>
+<p>Appreciation of Poetry</p>
+</li>
+<li>
+<p>Theatre Exposure</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong><em>Year 3 and 4 – Preparation for the N and O levels</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Prose and The Unseen</p>
+</li>
+<li>
+<p>Drama (For Pure Literature Students Only)</p>
+</li>
+<li>
+<p>Theatre Exposure</p>
+</li>
+<li>
+<p>Enrichment (Targetted Seminars, Workshops)</p>
+</li>
+</ul>
+<p>The English Literature unit is a small cohesive unit made up of the following
+committed and dynamic teachers.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mini Sathiya Sidhan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer &amp; Advisor for the Literature Curriculum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Herina Roslin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / English Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Su Yin Constance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher / English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Salleh Bin Merwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Esther Yeoh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Relief Teacher</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
