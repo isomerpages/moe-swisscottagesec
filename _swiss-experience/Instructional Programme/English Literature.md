@@ -48,7 +48,7 @@ the three main genres—poetry, prose, and drama. The programme is designed
 to spark curiosity and creativity through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p> <strong>Hands-On Experiences:</strong> Engaging activities like performance
+<p><strong>Hands-On Experiences:</strong> Engaging activities like performance
 tasks, explorative discussions, and even theatre exposure bring texts to
 life.</p>
 </li>
