@@ -88,7 +88,7 @@ other in the parenting journey</p>
 <p>PSG Alumini Exco - Alexis Kam</p>
 <p>PSG Alumini Exco - Amanda Ang</p>
 <p>PSG Alumini Exco - Erik Sim</p>
-<p><a href="https://drive.google.com/file/d/1w-zVZ4g2gYAXhGaaj-ZbGOMGIzZA2iQj/view?usp=sharing" rel="noopener nofollow" target="_blank">Swiss PSG Exco Members</a>
+<p><a href="https://drive.google.com/file/d/1_bEzEbMNjrE688gJLSgT2Faa_VUKc3W0/view?usp=sharing" rel="noopener nofollow" target="_blank">Swiss PSG Exco Members</a>
 </p>
 <p><a href="/files/PSG/Swiss-PSG-Exco-Message-.pdf" rel="noopener noreferrer nofollow" target="_blank">PSG Exco Message</a>
 </p>
