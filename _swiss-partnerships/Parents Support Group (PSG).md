@@ -77,14 +77,15 @@ other in the parenting journey</p>
 <p>Chairperson - Muthukumari</p>
 <p>Vice-Chairperson - Roy Low</p>
 <p>Secretary - Amy Yeo</p>
-<p>Treasurers - 1.Adeline Koh + Jaqueline Onn</p>
-<p>Exco members - Christina Tan</p>
-<p>Exco members - Faridah Binte Abdul Karim</p>
-<p>Exco members - Molly Mohana</p>
-<p>Exco members - Penny Tan</p>
-<p>Exco members - Pearlyn Ng</p>
-<p>Exco members - Sandy Lim</p>
-<p>Exco members - Sonali Ahuja Makhijani</p>
+<p>Treasurers - 1.Adeline Koh + Jacqueline Onn</p>
+<p>Exco member - Paul Ng</p>
+<p>Exco member - Christina Tan</p>
+<p>Exco member - Faridah Binte Abdul Karim</p>
+<p>Exco member - Molly Mohana</p>
+<p>Exco member - Penny Tan</p>
+<p>Exco member - Pearlyn Ng</p>
+<p>Exco member - Sandy Lim</p>
+<p>Exco member - Sonali Ahuja Makhijani</p>
 <p>PSG Alumini Exco - Alexis Kam</p>
 <p>PSG Alumini Exco - Amanda Ang</p>
 <p>PSG Alumini Exco - Erik Sim</p>
@@ -92,37 +93,11 @@ other in the parenting journey</p>
 </p>
 <p><a href="/files/PSG/Swiss-PSG-Exco-Message-.pdf" rel="noopener noreferrer nofollow" target="_blank">PSG Exco Message</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1oaX3g7QmsPT9ffhqQIG-QcH2-K3NY9qj/view?usp=drive_link" rel="noopener nofollow" target="_blank">PSG Activities</a>
-</p>
 <p><strong>Swiss Parent&nbsp; Activities</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Swiss-Cross-Country.pdf" rel="noopener noreferrer nofollow" target="_blank">Swiss Cross Country</a>
-</p>
-</li>
-<li>
-<p><a href="/files/PSG/Teachers-Day-2021-resent.pdf" rel="noopener noreferrer nofollow" target="_blank">Swiss Teachers' Day</a>
-</p>
-</li>
-<li>
-<p><a href="/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Night-Study.pdf" rel="noopener noreferrer nofollow" target="_blank">Swiss Night Study</a>
-</p>
-</li>
-<li>
-<p><a href="/files/PSG/Graduation-Day-2021-1.pdf" rel="noopener noreferrer nofollow" target="_blank">Swiss Graduation Day</a>
-</p>
-</li>
-<li>
-<p><a href="/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_Family-Day.pdf" rel="noopener noreferrer nofollow" target="_blank">Swiss Family Day</a>
-</p>
-</li>
-<li>
-<p><a href="/files/PSG/04_Parents-Support-Group-Website_Swiss-Parent-Activities_BwP_Parent-workshop.pdf" rel="noopener noreferrer nofollow" target="_blank">Breakfast with Principal and Parenting Workshop</a>
-</p>
-</li>
-<li>
-<p><a href="/files/PSG/Heroes-of-Swiss-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Appreciation of Un-sung Heroes</a>
+<p><a href="https://drive.google.com/file/d/1oaX3g7QmsPT9ffhqQIG-QcH2-K3NY9qj/view?usp=drive_link" rel="noopener nofollow" target="_blank">PSG Activities</a>
 </p>
 <p></p>
 </li>
