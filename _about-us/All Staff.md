@@ -7,7 +7,7 @@ variant: markdown
 <h1>All Staff</h1>
 <p><strong><u>YEAR HEADS AND FORM TEACHERS 2025</u></strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 100px; font-size: 14px">
 <colgroup>
 <col>
 <col>
