@@ -2,7 +2,6 @@ collections:
   2025-sec-1-matters:
     output: true
     order:
-      - Full Subject Based Banding Matters.md
       - "Academic Matters: Subjects Offered.md"
       - Mother Tongue Matters.md
       - Other Academic Matters.md
