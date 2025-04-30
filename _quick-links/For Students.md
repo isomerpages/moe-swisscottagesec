@@ -6,9 +6,7 @@ variant: markdown
 ---
 # For Students
 
-### The 60th Anniversary T-Shirts!![The 60th Anniversary T Shirts](/images/the%2060th%20anniversary%20t-shirts.jpeg)
 
-### The 60th Anniversary T-Shirts Order Form!<img src="/images/the%2060th%20anniversary%20t-shirt%20order%20form.jpeg" style="width: 40%">
 
 [Singapore Student Learning Space (MOE)](https://vle.learning.moe.edu.sg/login)
 
