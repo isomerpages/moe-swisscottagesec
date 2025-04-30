@@ -14,16 +14,6 @@ sections:
           url: https://www.swisscottagesec.moe.edu.sg/administration-matters/
       variant: center
   - infobar:
-      title: SWISS COTTAGE SECONDARY SCHOOL 61ST SPEECH DAY
-      id: infobar
-      button: Read More
-      url: /quick-links/swiss-cottage-secondary-school-61st-speech-day/
-  - infobar:
-      title: THE 60TH ANNIVERSARY CELEBRATION
-      button: Read More
-      url: https://www.swisscottagesec.moe.edu.sg/quick-links/60-anniversary-celebration/
-      description: Commemorative House T-Shirt and plush Toy Bear SALE
-  - infobar:
       title: INSTRUCTIONAL PROGRAMME
       description: Swiss Cottage is committed in delivering a comprehensive and
         holistic education to all who come through our gates.
