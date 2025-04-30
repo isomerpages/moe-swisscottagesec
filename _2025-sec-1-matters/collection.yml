@@ -2,6 +2,5 @@ collections:
   2025-sec-1-matters:
     output: true
     order:
-      - Personal Device Learning Programme (PDLP).md
       - Admission Appeal Matters.md
       - Administrative Matters.md
