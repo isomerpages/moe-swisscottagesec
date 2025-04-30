@@ -2,12 +2,12 @@
 title: All Staff
 permalink: /about-us/all-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>All Staff</h1>
 <p><strong><u>YEAR HEADS AND FORM TEACHERS 2025</u></strong>
 </p>
-<table style="minWidth: 100px; font-size: 12px;">
+<table style="minWidth: 100px">
 <colgroup>
 <col>
 <col>
@@ -440,7 +440,7 @@ variant: markdown
 </table>
 <p><strong><u>ADJUNCT TEACHERS</u></strong>
 </p>
-<table style="minWidth: 75px; font-size: 12px;">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -627,7 +627,7 @@ variant: markdown
 </table>
 <p><strong><u>EXECUTIVE AND ADMINSTRATIVE STAFF</u></strong>
 </p>
-<table style="minWidth: 50px; font-size:12px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
