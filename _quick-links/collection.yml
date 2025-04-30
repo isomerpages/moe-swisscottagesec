@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - School Canteen.md
       - For Students.md
       - For Parents/.keep
       - For Parents/Physical Development.md
