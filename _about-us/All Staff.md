@@ -440,7 +440,7 @@ variant: markdown
 </table>
 <p><strong><u>ADJUNCT TEACHERS</u></strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 75px; font-size: 12px;">
 <colgroup>
 <col>
 <col>
@@ -627,7 +627,7 @@ variant: markdown
 </table>
 <p><strong><u>EXECUTIVE AND ADMINSTRATIVE STAFF</u></strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 50px; font-size:12px">
 <colgroup>
 <col>
 <col>
