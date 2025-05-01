@@ -54,19 +54,18 @@ to develop the child holistically.&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Have a strong interest in the specific
-sport and willingness to be committed to it.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate the necessary agility,
+sport and willingness to be committed to it.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate the necessary agility,
 coordination, speed and teamwork skills relevant to the specific talent
-area.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate leadership qualities,
+area.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate leadership qualities,
 and preparedness to be developed as a leader in the specific talent area
-and to be a role-model for others.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate character traits such
+and to be a role-model for others.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate character traits such
 as sportsmanship, motivation, resilience, mental strength, positive and
-growth mindset.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct and consistently good
-academic performance.</p>
-<p>&nbsp;</p>
+growth mindset.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct and consistently good
+academic performance.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commitment to the sport from Sec
@@ -87,19 +86,18 @@ admission via DSA for the duration of the course.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Have a strong interest in the specific
-performing art and willingness to be committed to it.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate the technical confidence
-and competence relevant to the specific talent area.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate artistic expression,
-creativity, perspective and collaboration skills.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate leadership qualities,
+performing art and willingness to be committed to it.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate the technical confidence
+and competence relevant to the specific talent area.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate artistic expression,
+creativity, perspective and collaboration skills.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate leadership qualities,
 and preparedness to be developed as a leader in the specific talent area
-and to be a role-model for others.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate character traits such
-as motivation, resilience, mental strength, positive and growth mindset.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct and consistently good
-academic performance.</p>
-<p>&nbsp;</p>
+and to be a role-model for others.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate character traits such
+as motivation, resilience, mental strength, positive and growth mindset.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct and consistently good
+academic performance.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commitment to the performing arts
@@ -117,17 +115,16 @@ admission via DSA for the duration of the course.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate passion in STEM learning and a willingness
-to be committed to it.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate aptitude in skills such
-as critical thinking, problem-solving, curiosity, creativity and collaboration.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate leadership qualities,
+to be committed to it.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate aptitude in skills such
+as critical thinking, problem-solving, curiosity, creativity and collaboration.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate leadership qualities,
 and preparedness to be developed as a leader and to be a role-model for
-others.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate character traits such
-as motivation, resilience, mental strength, positive and growth mindset.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct and consistently excellent
+others.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate character traits such
+as motivation, resilience, mental strength, positive and growth mindset.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct and consistently excellent
 academic performance, especially in Science.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commitment to Science Ambassadors
@@ -145,17 +142,16 @@ admission via DSA for the duration of the course</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate passion in serving others/the
-community and a willingness to be committed to serve as a leader and role-model.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate aptitude in skills such
+community and a willingness to be committed to serve as a leader and role-model.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate aptitude in skills such
 as communication, collaboration, adaptability, critical thinking, problem-solving,
-curiosity and creativity.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate a willingness to receive
-feedback for growth.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate character traits such
-as motivation, resilience, mental strength, positive and growth mindset.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Very good conduct and consistently
-good academic performance.</p>
-<p>&nbsp;</p>
+curiosity and creativity.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate a willingness to receive
+feedback for growth.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate character traits such
+as motivation, resilience, mental strength, positive and growth mindset.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Very good conduct and consistently
+good academic performance.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No transfer to another school upon
@@ -172,11 +168,13 @@ P6, e.g., Co-curricular Activities (CCA), Values in Action (VIA) involvement,
 school-based achievements and awards such as Edusave awards, NAPFA results
 (only for sports talent), National School Games and Junior Sports Academy
 participation. &nbsp;You do not need to include this information in your
-application.</p>
-<p>You may provide information on non-school-based activities which are related
+application.
+<br>
+<br>You may provide information on non-school-based activities which are related
 to the applicant’s chosen talent areas. &nbsp;This section is non-compulsory,
 with a limit of 10 entries with no supporting documents or testimonials
-needed.</p>
-<p>General academic ability test e.g. General Ability Test (GAT) and Higher
+needed.
+<br>
+<br>General academic ability test e.g. General Ability Test (GAT) and Higher
 Ability Selection Test (HAST) are not required as part of the school’s
 selection processes.</p>
