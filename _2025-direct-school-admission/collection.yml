@@ -2,7 +2,7 @@ collections:
   2025-direct-school-admission:
     output: true
     order:
-      - Admission Criteria.md
-      - DSA Information eSession.md
       - Swiss Direct School Admission.md
       - DSA Seconday Talents Offered.md
+      - DSA Information eSession.md
+      - Admission Criteria.md
