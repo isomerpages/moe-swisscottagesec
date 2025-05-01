@@ -7,9 +7,7 @@ variant: tiptap
 ---
 <h1>Sciences</h1>
 <p><strong>Rationale</strong>
-</p>
-<p></p>
-<p>The Swiss Science curriculum is designed to develop Swiss students to
+<br>The Swiss Science curriculum is designed to develop Swiss students to
 be Thoughtful Leaders who can apply critical and inventive thinking to
 solving real world issues. Students are provided opportunities to explore
 deeper into the subject matter both within as well as outside of the classroom.
@@ -18,26 +16,23 @@ an independent and self-directed Science learner who enjoys Science and
 values Science as an important tool in helping them explore their natural
 and physical world.</p>
 <p><strong>Lower Secondary</strong>
-</p>
-<p></p>
-<p>Students experience learning of science in thematic manner through hands-on
+<br>Students experience learning of science in thematic manner through hands-on
 activities such as projects, presentation, experiments, field work so they
 can better appreciate the interconnectedness across the different sub-disciplines
 of science (i.e., Biology, Chemistry and Physics). &nbsp;They will build
 a strong foundation to prepare them for learning of science at the Upper
 Secondary level.</p>
 <p><strong>Upper Secondary</strong>
-</p>
-<p>Students who are taking subjects at the G3 level can choose to study two
-or three science subjects i.e./ 6091 Physics, 6092 Chemistry, 6093 Biology.</p>
+<br>Students who are taking most subjects at the G3 level can choose to study
+two or three science subjects i.e., 6091 Physics, 6092 Chemistry, 6093
+Biology.</p>
 <p>Students who are taking most subjects at the G2 level will learn science
 at the G2 level, and they can choose to study one of the two combined science
 subjects i.e., 5105 Science (Physics/Chemistry) or 5107 Science (Chemistry/Biology).</p>
 <p>Students who are taking most subjects at the G1 level will learn science
 at the G1 level.</p>
 <p><strong>Key Programmes</strong>
-</p>
-<p>We are committed to provide every Swiss student with opportunities to
+<br>We are committed to provide every Swiss student with opportunities to
 explore and engage in the realm of science. Various programmes and competitions
 are available to cater to students of different abilities and interest
 level in science.</p>
@@ -72,19 +67,21 @@ level in science.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Weibin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department / Science</p>
+<p>HOD Science / Biology &amp; Chemistry</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +97,7 @@ level in science.</p>
 <p>Mr Thou Reaksmey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Physics and ALP</p>
+<p>Subject Head / Physics &amp; ALP</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +121,7 @@ level in science.</p>
 <p>Mdm Sitti Aishah Bte Yusof</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / CCA /Biology / Chemistry</p>
+<p>Subject Head CCA / Biology &amp; Chemistry</p>
 </td>
 </tr>
 <tr>
@@ -132,31 +129,23 @@ level in science.</p>
 <p>Mr Kenneth Neo Cheng Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Educational Techonology / Biology</p>
+<p>Subject Head Educational Technology / Biology</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr.Adrian Khoo Yi Ming</p>
+<p>Mr Adrian Khoo Yi Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / Biology &amp; Computer Applications</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr.Chia Teck Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher /Physics</p>
+<p>Teacher / Biology</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Choo Shi Qian</p>
+<p>Mr Chia Teck Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / Chemistry</p>
+<p>Teacher / Physics</p>
 </td>
 </tr>
 <tr>
@@ -204,12 +193,20 @@ level in science.</p>
 <p>Mdm See To Chee Choong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / Chemistry</p>
+<p>Contract Adjunct Teacher / Chemistry</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr.Ma Chung Wai Text</p>
+<p>Ms Liu Jiaman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi-Adjunct Teacher / Chemistry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ma Chung Wai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi-Adjunct Teacher / Biology</p>
@@ -217,7 +214,7 @@ level in science.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr.Tan Yong Huat</p>
+<p>Mr Tan Yong Huat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi-Adjunct Teacher / ALP</p>
@@ -233,7 +230,7 @@ level in science.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Bazilah Binte Abdul Majid</p>
+<p>Mdm Arafah Binte Rezlan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Laboratory Technician</p>
@@ -241,7 +238,7 @@ level in science.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Arafah Binte Abdul Majid</p>
+<p>Mdm Nur Bazilah Binte Abdul Majid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Laboratory Technician</p>
@@ -265,4 +262,4 @@ level in science.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
