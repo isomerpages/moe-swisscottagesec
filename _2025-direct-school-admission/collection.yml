@@ -1,5 +1,5 @@
 collections:
-  2025-dsa:
+  2025-direct-school-admission:
     output: true
     order:
       - Swiss Direct School Admission.md
