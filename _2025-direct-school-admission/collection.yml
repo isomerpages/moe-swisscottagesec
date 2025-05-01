@@ -2,4 +2,5 @@ collections:
   2025-direct-school-admission:
     output: true
     order:
+      - DSA Seconday Talents Offered.md
       - Swiss Direct School Admission.md
