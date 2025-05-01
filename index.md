@@ -16,7 +16,7 @@ sections:
       subtitle: Saturday, 17 May 2025, 9am
       key_highlights:
         - title: 2025 Direct School Admission
-          description: ""
+          description: Read More
           url: /swiss-direct-school-admission
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
