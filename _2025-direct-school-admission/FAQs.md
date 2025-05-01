@@ -194,7 +194,7 @@ such as being elected to the Student Council.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For more information on the CCAs offered, please go to:
-<br><a href="For more information on the CCAs offered, please go to:  https://www.swisscottagesec.moe.edu.sg/swiss-experience/co-curricular-activities" rel="noopener noreferrer nofollow" target="_blank">https://www.swisscottagesec.moe.edu.sg/swiss-experience/co-curricular-activities</a>
+<br><a href="https://www.swisscottagesec.moe.edu.sg/swiss-experience/co-curricular-activities" rel="noopener noreferrer nofollow" target="_blank">https://www.swisscottagesec.moe.edu.sg/swiss-experience/co-curricular-activities</a>
 </p>
 </td>
 </tr>
