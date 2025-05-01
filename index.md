@@ -17,7 +17,7 @@ sections:
       key_highlights:
         - title: 2025 Direct School Admission
           description: ""
-          url: ""
+          url: /swiss-direct-school-admission/
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
       description: Swiss Cottage is committed in delivering a comprehensive and
