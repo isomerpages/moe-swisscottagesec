@@ -157,5 +157,5 @@ description: ""
 <p><strong>&nbsp;</strong>* NCC Command Band</p>
 <p><strong>&nbsp;</strong>The selection criteria and process for talent areas
 will be updated from early-May. &nbsp;For more details, please refer to
-the MOE DSA-Sec website – <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+the MOE DSA-Sec website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
