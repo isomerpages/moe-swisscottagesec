@@ -8,7 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/2024_Swiss_Banner.jpg
-      variant: center
+      variant: floating
+      backgroundColor: gray
+      alignment: right
+      title: 2025 DSA eSession
+      size: sm
+      subtitle: Saturday, 17 May 2025, 9am
+      key_highlights:
+        - title: 2025 Direct School Admission
+          description: ""
+          url: ""
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
       description: Swiss Cottage is committed in delivering a comprehensive and
