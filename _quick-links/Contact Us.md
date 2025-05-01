@@ -19,5 +19,4 @@ Ask and get answered on our [Q&amp;A Page](https://go.ask.gov.sg/scss)
 <br><img src="/images/logo-askgov.png" style="width:10%;float:left">
 <br>
 
-
 </em></span>
