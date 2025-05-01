@@ -13,11 +13,10 @@ Address: 3 Bukit Batok Street 34, Singapore (659322)
 Tel. No.: (65) 6563 7173  
 Fax No.: (65) 65693028  
 **Have a question?**  
-Ask and get answered on our [Q&amp;A Page](https://go.ask.gov.sg/scss)
-<em><span>
+Ask and get answered on our [Q&amp;A](https://go.ask.gov.sg/scss)
 <br>
 <span style="color:#999999"><em>Powered by:
 <br><img src="/images/logo-askgov.png" style="width:10%;float:left">
 <br>
 
-</em></span></span></em>
+</em></span>
