@@ -15,7 +15,5 @@ variant: markdown
 <br>Ask and get answered on our <a href="https://go.ask.gov.sg/scss" rel="noopener noreferrer nofollow" target="_blank">Q&amp;A</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/logo-askgov.png">
+<img style="width: 10%;float:left" height="auto" width="100%" alt="" src="/images/logo-askgov.png">
 </div>
-<p></p>
-<p></p>
