@@ -15,9 +15,9 @@ sections:
       size: sm
       subtitle: Saturday 17 May 2025             9am to 11am
       key_highlights:
-        - title: 2025 Direct School Admission
+        - title: 2025 DSA eSession Webinar DEtails
           description: ""
-          url: /swiss-direct-school-admission/
+          url: /dsa-information-esession/
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
       description: Swiss Cottage is committed in delivering a comprehensive and
