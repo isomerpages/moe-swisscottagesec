@@ -64,7 +64,7 @@ description: ""
 </table>
 <hr>
 <p>Shortlisted applicants will be informed of the selection date, time and
-tasks via email between 8 to18 July 2025. All shortlisted applicants will
+tasks via email between 8 to 18 July 2025. All shortlisted applicants will
 be required to attend a selection trial / audition. If further shortlisted,
 applicants will be required to attend an interview with a School Leader.</p>
 <p>All communication will be made via email, to the email address that is
