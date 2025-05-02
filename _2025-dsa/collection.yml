@@ -1,0 +1,12 @@
+collections:
+  2025-dsa:
+    output: true
+    order:
+      - Swiss Direct School Admission.md
+      - DSA Seconday Talents Offered.md
+      - DSA Information eSession.md
+      - Admission Criteria.md
+      - Application Timeline.md
+      - Other Information.md
+      - FAQs.md
+      - Further Enquiries.md

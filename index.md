@@ -8,21 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/2024_Swiss_Banner.jpg
+      variant: floating
+      backgroundColor: gray
+      alignment: right
+      title: 2025 DSA eSession
+      size: sm
+      subtitle: Saturday 17 May 2025             9am to 11am
       key_highlights:
-        - title: 2025 Sec One Matters
-          description: Read More
-          url: https://www.swisscottagesec.moe.edu.sg/administration-matters/
-      variant: center
-  - infobar:
-      title: SWISS COTTAGE SECONDARY SCHOOL 61ST SPEECH DAY
-      id: infobar
-      button: Read More
-      url: /quick-links/swiss-cottage-secondary-school-61st-speech-day/
-  - infobar:
-      title: THE 60TH ANNIVERSARY CELEBRATION
-      button: Read More
-      url: https://www.swisscottagesec.moe.edu.sg/quick-links/60-anniversary-celebration/
-      description: Commemorative House T-Shirt and plush Toy Bear SALE
+        - title: 2025 DSA eSession Webinar DEtails
+          description: ""
+          url: /dsa-information-esession/
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
       description: Swiss Cottage is committed in delivering a comprehensive and

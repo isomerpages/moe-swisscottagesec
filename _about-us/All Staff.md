@@ -2,12 +2,12 @@
 title: All Staff
 permalink: /about-us/all-staff/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h1>All Staff</h1>
 <p><strong><u>YEAR HEADS AND FORM TEACHERS 2025</u></strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 100px; font-size: 14px">
 <colgroup>
 <col>
 <col>
@@ -614,10 +614,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ROSMAN BIN AZIZ (MR)</p>
+<p>WONG YIN KEW (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DESIGN AND TECHNOLOGY</p>
+<p>D&amp;T AND CPA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -670,7 +670,7 @@ variant: tiptap
 <p>ICT MANAGER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VACANT</p>
+<p>RADIYANA HARON (MS)</p>
 </td>
 </tr>
 <tr>
@@ -719,6 +719,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SORAYA BINTE PUTEH (MDM)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CORPORATE SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHARIFA AMMAL D/O KASSIM MOHAMED</p>
 </td>
 </tr>
 <tr>
