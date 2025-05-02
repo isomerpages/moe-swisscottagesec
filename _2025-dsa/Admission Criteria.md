@@ -43,14 +43,20 @@ to develop the child holistically.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sports &amp; Games</p>
+<p><strong>Sports &amp; Games</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Badminton (Girls)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basketball (Boys &amp; Girls)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bowling (Boys)</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Floorball (Boys &amp; Girls)</p>
-<p>&nbsp;</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Badminton (Girls)</strong>
+</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basketball (Boys &amp; Girls)</strong>
+</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bowling (Boys)</strong>
+</p>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Floorball (Boys &amp; Girls)</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Have a strong interest in the specific
@@ -76,13 +82,18 @@ admission via DSA for the duration of the course.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Performing Arts</p>
+<p><strong>Performing Arts</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese Orchestra</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choir (Show)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modern Dance</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Military Band (NCC Command Band)</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese Orchestra</strong>
+</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choir (Show)</strong>
+</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modern Dance</strong>
+</p>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Military Band (NCC Command Band)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Have a strong interest in the specific
@@ -108,10 +119,12 @@ admission via DSA for the duration of the course.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p><strong>Science</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science for Sustainable Development</p>
+<p><strong>Science for Sustainable Development</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate passion in STEM learning and a willingness
@@ -135,10 +148,12 @@ admission via DSA for the duration of the course</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leadership and Uniformed Groups</p>
+<p><strong>Leadership and Uniformed Groups</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leadership</p>
+<p><strong>Leadership</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate passion in serving others/the
