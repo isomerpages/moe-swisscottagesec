@@ -2,7 +2,7 @@
 title: Contact Us
 permalink: /quick-links/contact-us/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>Contact Us</h1>
 <div class="iframe-wrapper">
@@ -17,3 +17,4 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 10%;float:left" height="auto" width="100%" alt="" src="/images/logo-askgov.png">
 </div>
+<p></p>
