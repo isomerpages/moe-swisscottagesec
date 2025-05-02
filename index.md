@@ -13,7 +13,7 @@ sections:
       alignment: right
       title: 2025 DSA eSession
       size: sm
-      subtitle: Saturday 17 May 2025 9am to 11am
+      subtitle: Saturday 17 May 2025             9am to 11am
       key_highlights:
         - title: 2025 Direct School Admission
           description: ""
