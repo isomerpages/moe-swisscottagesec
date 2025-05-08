@@ -14,20 +14,16 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DSA Main Category</strong>
-</p>
+<p>DSA Main Category</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>DSA Talent Area</strong>
-</p>
+<p>DSA Talent Area</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Boys</strong>
-</p>
+<p>Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Girls</strong>
-</p>
+<p>Girls</p>
 </td>
 </tr>
 <tr>
@@ -154,8 +150,14 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>* NCC Command Band</p>
-<p><strong>&nbsp;</strong>The selection criteria and process for talent areas
-will be updated from early-May. &nbsp;For more details, please refer to
-the MOE DSA-Sec website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p>* NCC Command Band</p>
+<p>The selection criteria and process for talent areas will be updated from
+early-May.&nbsp; For more details, please refer to the MOE DSA-Sec website
+– <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<br>
+<br>To find out more about Swiss Cottage Secondary School, please view our
+SCSS Moments videos on YouTube:
+<br><strong><a href="https://www.youtube.com/@SCSSMOMENTS/videos" rel="noopener nofollow" target="_blank">SCSS Moments Videos</a></strong>
+<br><strong><a href="https://youtu.be/6PGBM8eCbi4" rel="noopener nofollow" target="_blank">2024 School Tour</a></strong>
+<br><strong><a href="https://www.youtube.com/playlist?list=PLF4C7olM_mEcWlSSsk9DSbLtJnByfhUhR" rel="noopener nofollow" target="_blank">National School Games (NSG) Highlights</a><br><a href="https://youtu.be/NbBmxpGmEGs" rel="noopener nofollow" target="_blank">2024 Diamond Jubilee Concert Highlights</a><br><a href="https://www.youtube.com/playlist?list=PLF4C7olM_mEeOGVI3nXqzsO4SLqsiFKJU" rel="noopener nofollow" target="_blank">2024 Diamond Jubilee Concert – Selected videos</a></strong>
 </p>
