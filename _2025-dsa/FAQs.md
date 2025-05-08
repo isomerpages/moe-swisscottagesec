@@ -26,7 +26,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Students admitted through DSA must fulfil the admission criteria, pass
-the selection trial/audition and the interview (where applicable).</p>
+the interview and selection trial/audition (where applicable).</p>
 </td>
 </tr>
 <tr>
@@ -47,8 +47,8 @@ the selection trial/audition and the interview (where applicable).</p>
 <p>All students will apply for DSA-Sec through a centralised DSA-Sec Portal
 to all DSA-Sec schools (except School of the Arts (SOTA) and Singapore
 Sports School (SSP), instead of individually to each school. The portal
-will be open for application from 11am on 7 May 2025 (Wednesday) till 3pm
-on 3 June 2025 (Tuesday).</p>
+will be opened for application from 11am on 7 May 2025 (Wednesday) till
+3pm on 3 June 2025 (Tuesday).</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +85,10 @@ on 3 June 2025 (Tuesday).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>We will inform you between 8 to 18 July if you are shortlisted for the
-selection trial.</p>
+selection trial. The second shortlist for the in-person interview session
+will be sent out by 5 August 2025 (Friday) if you are successful. The selection
+trial and interview session (where applicable) will be conducted from 14
+July 2025 (Monday) to 21 Aug 2025 (Friday).</p>
 </td>
 </tr>
 <tr>
@@ -103,8 +106,8 @@ selection trial.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All applicants will know the outcome of their application between 29 August
-2025 (Friday) and 4 September 2025 (Thursday).</p>
+<p>All applicants will know the outcome of their applications between 29
+August 2025 (Friday) and 4 September 2025 (Thursday).</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +146,7 @@ Stage of the DSA-Sec Exercise.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Any child who is not studying in MOE mainstream primary schools, include
+<p>Any child who are not studying in MOE mainstream primary schools include
 Returning Singaporeans, International Students studying overseas or in
 local international schools, students in Special Education Schools or religious
 schools (e.g. Pathlight, Madrasah, San Yu Adventist) and home-schoolers
@@ -151,7 +154,7 @@ will need to obtain a Registration Number (RGxxxxxxx) before they can apply
 through the DSA-Sec Portal.
 <br>
 </p>
-<p>Please refer to MOE website below for more information:&nbsp;
+<p>Please refer to MOE website below for more information:
 <br><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </td>
@@ -171,11 +174,11 @@ through the DSA-Sec Portal.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No.&nbsp; Student Council is not considered a CCA in Swiss Cottage. &nbsp;Students
-who entered via Leadership through DSA will have to select a CCA like all
-other students entering Sec 1 through PSLE exercise.&nbsp; However, you
-are expected to develop yourself through the various leadership opportunities,
-such as being elected to the Student Council.</p>
+<p>Student Council is not considered a CCA in Swiss Cottage. You can choose
+any CCA to join if you pass the selection trials for that particular CCA.
+Joining the Student Council is not automatic even if you had come into
+Swiss Cottage via Leadership DSA. There is a selection process for one
+to become a member of Student Council.</p>
 </td>
 </tr>
 <tr>
@@ -217,9 +220,8 @@ such as being elected to the Student Council.</p>
 will assess all applicants holistically. It is important for applicants
 to consider carefully if they are able to balance the demand and rigour
 of the academic posting group (i.e. PG1, 2 or 3) in the school they are
-applying for alongside their commitment to their DSA talent area. &nbsp;In
-2025, the PSLE cut-off points for the respective posting groups are as
-follow:</p>
+applying for alongside their commitment to their DSA talent area. In 2025,
+the PSLE cut-off points for the respective posting groups are as follow:</p>
 <p>Posting Group 3: AL 10
 <br>Posting Group 2: AL 21-22
 <br>Posting Group 1: AL 25-26</p>
@@ -241,11 +243,10 @@ follow:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Swiss Chinese Orchestra welcomes students who have a strong passion
-in Chinese Orchestra. &nbsp;We take in students who plays a wide variety
-of instruments, including the Erhu, Dizi, Liuqin and even Cello. &nbsp;If
-we do not offer your child’s instrument but your child is musically inclined
-and is willing to take up another instrument, we will consider your child’s
-application.</p>
+in Chinese Orchestra. We take in student who plays a wide variety of instruments,
+including the Erhu, Dizi, Liuqin and even Cello. If we do not offer your
+child’s instrument but your child is musically inclined and is willing
+to take up another instrument, we will consider your child’s application.</p>
 </td>
 </tr>
 <tr>
@@ -283,9 +284,9 @@ application.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>It is not advisable for your child to join two CCAs. &nbsp;The school
-has common CCA days, twice a week, for all CCAs. &nbsp;If your child has
-two CCAs, he/she will not be able to fulfil the attendance for either CCA.</p>
+<p>It is not advisable for your child to join 2 CCAs. The school has fixed
+CCA days for all CCAs. If your child has 2 CCAs, he/she will not be able
+to fulfil the attendance for either CCA..</p>
 </td>
 </tr>
 <tr>
@@ -303,12 +304,12 @@ two CCAs, he/she will not be able to fulfil the attendance for either CCA.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The DSA process is a commitment between the student and the school. &nbsp;Once
-the child has been accepted by the school through a particular talent area,
-the child must commit to the relevant CCA. &nbsp;There are exceptions,
-for example the child is injured and is not medically able to continue
-with the CCA. &nbsp;In this instance, we will have a discussion with the
-child and parents.</p>
+<p>The DSA process is a commitment between the student and the school. Once
+the child has been accepted by the school through a particular CCA, the
+child must commit to the CCA. There are exceptions, for example the child
+is injured and is not medically advisable for the child to continue with
+the specific talent area. In this instance, we will have a discussion with
+the child and parents.</p>
 </td>
 </tr>
 </tbody>
