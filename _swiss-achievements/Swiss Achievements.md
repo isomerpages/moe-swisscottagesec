@@ -207,7 +207,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Choir</strong>
+<p><strong>Drama</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Modern Dance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Distinction (International Dance category)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NCC Command Band</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Accomplishment (Percussion category)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Swiss Show Choir</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
