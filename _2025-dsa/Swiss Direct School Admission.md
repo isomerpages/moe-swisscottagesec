@@ -13,4 +13,8 @@ and our <strong>Applied Sciences for Sustainable Development Programme</strong> 
 the entire student body. &nbsp;Under the Total Curriculum Framework, these
 flagship programmes are well integrated with our rigorous Academic Programmes
 and our comprehensive Student Development Programmes to enable our students
-to achieve <strong>Intellectual Excellence</strong>, <strong>Character Excellence </strong>and <strong>Leadership Excellence</strong>.</p>
+to achieve <strong>Intellectual Excellence</strong>, <strong>Character Excellence </strong>and <strong>Leadership Excellence</strong>.
+<br>
+</p>
+<p>We welcome Primary 6 students who desire to be a Thoughtful Leader to
+join us through the Direct School Admission (DSA-Sec) Exercise.</p>
