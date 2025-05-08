@@ -12,4 +12,6 @@ at 3 Bukit Batok Street 34, Singapore 659322 (Monday to Friday, 8 am to
 3 pm).
 <br>·&nbsp;&nbsp;&nbsp;&nbsp; Email us at <a href="scss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scss@moe.edu.sg</a>. Please indicate "DSA Enquiries"
 in the subject field.</p>
-<p>&nbsp;</p>
+<p>&nbsp;More information regarding the DSA can be found on the MOE website:
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
