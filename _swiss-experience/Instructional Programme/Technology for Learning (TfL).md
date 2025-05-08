@@ -3,51 +3,118 @@ title: Technology for Learning (TfL)
 permalink: /swiss-experience/Instructional-Programme/technology-for-learning/
 description: ""
 third_nav_title: Instructional Programme
-variant: markdown
+variant: tiptap
 ---
-# Technology for Learning (TfL)
-
-### <b><u>Goals</u></b>
-
-1.  **Staff Excellence Culture**&nbsp;– Staff Excellence marked by highly competent staff as Designers of Learning, Experiences and Environments, who leverage ICT effectively and purposely in T&amp;L.
-2.  **Student Intellect Culture &amp; Wellness Culture**&nbsp;– Every student is a self-directed and collaborative learner who maximises ICT to enhance their learning as guided by teachers, grounded in cyber wellness.
-3.  **Effectiveness and efficiency in school administration**&nbsp;through use of ICT.
-
-### <b><u>Our Programme</u></b>
-
-#### Curricular Programme
-
-*   Computer Applications
-
-#### ICT Programmes / Projects
-
-*   Personalised Digital Learning Programme (PDLP) – infusion of ICT into curriculum, pedagogy and assessment
-*   Infusion of cyber wellness into curriculum and CCE
-*   ICT professional development for Staff
-*   IT/AV support for School (through student volunteers)
-
-### <b><u>Our Team</u></b>
-
-| ICT &amp; Computer Applications |  |
-|---|---|
-| Mr Wong Wai Kiong Terence | Head of Department / Technology for Learning (TfL) |
-| Mr Lim Junxuan Christopher | Subject Head  / ICT and  Student Well-Being  |
-| Mdm Shahada Bte Rahmat | Teacher / CPA  |
-| Mr Wong Yin Kew | Teacher / CPA  |
-| Mr Choo Shi Qian | Teacher / CPA  |
-| Mr Giam Chin Leong | ICT Manager |
-| Mr Muhd Zuhairi Bin Zailani | Desktop Engineer |
-| Mrs Gokila Nagarajan @ Manivannan Gokila | Desktop Engineer |
-
-
-<b><u>ICT Facilities for Teaching and Learning</u></b>
-
-*   2 Computer Laboratories of one full-class capacity each
-*   3 mobile carts equipped with 20 plus notebook PCs each
-*   Wireless Internet/LAN throughout school compound
-
-<b><u>Useful Links</u></b>
-
-Singapore Student Learning Space (SLS)
-
-[https://vle.learning.moe.edu.sg/](https://vle.learning.moe.edu.sg/)
+<h3>Technology for Learning (TfL)</h3>
+<p></p>
+<h4><strong><u>Vision</u></strong></h4>
+<p>To leverage technology to nurture Thoughtful Leaders who are reflective
+thinkers and caring citizens, embodying honour and humility, and equipped
+with the skills and agency to lead and serve in a technology-transformed
+world.</p>
+<h4><strong><u>EdTech Goals</u></strong></h4>
+<p>1. Empower the development of 21st Century Competencies through the development
+of students’ digital literacies and competencies
+<br>2. Strengthen and sustain EdTech pedagogical practices
+<br>3. Nurture the digital well-being of students (self and others)</p>
+<h4><strong><u>Our Programme</u></strong><br>Curricular Programme</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Computer Applications</p>
+</li>
+</ul>
+<h4>ICT Programmes / Projects</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Personalised Digital Learning Programme (PDLP)</p>
+</li>
+<li>
+<p>Infusion of cyber wellness into curriculum and CCE</p>
+</li>
+<li>
+<p>ICT professional development for Staff</p>
+</li>
+<li>
+<p>IT/AV support for School</p>
+</li>
+<li>
+<p>Programmes for development of student digital literacies</p>
+</li>
+<li>
+<p>Love Device Campaign</p>
+</li>
+</ul>
+<h4><strong><u>Our Team</u></strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>ICT &amp; Computer Applications</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Wai Kiong Terence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department / Technology for Learning (TfL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Neo Cheng Wee Kenneth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / EdTech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Khoo Yi Ming Adrian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / CPA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Yin Kew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / CPA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Radiyana Haron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Gokila Nagarajan @ Manivannan Gokila</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Amirul Izzat Bin Abdul Razaki</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
