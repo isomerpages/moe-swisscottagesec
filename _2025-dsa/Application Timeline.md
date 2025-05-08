@@ -63,19 +63,21 @@ description: ""
 </tbody>
 </table>
 <hr>
-<p>Shortlisted applicants will be informed of the selection date, time and
-tasks via email between 8 to 18 July 2025. All shortlisted applicants will
-be required to attend a selection trial / audition. If further shortlisted,
-applicants will be required to attend an interview with a School Leader.</p>
+<p>All shortlisted applicants will be required to attend a selection trial
+/ audition followed by an interview with a School Leader only if further
+shortlisted. Shortlisted applicants will be informed of the selection date,
+time and tasks via email between 8 to 18 July 2025.</p>
 <p>All communication will be made via email, to the email address that is
-indicated in the online DSA-Sec Portal. &nbsp;Please ensure that the email
-address provided is accurate and that the email address is accessed actively
-during this period.</p>
+indicated in the online DSA-Sec Portal. Please ensure that the email address
+provided is accurate and that the email address is accessed actively during
+this period.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1 to 4.</p>
 <p>Swiss Cottage Secondary School reserves the right not to release details
 of the shortlisting process, interview and selection trial to all applicants.
 The school will release the results for all DSA applicants (whether successful
-or not successful) within the period from 29 August – 4 September 2025.</p>
+or not successful) within a 2-week window period from 29 August – 4 September
+2025.</p>
+<p></p>
 <p></p>
