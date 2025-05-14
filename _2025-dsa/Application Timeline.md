@@ -30,7 +30,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 June 2025 (Wednesday) 3pm</p>
+<p>3 June 2025 (Wednesday) 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deadline for submission of application through DSA-Sec Portal</p>
