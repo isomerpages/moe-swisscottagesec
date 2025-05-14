@@ -48,7 +48,7 @@ the interview and selection trial/audition (where applicable).</p>
 to all DSA-Sec schools (except School of the Arts (SOTA) and Singapore
 Sports School (SSP), instead of individually to each school. The portal
 will be opened for application from 11am on 7 May 2025 (Wednesday) till
-3pm on 4 June 2025 (Wednesday).</p>
+3pm on 3 June 2025 (Wednesday).</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ will be opened for application from 11am on 7 May 2025 (Wednesday) till
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 June 2025 (Wednesday), 3 pm</p>
+<p>3 June 2025 (Wednesday), 3 pm</p>
 </td>
 </tr>
 <tr>
