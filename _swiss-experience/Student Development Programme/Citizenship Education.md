@@ -14,9 +14,11 @@ to become a nation;
 <br>3. To help students understand Singapore’s unique challenges, constraints
 and vulnerabilities, which make us different from other countries;
 <br>4. To instill the core values of our way of life, and the will to prevail,
-that ensures our continued success and well-being.</p>
-<p>The platforms with which we achieve our goals are:</p>
-<p>1. CCE lessons
+that ensures our continued success and well-being.
+<br>
+</p>
+<p>The platforms with which we achieve our goals are:
+<br>1. CCE lessons
 <br>2. Infusion of NE Messages through the curriculum
 <br>3. Commemoration of the National Events
 <br>4. Learning journeys
