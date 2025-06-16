@@ -4,7 +4,7 @@ permalink: /quick-links/calendar/
 description: ""
 variant: tiptap
 ---
-<p><strong><u>2025 SEMESTER 1</u></strong>
+<p><strong><u>2025 SEMESTER 2</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -14,25 +14,14 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>No.</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Date/s</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>1&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Orientation</p>
+<p>June Semester Break</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>02/1 - 03/1</p>
+<p>2/6 – 29/6</p>
 </td>
 </tr>
 <tr>
@@ -40,10 +29,10 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 MTP</p>
+<p>Youth Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10/1</p>
+<p>7/7</p>
 </td>
 </tr>
 <tr>
@@ -51,10 +40,10 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Trials</p>
+<p>HBL Day #10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16/1</p>
+<p>11/7</p>
 </td>
 </tr>
 <tr>
@@ -62,10 +51,10 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DMA Deployment</p>
+<p>GCE O/N – Level Oral Exam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16/1</p>
+<p>14/7 – 18/7</p>
 </td>
 </tr>
 <tr>
@@ -73,10 +62,10 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day #1</p>
+<p>HBL Day #11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17/1</p>
+<p>15/7</p>
 </td>
 </tr>
 <tr>
@@ -84,10 +73,10 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CNY celebration</p>
+<p>HBL Day #12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28/1</p>
+<p>16/7</p>
 </td>
 </tr>
 <tr>
@@ -95,10 +84,10 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year (CNY)</p>
+<p>HBL Day #13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29/1 - 30/1</p>
+<p>17/7</p>
 </td>
 </tr>
 <tr>
@@ -106,10 +95,11 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day #2</p>
+<p>NDP Observance cum
+<br>Speech Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31/1</p>
+<p>8/8</p>
 </td>
 </tr>
 <tr>
@@ -117,10 +107,10 @@ variant: tiptap
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day #3</p>
+<p>National Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14/2</p>
+<p>9/8-11/8</p>
 </td>
 </tr>
 <tr>
@@ -128,10 +118,10 @@ variant: tiptap
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 MTP</p>
+<p>CCA Last Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21/2</p>
+<p>1/9</p>
 </td>
 </tr>
 <tr>
@@ -139,10 +129,10 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day #4</p>
+<p>Teachers’ Day Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28/2</p>
+<p>4/9</p>
 </td>
 </tr>
 <tr>
@@ -150,10 +140,10 @@ variant: tiptap
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 iPad Rollout (tentative)</p>
+<p>Teachers’ Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28/2</p>
+<p>5/9</p>
 </td>
 </tr>
 <tr>
@@ -161,10 +151,10 @@ variant: tiptap
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day #5</p>
+<p>September Term Break</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14/3</p>
+<p>8/9 – 14/9</p>
 </td>
 </tr>
 <tr>
@@ -172,10 +162,10 @@ variant: tiptap
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Past vs. Present Games</p>
+<p>N Level Exam Phase 1 (Written)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15/3</p>
+<p>15/9 – 25/9</p>
 </td>
 </tr>
 <tr>
@@ -183,10 +173,10 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Puasa</p>
+<p>HBL Day #14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31/3</p>
+<p>26/9</p>
 </td>
 </tr>
 <tr>
@@ -194,10 +184,10 @@ variant: tiptap
 <p>16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 MTP</p>
+<p>N Level Exam Phase 2 (Written)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>03/4</p>
+<p>6/10 – 14/10</p>
 </td>
 </tr>
 <tr>
@@ -205,10 +195,10 @@ variant: tiptap
 <p>17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day #6</p>
+<p>O Level Exam (Written)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>04/4</p>
+<p>16/10 – 10/11</p>
 </td>
 </tr>
 <tr>
@@ -216,10 +206,10 @@ variant: tiptap
 <p>18</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Good Friday</p>
+<p>HBL Day #15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/4</p>
+<p>10/10</p>
 </td>
 </tr>
 <tr>
@@ -227,10 +217,10 @@ variant: tiptap
 <p>19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 MTP</p>
+<p>Deepavali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24/4</p>
+<p>20/10</p>
 </td>
 </tr>
 <tr>
@@ -238,10 +228,10 @@ variant: tiptap
 <p>20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Labour Day</p>
+<p>Sec 1 Camp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01/5</p>
+<p>27/10 – 29/10</p>
 </td>
 </tr>
 <tr>
@@ -249,10 +239,10 @@ variant: tiptap
 <p>21</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day #7</p>
+<p>Last Day of school</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>02/5</p>
+<p>31/10</p>
 </td>
 </tr>
 <tr>
@@ -260,10 +250,10 @@ variant: tiptap
 <p>22</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DSA Info e-Session</p>
+<p>Sec 2 Horizon Trip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10/5</p>
+<p>1/11 – 6/11</p>
 </td>
 </tr>
 <tr>
@@ -271,10 +261,10 @@ variant: tiptap
 <p>23</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vesak Day</p>
+<p>SC Camp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12/5</p>
+<p>17/11 – 18/11</p>
 </td>
 </tr>
 <tr>
@@ -282,10 +272,10 @@ variant: tiptap
 <p>24</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day #8</p>
+<p>NCC Annual Camp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16/5</p>
+<p>20/11 – 21/11</p>
 </td>
 </tr>
 <tr>
@@ -293,62 +283,14 @@ variant: tiptap
 <p>25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kampong Night</p>
+<p>Christmas Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16/5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HBL Day #9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30/5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Adventure Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30/5 - 31/5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>WeGrow Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>26/5 - 29/5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Haji</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>07/6</p>
+<p>25/12</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4></h4>
-<p></p>
-<p></p>
 <h4></h4>
 <p></p>
 <h4></h4>
