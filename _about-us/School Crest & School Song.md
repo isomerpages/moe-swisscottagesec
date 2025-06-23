@@ -9,14 +9,15 @@ variant: markdown
   The Swiss Cottage School Crest
 </h1>
 <p>
-![](/images/SCSS_Main_Logo__For_Normal_Use_Only_.jpg)
+<img style="width: 250px; height: auto;" alt="Swiss Cottage Secondary School Logo" src="/images/SCSS_Main_Logo__For_Normal_Use_Only_.jpg">
+
 </p><p>
   The crest is headed by five stars which symbolise 
 Equality, Peace, Progress, Justice, and Democracy. 
   These are ideals on which brotherhood of persons can be built.
   Below, there is a torch which signifies the light of knowledge and the love of learning.
   Encompassing it are five rings symbolising sports and the part they can play to link persons together.
-  The five horizontal bands denote the five houses as rivals in competition but steadfast in fraternity. 
+  The five horizontal bands denote the five houses as rivals in competition but steadfast in fraternity. The motto of the school is SCIENTIAE PATRIAEQUE GRATIA or FOR THE SAKE OF LEARNING AND FOR THE STATE. Whatever is undertaken or promoted in the school must seek to develop within pupils a love of learning and desire to improve through learning. This sense of personal fulfilment reaches its ultimate meaning and purpose in the service of the nation. 
 </p><p>
 </p><h1 style="color: #077c85 !important; font-size: 2em; font-weight: bold;">
   The Swiss Cottage School Song
