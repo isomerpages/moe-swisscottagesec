@@ -88,22 +88,15 @@ variant: markdown
     </tr>
   </tbody>
 </table>
+<div style="text-align: center;">
+  <h2 style="font-weight: bold; font-size: 1.8em;">
+    <span style="color: #077c85;">50th Anniversary Video</span>
+  </h2>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="display: block; margin-left: auto; margin-right: auto;" frameborder="0" title="50th Anniversary Video" src="https://www.youtube.com/embed/ZAH-VwoMIhI" height="315" width="560">
+</iframe>
 
 
 
- 
-<img align="left" style="width:75%" src="/images/About%20us/Principal_1.jpg">
- 
-<img align="left" style="width:75%" src="/images/About%20us/Principal_2.jpg">
-
-
-![](/images/About%20us/mr%20heng%20&amp;%20mr%20cheng%20photo%20(8).jpg)
-![](/images/About%20us/Princiapal_4.png)
-
- 
-<br clear="left"> 
- 
-[Documentary on School History and Principals](http://www.youtube.com/watch?v=ZAH-VwoMIhI&amp;feature=youtu.be)
 
 ###  History
 
@@ -146,4 +139,4 @@ Then we know that our pupils have received an all-rounded education which hopefu
 
 Each of the former Swiss principals has played a critical role in driving the vision of an all-rounded education in Swiss that Mr Mosbergen articulated in 1975. It is therefore the school’s conviction to build on the past good work to further enhance the quality of education offered at Swiss Cottage. It is the school’s commitment that every staff and student will be well cared for in Swiss Cottage, and its staff will ensure that every lesson is a good lesson, and every learning activity is purposeful.
 
-Now, the school has a student population of about 1,200 and is one of the choice schools in the west. May the Swiss Spirit live on in the pursuit of excellence and for the sake of learning. May Swiss Thoughtful leaders continue to blaze a path of glory in this vibrant learning community so that they are fully prepared for the state.
+Now, the school has a student population of about 1,200 and is one of the choice schools in the west. May the Swiss Spirit live on in the pursuit of excellence and for the sake of learning. May Swiss Thoughtful leaders continue to blaze a path of glory in this vibrant learning community so that they are fully prepared for the state.</div>
