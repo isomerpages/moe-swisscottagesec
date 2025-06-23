@@ -2,21 +2,95 @@
 title: School History and Principals
 permalink: /about-us/school-history-and-principals/
 description: ""
+variant: markdown
 ---
 # School History and Principals
 
 ### Our Principals through the Years:
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="color: #077c85; font-weight: bold; border: 1px solid #ddd; padding: 8px;">Portrait</th>
+      <th style="color: #077c85; font-weight: bold; border: 1px solid #ddd; padding: 8px;">Principal</th>
+      <th style="color: #077c85; font-weight: bold; border: 1px solid #ddd; padding: 8px;">Tenure</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        <img style="width: 80px; height: auto;" alt="Mr R. D. Jansen" src="/images/jansen.jpg">
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Mr R. D. Jansen</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">1962 – 1968</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        <img style="width: 80px; height: auto;" alt="Mr R. W. Mosbergen" src="/images/mosbergen.jpg">
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Mr R. W. Mosbergen</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">1969 – 1975</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        <img style="width: 80px; height: auto;" alt="Mr Chow Kye Lock" src="/images/chow.jpg">
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Mr Chow Kye Lock</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">1976 – 1989</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        <img style="width: 80px; height: auto;" alt="Mr D. Natarajan" src="/images/natarajan.jpg">
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Mr D. Natarajan</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">1989 – 1997</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        <img style="width: 80px; height: auto;" alt="Mr Gan Chee Hau" src="/images/gan.jpg">
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Mr Gan Chee Hau</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Aug 1997 – Dec 2002</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        <img style="width: 80px; height: auto;" alt="Ms Tay Lai Ling" src="/images/tay.jpg">
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Ms Tay Lai Ling</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Dec 2002 – Dec 2007</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        <img style="width: 80px; height: auto;" alt="Mr Liu Earnler" src="/images/liu.jpg">
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Mr Liu Earnler</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Dec 2007 – Dec 2012</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        <img style="width: 80px; height: auto;" alt="Mr Heng Yew Seng" src="/images/heng.jpg">
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Mr Heng Yew Seng</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Dec 2012 – Dec 2017</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        <img style="width: 80px; height: auto;" alt="Mr Sherwin Cheng" src="/images/cheng.jpg">
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Mr Sherwin Cheng</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Dec 2017 – Dec 2022</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        <img style="width: 80px; height: auto;" alt="Mdm Cheng Mun Yi Mandy" src="/images/mandy.jpg">
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Mdm Cheng Mun Yi Mandy</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Dec 2022 – Present</td>
+    </tr>
+  </tbody>
+</table>
 
-Mr R. D. Jansen (1962 – 1968)<br>
-Mr R. W. Mosbergen (1969 – 1975)<br>
-Mr Chow Kye Lock (1976 – 1989)<br>
-Mr D. Natarajan (1989 – 1997)<br>
-Mr Gan Chee Hau (Aug 1997 – Dec 2002)<br>
-Ms Tay Lai Ling (Dec 2002 – Dec 2007)<br>
-Mr Liu Earnler (Dec 2007 – Dec 2012)<br>
-Mr Heng Yew Seng (Dec 2012 – Dec 2017)<br>
-Mr Sherwin Cheng (Dec 2017 – Dec 2022)<br>
-Mdm Cheng Mun Yi Mandy (Dec 2022 – Present)
+
+
  
 <img align="left" style="width:75%" src="/images/About%20us/Principal_1.jpg">
  
