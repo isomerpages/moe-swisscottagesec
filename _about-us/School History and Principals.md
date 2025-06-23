@@ -18,7 +18,7 @@ variant: markdown
   <tbody>
     <tr style="background-color: #f9f9f9;">
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <img style="width: 80px; height: auto;" alt="Mr R. D. Jansen" src="/images/jansen.jpg">
+        <img style="width: 80px; height: auto;" alt="Mr R. D. Jansen" src="/images/swisscottageprincipals/1.rdjansen.jpg">
       </td>
       <td style="border: 1px solid #ddd; padding: 8px;">Mr R. D. Jansen</td>
       <td style="border: 1px solid #ddd; padding: 8px;">1962 – 1968</td>
