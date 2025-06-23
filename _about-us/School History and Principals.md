@@ -20,70 +20,64 @@ variant: markdown
       <td style="border: 1px solid #ddd; padding: 8px;">
 <img style="width: 80px; height: 100;" alt="Mr R. D. Jansen" src="/images/Swiss%20Cottage%20Principals/1__RD_Janson.png">
       </td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Mr R. D. Jansen</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Mr R. D. JANSEN</td>
       <td style="border: 1px solid #ddd; padding: 8px;">1962 – 1968</td>
     </tr>
     <tr style="background-color: #ffffff;">
       <td style="border: 1px solid #ddd; padding: 8px;">
-<img style="width: 80px; height: 100;" alt="Mr R. W. Mosbergen" src="/images/Swiss%20Cottage%20Principals/2__Mosbergen.png">
+<img style="width: 80px; height: 100;" alt="Mr R. W. Mosbergen" src="/images/Swiss%20Cottage%20Principals/2__mosbergen.png">
       </td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Mr R. W. Mosbergen</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Mr R. W. MOSBERGEN</td>
       <td style="border: 1px solid #ddd; padding: 8px;">1969 – 1975</td>
     </tr>
     <tr style="background-color: #f9f9f9;">
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <img style="width: 80px; height: auto;" alt="Mr Chow Kye Lock" src="/images/chow.jpg">
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Mr Chow Kye Lock</td>
+<img style="width: 80px; height: 100;" alt="Mr CHOW Kye Lock" src="/images/Swiss%20Cottage%20Principals/3__Chow_KL.png">
+      </td><td style="border: 1px solid #ddd; padding: 8px;">Mr CHOW Kye Lock</td>
       <td style="border: 1px solid #ddd; padding: 8px;">1976 – 1989</td>
     </tr>
     <tr style="background-color: #ffffff;">
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <img style="width: 80px; height: auto;" alt="Mr D. Natarajan" src="/images/natarajan.jpg">
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Mr D. Natarajan</td>
+<img style="width: 80px; height: 100;" alt="Mr Dorai Natarajan" src="/images/Swiss%20Cottage%20Principals/4__Natarajan.png">
+      </td><td style="border: 1px solid #ddd; padding: 8px;">Mr Dorai NATARAJAN</td>
       <td style="border: 1px solid #ddd; padding: 8px;">1989 – 1997</td>
     </tr>
     <tr style="background-color: #f9f9f9;">
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <img style="width: 80px; height: auto;" alt="Mr Gan Chee Hau" src="/images/gan.jpg">
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Mr Gan Chee Hau</td>
+       <img style="width: 80px; height: 100;" alt="Mr Gan Chee Hau" src="/images/Swiss%20Cottage%20Principals/5__Gan_Chee_Hau.png">
+      </td><td style="border: 1px solid #ddd; padding: 8px;">Mr GAN Chee Hau</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Aug 1997 – Dec 2002</td>
     </tr>
     <tr style="background-color: #ffffff;">
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <img style="width: 80px; height: auto;" alt="Ms Tay Lai Ling" src="/images/tay.jpg">
+       <img style="width: 80px; height: 100;" alt="Ms Tay Lai Ling" src="/images/Swiss%20Cottage%20Principals/6__Tay_LL.png">
       </td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Ms Tay Lai Ling</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Ms TAY Lai Ling</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Dec 2002 – Dec 2007</td>
     </tr>
     <tr style="background-color: #f9f9f9;">
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <img style="width: 80px; height: auto;" alt="Mr Liu Earnler" src="/images/liu.jpg">
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Mr Liu Earnler</td>
+       <img style="width: 80px; height: 100;" alt="Mr Liu Earnler" src="/images/Swiss%20Cottage%20Principals/7__Liu_Earnler.png">
+      </td><td style="border: 1px solid #ddd; padding: 8px;">Mr LIU Earnler</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Dec 2007 – Dec 2012</td>
     </tr>
     <tr style="background-color: #ffffff;">
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <img style="width: 80px; height: auto;" alt="Mr Heng Yew Seng" src="/images/heng.jpg">
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Mr Heng Yew Seng</td>
+       <img style="width: 80px; height: 100;" alt="Mr Heng Yew Seng" src="/images/Swiss%20Cottage%20Principals/8__Heng_YS.png">
+      </td><td style="border: 1px solid #ddd; padding: 8px;">Mr HENG Yew Seng</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Dec 2012 – Dec 2017</td>
     </tr>
     <tr style="background-color: #f9f9f9;">
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <img style="width: 80px; height: auto;" alt="Mr Sherwin Cheng" src="/images/cheng.jpg">
+               <img style="width: 80px; height: 100;" alt="Mr Cheng San Shian Sherwin" src="/images/Swiss%20Cottage%20Principals/9__Sherwin_Cheng.png">
       </td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Mr Sherwin Cheng</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Mr CHENG San Shian Sherwin</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Dec 2017 – Dec 2022</td>
     </tr>
     <tr style="background-color: #ffffff;">
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <img style="width: 80px; height: auto;" alt="Mdm Cheng Mun Yi Mandy" src="/images/mandy.jpg">
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Mdm Cheng Mun Yi Mandy</td>
+<img style="width: 80px; height: 100;" alt="Mdm Cheng Mun Yi Mandy" src="/images/Swiss%20Cottage%20Principals/10__Mandy_Cheng.png">
+      </td><td style="border: 1px solid #ddd; padding: 8px;">Mdm Cheng Mun Yi, Mandy</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Dec 2022 – Present</td>
     </tr>
   </tbody>
