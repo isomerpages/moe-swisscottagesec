@@ -18,14 +18,14 @@ variant: markdown
   <tbody>
     <tr style="background-color: #f9f9f9;">
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <img style="width: 80px; height: 100;" alt="Mr R. D. Jansen" src="/images//images/Swiss%20Cottage%20Principals/1__RD_Janson.png">
+<img style="width: 80px; height: 100;" alt="Mr R. D. Jansen" src="/images/Swiss%20Cottage%20Principals/1__RD_Janson.png">
       </td>
       <td style="border: 1px solid #ddd; padding: 8px;">Mr R. D. Jansen</td>
       <td style="border: 1px solid #ddd; padding: 8px;">1962 – 1968</td>
     </tr>
     <tr style="background-color: #ffffff;">
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <img style="width: 80px; height: auto;" alt="Mr R. W. Mosbergen" src="/images/mosbergen.jpg">
+<img style="width: 80px; height: 100;" alt="Mr R. W. Mosbergen" src="/images/Swiss%20Cottage%20Principals/2__Mosbergen.png">
       </td>
       <td style="border: 1px solid #ddd; padding: 8px;">Mr R. W. Mosbergen</td>
       <td style="border: 1px solid #ddd; padding: 8px;">1969 – 1975</td>
