@@ -7,7 +7,7 @@ variant: markdown
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tbody>
     <tr>
-      <td style="text-align: center; padding: 10px;" colspan="3">
+      <td style="padding: 10px; text-align: center;" colspan="3">
         <img style="width: 200px; height: auto;" src="/images/About us/School Advisory Committee/2025_sac_chairman.png"><br>
         <strong>School Advisory Committee Chairman</strong><br>
         Mr Nguyen Van Vang
@@ -37,12 +37,12 @@ variant: markdown
         Mr Elgin Goh
       </td>
       <td style="width: 33.33%; padding: 10px; text-align: center;">
-        <img style="width: 150px; height: auto;" src="/images/About us/School Advisory Committee/2025_sac_jamingan.png"><br>
+        <img style="width: 150px; height: auto;" alt="Mr Jamin Gan Wei En" src="/images/About us/School Advisory Committee/2025_sac_jamingan.png"><br>
         <strong>SAC Member</strong><br>
         Mr Jamin Gan Wei En
       </td>
       <td style="width: 33.33%; padding: 10px; text-align: center;">
-        <img style="width: 150px; height: auto;" src="/images/About us/School Advisory Committee/2025_sac_amandaloh.png"><br>
+        <img style="width: 150px; height: auto;" alt="Mdm Amanda Low Chew Ni" src="/images/About us/School Advisory Committee/2025_sac_amandaloh.png"><br>
         <strong>SAC Member</strong><br>
         Mdm Amanda Low Chew Ni
       </td>
