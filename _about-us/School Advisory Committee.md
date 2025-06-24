@@ -170,3 +170,62 @@ variant: markdown
 </table>
 <p></p>
 <p></p>
+
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <tbody><tr>
+    <td style="text-align: center; padding: 10px;" colspan="3">
+      <img style="width: 150px; height: auto;" alt="Mr Nguyen Van Vang" src="/images/your-path/Nguyen_Van_Vang.jpg"><br>
+      <strong>School Advisory Committee Chairman</strong><br>
+      Mr Nguyen Van Vang
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">
+      <img style="width: 150px; height: auto;" alt="Mr Sardar Aslam" src="/images/your-path/Sardar_Aslam.jpg"><br>
+      <strong>SAC Vice-Chairman</strong><br>
+      Mr Sardar Aslam
+    </td>
+    <td style="padding: 10px;">
+      <img style="width: 150px; height: auto;" alt="Mr Lim Cheng Puay" src="/images/your-path/Lim_Cheng_Puay.jpg"><br>
+      <strong>SAC Member</strong><br>
+      Mr Lim Cheng Puay
+    </td>
+    <td style="padding: 10px;">
+      <img style="width: 150px; height: auto;" alt="Mdm Lee Bee Gean Alice" src="/images/your-path/Lee_Bee_Gean.jpg"><br>
+      <strong>SAC Member</strong><br>
+      Mdm Lee Bee Gean Alice
+    </td>
+  </tr>
+    <tr><td style="padding: 10px;">
+      <img style="width: 150px; height: auto;" alt="Mr Sardar Aslam" src="/images/your-path/Sardar_Aslam.jpg"><br>
+      <strong>SAC Vice Chairman</strong><br>
+      Mr Sardar Aslam
+    </td>
+    <td style="padding: 10px;">
+      <img style="width: 150px; height: auto;" alt="Mr Lim Cheng Puay" src="/images/your-path/Lim_Cheng_Puay.jpg"><br>
+      <strong>SAC Member</strong><br>
+      Mr Lim Cheng Puay
+    </td>
+    <td style="padding: 10px;">
+      <img style="width: 150px; height: auto;" alt="Mdm Lee Bee Gean Alice" src="/images/your-path/Lee_Bee_Gean.jpg"><br>
+      <strong>SAC Member</strong><br>
+      Mdm Lee Bee Gean Alice
+    </td>
+  </tr>
+	    <tr><td style="padding: 10px;">
+      <img style="width: 150px; height: auto;" alt="Mr Sardar Aslam" src="/images/your-path/Sardar_Aslam.jpg"><br>
+      <strong>SAC Vice Chairman</strong><br>
+      Mr Sardar Aslam
+    </td>
+    <td style="padding: 10px;">
+      <img style="width: 150px; height: auto;" alt="Mr Lim Cheng Puay" src="/images/your-path/Lim_Cheng_Puay.jpg"><br>
+      <strong>SAC Member</strong><br>
+      Mr Lim Cheng Puay
+    </td>
+    <td style="padding: 10px;">
+      <img style="width: 150px; height: auto;" alt="Mdm Lee Bee Gean Alice" src="/images/your-path/Lee_Bee_Gean.jpg"><br>
+      <strong>SAC Member</strong><br>
+      Mdm Lee Bee Gean Alice
+    </td>
+  </tr>
+</tbody></table>
