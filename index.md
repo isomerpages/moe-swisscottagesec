@@ -2,7 +2,7 @@
 layout: homepage
 title: Swiss Cottage Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/school_logo.jpg
+image: /images/SCSS_Main_Logo__For_Normal_Use_Only_.jpg
 permalink: /
 notification: ""
 sections:
