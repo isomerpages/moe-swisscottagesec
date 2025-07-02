@@ -4,47 +4,86 @@ permalink: /about-us/school-management-committee/
 description: ""
 variant: markdown
 ---
-# School Management Committee
+<style>
+  table.smc-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+  }
 
+  table.smc-table th,
+  table.smc-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
 
-|  |  |  
-| --- | -------- | 
-|  PRINCIPAL |  CHENG MUN YI MANDY (MDM) |
-|  VICE-PRINCIPAL (ACADEMIC) |  TAN BOON PIANG (MR) |
-|  VICE-PRINCIPAL (ADMINISTRATION) |  LEK CHUN GUAN (MR) |
-|  SCHOOL STAFF DEVELOPER |  MINI D/O SATHIYA (MDM) |
-|  YEAR HEAD |  TAN ANNIE (MS) |
-|  YEAR HEAD |  TAN HAN CHONG TIMOTHY (MR) |
-|  ASSISTANT YEAR HEAD |  NG POH KEOW (MS) |
-|  ASSISTANT YEAR HEAD |  LIM JUNXUAN CHRISTOPHER (MR) |
-|  HEAD OF DEPARTMENT / CCE |  CHOK SHUK YIN (MDM) |
-|  HEAD OF DEPARTMENT / HUMANITIES |  TANG HUE SIM SERENE (MDM) |
-|  HEAD OF DEPARTMENT / MOTHER TONGUE LANGUAGES |  TOH HUI JING (MS) |
-|  HEAD OF DEPARTMENT / PHYSICAL EDUCATION & CCA |  TOH CHEE KEONG (MR) |
-|  HEAD OF DEPARTMENT / SCIENCE |  GOH WEIBIN (MR) |
-|  HEAD OF DEPARTMENT / CRAFT & TECHNOLOGY |  ONG CHING CHING (MDM) |
-|  HEAD OF DEPARTMENT / MATHEMATICS |  ANG HANPING (MR) |
-|  HEAD OF DEPARTMENT / ENGLISH LANGUAGE |  LIM WEE TENG JUNE (MDM) |
-|  HEAD OF DEPARTMENT / TECHNOLOGY FOR LEARNING |  WONG WAI KIONG TERENCE (MR) |
-|  HEAD OF DEPARTMENT / STUDENT MANAGEMENT |  ELIJAH CHAI TZE HOW (MR) |
-|  SUBJECT HEAD / MATHEMATICS |  POW TIAN SI ZOE (MDM) |
-|  SUBJECT HEAD / CCA |  SITTI AISHAH YUSOF (MDM) |
-|  SUBJECT HEAD (ACTING) / GEOGRAPHY |  WANG YI SHAN FAITH (MS) |
-|  SUBJECT HEAD / STUDENT LEADERSHIP |  CLEMENT TAN WEI XING (MR) |
-|  SUBJECT HEAD / ENGLISH LANGUAGE |  TAN JENG, GORDON (MR) |
-|  SUBJECT HEAD / APPLIED SCIENCE |  THOU REAKSMEY (MR) |
-|  SUBJECT HEAD  / STUDENT MANAGEMENT |  ALEX CHEW KOK CHUNG (MR) |
-|  SUBJECT HEAD / CRAFT & TECHNOLOGY |  KOH JOON TECK (MR) |
-|  SUBJECT HEAD (ACTING)/ STUDENT WELL-BEING |  LEE HONG YUN ERIC (MR) |
-|  SUBJECT HEAD / 21ST CC & ECG |  HENG TENG BOON (MR) |
-|  SUBJECT HEAD / EDTECH |  NEO CHENG WEE KENNETH (MR) |
-|  SUBJECT HEAD (ACTING) / MOTHER TONGUE LANGUAGES |TEO LEI XIN, ALVIENA (MS) |
-|  LEAD TEACHER / ENGLISH LANGUAGE |  TAN SU YIN CONSTANCE (MDM) |
-|  LEAD TEACHER / BIOLOGY |  JASON SEOW (MR) |
-|  LEAD TEACHER / TAMIL LANGUAGE |  ABDUL NASSER S/O T A MITTEN (MR) |
-|  SENIOR TEACHER/ CHINESE LANGUAGE |  XU YIPING (MDM) |
-|  SENIOR TEACHER / MATHEMATICS |  YEO KOON KOON (MS) |
-|  SENIOR TEACHER / LITERATURE |  HERINA BINTE ROSLIN (MS) |
-|  SENIOR TEACHER / MALAY LANGUAGE |  NOORHIDAYA BINTE ABDUL KARIM (MDM) |
-|  SENIOR TEACHER / CHEMISTRY |  TAN PUI SAN (MDM) |
-|  SENIOR TEACHER / ENGLISH LANGUAGE |  TAN MEE HAN (MS) |
+  table.smc-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+
+  table.smc-table tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+
+  table.smc-table th {
+    background-color: #e0e0e0;
+    text-align: left;
+  }
+
+  .year-head {
+    font-size: 0.95em;
+    font-weight: bold;
+    background-color: #ffd966;
+  }
+</style>
+
+<table class="smc-table">
+  <thead>
+    <tr>
+      <th>Designation</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <tr><td>Principal</td><td>Cheng Mun Yi Mandy (Mdm)</td></tr>
+    <tr><td>Vice-Principal (Academic)</td><td>Tan Boon Piang (Mr)</td></tr>
+    <tr><td>Vice-Principal (Administration)</td><td>Lek Chun Guan (Mr)</td></tr>
+    <tr><td>School Staff Developer</td><td>Mini D/O Sathiya (Mdm)</td></tr>
+    <tr><td>Year Head</td><td>Tan Annie (Ms)</td></tr>
+    <tr><td>Year Head</td><td>Tan Han Chong Timothy (Mr)</td></tr>
+    <tr><td>Assistant Year Head</td><td>Ng Poh Keow (Ms)</td></tr>
+    <tr><td>Assistant Year Head</td><td>Lim Junxuan Christopher (Mr)</td></tr>
+    <tr><td>Head of Department / CCE</td><td>Chok Shuk Yin (Mdm)</td></tr>
+    <tr><td>Head of Department / Humanities</td><td>Tang Hue Sim Serene (Mdm)</td></tr>
+    <tr><td>Head of Department / Mother Tongue Languages</td><td>Toh Hui Jing (Ms)</td></tr>
+    <tr><td>Head of Department / Physical Education &amp; CCA</td><td>Toh Chee Keong (Mr)</td></tr>
+    <tr><td>Head of Department / Science</td><td>Goh Weibin (Mr)</td></tr>
+    <tr><td>Head of Department / Craft &amp; Technology</td><td>Ong Ching Ching (Mdm)</td></tr>
+    <tr><td>Head of Department / Mathematics</td><td>Ang Hanping (Mr)</td></tr>
+    <tr><td>Head of Department / English Language</td><td>Lim Wee Teng June (Mdm)</td></tr>
+    <tr><td>Head of Department / Technology for Learning</td><td>Wong Wai Kiong Terence (Mr)</td></tr>
+    <tr><td>Head of Department / Student Management</td><td>Elijah Chai Tze How (Mr)</td></tr>
+    <tr><td>Subject Head / Mathematics</td><td>Pow Tian Si Zoe (Mdm)</td></tr>
+    <tr><td>Subject Head / CCA</td><td>Sitti Aishah Yusof (Mdm)</td></tr>
+    <tr><td>Subject Head (Acting) / Geography</td><td>Wang Yi Shan Faith (Ms)</td></tr>
+    <tr><td>Subject Head / Student Leadership</td><td>Clement Tan Wei Xing (Mr)</td></tr>
+    <tr><td>Subject Head / English Language</td><td>Tan Jeng, Gordon (Mr)</td></tr>
+    <tr><td>Subject Head / Applied Science</td><td>Thou Reaksmey (Mr)</td></tr>
+    <tr><td>Subject Head / Student Management</td><td>Alex Chew Kok Chung (Mr)</td></tr>
+    <tr><td>Subject Head / Craft &amp; Technology</td><td>Koh Joon Teck (Mr)</td></tr>
+    <tr><td>Subject Head (Acting) / Student Well-Being</td><td>Lee Hong Yun Eric (Mr)</td></tr>
+    <tr><td>Subject Head / 21st CC &amp; ECG</td><td>Heng Teng Boon (Mr)</td></tr>
+    <tr><td>Subject Head / EdTech</td><td>Kenneth Neo (Mr)</td></tr>
+    <tr><td>Subject Head (Acting) / Mother Tongue Languages</td><td>Teo Lei Xin, Alviena (Ms)</td></tr>
+    <tr><td>Lead Teacher / English Language</td><td>Tan Su Yin Constance (Mdm)</td></tr>
+    <tr><td>Lead Teacher / Biology</td><td>Jason Seow (Mr)</td></tr>
+    <tr><td>Lead Teacher / Tamil Language</td><td>Abdul Nasser S/O T A Mitten (Mr)</td></tr>
+    <tr><td>Senior Teacher / Chinese Language</td><td>Xu Yiping (Mdm)</td></tr>
+    <tr><td>Senior Teacher / Mathematics</td><td>Yeo Koon Koon (Ms)</td></tr>
+    <tr><td>Senior Teacher / Literature</td><td>Herina Binte Roslin (Ms)</td></tr>
+    <tr><td>Senior Teacher / Malay Language</td><td>Noorhidaya Binte Abdul Karim (Mdm)</td></tr>
+    <tr><td>Senior Teacher / Chemistry</td><td>Tan Pui San (Mdm)</td></tr>
+    <tr><td>Senior Teacher / English Language</td><td>Tan Mee Han (Ms)</td></tr>
+  </tbody>
+</table>
