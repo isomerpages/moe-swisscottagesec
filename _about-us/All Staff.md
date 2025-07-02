@@ -8,25 +8,27 @@ variant: markdown
 <p><strong><u>YEAR HEADS AND FORM TEACHERS 2025</u></strong>
 </p>
 <style>
-  table.teacher-table {
+  table.staff-table {
     width: 100%;
     border-collapse: collapse;
+    border: 1px solid #ddd; /* ensures visible full-frame */
   }
 
-  table.teacher-table th, table.teacher-table td {
+  table.staff-table th,
+  table.staff-table td {
     border: 1px solid #ddd;
     padding: 8px;
   }
 
-  table.teacher-table tr:nth-child(even) {
+  table.staff-table tr:nth-child(even) {
     background-color: #f9f9f9;
   }
 
-  table.teacher-table tr:nth-child(odd) {
+  table.staff-table tr:nth-child(odd) {
     background-color: #ffffff;
   }
 
-  table.teacher-table th {
+  table.staff-table th {
     background-color: #e0e0e0;
     text-align: left;
   }
@@ -37,6 +39,7 @@ variant: markdown
     background-color: #ffd966;
   }
 </style>
+
 
 <table class="teacher-table">
   <thead>
