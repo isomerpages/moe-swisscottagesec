@@ -14,21 +14,20 @@ variant: markdown
     border: 1px solid #ddd; /* ensures visible full-frame */
   }
 
-  table.staff-table th,
-  table.staff-table td {
+  table.teacher-table th, table.teacher-table td {
     border: 1px solid #ddd;
     padding: 8px;
   }
 
-  table.staff-table tr:nth-child(even) {
+  table.teacher-table tr:nth-child(even) {
     background-color: #f9f9f9;
   }
 
-  table.staff-table tr:nth-child(odd) {
+  table.teacher-table tr:nth-child(odd) {
     background-color: #ffffff;
   }
 
-  table.staff-table th {
+  table.teacher-table th {
     background-color: #e0e0e0;
     text-align: left;
   }
@@ -39,7 +38,6 @@ variant: markdown
     background-color: #ffd966;
   }
 </style>
-
 
 <table class="teacher-table">
   <thead>
