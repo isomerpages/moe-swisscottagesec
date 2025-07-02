@@ -49,7 +49,7 @@ variant: markdown
     <tr><td>Principal</td><td>Cheng Mun Yi Mandy (Mdm)</td></tr>
     <tr><td>Vice-Principal (Academic)</td><td>Tan Boon Piang (Mr)</td></tr>
     <tr><td>Vice-Principal (Administration)</td><td>Lek Chun Guan (Mr)</td></tr>
-    <tr><td>School Staff Developer</td><td>Mini D/O Sathiya (Mdm)</td></tr>
+    <tr><td>School Staff Developer</td><td>Mini D/O Sathiya Sidhan(Mdm)</td></tr>
     <tr><td>Year Head</td><td>Tan Annie (Ms)</td></tr>
     <tr><td>Year Head</td><td>Tan Han Chong Timothy (Mr)</td></tr>
     <tr><td>Assistant Year Head</td><td>Ng Poh Keow (Ms)</td></tr>
@@ -68,11 +68,11 @@ variant: markdown
     <tr><td>Head of Department / Technology for Learning</td><td>Wong Wai Kiong Terence (Mr)</td></tr>
 
     
-    <tr><td>Subject Head / 21st CC &amp; ECG</td><td>Heng Teng Boon (Mr)</td></tr>
+    <tr><td>Subject Head / E21CC &amp; ECG</td><td>Heng Teng Boon (Mr)</td></tr>
     <tr><td>Subject Head / Applied Science</td><td>Thou Reaksmey (Mr)</td></tr>
-    <tr><td>Subject Head / CCA</td><td>Sitti Aishah Yusof (Mdm)</td></tr>
+    <tr><td>Subject Head / Co-Curricular Activities</td><td>Sitti Aishah Yusof (Mdm)</td></tr>
     <tr><td>Subject Head / Craft &amp; Technology</td><td>Koh Joon Teck (Mr)</td></tr>
-    <tr><td>Subject Head / EdTech</td><td>Neo Cheng Wee Kenneth (Mr)</td></tr>
+    <tr><td>Subject Head / Educational Technology</td><td>Kenneth Neo (Mr)</td></tr>
     <tr><td>Subject Head / English Language</td><td>Tan Jeng, Gordon (Mr)</td></tr>
     <tr><td>Subject Head / Geography (Acting)</td><td>Wang Yi Shan Faith (Ms)</td></tr>
     <tr><td>Subject Head / Mathematics</td><td>Pow Tian Si Zoe (Mdm)</td></tr>
