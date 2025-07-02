@@ -145,10 +145,10 @@ variant: markdown
     <tr><td>Puspalatha D/O Chandrasagaran (Mdm)</td><td>Operations Support Officer</td></tr>
     <tr><td>Kan Pak Leong (Mr)</td><td>Operations Support Officer</td></tr>
     <tr><td>Ho Siew Wei (Ms)</td><td>Operations Support Officer</td></tr>
-    <tr><td>Wong Kwai Hoong (Mdm)</td><td>Library Assistant</td></tr>
-    <tr><td>Lam Weng Kwan Alan (Mr)</td><td>Desktop Engineer (NCS)</td></tr>
+    <tr><td>Wong Kwai Hoong (Mdm)</td><td>Operations Support Officer</td></tr>
+    <tr><td>Lam Weng Kwan Alan (Mr)</td><td>Library Assistant</td></tr>
     <tr><td>Izzat Amirul (Mr)</td><td>Desktop Engineer (NCS)</td></tr>
-    <tr><td>Gokila Nagarajan @ Manivannan Gokila (Mrs)</td><td>Kitchen Assistant</td></tr>
+    <tr><td>Gokila Nagarajan @ Manivannan Gokila (Mrs)</td><td>Desktop Engineer (NCS)</td></tr>
     <tr><td>Kahyati Bte Sapuan (Mdm)</td><td>Kitchen Assistant</td></tr>
   </tbody>
 </table></p>
