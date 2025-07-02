@@ -91,18 +91,49 @@ variant: markdown
   </tbody>
 </table>
 <p><strong><u>ADJUNCT STAFF</u></strong>
+<style>
+  table.staff-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  table.staff-table th,
+  table.staff-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  table.staff-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+
+  table.staff-table tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+
+  table.staff-table th {
+    background-color: #e0e0e0;
+    text-align: left;
+  }
+
+  .year-head {
+    font-size: 0.95em;
+    font-weight: bold;
+    background-color: #ffd966;
+  }
+</style>
 <table class="staff-table">
   <thead>
     <tr>
       <th>Name</th>
-      <th>Subject / Department</th>
+      <th>Subjects</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td>See To Chee Choong (Mdm)</td><td>Chemistry</td></tr>
+    <tr><td>Seeto Chee Chong (Mdm)</td><td>Chemistry</td></tr>
     <tr><td>Wang Li Hong (Ms)</td><td>Chinese Language</td></tr>
     <tr><td>Cao Yang (Ms)</td><td>Chinese Language</td></tr>
-    <tr><td>Tan Yong Huat (Mr)</td><td>D&amp;T</td></tr>
+    <tr><td>Tan Yong Huat (Mr)</td><td>Design and Technology</td></tr>
     <tr><td>Tan Wei Si Stella (Ms)</td><td>English</td></tr>
     <tr><td>Lim Su-Fern (Ms)</td><td>Humanities</td></tr>
     <tr><td>Lai Kuok Liang (Mr)</td><td>Humanities</td></tr>
@@ -111,23 +142,26 @@ variant: markdown
     <tr><td>Goh Shi Le Priscilla (Ms)</td><td>Physical Education</td></tr>
     <tr><td>Wee Ai Jee (Mdm)</td><td>Physics</td></tr>
     <tr><td>Chew Kim Eng (Mdm)</td><td>Science</td></tr>
+    <tr><td>Ma Chung Wai (Mr)</td><td>Science</td></tr>
     <tr><td>Kaliee Muthu Silvi (Mdm)</td><td>Tamil Language</td></tr>
-    <tr><td>Wong Yin Kew (Mr)</td><td>D&amp;T and CPA</td></tr>
-  </tbody>
+    <tr><td>Wong Yin Kew (Mr)</td><td>Design and Technology, Computer Applications</td></tr>
+		  </tbody>
 </table>
-		</p><p><strong><u>EXECUTIVE AND ADMINISTRATIVE STAFF</u></strong>
+
+</p><p><strong><u>EXECUTIVE AND ADMINISTRATIVE STAFF</u></strong>
+</p>
 <table class="staff-table">
   <thead>
     <tr>
       <th>Name</th>
-      <th>Subject / Department</th>
+      <th>Designation</th>
     </tr>
   </thead>
   <tbody>
     <tr><td>R Mahalakshimi (Ms)</td><td>Administration Manager</td></tr>
     <tr><td>Koo Hong Kee (Mr)</td><td>Operations Manager 1</td></tr>
     <tr><td>Chua Heng Heng (Mr)</td><td>Operations Manager 2</td></tr>
-    <tr><td>Radiyana Haron (Ms)</td><td>ICT Manager</td></tr>
+    <tr><td>Radiyana Haron (Ms)</td><td>Infocomm and Technology (ICT) Manager</td></tr>
     <tr><td>Phang Jia Wen (Ms)</td><td>Senior School Counsellor</td></tr>
     <tr><td>Sharlene Tan Lee Woon (Ms)</td><td>Special Educational Needs Officer</td></tr>
     <tr><td>Lim Siew Ling (Mdm)</td><td>Administration Executive</td></tr>
@@ -151,4 +185,4 @@ variant: markdown
     <tr><td>Gokila Nagarajan @ Manivannan Gokila (Mrs)</td><td>Desktop Engineer (NCS)</td></tr>
     <tr><td>Kahyati Bte Sapuan (Mdm)</td><td>Kitchen Assistant</td></tr>
   </tbody>
-</table></p>
+</table>
