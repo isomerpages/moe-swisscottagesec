@@ -144,421 +144,89 @@ variant: markdown
   </tbody>
 </table>
 
+<style>
+  table.staff-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
 
+  table.staff-table th, table.staff-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
 
+  table.staff-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
 
+  table.staff-table tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
 
-<p><strong><u>ADJUNCT TEACHERS</u></strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Subject</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEETO CHEE CHONG (MDM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHEMISTRY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WANG LI HONG (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHINESE LANGUAGE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CAO YANG (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHINESE LANGUAGE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TAN YONG HUAT (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>D&amp;T</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TAN WEI SI STELLA (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LIM SU-FERN (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HUMANITIES</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LAI KUOK LIANG (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HUMANITIES</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HENG KEE KIAT (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MATHEMATICS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ONG LAY KWAN (MDM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MATHEMATICS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>GOH SHI LE PRISCILLA (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PHYSICAL EDUCATION</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WEE AI JEE (MDM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PHYSICS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHEW KIM ENG (MDM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCIENCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA CHUNG WAI (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCIENCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>KALIEE MUTHU SILVI (MDM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TAMIL LANGUAGE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WONG YIN KEW (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>D&amp;T AND CPA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
+  table.staff-table th {
+    background-color: #e0e0e0;
+    text-align: left;
+  }
+
+  .section-head {
+    font-size: 0.95em;
+    font-weight: bold;
+    background-color: #ffd966;
+  }
+</style>
+
+<table class="staff-table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Subject / Department</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="section-head"><td colspan="2">Teaching Staff</td></tr>
+    <tr><td>Seeto Chee Chong (Mdm)</td><td>Chemistry</td></tr>
+    <tr><td>Wang Li Hong (Ms)</td><td>Chinese Language</td></tr>
+    <tr><td>Cao Yang (Ms)</td><td>Chinese Language</td></tr>
+    <tr><td>Tan Yong Huat (Mr)</td><td>D&amp;T</td></tr>
+    <tr><td>Tan Wei Si Stella (Ms)</td><td>English</td></tr>
+    <tr><td>Lim Su-Fern (Ms)</td><td>Humanities</td></tr>
+    <tr><td>Lai Kuok Liang (Mr)</td><td>Humanities</td></tr>
+    <tr><td>Heng Kee Kiat (Mr)</td><td>Mathematics</td></tr>
+    <tr><td>Ong Lay Kwan (Mdm)</td><td>Mathematics</td></tr>
+    <tr><td>Goh Shi Le Priscilla (Ms)</td><td>Physical Education</td></tr>
+    <tr><td>Wee Ai Jee (Mdm)</td><td>Physics</td></tr>
+    <tr><td>Chew Kim Eng (Mdm)</td><td>Science</td></tr>
+    <tr><td>Kaliee Muthu Silvi (Mdm)</td><td>Tamil Language</td></tr>
+    <tr><td>Wong Yin Kew (Mr)</td><td>D&amp;T and CPA</td></tr>
+
+    <tr class="section-head"><td colspan="2">Executive and Administrative Staff</td></tr>
+    <tr><td>R Mahalakshimi (Ms)</td><td>Administration Manager</td></tr>
+    <tr><td>Koo Hong Kee (Mr)</td><td>Operations Manager 1</td></tr>
+    <tr><td>Chua Heng Heng (Mr)</td><td>Operations Manager 2</td></tr>
+    <tr><td>Radiyana Haron (Ms)</td><td>ICT Manager</td></tr>
+    <tr><td>Phang Jia Wen (Ms)</td><td>Senior School Counsellor</td></tr>
+    <tr><td>Sharlene Tan Lee Woon (Ms)</td><td>Special Educational Needs Officer</td></tr>
+    <tr><td>Lim Siew Ling (Mdm)</td><td>Administration Executive</td></tr>
+    <tr><td>Ong Poh Choo Rachel (Mdm)</td><td>Corporate Support Officer</td></tr>
+    <tr><td>Norsimah Binte Aman (Mdm)</td><td>Corporate Support Officer</td></tr>
+    <tr><td>Soraya Binte Puteh (Mdm)</td><td>Corporate Support Officer</td></tr>
+    <tr><td>Sharifa Ammal D/O Kassim Mohamed</td><td>Corporate Support Officer</td></tr>
+    <tr><td>Chua Soo Chuan (Mr)</td><td>Educational Workshop Instructor</td></tr>
+    <tr><td>S. Rozaini Bin Yusoff (Mr)</td><td>Educational Workshop Instructor</td></tr>
+    <tr><td>Nur Bazilah Binte Abdul Majid (Ms)</td><td>Laboratory Technician</td></tr>
+    <tr><td>Arafah Binte Rezlan (Ms)</td><td>Laboratory Technician</td></tr>
+    <tr><td>Suriakumari D/O Singaravelu (Mdm)</td><td>Operations Support Officer</td></tr>
+    <tr><td>Rajenthiran S/O Andy (Mr)</td><td>Operations Support Officer</td></tr>
+    <tr><td>Salmah Binte Omar (Mdm)</td><td>Operations Support Officer</td></tr>
+    <tr><td>Puspalatha D/O Chandrasagaran (Mdm)</td><td>Operations Support Officer</td></tr>
+    <tr><td>Kan Pak Leong (Mr)</td><td>Operations Support Officer</td></tr>
+    <tr><td>Ho Siew Wei (Ms)</td><td>Operations Support Officer</td></tr>
+    <tr><td>Wong Kwai Hoong (Mdm)</td><td>Library Assistant</td></tr>
+    <tr><td>Lam Weng Kwan Alan (Mr)</td><td>Desktop Engineer (NCS)</td></tr>
+    <tr><td>Izzat Amirul (Mr)</td><td>Desktop Engineer (NCS)</td></tr>
+    <tr><td>Gokila Nagarajan @ Manivannan Gokila (Mrs)</td><td>Kitchen Assistant</td></tr>
+    <tr><td>Kahyati Bte Sapuan (Mdm)</td><td>Kitchen Assistant</td></tr>
+  </tbody>
 </table>
-<p><strong><u>EXECUTIVE AND ADMINSTRATIVE STAFF</u></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ADMINISTRATION / FINANCE MANAGER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>R MAHALAKSHIMI (MS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OPERATIONS MANAGER 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KOO HONG KEE (MR)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OPERATIONS MANAGER 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHUA HENG HENG (MR)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT MANAGER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RADIYANA HARON (MS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SCHOOL COUNSELLOR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PHANG JIA WEN (MS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SPECIAL EDUCATIONAL NEEDS OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SHARLENE TAN LEE WOON (MS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ADMINISTRATION EXECUTIVE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LIM SIEW LING (MDM)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CORPORATE SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ONG POH CHOO RACHEL (MDM)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CORPORATE SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NORSIMAH BINTE AMAN (MDM)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CORPORATE SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SORAYA BINTE PUTEH (MDM)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CORPORATE SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SHARIFA AMMAL D/O KASSIM MOHAMED</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EDUCATIONAL WORKSHOP INSTRUCTOR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHUA SOO CHUAN (MR)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EDUCATIONAL WORKSHOP INSTRUCTOR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S. ROZAINI BIN YUSOFF (MR)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LABORATORY TECHNICIAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUR BAZILAH BINTE ABDUL MAJID (MS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LABORATORY TECHNICIAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ARAFAH BINTE REZLAN (MS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OPERATIONS SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SURIAKUMARI D/O SINGARAVELU (MDM)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OPERATIONS SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RAJENTHIRAN S/O ANDY (MR)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OPERATIONS SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SALMAH BINTE OMAR (MDM)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OPERATIONS SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PUSPALATHA D/O CHANDRASAGARAN (MDM)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OPERATIONS SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KAN PAK LEONG (MR)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OPERATIONS SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HO SIEW WEI (MS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OPERATIONS SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>WONG KWAI HOONG (MDM)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LIBRARY ASSISTANT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LAM WENG KWAN ALAN (MR)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DESKTOP ENGINEER (NCS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>IZZAT AMIRUL (MR)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DESKTOP ENGINEER (NCS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GOKILA NAGARAJAN @ MANIVANNAN GOKILA (MRS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>KITCHEN ASSISTANT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KAHYATI BTE SAPUAN (MDM)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+
+
