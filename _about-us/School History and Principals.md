@@ -92,7 +92,6 @@ variant: markdown
 
 
 
-###  History
 
 <img src="/images/About%20us/history%20final.jpg" style="width:50%;float:left;padding:20px">
 
