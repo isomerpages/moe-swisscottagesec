@@ -6,7 +6,7 @@ variant: markdown
 ---
 # School Crest &amp; School Song
 <h1 style="color: #077c85 !important; font-size: 2em; font-weight: bold;">
-  The Swiss Cottage School Crest
+  The Swiss Cottage Secondary School Crest
 </h1>
 <p>
 <img style="width: 250px; height: auto;" alt="Swiss Cottage Secondary School Logo" src="/images/SCSS_Main_Logo__For_Normal_Use_Only_.jpg">
