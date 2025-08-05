@@ -143,7 +143,7 @@ variant: markdown
     <tr><td>Goh Shi Le Priscilla (Ms)</td><td>Physical Education</td></tr>
     <tr><td>Wee Ai Jee (Mdm)</td><td>Physics</td></tr>
     <tr><td>Chew Kim Eng (Mdm)</td><td>Science</td></tr>
-    <tr><td>Ma Chung Wai (Mr)</td><td>Science</td></tr>
+    <tr><td>Ng Kok Hin (Mr)</td><td>Science</td></tr>
     <tr><td>Kaliee Muthu Silvi (Mdm)</td><td>Tamil Language</td></tr>
     <tr><td>Wong Yin Kew (Mr)</td><td>Design and Technology, Computer Applications</td></tr>
 		  </tbody>
