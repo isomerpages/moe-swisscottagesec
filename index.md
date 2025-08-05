@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_Swiss_Banner.jpg
+      background: /images/Homepage Banner/2025_Speech_Day_Banner.jpg
       variant: floating
       backgroundColor: gray
       alignment: right
