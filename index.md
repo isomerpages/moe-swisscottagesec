@@ -14,10 +14,6 @@ sections:
       title: Speech Day Awards Ceremony 2025
       size: sm
       subtitle: 8 August 2025 | Friday |  0915 - 1115h
-      key_highlights:
-        - title: 2025 DSA eSession Webinar DEtails
-          description: ""
-          url: /dsa-information-esession/
       button: YouTube Livestream
       url: https://youtube.com/live/R5FKjkY1Uso?feature=share
   - infobar:
