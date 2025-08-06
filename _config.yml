@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d14gf2auxmtwas.amplifyapp.com
 prod: https://master.d14gf2auxmtwas.amplifyapp.com
-shareicon: /images/SCSS_Main_Logo__For_Normal_Use_Only_.jpg
+shareicon: /images/school_logo.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
