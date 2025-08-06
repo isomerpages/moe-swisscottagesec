@@ -7,15 +7,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage Banner/2025_Speech_Day_Banner.jpg
+      background: /images/Homepage Banner/Untitled_design.png
       variant: floating
       backgroundColor: gray
-      alignment: right
+      alignment: left
       title: Speech Day Awards Ceremony 2025
       size: sm
       subtitle: 8 August 2025 | Friday |  0915 - 1115h
       button: YouTube Livestream
-      url: https://youtube.com/live/R5FKjkY1Uso?feature=share
+      url: https://go.gov.sg/swiss62
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
       description: Swiss Cottage is committed in delivering a comprehensive and
