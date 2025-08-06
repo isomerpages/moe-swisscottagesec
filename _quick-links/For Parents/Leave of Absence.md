@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p><a href="https://form.gov.sg/60b99f0b5cc3410012909dbe" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence (LOA)</a>
+<p><a href="https://go.gov.sg/loa-scss" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence (LOA)</a>
 </p>
