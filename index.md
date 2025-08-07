@@ -7,17 +7,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_Swiss_Banner.jpg
+      background: /images/Homepage Banner/Untitled_design.png
       variant: floating
       backgroundColor: gray
-      alignment: right
-      title: 2025 DSA eSession
+      alignment: left
+      title: Speech Day Awards Ceremony 2025
       size: sm
-      subtitle: Saturday 17 May 2025             9am to 1130am
-      key_highlights:
-        - title: 2025 DSA eSession Webinar DEtails
-          description: ""
-          url: /dsa-information-esession/
+      subtitle: 8 August 2025 | Friday |  0915 - 1115h
+      button: YouTube Livestream
+      url: https://go.gov.sg/swiss62
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
       description: Swiss Cottage is committed in delivering a comprehensive and

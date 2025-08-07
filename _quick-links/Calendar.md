@@ -173,6 +173,17 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>EOY Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25/9 to 08/10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>HBL Day #14</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,7 +192,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N Level Exam Phase 2 (Written)</p>
@@ -192,7 +203,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>O Level Exam (Written)</p>
@@ -203,7 +214,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marking Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HBL Day #15</p>
@@ -214,7 +236,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>21</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deepavali</p>
@@ -225,7 +247,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WeGrow Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27/10 – 29/10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 Camp</p>
@@ -236,7 +269,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21</p>
+<p>24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Last Day of school</p>
@@ -247,7 +280,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Horizon Trip</p>
@@ -258,29 +291,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23</p>
+<p>26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SC Camp</p>
+<p>Secondary 3 lessons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17/11 – 18/11</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCC Annual Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20/11 – 21/11</p>
+<p>10/11 to 13/11 (mornings only)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25</p>
+<p>27</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Christmas Day</p>
@@ -291,7 +313,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4></h4>
+<p></p>
+<p></p>
 <p></p>
 <h4></h4>
 <p></p>

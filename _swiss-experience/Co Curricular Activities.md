@@ -2,7 +2,7 @@
 title: Co Curricular Activities
 permalink: /swiss-experience/co-curricular-activities/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h1><strong>Co-Curricular Activities Programme</strong></h1>
 <p>
@@ -55,32 +55,74 @@ one CCA throughout their education in Swiss Cottage.&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badminton (Girls)
-<br>Basketball
-<br>Floorball
-<br>Soccer (Boys)
-<br>Tenpin Bowling (Boys)</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Badminton (Girls)</p>
+</li>
+<li>
+<p>Basketball</p>
+</li>
+<li>
+<p>Floorball</p>
+</li>
+<li>
+<p>Soccer (Boys)</p>
+</li>
+<li>
+<p>Tenpin Bowling (Boys)</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys' Brigade
-<br>NCC (Air)</p>
-<p>NCDCC
-<br>NPCC (Boys)
-<br>Scouts</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Boys' Brigade</p>
+</li>
+<li>
+<p>National Cadet Corps (Air)</p>
+</li>
+<li>
+<p>National Civil Defence Cadet Corps</p>
+</li>
+<li>
+<p>National Police Cadet Corps (Boys)</p>
+</li>
+<li>
+<p>Scouts</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Orchestra
-<br>Show Choir
-<br>Swiss Dance
-<br>Drama</p>
-<p>NCC Command Band</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Chinese Orchestra</p>
+</li>
+<li>
+<p>Show Choir</p>
+</li>
+<li>
+<p>Swiss Dance</p>
+</li>
+<li>
+<p>Drama</p>
+</li>
+<li>
+<p>The Singapore NCC Command Band (Military Band)</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Publications and Media Club
-<br>Science &amp; Technology
+<ol data-tight="true" class="tight">
+<li>
+<p>Publications and Media Club</p>
+</li>
+<li>
+<p>Science &amp; Technology Club
 <br>
 <br>
 </p>
+</li>
+</ol>
 </td>
 </tr>
 </tbody>
@@ -409,12 +451,12 @@ on interest / ability and not on the points awarded.&nbsp;
 <p>5</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>NCC Command Band</p>
+<p>Singapore NCC Command Band (Military Band)</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
-<p>Fri (odd)</p>
+<p>Fri (odd weeks)</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>
