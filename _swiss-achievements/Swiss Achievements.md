@@ -70,7 +70,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Scouts</strong>
 </p>
 </td>
@@ -80,6 +80,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Awarded for 2024
 <br>(announced in 2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chief Scout’s Award (Scout)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aaron Varghese Siby</p>
+<p>Kirsten Leong</p>
+<p>Mehnaz Begum</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +129,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Floorball</strong>
 </p>
 </td>
@@ -132,6 +142,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>C Div Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG National Championship – National Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>B Div Boys</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,6 +158,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>C Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG National Championship – National Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Badminton</strong>
 </p>
 </td>
@@ -153,7 +179,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>C Div Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Nationals – Top 15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
 <p><strong>Basketball</strong>
 </p>
 </td>
@@ -162,6 +196,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>NSG West Zone – 4<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Nationals – 8<sup>th</sup>
 </p>
 </td>
 </tr>
@@ -176,6 +219,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>C Div Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Nationals – 1<sup>st</sup> Runner-Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Bowling</strong>
 </p>
 </td>
@@ -184,6 +235,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall 6<sup>th</sup> placing for school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overall National 3<sup>rd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -207,6 +267,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Choir</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Drama</strong>
 </p>
 </td>
@@ -216,11 +285,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Modern Dance</strong>
+<p><strong>Dance</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SYF Distinction (International Dance category)</p>
+<p>SYF Distinction</p>
 </td>
 </tr>
 <tr>
@@ -232,15 +301,28 @@ variant: tiptap
 <p>SYF Accomplishment (Percussion category)</p>
 </td>
 </tr>
+</tbody>
+</table>
+<p><strong>On the Clubs Front (2025)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Swiss Show Choir</strong>
+<p><strong>Science &amp; Technology Club</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SYF Accomplishment</p>
+<p>National Youth Tech Championship – 3<sup>rd</sup>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p><strong>&nbsp;</strong>
+</p>
