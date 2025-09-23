@@ -176,7 +176,7 @@ variant: tiptap
 <p>EOY Examinations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25/9 to 08/10</p>
+<p>22/9 to 03/10</p>
 </td>
 </tr>
 <tr>
@@ -184,10 +184,10 @@ variant: tiptap
 <p>16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day #14</p>
+<p>Marking Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26/9</p>
+<p>6/10</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +195,7 @@ variant: tiptap
 <p>17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day #15</p>
+<p>HBL Day #14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7/10</p>
@@ -228,17 +228,6 @@ variant: tiptap
 <p>20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marking Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9/10</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Deepavali</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,7 +236,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>21</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WeGrow Programme</p>
@@ -258,7 +247,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23</p>
+<p>22</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 Camp</p>
@@ -269,7 +258,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24</p>
+<p>23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Last Day of school</p>
@@ -280,7 +269,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25</p>
+<p>24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Horizon Trip</p>
@@ -291,7 +280,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26</p>
+<p>25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secondary 3 lessons</p>
@@ -302,7 +291,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27</p>
+<p>26</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Christmas Day</p>
