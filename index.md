@@ -12,7 +12,7 @@ sections:
       backgroundColor: gray
       alignment: left
       title: e-Open House Microsite 2025
-      size: sm
+      size: md
       button: eNTER hERE
       url: https://go.gov.sg/scss-openhouse2025
       subtitle: Explore our distinctive programmes, hear from our students and
