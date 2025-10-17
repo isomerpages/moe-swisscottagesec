@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_Open_House_2025_VerA.jpg
+      background: /images/Banner_Open_House_2025_VerB.jpg
       variant: floating
       backgroundColor: gray
       alignment: left
