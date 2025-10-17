@@ -7,26 +7,17 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage Banner/Untitled_design.png
-      variant: floating
+      background: /images/Banner_Open_House_2025_VerC.jpg
+      variant: side
       backgroundColor: gray
       alignment: left
-      title: Speech Day Awards Ceremony 2025
-      size: sm
-      subtitle: 8 August 2025 | Friday |  0915 - 1115h
-      button: YouTube Livestream
-      url: https://go.gov.sg/swiss62
-  - infopic:
-      title: e-Open House
-      subtitle: "2025"
-      id: infopic
-      description: Explore our distinctive programmes, hear from our students and
+      title: e-Open House Microsite 2025
+      size: md
+      button: eNTER hERE
+      url: https://go.gov.sg/scss-openhouse2025
+      subtitle: Explore our distinctive programmes, hear from our students and
         teachers, and experience how we live out our culture of “Serve with
         Honour, Lead with Humility.”
-      button: e-Open House Microsite
-      url: https://sites.google.com/moe.edu.sg/open-house/welcome-message
-      image: /images/Homepage Banner/8_019A0260.jpg
-      alt: Image alt text
   - infopic:
       title: School Virtual Tour
       subtitle: "2025"
