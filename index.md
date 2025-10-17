@@ -16,6 +16,28 @@ sections:
       subtitle: 8 August 2025 | Friday |  0915 - 1115h
       button: YouTube Livestream
       url: https://go.gov.sg/swiss62
+  - infopic:
+      title: e-Open House
+      subtitle: "2025"
+      id: infopic
+      description: Explore our distinctive programmes, hear from our students and
+        teachers, and experience how we live out our culture of “Serve with
+        Honour, Lead with Humility.”
+      button: e-Open House Microsite
+      url: https://sites.google.com/moe.edu.sg/open-house/welcome-message
+      image: /images/Homepage Banner/8_019A0260.jpg
+      alt: Image alt text
+  - infopic:
+      title: School Virtual Tour
+      subtitle: "2025"
+      id: infopic
+      description: Step into Swiss Cottage from wherever you are! Explore our learning
+        spaces, specialised facilities, and vibrant student life through our
+        virtual tour.
+      button: Swiss Cottage VIRTUAL TOUR
+      url: https://360.theredmarker.com/F1WBCpVSJp
+      image: /images/Homepage Banner/Birds_Eye_View_Swiss.jpg
+      alt: Image alt text
   - infobar:
       title: INSTRUCTIONAL PROGRAMME
       description: Swiss Cottage is committed in delivering a comprehensive and
