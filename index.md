@@ -11,10 +11,11 @@ sections:
       variant: floating
       backgroundColor: gray
       alignment: left
-      title: e-Open House Microsite
+      title: Speech Day Awards Ceremony 2025
       size: sm
-      button: Enter here
-      url: https://go.gov.sg/scss-openhouse2025
+      subtitle: 8 August 2025 | Friday |  0915 - 1115h
+      button: YouTube Livestream
+      url: https://go.gov.sg/swiss62
   - infopic:
       title: e-Open House
       subtitle: "2025"
