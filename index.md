@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Banner_Open_House_2025_VerB.jpg
-      variant: floating
+      variant: side
       backgroundColor: gray
       alignment: left
       title: e-Open House Microsite 2025
