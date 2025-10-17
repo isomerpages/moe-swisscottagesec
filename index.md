@@ -7,25 +7,17 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_Swiss_Banner.jpg
+      background: /images/Banner_Open_House_2025.jpg
       variant: floating
       backgroundColor: gray
       alignment: left
-      title: e-Open House 2025
+      title: e-Open House Microsite 2025
       size: sm
       button: eNTER hERE
       url: https://go.gov.sg/scss-openhouse2025
-  - infopic:
-      title: e-Open House
-      subtitle: "2025"
-      id: infopic
-      description: Explore our distinctive programmes, hear from our students and
+      subtitle: Explore our distinctive programmes, hear from our students and
         teachers, and experience how we live out our culture of “Serve with
         Honour, Lead with Humility.”
-      button: e-Open House Microsite
-      url: https://go.gov.sg/scss-openhouse2025
-      image: /images/Homepage Banner/8_019A0260.jpg
-      alt: Image alt text
   - infopic:
       title: School Virtual Tour
       subtitle: "2025"
