@@ -23,7 +23,7 @@ sections:
         teachers, and experience how we live out our culture of “Serve with
         Honour, Lead with Humility.”
       button: e-Open House Microsite
-      url: https://sites.google.com/moe.edu.sg/open-house/welcome-message
+      url: https://go.gov.sg/scss-openhouse2025
       image: /images/Homepage Banner/8_019A0260.jpg
       alt: Image alt text
   - infopic:
