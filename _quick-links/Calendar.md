@@ -242,7 +242,7 @@ variant: tiptap
 <p>WeGrow Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27/10 – 29/10</p>
+<p>21/10 – 23/10</p>
 </td>
 </tr>
 <tr>
