@@ -169,7 +169,7 @@ managed by the respective vendors of our systems. The Government has put
 in place strong personal data protection laws and policies to safeguard
 sensitive data collected by public agencies such as MOE. Please refer to
 this website for more information on these laws and policies:&nbsp;(
-<a href="https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation" rel="noopener nofollow" target="_blank">https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation</a>)</p>
+<a href="https://www.smartnation.gov.sg/about/our-goals/" rel="noopener nofollow" target="_blank">https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation</a>)</p>
 <p><strong><u>Technical Support</u></strong>
 </p>
 <ol>
