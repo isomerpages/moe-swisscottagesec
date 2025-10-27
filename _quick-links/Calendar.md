@@ -264,7 +264,7 @@ variant: tiptap
 <p>Last Day of school</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31/10</p>
+<p>24/10</p>
 </td>
 </tr>
 <tr>
@@ -286,7 +286,7 @@ variant: tiptap
 <p>Secondary 3 lessons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10/11 to 13/11 (mornings only)</p>
+<p>10/10 to 13/10 (mornings only)</p>
 </td>
 </tr>
 <tr>
