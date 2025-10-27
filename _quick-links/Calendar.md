@@ -286,7 +286,7 @@ variant: tiptap
 <p>Secondary 3 lessons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10/10 to 13/10 (mornings only)</p>
+<p>27/10 to 31/10 (mornings only)</p>
 </td>
 </tr>
 <tr>
