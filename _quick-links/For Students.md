@@ -21,5 +21,4 @@ variant: tiptap
 </p>
 <p><a href="https://schoolibrary.moe.edu.sg/swisscottagesec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School Library SPYDUS Online Book Catalogue</a>
 </p>
-<p><a href="https://form.gov.sg/#!/60b99f0b5cc3410012909dbe" rel="noopener noreferrer nofollow" target="_blank">Application Form for Leave of Absence</a>
-</p>
+<p></p>
