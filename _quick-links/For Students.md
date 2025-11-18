@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h1>For Students</h1>
+<p><a href="/files/Booklist_2026_SCS_S1.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 Booklist</a>
+</p>
 <p><a href="/files/Booklist_2026_SCS_S2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 Booklist</a>
 </p>
 <p><a href="/files/Booklist_2026_SCS_S3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Booklist</a>
