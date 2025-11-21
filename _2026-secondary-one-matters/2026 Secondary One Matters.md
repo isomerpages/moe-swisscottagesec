@@ -76,7 +76,7 @@ Casing) via the MOE-appointed vendor or use their own iPad in the school.</p>
 </li>
 <li>
 <p>For administrative details and queries pertaining to PDLP, please refer
-to this link. <strong>[<a href="https://www.swisscottagesec.moe.edu.sg/swiss-experience/pdlpswiss-cottage/" rel="noopener nofollow" target="_blank">PDLP@Swiss Cottage</a>] </strong>
+to this link. <strong>[<a href="https://www.swisscottagesec.moe.edu.sg/swiss-experience/pdlpswiss-cottage/" rel="noopener nofollow" target="_blank">PDLP@Swiss Cottage</a>]</strong>
 </p>
 </li>
 <li>
@@ -89,8 +89,7 @@ One Meet-the-Parent session in Term 1 Week 1, 9 January 2026.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>For more details of the Co-Curricular Activities (CCA) that can be found
-at Swiss Cottage Secondary, please refer to this link.
-<br><strong>[<a href="https://www.swisscottagesec.moe.edu.sg/swiss-experience/co-curricular-activities/" rel="noopener nofollow" target="_blank">Co-Curricular Activities</a>]</strong>
+at Swiss Cottage Secondary, please refer to this link. <strong>[<a href="https://www.swisscottagesec.moe.edu.sg/swiss-experience/co-curricular-activities/" rel="noopener nofollow" target="_blank">Co-Curricular Activities</a>]</strong>
 </p>
 </li>
 </ol>
@@ -107,8 +106,7 @@ this link for more information. Information will be available on 19 December.
 <ol data-tight="true" class="tight">
 <li>
 <p>For more details of our school’s Parent Support Group and how you can
-join the community, please refer to this link.
-<br><strong>[<a href="https://www.swisscottagesec.moe.edu.sg/swiss-partnerships/parents-support-group-psg/" rel="noopener nofollow" target="_blank">Parent Support Group</a>]</strong>
+join the community, please refer to this link. <strong>[<a href="https://www.swisscottagesec.moe.edu.sg/swiss-partnerships/parents-support-group-psg/" rel="noopener nofollow" target="_blank">Parent Support Group</a>]</strong>
 </p>
 </li>
 </ol>
