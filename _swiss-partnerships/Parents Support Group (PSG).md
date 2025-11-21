@@ -19,7 +19,7 @@ learning and prepare them for the different stages of their learning journey.
 We continue as the key contributors who help to reinforce what is taught
 in school, be it basic life skills, academic related knowledge, or core
 values.</p>
-<p>WE CAN MAKE A DIFFERENCE! BE A PART OF YOUR CHILD JOURNEY... join the
+<p>YOU CAN MAKE A DIFFERENCE! BE A PART OF YOUR CHILD'S JOURNEY... join the
 Swiss PSG by submitting the form via the link (Swiss Parent Connect) below.
 Swiss Parents Connect is a platform for Swiss Parents to receive and share
 school related information. It also serves as a platform for parents to
