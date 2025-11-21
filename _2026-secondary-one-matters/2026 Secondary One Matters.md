@@ -97,7 +97,8 @@ at Swiss Cottage Secondary, please refer to this link. <strong>[<a href="https:/
 <ol data-tight="true" class="tight">
 <li>
 <p>Students and parents who wish to appeal to join Swiss Cottage can click
-this link for more information. Information will be available on 19 December.
+this link for more information. Information will be available on 19 December
+2025.
 <br><strong>[2026 Sec 1 Direct Appeal Exercise]</strong>
 </p>
 </li>
