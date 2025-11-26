@@ -12,14 +12,31 @@ our schools and Institutes of Higher Learning to help students strengthen
 their digital literacy. One of the components of the NDLP is the introduction
 of the Personalised Digital Learning Programme (PDLP) for all secondary
 school students, whereby every secondary school student will own a school-prescribed
-Personal Learning Device (PLD) by end-2021.</p>
+Personal Learning Device (PLD).</p>
 <p>The intended outcomes of PDLP@Swiss are:</p>
-<p>1. <strong><u>Enhance teaching and learning</u> – PLDs harness technology for greater effectiveness in teaching and learning, enabled by teachers’ use of e-Pedagogy to provide learning experiences for students.</strong>
-</p>
-<p>2. <strong><u>Support self-directed and collaborative learning</u> – PLDs enable students to learn online according to their needs and interests and to collaborate with each other, anytime and anywhere.</strong>
-</p>
-<p>3. <strong><u>Support the Development of Digital Literacies and Competencies</u> – PLDs provide an immersive environment for students to develop the dispositions, knowledge and skills to thrive in a technology-transformed world.</strong>
-</p>
+<p>1. <strong><u>Enhance teaching and learning</u> – </strong>PLDs harness
+technology for greater effectiveness in teaching and learning, enabled
+by teachers’ use of e-Pedagogy to provide learning experiences for students.</p>
+<p>2. <strong><u>Support self-directed and collaborative learning</u> – </strong>PLDs
+enable students to learn online according to their needs and interests
+and to collaborate with each other, anytime and anywhere.</p>
+<p>3. <strong><u>Support the Development of Digital Literacies and Technical Competencies</u> –</strong> PLDs
+provide an immersive environment for students to develop the dispositions,
+knowledge and skills to thrive in a technology-transformed world.</p>
+<p>4. Support the development of healthy Cyber Use Habits through the B.I.G.
+Framework– PLDs provide an immersive environment for students to develop
+the dispositions, knowledge and skills to thrive in the digital environment.
+The B.I.G. Framework guides the school in:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Designing tiered support in developing healthy cyber use habits focusing
+on the areas of Balance, Intentionality and Good (B.I.G).</p>
+</li>
+<li>
+<p>Ensuring that all students are able to use their digital devices safely
+and responsibly for the purpose of learning.</p>
+</li>
+</ul>
 <p><strong><u>Personal Learning Device (PLD)</u></strong>
 </p>
 <p>Swiss Students will be using the Apple iPad as their personal learning
@@ -31,12 +48,14 @@ alongside existing learning technologies such as the Student Learning Space
 (SLS) as well as other educational technologies to personalise and enhance
 students’ learning. In addition to apps within Apple’s eco-system, students
 will also gain access toa wide range of applications from other developers
-(e.g. Google Suite and Microsoft Office etc), making it the device of choice
+(e.g. Google, Microsoft, GoodNotes, etc), making it the device of choice
 in developing students’ application and creative skills.</p>
-<p>For Swiss Cottage, each 2025 PLD bundle consists of:
-<br>1) Apple iPad 10.9″ 10th&nbsp;Generation 64 GB Wifi
+<p>For Swiss Cottage, each 2026 PLD bundle consists of:
+<br>1) Apple iPad 11” 11th Generation 128GB Wi-Fi
 <br>2) Logitech Rugged Combo 4 (smart keyboard with casing)
-<br>3) Apple Pencil 1</p>
+<br>3) Apple Pencil (USB-C)
+<br>4) Matte screen protector
+<br>(All items comes with 4-year warranty except the screen protector)</p>
 <p><strong><u>Digital Citizenship and Cyber Wellness (CW)</u></strong>
 </p>
 <p>As the students develop the digital skills that support their learning,
@@ -57,19 +76,23 @@ technology safely and meaningfully for their learning and interactions.</p>
 resources:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">MOE Cyber Wellness Programme</a>
 </p>
 </li>
 <li>
-<p><a href="http://gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg/better-internet-sg</a>
+<p><a href="https://www.mlc.sg/" rel="noopener nofollow" target="_blank">Media Literacy Council</a>
 </p>
 </li>
 <li>
-<p><a href="http://nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">nlb.gov.sg/</a>
+<p><a href="https://www.scamshield.gov.sg/" rel="noopener nofollow" target="_blank">National Crime Prevention Council – ScamShield</a>
 </p>
 </li>
 <li>
-<p><a href="http://help123.sg/" rel="noopener noreferrer nofollow" target="_blank">help123.sg</a>
+<p><a href="https://sure.nlb.gov.sg/" rel="noopener nofollow" target="_blank">S.U.R.E. by National Library Board</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/sg-cyber-safe-students" rel="noopener nofollow" target="_blank">Cyber Security Agency</a>
 </p>
 </li>
 </ul>
@@ -127,8 +150,8 @@ that are vital to students’ learning experience and educational journey.</p>
 by Google as part of Google Suite. Every secondary school student will
 be provided with access to the Google Suite set of tools such as Gmail,
 Google Drive, Google Calendar, Google Classroom, etc including email address.</p>
-<p>(b)&nbsp;<strong>Microsoft Office 365:</strong>&nbsp;every secondary school
-is granted a licence to use Microsoft Office tools that include Word, PowerPoint
+<p>(b)&nbsp;<strong>Microsoft 365:</strong>&nbsp;every secondary school is
+granted a licence to use Microsoft Office tools that include Word, PowerPoint
 and Excel.</p>
 <p>(c)&nbsp;<strong>Others</strong>: GoodNotes 6 (for digital note-taking,
 e-filing of notes and assignments, collaborative work)</p>
@@ -160,7 +183,7 @@ here:</p>
 </p>
 </li>
 <li>
-<p>Microsoft Office 365:&nbsp;<a href="https://portal.office.com/commerce/mosa.aspx" rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com/commerce/mosa.aspx</a>
+<p>Microsoft 365:&nbsp;<a href="https://portal.office.com/commerce/mosa.aspx" rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com/commerce/mosa.aspx</a>
 </p>
 </li>
 </ul>
@@ -172,44 +195,45 @@ this website for more information on these laws and policies:&nbsp;(
 <a href="https://www.smartnation.gov.sg/about/our-goals/" rel="noopener nofollow" target="_blank">https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation</a>)</p>
 <p><strong><u>Technical Support</u></strong>
 </p>
-<ol>
-<li>
-<p>AsiaPac Technology Pte Ltd (school vendor for PDLP Apple iPad)</p>
-<ol data-tight="true" class="tight">
+<p>1. AsiaPac Technology Pte Ltd (school vendor for PDLP Apple iPad)</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Help Desk number: 6270 8281</p>
 </li>
 <li>
-<p>Help Desk email: pdlpapple@asiapac.com.sg</p>
+<p>Help Desk email: <a href="mailto:pdlpapple@asiapac.com.sg" rel="noopener noreferrer nofollow" target="_blank">pdlpapple@asiapac.com.sg</a>
+</p>
 </li>
 <li>
 <p>Help Desk operating hours: Mon-Thu 0830 to 1730, Fri 0830-1700. Closed
 on Sat, Sun &amp; Public Holidays</p>
 </li>
-</ol>
+</ul>
+<p>2. School-based Support</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Technical matters: email to <a href="mailto:radiyana_haron_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">radiyana_haron_a@moe.edu.sg</a> (School
+ICT Manager)</p>
 </li>
 <li>
-<p>School-based Support</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Technical matters: email to wong_wai_kiong@moe.edu.sg</p>
+<p>Administrative matters: email to <a href="mailto:radiyana_haron_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">radiyana_haron_a@moe.edu.sg</a> (School
+ICT Manager)</p>
 </li>
 <li>
-<p>Administrative matters: email to wong_wai_kiong@moe.edu.sg</p>
+<p>Finance matters: email to <a href="mailto:scss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scss@moe.edu.sg</a>
+</p>
 </li>
 <li>
-<p>Finance matters: email to scss@moe.edu.sg</p>
-</li>
-<li>
-<p>Telephone/Whatsapp messaging: 6631 9680 / 6631 9625</p>
+<p>Telephone/WhatsApp messaging: 6631 9680 or 6563 7173 (you decide if you
+still want to allow the use of WhatsApp messaging; to remove if you do
+not want retain the use)</p>
 </li>
 <li>
 <p>Operating hours: school days from 7.30 am to 4.30 pm excluding weekends
 and public holidays</p>
 </li>
-</ol>
-</li>
-</ol>
+</ul>
+<p></p>
 <p><strong>Resources for Parents/Students</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -242,5 +266,5 @@ and public holidays</p>
 </p>
 </li>
 </ul>
-<p><em>Updated 18/12/24</em>
+<p><em>Updated 26/11/25</em>
 </p>
