@@ -24,8 +24,12 @@ Swiss PSG by submitting the form via the link (Swiss Parent Connect) below.
 Swiss Parents Connect is a platform for Swiss Parents to receive and share
 school related information. It also serves as a platform for parents to
 ask questions related to school operations and share their experiences.</p>
-<p><a href="https://docs.google.com/forms/d/1nEcf4Kngw7Sl0SwNLgOhP_X4bHQclq_ta1E7Rrnea54/edit" rel="noopener noreferrer nofollow" target="_blank">Swiss Parent Connect</a>
+<p><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfScdvX6d3X7oYDtY-iXowRp_NeNwmahojfltGTaDU4qyhWwQ/formResponse" rel="noopener noreferrer nofollow" target="_blank">Swiss Parent Connect</a></strong>
+<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/PSG_Parent_Connect.jpg">
+</div>
 <p><strong>OUR MISSION</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -74,23 +78,25 @@ other in the parenting journey</p>
 </ul>
 <p><strong>Parents for Parents - Swiss Parents Executive Committee (Exco)</strong>
 </p>
-<p>Chairperson - Muthukumari</p>
-<p>Vice-Chairperson - Roy Low</p>
-<p>Secretary - Amy Yeo</p>
-<p>Treasurers - 1.Adeline Koh + Jacqueline Onn</p>
-<p>Exco member - Paul Ng</p>
-<p>Exco member - Christina Tan</p>
-<p>Exco member - Faridah Binte Abdul Karim</p>
-<p>Exco member - Molly Mohana</p>
-<p>Exco member - Penny Tan</p>
-<p>Exco member - Pearlyn Ng</p>
-<p>Exco member - Sandy Lim</p>
-<p>Exco member - Sonali Ahuja Makhijani</p>
-<p>PSG Alumini Exco - Alexis Kam</p>
-<p>PSG Alumini Exco - Amanda Ang</p>
-<p>PSG Alumini Exco - Erik Sim</p>
-<p><a href="https://drive.google.com/file/d/1_bEzEbMNjrE688gJLSgT2Faa_VUKc3W0/view?usp=sharing" rel="noopener nofollow" target="_blank">Swiss PSG Exco Members</a>
-</p>
+<p>Chairman- Roy Low
+<br>Vice-Chairman - Jacqueline Onn
+<br>Secretary - Amy Yeo
+<br>Treasurers - Adeline Koh + Jacqueline Onn
+<br>Exco member - Faridah Binte Abdul Karim
+<br>Exco member - Molly Mohana
+<br>Exco member - Pearlyn Ng
+<br>Exco member - Sandy Lim
+<br>Exco member - Sonali Ahuja Makhijani
+<br>Exco member - Muthukumari
+<br>Exco member - Penny Tan
+<br>Exco member - Adam Tan
+<br>Exco member - Debbie Ang
+<br>Exco member - Evelyn Bok
+<br>Exco member - Mariayati Binte Abdul Manan
+<br>Exco member - Stacy Chow
+<br>PSG Alumini Exco - Alexis Kam
+<br>PSG Alumini Exco - Amanda Ang
+<br>PSG Alumini Exco - Erik Sim</p>
 <p><a href="/files/PSG/Swiss-PSG-Exco-Message-.pdf" rel="noopener noreferrer nofollow" target="_blank">PSG Exco Message</a>
 </p>
 <p><strong>Swiss Parent&nbsp; Activities</strong>

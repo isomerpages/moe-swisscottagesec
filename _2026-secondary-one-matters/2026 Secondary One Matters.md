@@ -34,7 +34,7 @@ results are released.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>The physical sales of uniforms and books will be conducted on 19, 22,
-23, 26, 29 and 30 December 2025, from 8.00 a.m. to 3.00 p.m.</p>
+23, 26, 29 and 30 December 2025, from 9.00 a.m. to 3.00 p.m.</p>
 </li>
 <li>
 <p>The Secondary 1 booklist can be downloaded from this link. <strong>[<a href="/files/Booklist_2026_SCS_S1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 booklist</a>]</strong>
@@ -56,10 +56,8 @@ December 2025 onwards.</p>
 <h4><strong><u>2026 First Day of School and Secondary 1 Orientation Matters</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>The school term will commence next year on Friday, 2 January 2026.</p>
-<p>More details of the 2026 Secondary 1 Orientation will be shared in the
-school website nearer to the date. Please periodically check the school
-website for more details.</p>
+<p>The school term will commence next year on Friday, 2 January 2026. <strong>[<a href="/files/Information_for_Sec_1_Orientation_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Orientation</a>]</strong>
+</p>
 </li>
 </ol>
 <h4><strong><u>Personal Learning Device Programme (PDLP)</u></strong></h4>
