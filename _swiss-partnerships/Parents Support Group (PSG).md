@@ -24,8 +24,12 @@ Swiss PSG by submitting the form via the link (Swiss Parent Connect) below.
 Swiss Parents Connect is a platform for Swiss Parents to receive and share
 school related information. It also serves as a platform for parents to
 ask questions related to school operations and share their experiences.</p>
-<p><a href="https://docs.google.com/forms/d/1nEcf4Kngw7Sl0SwNLgOhP_X4bHQclq_ta1E7Rrnea54/edit" rel="noopener noreferrer nofollow" target="_blank">Swiss Parent Connect</a>
+<p><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfScdvX6d3X7oYDtY-iXowRp_NeNwmahojfltGTaDU4qyhWwQ/formResponse" rel="noopener noreferrer nofollow" target="_blank">Swiss Parent Connect</a></strong>
+<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/PSG_Parent_Connect.jpg">
+</div>
 <p><strong>OUR MISSION</strong>
 </p>
 <ul data-tight="true" class="tight">
