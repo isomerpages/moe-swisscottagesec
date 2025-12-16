@@ -34,7 +34,7 @@ results are released.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>The physical sales of uniforms and books will be conducted on 19, 22,
-23, 26, 29 and 30 December 2025, from 8.00 a.m. to 3.00 p.m.</p>
+23, 26, 29 and 30 December 2025, from 9.00 a.m. to 3.00 p.m.</p>
 </li>
 <li>
 <p>The Secondary 1 booklist can be downloaded from this link. <strong>[<a href="/files/Booklist_2026_SCS_S1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 booklist</a>]</strong>
