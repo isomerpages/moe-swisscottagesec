@@ -56,7 +56,7 @@ December 2025 onwards.</p>
 <h4><strong><u>2026 First Day of School and Secondary 1 Orientation Matters</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>The school term will commence next year on Friday, 2 January 2026. <strong>[<a href="/files/Information_for_Sec_1_Orientation_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Orientation</a>]</strong>
+<p>The school term will commence next year on Friday, 2 January 2026. <strong>[<a href="/files/Information_for_Sec_1_Orientation_2026__1_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Orientation</a>]</strong>
 </p>
 </li>
 </ol>
