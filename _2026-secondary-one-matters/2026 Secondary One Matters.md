@@ -15,7 +15,9 @@ Friday, 19 December 2025.</p>
 <p>The Secondary 1 registration will be done online via the Parents Gateway
 (PG) portal. An announcement will be sent through PG to the parents/guardians
 of our 2026 Secondary 1 students to inform them of their child’s/ward’s
-successful enrolment in Swiss Cottage.</p>
+successful enrolment in Swiss Cottage.
+<br><strong>Please note that PG will be down for maintenance on Friday, 19 Dec 2025. Parents will receive the registration announcement by Monday, 22 Dec 2025 instead.</strong>
+</p>
 </li>
 <li>
 <p>Some information regarding to the 2026 Secondary 1 Orientation will be
@@ -56,7 +58,7 @@ December 2025 onwards.</p>
 <h4><strong><u>2026 First Day of School and Secondary 1 Orientation Matters</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>The school term will commence next year on Friday, 2 January 2026. <strong>[<a href="/files/Information_for_Sec_1_Orientation_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Orientation</a>]</strong>
+<p>The school term will commence next year on Friday, 2 January 2026. <strong>[<a href="/files/Information_for_Sec_1_Orientation_2026__1_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Orientation</a>]</strong>
 </p>
 </li>
 </ol>
@@ -97,7 +99,7 @@ at Swiss Cottage Secondary, please refer to this link. <strong>[<a href="https:/
 <p>Students and parents who wish to appeal to join Swiss Cottage can click
 this link for more information. Information will be available on 19 December
 2025.
-<br><strong>[2026 Sec 1 Direct Appeal Exercise]</strong>
+<br><strong>[<a href="https://swisscottagesec.moe.edu.sg/secondary-1-registration-2026/" rel="noopener nofollow" target="_blank">2026 Sec 1 Direct Appeal Exercise</a>]</strong>
 </p>
 </li>
 </ol>
