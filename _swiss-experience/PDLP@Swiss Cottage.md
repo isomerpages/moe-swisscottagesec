@@ -224,9 +224,7 @@ ICT Manager)</p>
 </p>
 </li>
 <li>
-<p>Telephone/WhatsApp messaging: 6631 9680 or 6563 7173 (you decide if you
-still want to allow the use of WhatsApp messaging; to remove if you do
-not want retain the use)</p>
+<p>Telephone/WhatsApp messaging: 6631 9680 or 6563 7173</p>
 </li>
 <li>
 <p>Operating hours: school days from 7.30 am to 4.30 pm excluding weekends
