@@ -32,6 +32,14 @@ results are released.</p>
 </li>
 </ol>
 <p></p>
+<h4><strong><u>2026 Financial Assistance Scheme</u></strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>For more details for the Financial Assistance Scheme, please refer to
+this link. <strong>[<a href="/files/E_FAS_2026_Letter_to_Parents__2_.pdf" rel="noopener nofollow" target="_blank">2026 Financial Assistance Scheme</a>]</strong>
+</p>
+</li>
+</ol>
 <h4><strong><u>Sales of School Uniform and Books</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
