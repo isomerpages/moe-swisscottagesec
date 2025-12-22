@@ -1,7 +1,10 @@
 ---
 layout: homepage
 title: Swiss Cottage Secondary School
-description: An Isomer site of the Singapore Government
+description: Swiss Cottage celebrated its 50th Anniversary in 2013. Fifty years
+  of establishment is a significant milestone for a school in a young country
+  like Singapore. Today Swiss Cottage is recognised as one of the most esteemed
+  government schools in Singapore.
 image: /images/school_logo.jpg
 permalink: /
 notification: ""
