@@ -94,9 +94,8 @@ other in the parenting journey</p>
 <br>Exco member - Evelyn Bok
 <br>Exco member - Mariayati Binte Abdul Manan
 <br>Exco member - Stacy Chow
-<br>PSG Alumini Exco - Alexis Kam
-<br>PSG Alumini Exco - Amanda Ang
-<br>PSG Alumini Exco - Erik Sim</p>
+<br>
+</p>
 <p><a href="/files/PSG/Swiss-PSG-Exco-Message-.pdf" rel="noopener noreferrer nofollow" target="_blank">PSG Exco Message</a>
 </p>
 <p><strong>Swiss Parent&nbsp; Activities</strong>

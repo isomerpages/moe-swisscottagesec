@@ -3,7 +3,6 @@ title: Information for 2025
 permalink: /information-for-2025/
 variant: tiptap
 description: ""
-third_nav_title: For Parents
 ---
 <ol data-tight="true" class="tight">
 <li>
