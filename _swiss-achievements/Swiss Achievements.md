@@ -246,6 +246,26 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Football</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG League 1 – 15<sup>th</sup> placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Leagues 2 - Champion</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>On the Performing Arts Front (2025)</strong>
