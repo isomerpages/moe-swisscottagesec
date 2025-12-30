@@ -28,7 +28,7 @@ ask questions related to school operations and share their experiences.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/PSG_Parent_Connect.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/QR_PSG.jpg">
 </div>
 <p><strong>OUR MISSION</strong>
 </p>
