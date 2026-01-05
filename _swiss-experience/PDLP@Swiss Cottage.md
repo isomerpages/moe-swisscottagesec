@@ -236,15 +236,11 @@ and public holidays</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/PDLP@Swiss Cottage/IP4_iPad____Parental_Consent_for_Purchase_of_PLD__GGAS_2025__vSCSS_Final.pdf" rel="noopener nofollow" target="_blank">Parental Consent Form for Purchase of PLD 2025 (SCSS)</a>
+<p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook I 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook I 2025 (MOE)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II 2025 (MOE)</a>
+<p><a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II 2026</a>
 </p>
 </li>
 <li>
@@ -264,5 +260,5 @@ and public holidays</p>
 </p>
 </li>
 </ul>
-<p><em>Updated 26/11/25</em>
+<p><em>Updated 05/01/26</em>
 </p>
