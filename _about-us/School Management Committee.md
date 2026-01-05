@@ -52,7 +52,6 @@ variant: markdown
     <tr><td>School Staff Developer</td><td>Mini D/O Sathiya Sidhan(Mdm)</td></tr>
     <tr><td>Year Head</td><td>Tan Annie (Ms)</td></tr>
     <tr><td>Year Head</td><td>Tan Han Chong Timothy (Mr)</td></tr>
-    <tr><td>Assistant Year Head</td><td>Ng Poh Keow (Ms)</td></tr>
     <tr><td>Assistant Year Head</td><td>Lim Junxuan Christopher (Mr)</td></tr>
     <tr><td>Assistant Year Head (Acting)</td><td>Siti Aisha Kamsani (Mdm)</td></tr>
     
@@ -60,7 +59,7 @@ variant: markdown
     <tr><td>Head of Department / CCE</td><td>Chok Shuk Yin (Mdm)</td></tr>
     <tr><td>Head of Department / English Language</td><td>Lim Wee Teng June (Mdm)</td></tr>
     <tr><td>Head of Department / Humanities</td><td>Wang Jieying (Mdm)</td></tr>
-    <tr><td>Head of Department / Mathematics</td><td>Ang Hanping (Mr)</td></tr>
+    <tr><td>Head of Department / Mathematics (Acting)</td><td>Ng Poh Keow (Ms)</td></tr>
     <tr><td>Head of Department / Mother Tongue Languages</td><td>Yeo Tong Wei Raymond (Mr)</td></tr>
     <tr><td>Head of Department / Physical Education &amp; CCA</td><td>Toh Chee Keong (Mr)</td></tr>
     <tr><td>Head of Department / Science</td><td>Goh Weibin (Mr)</td></tr>
@@ -68,7 +67,7 @@ variant: markdown
     <tr><td>Head of Department / Technology for Learning</td><td>Wong Wai Kiong Terence (Mr)</td></tr>
 
     
-    <tr><td>Subject Head / E21CC &amp; ECG</td><td>Heng Teng Boon (Mr)</td></tr>
+    <tr><td>Subject Head / 21CC &amp; ECG</td><td>Heng Teng Boon (Mr)</td></tr>
     <tr><td>Subject Head / Applied Science</td><td>Thou Reaksmey (Mr)</td></tr>
     <tr><td>Subject Head / Co-Curricular Activities</td><td>Sitti Aishah Yusof (Mdm)</td></tr>
     <tr><td>Subject Head / Craft &amp; Technology</td><td>Koh Joon Teck (Mr)</td></tr>
@@ -90,6 +89,6 @@ variant: markdown
     <tr><td>Senior Teacher / English Language</td><td>Tan Mee Han (Ms)</td></tr>
     <tr><td>Senior Teacher / Literature</td><td>Herina Binte Roslin (Ms)</td></tr>
     <tr><td>Senior Teacher / Malay Language</td><td>Noorhidaya Binte Abdul Karim (Mdm)</td></tr>
-    <tr><td>Senior Teacher / Mathematics</td><td>Yeo Koon Koon (Ms)</td></tr>
+    <tr><td>Senior Teacher / Mathematics</td><td>Ang Hanping (Mr)</td></tr>
   </tbody>
 </table>
