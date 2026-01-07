@@ -53,7 +53,7 @@ variant: markdown
     <tr><td>Year Head</td><td>Tan Annie (Ms)</td></tr>
     <tr><td>Year Head</td><td>Tan Han Chong Timothy (Mr)</td></tr>
     <tr><td>Assistant Year Head</td><td>Lim Junxuan Christopher (Mr)</td></tr>
-    <tr><td>Assistant Year Head (Acting)</td><td>Siti Aisha Kamsani (Mdm)</td></tr>
+    <tr><td>Assistant Year Head (Acting)</td><td>Siti Aishah Kamsani (Mdm)</td></tr>
     
     <tr><td>Head of Department / Craft &amp; Technology</td><td>Ong Ching Ching (Mdm)</td></tr>
     <tr><td>Head of Department / CCE</td><td>Chok Shuk Yin (Mdm)</td></tr>
@@ -84,11 +84,12 @@ variant: markdown
     <tr><td>Lead Teacher / English Language</td><td>Tan Su Yin Constance (Mdm)</td></tr>
     <tr><td>Lead Teacher / Biology</td><td>Jason Seow (Mr)</td></tr>
     <tr><td>Lead Teacher / Tamil Language</td><td>Abdul Nasser S/O T A Mitten (Mr)</td></tr>
+		<tr><td>Lead Teacher / Mathematics</td><td>Ang Hanping (Mr)</td></tr>
     <tr><td>Senior Teacher / Chemistry</td><td>Tan Pui San (Mdm)</td></tr>
     <tr><td>Senior Teacher / Chinese Language</td><td>Xu Yiping (Mdm)</td></tr>
     <tr><td>Senior Teacher / English Language</td><td>Tan Mee Han (Ms)</td></tr>
     <tr><td>Senior Teacher / Literature</td><td>Herina Binte Roslin (Ms)</td></tr>
     <tr><td>Senior Teacher / Malay Language</td><td>Noorhidaya Binte Abdul Karim (Mdm)</td></tr>
-    <tr><td>Senior Teacher / Mathematics</td><td>Ang Hanping (Mr)</td></tr>
+    
   </tbody>
 </table>
