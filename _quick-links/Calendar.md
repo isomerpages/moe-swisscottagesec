@@ -221,7 +221,7 @@ variant: tiptap
 <p>T1W7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19/1</p>
+<p>19/2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 start CCA</p>
