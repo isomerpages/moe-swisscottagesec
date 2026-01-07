@@ -134,21 +134,27 @@ variant: markdown
     </tr>
   </thead>
   <tbody>
-    <tr><td>Seeto Chee Chong (Mdm)</td><td>Chemistry</td></tr>
-    <tr><td>Wang Li Hong (Ms)</td><td>Chinese Language</td></tr>
+    <tr><td>Nur Ashikin Binte Abu Bakar (Mdm)</td><td>English Language</td></tr>
+    <tr><td>See To Chee Choong (Mdm)</td><td>Chemistry</td></tr>
     <tr><td>Cao Yang (Ms)</td><td>Chinese Language</td></tr>
+    <tr><td>Hu Fang (Mdm)</td><td>Chinese Language</td></tr>
     <tr><td>Tan Yong Huat (Mr)</td><td>Design and Technology</td></tr>
-    <tr><td>Tan Wei Si Stella (Ms)</td><td>English</td></tr>
-    <tr><td>Lim Su-Fern (Ms)</td><td>Humanities</td></tr>
+    <tr><td>Chew Wye Mun, Serene (Mdm)</td><td>Mathematics</td></tr>
     <tr><td>Lai Kuok Liang (Mr)</td><td>Humanities</td></tr>
     <tr><td>Heng Kee Kiat (Mr)</td><td>Mathematics</td></tr>
-    <tr><td>Ong Lay Kwan (Mdm)</td><td>Mathematics</td></tr>
+    <tr><td>Seng Sze Meng - Sia (Mr)</td><td>History</td></tr>
     <tr><td>Goh Shi Le Priscilla (Ms)</td><td>Physical Education</td></tr>
     <tr><td>Wee Ai Jee (Mdm)</td><td>Physics</td></tr>
-    <tr><td>Chew Kim Eng (Mdm)</td><td>Science</td></tr>
-    <tr><td>Ng Kok Hin (Mr)</td><td>Science</td></tr>
-    <tr><td>Tamil Language</td></tr>
-    <tr><td>Wong Yin Kew (Mr)</td><td>Design and Technology, Computer Applications</td></tr>
+    <tr><td>Rosman Bin Aziz (Mr)</td><td>Design and Technology</td></tr>
+    <tr><td>Chee Jialing Serena (Ms)</td><td>English Language</td></tr>
+		<tr><td>Smitha D/O Nadarajah (Mdm)</td><td>English Language</td></tr>
+		<tr><td>Sharina Binte Sulaiman (Ms)</td><td>Geography</td></tr>
+		<tr><td>Liu Jiaman (Mdm)</td><td>Chinese Language</td></tr>
+		<tr><td>Li Xiaorong(Mr)</td><td>Chinese Language</td></tr>
+		<tr><td>Pow Tian Si, Zoe (Mdm)</td><td>Mathematics</td></tr>
+		<tr><td>Low Siew Peng (Mdm)</td><td>Geography</td></tr>
+		<tr><td>Wong Min Yi, Mindy (Mdm)</td><td>English Language</td></tr>
+   
 		  </tbody>
 </table>
 
