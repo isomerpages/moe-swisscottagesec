@@ -62,12 +62,12 @@ variant: markdown
     <tr class="year-head"><td colspan="4">SECONDARY TWO ASSISTANT YEAR HEAD: LIM JUNXUAN CHRISTOPHER (MR)</td></tr>
     <tr><td>2S1</td><td>Neo Cheng Wee Kenneth (Mr)</td><td>Gayle Tay (MDM)</td><td>Low Siew Peng (Mdm)</td></tr>
     <tr><td>2S2</td><td>Rose Nabilah Binte Rosli (Ms)</td><td>Wong Li Xin (Mdm)</td><td></td></tr>
-    <tr><td>2S3</td><td>Teo Yew Bing Simon (Mr)</td><td></td></tr>
-    <tr><td>2S4</td><td>Adrian Khoo Yi Ming (Mr)</td><td>Faith Wang Yi Shan (Ms)</td><td></td></tr>
-    <tr><td>2S5</td><td>Leung Yan Ru (Ms)</td><td>Tan Mee Han (Ms)</td><td>Chew Kok Chung Alex (Mr)</td></tr>
-    <tr><td>2S6</td><td>Kwek Jo Ee (Ms)</td><td>Liu Jiaman (Ms)</td><td></td></tr>
-    <tr><td>2S7</td><td>Koh Shin Yee (Mdm)</td><td>Nur Ashikin Binte Abu Bakar (Mdm)</td><td></td></tr>
-    <tr><td>2S8</td><td>Fong-Sim Hui Beng (Mrs)</td><td>Serene Lee (Mdm)</td><td></td></tr>
+    <tr><td>2S3</td><td>Teo Yew Bing Simon (Mr)</td><td>Zahrah Binti Hatraby (Ms)</td></tr>
+    <tr><td>2S4</td><td>Sim Wen Hong (Mr)</td><td>Xu Yiping (Mdm)</td><td></td></tr>
+    <tr><td>2S5</td><td>Lee Hongyun Eric (Mr)</td><td>Vijayaprabi Natarajan (Mdm)</td><td>Faza Mahirah Binte Md Suhimi (Mdm)</td></tr>
+    <tr><td>2S6</td><td>Heng Teng Boon (Mr)</td><td>Iznur Shahidah B Ishak (Mdm)</td><td></td></tr>
+    <tr><td>2S7</td><td>Lim Yen Wah (Mdm)</td><td>Pang Peng Tiong (Mr)</td><td></td></tr>
+    <tr><td>2S8</td><td>Chia Teck Seng (Mr)</td><td>Nurfarihah Binte Ahamad Rifa'eh (Mdm)</td><td></td></tr>
 		
     <tr class="year-head"><td colspan="4">SECONDARY THREE ASSISTANT YEAR HEAD (Acting): SITI AISHAH BINTE MOHAMED KAMSANI (MDM)</td></tr>
     <tr><td>3S1</td><td>Tan Jeng, Gordon (Mr)</td><td> Lau Lee Leng (Mdm)</td><td>Seng Sze Ming-Sia (Mr)</td></tr>
