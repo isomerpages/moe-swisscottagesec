@@ -60,7 +60,7 @@ variant: markdown
     <tr><td>1S8</td><td>Chew Kok Chung Alex (Mr)</td><td>Subahshini A/P Jaiseelan (Ms)</td><td></td></tr>
 
     <tr class="year-head"><td colspan="4">SECONDARY TWO ASSISTANT YEAR HEAD: LIM JUNXUAN CHRISTOPHER (MR)</td></tr>
-    <tr><td>2S1</td><td>Neo Cheng Wee Kenneth (Mr)</td><td>Gayle Tay (MDM)</td><td>Low Siew Peng (Mdm)</td></tr>
+    <tr><td>2S1</td><td>Neo Cheng Wee Kenneth (Mr)</td><td>Gayle Tay (Mdm)</td><td>Low Siew Peng (Mdm)</td></tr>
     <tr><td>2S2</td><td>Rose Nabilah Binte Rosli (Ms)</td><td>Wong Li Xin (Mdm)</td><td></td></tr>
     <tr><td>2S3</td><td>Teo Yew Bing Simon (Mr)</td><td>Zahrah Binti Hatraby (Ms)</td></tr>
     <tr><td>2S4</td><td>Sim Wen Hong (Mr)</td><td>Xu Yiping (Mdm)</td><td></td></tr>
