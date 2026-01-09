@@ -58,7 +58,7 @@ variant: markdown
     <tr><td>Head of Department / Craft &amp; Technology</td><td>Ong Ching Ching (Mdm)</td></tr>
     <tr><td>Head of Department / CCE</td><td>Chok Shuk Yin (Mdm)</td></tr>
     <tr><td>Head of Department / English Language</td><td>Lim Wee Teng June (Mdm)</td></tr>
-    <tr><td>Head of Department / Humanities</td><td>Wang Jieying (Mdm)</td></tr>
+    <tr><td>Head of Department / Humanities</td><td>Wang Jieying (Ms)</td></tr>
     <tr><td>Head of Department / Mathematics (Acting)</td><td>Ng Poh Keow (Ms)</td></tr>
     <tr><td>Head of Department / Mother Tongue Languages</td><td>Yeo Tong Wei Raymond (Mr)</td></tr>
     <tr><td>Head of Department / Physical Education &amp; CCA</td><td>Toh Chee Keong (Mr)</td></tr>
