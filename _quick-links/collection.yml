@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Students.md
+      - For Parents/Meet the Parent 2026.md
       - For Parents/.keep
       - For Parents/Physical Development.md
       - For Parents/Co curricular Activities Programme.md
