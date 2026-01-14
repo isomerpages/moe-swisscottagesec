@@ -76,7 +76,7 @@ variant: markdown
     <tr><td>3S4</td><td>Redha Nasuha Bte Mas'od (Mdm)</td><td>Thou Reaksmey (Mr)</td><td>Sitti Aishah Binte Yusof (Mdm)</td></tr>
     <tr><td>3S5</td><td>Seow Jason (Mr)</td><td>Maheswari Thangaiah (Mdm)</td><td></td></tr>
     <tr><td>3S6</td><td>Tan Wei Xing Clement (Mr)</td><td>Low Hwee Cheng (Mdm)</td><td></td></tr>
-    <tr><td>3S7</td><td>Kat Kar Sienn (Mr)</td><td>Ong Lay Kwan (Mdm)</td><td></td></tr>
+    <tr><td>3S7</td><td>Kat Kar Sien (Mr)</td><td>Ong Lay Kwan (Mdm)</td><td></td></tr>
     <tr><td>3S8</td><td>Adrian Khoo Yi Ming (Mr)</td><td>Herina Binte Roslin (Mdm)</td><td></td></tr>
 		<tr><td>3S9</td><td>Lee Pei Qi (Mdm)</td><td>Felicia Choy Jia Yi (Ms)</td><td></td></tr>
 		
