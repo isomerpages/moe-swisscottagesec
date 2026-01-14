@@ -236,6 +236,10 @@ and public holidays</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/PLD_Acceptable_Use_Policy__AUP__SCSS_2026.pdf" rel="noopener nofollow" target="_blank">PLD Acceptable Use Policy (AUP)</a>
+</p>
+</li>
+<li>
 <p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook I 2026</a>
 </p>
 </li>
