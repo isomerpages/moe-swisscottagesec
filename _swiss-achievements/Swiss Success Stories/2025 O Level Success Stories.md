@@ -16,7 +16,7 @@ third_nav_title: Swiss Success Stories
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Soma.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Soma.png">
 </div>
 </th>
 <th rowspan="1" colspan="2">
@@ -87,6 +87,9 @@ speed or ease, but by determination and character.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Amjad.png">
+</div>
 </th>
 <th rowspan="1" colspan="2">
 <p><strong>Muhammad Amjad Amirul bin Mohamed Saai [4S5]</strong>
@@ -151,6 +154,9 @@ but in maturity, perspective, and the resolve to keep moving forward.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Helen.png">
+</div>
 </th>
 <th rowspan="1" colspan="2">
 <p><strong>Ung Helen [4S5]</strong>
@@ -225,6 +231,9 @@ doors to both personal and academic success.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Ashley.png">
+</div>
 </th>
 <th rowspan="1" colspan="2">
 <p><strong>Andrena Ashley Seah [4S6]</strong>
@@ -296,6 +305,9 @@ for the future.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Yuanji.png">
+</div>
 </th>
 <th rowspan="1" colspan="2">
 <p><strong>Gao Yuanji [4S7]</strong>
@@ -364,6 +376,9 @@ effort can unlock.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Aldrich.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="2">
 <p><strong>Aldrich Haiderg Naiborhu [4S8]</strong>
@@ -436,6 +451,9 @@ to keep asking why.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Arul.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="2">
 <p><strong>Rithwik Arul Prakasam [4S8]</strong>
