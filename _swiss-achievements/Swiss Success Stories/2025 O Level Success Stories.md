@@ -15,6 +15,9 @@ third_nav_title: Swiss Success Stories
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Soma.png">
+</div>
 </th>
 <th rowspan="1" colspan="2">
 <p><strong>Somasundaram Anandkumar [4S4]</strong>
