@@ -16,7 +16,7 @@ third_nav_title: Swiss Success Stories
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Soma.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Soma.png">
 </div>
 </th>
 <th rowspan="1" colspan="2">
@@ -88,7 +88,7 @@ speed or ease, but by determination and character.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Amjad.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Amjad.png">
 </div>
 </th>
 <th rowspan="1" colspan="2">
@@ -155,7 +155,7 @@ but in maturity, perspective, and the resolve to keep moving forward.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Helen.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Helen.png">
 </div>
 </th>
 <th rowspan="1" colspan="2">
@@ -232,7 +232,7 @@ doors to both personal and academic success.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Ashley.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Ashley.png">
 </div>
 </th>
 <th rowspan="1" colspan="2">
@@ -306,7 +306,7 @@ for the future.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Yuanji.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Yuanji.png">
 </div>
 </th>
 <th rowspan="1" colspan="2">
@@ -377,7 +377,7 @@ effort can unlock.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Aldrich.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Aldrich.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="2">
@@ -452,7 +452,7 @@ to keep asking why.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Arul.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Arul.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="2">
