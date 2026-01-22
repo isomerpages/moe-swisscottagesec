@@ -877,8 +877,8 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the Sexuality Education lessons need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also available <a href="/files/2026__ANNEX_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>or via the <a href="https://form.gov.sg/admin/form/696f4bf77621e837dd353b3e" rel="noopener nofollow" target="_blank">link (wrong link)</a>.
-The completed form is to be submitted by 05/02/2026.</p>
+and is also available <a href="/files/2026__ANNEX_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>or via the <a href="https://go.gov.sg/sed2026scss" rel="noopener nofollow" target="_blank">link</a>. The completed form is to
+be submitted by 05/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the eTeens programme need to complete an opt-out form.
 This form will be communicated to parents at the start of the year and
