@@ -137,7 +137,7 @@ variant: tiptap
 <p>T1W4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>28 -31/1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3 Camp</p>
