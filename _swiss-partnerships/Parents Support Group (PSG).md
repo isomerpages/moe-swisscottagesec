@@ -27,9 +27,6 @@ ask questions related to school operations and share their experiences.</p>
 <p><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfScdvX6d3X7oYDtY-iXowRp_NeNwmahojfltGTaDU4qyhWwQ/formResponse" rel="noopener noreferrer nofollow" target="_blank">Swiss Parent Connect</a></strong>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/QR_PSG.jpg">
-</div>
 <p><strong>OUR MISSION</strong>
 </p>
 <ul data-tight="true" class="tight">
