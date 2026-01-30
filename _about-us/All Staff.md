@@ -150,7 +150,7 @@ variant: markdown
 		<tr><td>Smitha D/O Nadarajah (Mdm)</td><td>English Language</td></tr>
 		<tr><td>Sharina Binte Sulaiman (Ms)</td><td>Geography</td></tr>
 		<tr><td>Liu Jiaman (Mdm)</td><td>Chinese Language</td></tr>
-		<tr><td>Li Xiaorong(Mr)</td><td>Chinese Language</td></tr>
+		<tr><td>Li Xiaorong (Mdm)</td><td>Chinese Language</td></tr>
 		<tr><td>Pow Tian Si, Zoe (Mdm)</td><td>Mathematics</td></tr>
 		<tr><td>Low Siew Peng (Mdm)</td><td>Geography</td></tr>
 		<tr><td>Wong Min Yi, Mindy (Mdm)</td><td>English Language</td></tr>
