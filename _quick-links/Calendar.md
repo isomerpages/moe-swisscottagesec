@@ -165,7 +165,7 @@ variant: tiptap
 <p>T1W5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4/2</p>
+<p>10/2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 MTP</p>
