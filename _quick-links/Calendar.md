@@ -328,7 +328,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Term </strong>
+<p><strong>Term</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
