@@ -89,6 +89,7 @@ variant: markdown
     <tr><td>Senior Teacher / Chinese Language</td><td>Xu Yiping (Mdm)</td></tr>
     <tr><td>Senior Teacher / English Language</td><td>Tan Mee Han (Ms)</td></tr>
 		<tr><td>Senior Teacher / Mathematics</td><td>Yeo Koon Koon (Ms)</td></tr>
+		<tr><td>Senior Teacher / Social Studies</td><td>Rose Nabilah Binte Rosli (Ms)</td></tr>
     <tr><td>Senior Teacher / Literature</td><td>Herina Binte Roslin (Ms)</td></tr>
     <tr><td>Senior Teacher / Malay Language</td><td>Noorhidaya Binte Abdul Karim (Mdm)</td></tr>
     
