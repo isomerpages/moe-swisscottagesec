@@ -164,7 +164,7 @@ on interest / ability and not on the points awarded.&nbsp;
 </p>
 <p><strong>&nbsp;</strong>
 <br><strong>CCA Practices &amp; Venues</strong>
-<br>&nbsp;Please refer to the table below for the schedules of CCA in 2025.&nbsp;</p>
+<br>&nbsp;Please refer to the table below for the schedules of CCA in 2026.&nbsp;</p>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
