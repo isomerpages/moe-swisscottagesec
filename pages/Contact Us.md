@@ -17,6 +17,7 @@ variant: tiptap
 <p>Closed on Saturdays, Sundays and Public Holidays</p>
 <p><strong>Nearest MRT Station: </strong>Bukit Gombak MRT</p>
 <p><strong>Buses</strong>: 945, 187, 188, 985</p>
+<p></p>
 <p><strong>Have a question?</strong>
 <br>Ask and get answered on our <a href="https://ask.gov.sg/scss" rel="noopener noreferrer nofollow" target="_blank">Q&amp;A Page</a>
 <br><em>Powered by: <br><br></em>
