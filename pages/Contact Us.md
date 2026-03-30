@@ -19,11 +19,14 @@ variant: markdown
 **Fax**  
 65693028
 
-Email: scss@moe.edu.sg
+**Email**
+scss@moe.edu.sg
 
-Office Hours: 7.30 am to 5.30 pm
+**Office Hours**
+7.30 am to 5.30 pm
 
 Closed on Saturdays, Sundays and Public Holidays
+
 
 **Have a question?**  
 Ask and get answered on our [Q&amp;A Page](https://ask.gov.sg/scss)
