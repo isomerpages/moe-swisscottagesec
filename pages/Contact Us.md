@@ -8,7 +8,7 @@ variant: markdown
 
 # CONTACT US
 
-### Swiss Cottage Secondary
+### Swiss Cottage Secondary School
 
 **Address**  
 3 Bukit Batok Street 34, Singapore (659322)
@@ -27,6 +27,11 @@ scss@moe.edu.sg
 
 Closed on Saturdays, Sundays and Public Holidays
 
+**Nearest MRT Station**  
+Bukit Gombak
+
+**Buses**  
+945, 187, 188, 985
 
 **Have a question?**  
 Ask and get answered on our [Q&amp;A Page](https://ask.gov.sg/scss)
@@ -36,11 +41,6 @@ Ask and get answered on our [Q&amp;A Page](https://ask.gov.sg/scss)
 <br>
 	
 
-**Office Hours**  
-0600 to 1800
 
-**Nearest MRT Station**  
-Bukit Gombak
 
-**Buses**  
-945, 187, 188, 985</em></span>
+</em></span>
