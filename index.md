@@ -21,7 +21,6 @@ sections:
         Honour, Lead with Humility.”
   - infopic:
       title: 2026 Direct School Admission
-      subtitle: "2026"
       id: infopic
       button: 2026 Direct School Admission
       url: /swiss-direct-school-admission/
