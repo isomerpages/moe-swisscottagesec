@@ -263,7 +263,7 @@ variant: tiptap
 <p>B Div Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG Leagues 2 - Champion</p>
+<p>NSG League 2 - Champion</p>
 </td>
 </tr>
 </tbody>

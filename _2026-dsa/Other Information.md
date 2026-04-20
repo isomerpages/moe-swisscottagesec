@@ -12,7 +12,7 @@ who are not studying in MOE mainstream primary schools i.e. Returning Singaporea
 International Students studying overseas or in local international schools,
 students in Special Education Schools or religious schools (e.g. Pathlight,
 Madrasah, San Yu Adventist) and home-schoolers will need to obtain a Registration
-Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. &nbsp;Please
+Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Please
 refer to MOE website below for more information:
 <br><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 <br>
