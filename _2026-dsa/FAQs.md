@@ -47,7 +47,8 @@ the interview and selection trial/audition (where applicable).</p>
 <p>All students will apply for DSA-Sec through a centralised DSA-Sec Portal
 to all DSA-Sec schools (except School of the Arts (SOTA) and Singapore
 Sports School (SSP), instead of individually to each school. The portal
-will be opened for application 6 May 2026 till 2 June 2026.</p>
+will be open for application from <strong>11am on 6 May 2026</strong> (Wednesday)
+till <strong>4.30pm on 2 June 2026</strong> (Tuesday).</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +66,7 @@ will be opened for application 6 May 2026 till 2 June 2026.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 June 2026</p>
+<p>2 June 2026 (Tuesday), 4.30 pm</p>
 </td>
 </tr>
 <tr>
@@ -83,8 +84,8 @@ will be opened for application 6 May 2026 till 2 June 2026.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>We will inform you between 8 to 18 July if you are shortlisted for the
-selection trial.</p>
+<p>We will inform you from 29 Jun 2026 onwards if you are shortlisted for
+the selection trial.</p>
 </td>
 </tr>
 <tr>
@@ -102,8 +103,8 @@ selection trial.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All applicants will know the outcome of their applications between 17
-to 28 August 2026.</p>
+<p>All applicants will know the outcome of their applications between<strong> 17 to 28 August 2026.</strong>
+</p>
 </td>
 </tr>
 <tr>
