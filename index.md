@@ -23,10 +23,8 @@ sections:
       title: 2026 Direct School Admission
       subtitle: "2026"
       id: infopic
-      description: We welcome Primary 6 students who desire to be a Thoughtful Leader
-        to join us through the Direct School Admission (DSA-Sec) Exercise.
       button: 2026 Direct School Admission
-      url: 2026 DSA
+      url: /swiss-direct-school-admission/
       image: /images/Homepage Banner/Birds_Eye_View_Swiss.jpg
       alt: Image alt text
   - infobar:
