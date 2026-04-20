@@ -14,16 +14,20 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DSA Main Category</p>
+<p><strong>DSA Main Category</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DSA Talent Area</p>
+<p><strong>DSA Talent Area</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys</p>
+<p><strong>Boys</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girls</p>
+<p><strong>Girls</strong>
+</p>
 </td>
 </tr>
 <tr>
