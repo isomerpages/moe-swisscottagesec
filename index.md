@@ -20,13 +20,12 @@ sections:
         teachers, and experience how we live out our culture of “Serve with
         Honour, Lead with Humility.”
   - infopic:
-      title: School Virtual Tour
-      subtitle: "2025"
+      title: 2026 Direct School Admission
+      subtitle: "2026"
       id: infopic
-      description: Step into Swiss Cottage from wherever you are! Explore our learning
-        spaces, specialised facilities, and vibrant student life through our
-        virtual tour.
-      button: Swiss Cottage VIRTUAL TOUR
+      description: We welcome Primary 6 students who desire to be a Thoughtful Leader
+        to join us through the Direct School Admission (DSA-Sec) Exercise.
+      button: 2026 Direct School Admission
       url: https://360.theredmarker.com/F1WBCpVSJp
       image: /images/Homepage Banner/Birds_Eye_View_Swiss.jpg
       alt: Image alt text
