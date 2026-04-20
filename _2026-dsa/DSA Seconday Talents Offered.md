@@ -88,7 +88,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Performing Arts</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,6 +104,17 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>√</p>
@@ -155,9 +166,4 @@ description: ""
 early-May.&nbsp; For more details, please refer to the MOE DSA-Sec website
 – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 <br>
-<br>To find out more about Swiss Cottage Secondary School, please view our
-SCSS Moments videos on YouTube:
-<br><strong><a href="https://www.youtube.com/@SCSSMOMENTS/videos" rel="noopener nofollow" target="_blank">SCSS Moments Videos</a></strong>
-<br><strong><a href="https://youtu.be/6PGBM8eCbi4" rel="noopener nofollow" target="_blank">2024 School Tour</a></strong>
-<br><strong><a href="https://www.youtube.com/playlist?list=PLF4C7olM_mEcWlSSsk9DSbLtJnByfhUhR" rel="noopener nofollow" target="_blank">National School Games (NSG) Highlights</a><br><a href="https://youtu.be/NbBmxpGmEGs" rel="noopener nofollow" target="_blank">2024 Diamond Jubilee Concert Highlights</a><br><a href="https://www.youtube.com/playlist?list=PLF4C7olM_mEeOGVI3nXqzsO4SLqsiFKJU" rel="noopener nofollow" target="_blank">2024 Diamond Jubilee Concert – Selected videos</a></strong>
 </p>
