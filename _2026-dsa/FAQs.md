@@ -47,8 +47,7 @@ the interview and selection trial/audition (where applicable).</p>
 <p>All students will apply for DSA-Sec through a centralised DSA-Sec Portal
 to all DSA-Sec schools (except School of the Arts (SOTA) and Singapore
 Sports School (SSP), instead of individually to each school. The portal
-will be opened for application from 11am on 7 May 2025 (Wednesday) till
-3pm on 3 June 2025 (Wednesday).</p>
+will be opened for application 6 May 2026 till 2 June 2026.</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +65,7 @@ will be opened for application from 11am on 7 May 2025 (Wednesday) till
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 June 2025 (Wednesday), 3 pm</p>
+<p>2 June 2026</p>
 </td>
 </tr>
 <tr>
@@ -85,10 +84,7 @@ will be opened for application from 11am on 7 May 2025 (Wednesday) till
 </td>
 <td rowspan="1" colspan="1">
 <p>We will inform you between 8 to 18 July if you are shortlisted for the
-selection trial. The second shortlist for the in-person interview session
-will be sent out by 5 August 2025 (Friday) if you are successful. The selection
-trial and interview session (where applicable) will be conducted from 14
-July 2025 (Monday) to 21 Aug 2025 (Friday).</p>
+selection trial.</p>
 </td>
 </tr>
 <tr>
@@ -106,8 +102,8 @@ July 2025 (Monday) to 21 Aug 2025 (Friday).</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All applicants will know the outcome of their applications between 29
-August 2025 (Friday) and 4 September 2025 (Thursday).</p>
+<p>All applicants will know the outcome of their applications between 17
+to 28 August 2026.</p>
 </td>
 </tr>
 <tr>
@@ -174,11 +170,11 @@ through the DSA-Sec Portal.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Council is not considered a CCA in Swiss Cottage. You can choose
-any CCA to join if you pass the selection trials for that particular CCA.
-Joining the Student Council is not automatic even if you had come into
-Swiss Cottage via Leadership DSA. There is a selection process for one
-to become a member of Student Council.</p>
+<p>No. Student Council is not considered a CCA in Swiss Cottage. Students
+who entered via Leadership through DSA will have to select a CCA like all
+other students entering Sec 1 through PSLE exercise. However, you are expected
+to develop yourself through the various leadership opportunities, such
+as being elected to the Student Council.</p>
 </td>
 </tr>
 <tr>
@@ -284,9 +280,9 @@ to take up another instrument, we will consider your child’s application.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>It is not advisable for your child to join 2 CCAs. The school has fixed
-CCA days for all CCAs. If your child has 2 CCAs, he/she will not be able
-to fulfil the attendance for either CCA..</p>
+<p>It is not advisable for your child to join two CCAs. The school has common
+CCA days, twice a week, for all CCAs. If your child has two CCAs, he/she
+will not be able to fulfil the attendance for either CCA.</p>
 </td>
 </tr>
 <tr>
@@ -305,11 +301,10 @@ to fulfil the attendance for either CCA..</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The DSA process is a commitment between the student and the school. Once
-the child has been accepted by the school through a particular CCA, the
-child must commit to the CCA. There are exceptions, for example the child
-is injured and is not medically advisable for the child to continue with
-the specific talent area. In this instance, we will have a discussion with
-the child and parents.</p>
+the child has been accepted by the school through a particular talent area,
+the child must commit to the relevant CCA. There are exceptions, for example
+the child is injured and is not medically able to continue with the CCA.
+In this instance, we will have a discussion with the child and parents.</p>
 </td>
 </tr>
 </tbody>
