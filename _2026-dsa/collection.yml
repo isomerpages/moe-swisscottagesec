@@ -2,6 +2,7 @@ collections:
   2026-dsa:
     output: true
     order:
+      - Swiss DSA micro site.md
       - Swiss Direct School Admission.md
       - DSA Seconday Talents Offered.md
       - Admission Criteria.md
