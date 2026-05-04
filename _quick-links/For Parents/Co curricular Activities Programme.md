@@ -3,6 +3,7 @@ title: Co curricular Activities Programme
 permalink: /quick-links/for-parents/co-curricular-activities-programme/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 # Co-curricular Activities Programme
 
@@ -16,7 +17,7 @@ third_nav_title: For Parents
 
 ### Performing Arts
 
-<a href="http://www.singaporeyouthfestival.sg/" target="_blank">Singapore Youth Festival</a>
+<a href="https://www.syf.gov.sg/home" target="_blank">Singapore Youth Festival</a>
 
 ### Uniform Groups
 
