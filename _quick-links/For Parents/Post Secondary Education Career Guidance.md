@@ -24,7 +24,7 @@ Resources for parents
 
 Do explore the if you child is looking at entering a polytechnic after Secondary 4N(A).
 
-2\. [Direct Entry Scheme to Polytechnic Programme (DPP):](https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp)
+2\. [Direct Entry Scheme to Polytechnic Programme (DPP):](https://www.ite.edu.sg/current-full-time-students/progression/higher-nitec/)
 
 Information for students upon release of N level results or O level results.
 

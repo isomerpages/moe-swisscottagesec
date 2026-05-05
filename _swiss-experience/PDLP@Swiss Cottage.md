@@ -248,10 +248,6 @@ and public holidays</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit on Cyber Wellness for Your Child</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online" rel="noopener noreferrer nofollow" target="_blank">Schoolbag article ‘Keeping our teens safe online’</a>
 </p>
 </li>
@@ -264,5 +260,5 @@ and public holidays</p>
 </p>
 </li>
 </ul>
-<p><em>Updated 05/01/26</em>
+<p><em>Updated 04/05/26</em>
 </p>
