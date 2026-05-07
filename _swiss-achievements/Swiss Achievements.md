@@ -1,15 +1,15 @@
 ---
 title: Swiss Achievements
-permalink: /swiss-achievements/swisss-achievements/
-description: ""
+permalink: /swiss-achievements2/
 variant: tiptap
+description: ""
 ---
 <h1><strong>Swiss Achievements</strong></h1>
-<p><strong>Swiss Achievements for Year 2025</strong>
+<p><strong>Swiss Achievements for Year 2026</strong>
 </p>
 <p><strong>CCA Achievements</strong>
 </p>
-<p><strong>On the Uniform Groups Front</strong>&nbsp;<strong>(2025)</strong>
+<p><strong>On the Uniform Groups Front</strong>&nbsp;<strong>(2026)</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -19,36 +19,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="3" colspan="1">
-<p><strong>NCDCC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Precision Drill Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7<sup>th</sup> place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCDCC Pinnacle Badge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Andrena Ashley Seah 4S6
-<br>Angel Ng Hui En 4S7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency (UOPA) Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction for 2024
-<br>(received in 2025)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
 <p><strong>NCC (Air)</strong>
 </p>
@@ -57,51 +27,15 @@ variant: tiptap
 <p>NCC Freestyle Drills Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Preliminaries 1<sup>st</sup> place</p>
+<p>Preliminaries 2nd place</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Unit Recognition</p>
+<p>Unit Overall Proficiency (UOPA) Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction for 2024
-<br>(announced in 2025)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Scouts</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Frank Cooper Sand Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Awarded for 2024
-<br>(announced in 2025)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chief Scout’s Award (Scout)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Aaron Varghese Siby</p>
-<p>Kirsten Leong</p>
-<p>Mehnaz Begum</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Boys Brigade</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JM Fraser Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>High Distinction for 2024 (announced in 2025)</p>
+<p>Distinction for 2025 (received in 2026)</p>
 </td>
 </tr>
 <tr>
@@ -113,13 +47,57 @@ variant: tiptap
 <p>Unit Overall Proficiency (UOPA) Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction for 2024
-<br>(received in 2025)</p>
+<p>Distinction for 2025 (received in 2026)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NCDCC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency (UOPA) Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction for 2025 (received in 2026)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scouts</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sand Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awarded for 2025 (announced in 2026)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Boys Brigade</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JM Fraser Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction for 2025 (announced in 2026)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Founder’s Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gundre Daivik Reddy (4S5)</p>
+<p>Tan Song En Matthias (4S6)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>On the Sports Front (2025)</strong>
+<p><strong>On the Sports Front (2026)</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -129,7 +107,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Floorball</strong>
 </p>
 </td>
@@ -137,15 +115,7 @@ variant: tiptap
 <p>B Div Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG National Championship - Champions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Div Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG National Championship – National Top 8</p>
+<p>NSG National Championship – 1st Runner-Up</p>
 </td>
 </tr>
 <tr>
@@ -153,19 +123,11 @@ variant: tiptap
 <p>B Div Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG National Championship – National 4<sup>th</sup> &nbsp;&nbsp;</p>
+<p>NSG National Championship – National 8th</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C Div Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG National Championship – National Top 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p><strong>Badminton</strong>
 </p>
 </td>
@@ -173,21 +135,11 @@ variant: tiptap
 <p>B Div Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG West Zone – 2<sup>nd</sup> &nbsp;&nbsp;</p>
-<p>NSG Nationals – National 7<sup>th</sup>
-</p>
+<p>NSG National 15th</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>C Div Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG Nationals – Top 15</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Basketball</strong>
 </p>
 </td>
@@ -195,17 +147,8 @@ variant: tiptap
 <p>B Div Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG West Zone – 4<sup>th</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Div Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG Nationals – 8<sup>th</sup>
-</p>
+<p>NSG West Zone – 1st Runner-Up</p>
+<p>NSG Nationals – 15th</p>
 </td>
 </tr>
 <tr>
@@ -213,20 +156,12 @@ variant: tiptap
 <p>B Div Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG West Zone – 1<sup>st </sup>Runner-Up</p>
-<p>NSG Nationals – National 4<sup>th</sup> &nbsp;</p>
+<p>NSG West Zone – 1st Runner-Up</p>
+<p>NSG Nationals – National 8th</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C Div Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG Nationals – 1<sup>st</sup> Runner-Up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p><strong>Bowling</strong>
 </p>
 </td>
@@ -234,16 +169,7 @@ variant: tiptap
 <p>B Div Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Overall 6<sup>th</sup> placing for school</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Div Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Overall National 3<sup>rd</sup>
-</p>
+<p>Overall 5th placing for school</p>
 </td>
 </tr>
 <tr>
@@ -263,86 +189,9 @@ variant: tiptap
 <p>B Div Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG League 2 - Champion</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>On the Performing Arts Front (2025)</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Chinese Orchestra</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Choir</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Drama</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Dance</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>NCC Command Band</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Accomplishment (Percussion category)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>On the Clubs Front (2025)</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Science &amp; Technology Club</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Youth Tech Championship – 3<sup>rd</sup>
-</p>
+<p>NSG League 1 – 16th</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p><strong>&nbsp;</strong>
-</p>
