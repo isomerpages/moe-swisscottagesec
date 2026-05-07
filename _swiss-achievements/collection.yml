@@ -2,6 +2,7 @@ collections:
   swiss-achievements:
     output: true
     order:
+      - Swiss Achievements2.md
       - Swiss Achievements.md
       - Swiss Success Stories/2025 O Level Success Stories.md
       - Swiss Success Stories/2025 N Level Success Stories.md
