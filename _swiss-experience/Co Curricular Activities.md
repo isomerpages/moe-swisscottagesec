@@ -65,7 +65,7 @@ one CCA throughout their education in Swiss Cottage.&nbsp;
 <p>Boys' Brigade</p>
 <p>National Cadet Corps (Air)</p>
 <p>National Civil Defence Cadet Corps</p>
-<p>National Police Cadet Corps (Boys)</p>
+<p>National Police Cadet Corps</p>
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
