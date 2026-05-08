@@ -58,14 +58,14 @@ one CCA throughout their education in Swiss Cottage.&nbsp;
 <p>Badminton (Girls)</p>
 <p>Basketball</p>
 <p>Floorball</p>
-<p>Soccer (Boys)</p>
+<p>Football (Boys)</p>
 <p>Tenpin Bowling (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boys' Brigade</p>
 <p>National Cadet Corps (Air)</p>
 <p>National Civil Defence Cadet Corps</p>
-<p>National Police Cadet Corps (Boys)</p>
+<p>National Police Cadet Corps</p>
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
