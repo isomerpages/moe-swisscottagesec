@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Swiss Cottage Secondary School
-description: Swiss Cottage celebrated its 50th Anniversary in 2013. Fifty years
+description: Swiss Cottage celebrated its 60th Anniversary in 2023. Sixty years
   of establishment is a significant milestone for a school in a young country
   like Singapore. Today Swiss Cottage is recognised as one of the most esteemed
   government schools in Singapore.
