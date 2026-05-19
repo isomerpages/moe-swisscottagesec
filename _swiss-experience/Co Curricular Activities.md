@@ -487,7 +487,7 @@ on interest / ability and not on the points awarded.&nbsp;
 </td>
 <td rowspan="3" colspan="1">
 <p>1530-1815</p>
-<p>0730-1300</p>
+<p>0800-1200</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>BB Room, SR-D2</p>
