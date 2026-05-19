@@ -150,6 +150,14 @@ level in science.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Gabriel Kam Mao Quan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / Physics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lau Lee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -202,14 +210,6 @@ level in science.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi-Adjunct Teacher / Chemistry</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ma Chung Wai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi-Adjunct Teacher / Biology</p>
 </td>
 </tr>
 <tr>
