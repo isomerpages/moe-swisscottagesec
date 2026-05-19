@@ -174,14 +174,6 @@ teachers are on hand for consultation by appointment to support or to stretch.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jeng, Gordon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Herina Bte Roslin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,31 +190,63 @@ teachers are on hand for consultation by appointment to support or to stretch.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Jeng, Gordon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Felicia Choy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gayle Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Low Jian Hung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Pang Peng Tiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Serena Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Serene Lee Ching Lien</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / English Language and Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Gina Hiu Feng Ping</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Teacher / English Language</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Wei Si Stella</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Ashkin Binte Abu Bakar</p>
+<p>Ms Smitha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / English Language</p>
@@ -231,14 +255,6 @@ teachers are on hand for consultation by appointment to support or to stretch.</
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Esther Yeoh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr.Pang Peng Tiong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / English Language</p>
