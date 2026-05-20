@@ -126,7 +126,7 @@ level in science.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kenneth Neo Cheng Wee</p>
+<p>Mr Kenneth Neo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head Educational Technology / Biology</p>
