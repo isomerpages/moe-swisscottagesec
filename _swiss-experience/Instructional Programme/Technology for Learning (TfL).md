@@ -69,7 +69,7 @@ of students’ digital literacies and competencies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Cheng Wee Kenneth</p>
+<p>Mr Kenneth Neo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / EdTech</p>
