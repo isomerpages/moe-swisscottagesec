@@ -78,7 +78,7 @@ variant: markdown
     <tr><td>Subject Head / Mother Tongue Languages</td><td>Teo Lei Xin, Alviena (Ms)</td></tr>
     <tr><td>Subject Head / Student Leadership</td><td>Clement Tan Wei Xing (Mr)</td></tr>
     <tr><td>Subject Head / Student Management</td><td>Alex Chew Kok Chung (Mr)</td></tr>
-    <tr><td>Subject Head / Student Well-Being (Acting)</td><td>Lee Hong Yun Eric (Mr)</td></tr>
+    <tr><td>Subject Head / Student Well-Being</td><td>Lee Hong Yun Eric (Mr)</td></tr>
 
     
     <tr><td>Lead Teacher / English Language</td><td>Tan Su Yin Constance (Mdm)</td></tr>
