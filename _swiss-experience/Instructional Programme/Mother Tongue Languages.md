@@ -62,19 +62,19 @@ to learn and use the language.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Miss Toh Hui Jing</p>
+<p>Mr Yeo Tong Wei Raymond</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department / Mother Tongue Languages</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Lei Xin Alviena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Mother Tongue Languages</p>
 </td>
 </tr>
 <tr>
@@ -104,14 +104,6 @@ to learn and use the language.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Tee Lay Kean</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Teo Lei Xin Alviena</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / Chinese Language</p>
@@ -151,34 +143,10 @@ to learn and use the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Hui Sze</p>
+<p>Ms Wong Li Xin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lin Xingshan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Yong Choon Lan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Redha Nasuha Bte Mas’od</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / Malay Language</p>
 </td>
 </tr>
 <tr>
@@ -191,7 +159,7 @@ to learn and use the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Zuliana Bte Hamdan</p>
+<p>Mdm Redha Nasuha Bte Mas’od</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / Malay Language</p>
@@ -223,7 +191,7 @@ to learn and use the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Thasradha Chandraleka</p>
+<p>Ms Subahshini Ap Jaiseelan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / Tamil Language</p>
@@ -231,15 +199,7 @@ to learn and use the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Viswalingam Thenmozhi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / Tamil Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kaliee Muthu Silvi</p>
+<p>Mdm Sangeetha Ravi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / Tamil Language</p>
