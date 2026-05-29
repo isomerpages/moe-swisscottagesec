@@ -23,7 +23,7 @@ life.
 <br><strong>Policy</strong>
 <br>In order to enable students to have a broad-based, all-round education,
 CCA participation is compulsory and all pupils must take part in at least
-one CCA throughout their education in Swiss Cottage.&nbsp;
+one CCA throughout their education in Swiss Cottage. 
 <br>&nbsp;
 <br><strong>CCAs offered by Swiss Cottage</strong>
 </p>
@@ -58,7 +58,7 @@ one CCA throughout their education in Swiss Cottage.&nbsp;
 <p>Badminton (Girls)</p>
 <p>Basketball</p>
 <p>Floorball</p>
-<p>Football (Boys)</p>
+<p>Soccer (Boys)</p>
 <p>Tenpin Bowling (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,7 +91,7 @@ one CCA throughout their education in Swiss Cottage.&nbsp;
 <br>The revised LEAPS 2.0 recognises students’ co-curricular attainment according
 to Excellent/Good/Fair. The level of attainment will be converted to a
 bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/
-Institutes of Education (JC/Poly/ITE).&nbsp;</p>
+Institutes of Education (JC/Poly/ITE).</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -151,15 +151,15 @@ points.</p>
 for their pupils to undergo training with the nation youth squads. This
 includes sports that are not in the school's CCA programmes. Participation
 endorsed by the principal and monitored by the NSAs (through progress reports)
-may be awarded CCA points.&nbsp;
+may be awarded CCA points. 
 <br>&nbsp;</p>
 <p><strong>Choice of CCA</strong>
 <br>Students are advised to exercise prudence in selecting their CCAs, and
 he / she should only choose to do more than 1 CCA if it does not affect
-his / her commitment to their main CCA.&nbsp; CCAs should be chosen based
-on interest / ability and not on the points awarded.&nbsp;
-<br>
-<br>You may visit our CCA Google Site for more information on CCA here:
+his / her commitment to their main CCA.  CCAs should be chosen based on
+interest / ability and not on the points awarded. </p>
+<p></p>
+<p>You may visit our CCA Google Site for more information on CCA here:
 <a href="https://sites.google.com/moe.edu.sg/swissccas/our-ccas" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/swissccas/our-ccas</a>
 </p>
 <p><strong>&nbsp;</strong>
@@ -449,11 +449,10 @@ on interest / ability and not on the points awarded.&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kenneth Neo</p>
+<p>Mdm Vijaya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_cheng_wee_kenneth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_cheng_wee_kenneth@moe.edu.sg</a>
-</p>
+<p><a href="mailto:vijayaprabha_natarajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vijayaprabha_natarajan@moe.edu.sg</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -467,10 +466,10 @@ on interest / ability and not on the points awarded.&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vijaya</p>
+<p>Mr Kenneth Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vijayaprabha_natarajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vijayaprabha_natarajan@moe.edu.sg</a>
+<p><a href="mailto:neo_cheng_wee_kenneth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_cheng_wee_kenneth@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -572,21 +571,21 @@ on interest / ability and not on the points awarded.&nbsp;
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>8</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>NPCC</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>NPCC Room, 1S1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -616,37 +615,38 @@ on interest / ability and not on the points awarded.&nbsp;
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>Scouts</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>Mon</p>
-<p>Thu</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>1530-1815</p>
-<p>1530-1815</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>Scouts Room, 1S2</p>
+<td rowspan="1" colspan="1">
+<p>Aung Min Rou&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tam Siew Kee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tam_siew_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tam_siew_kee@moe.edu.sg</a>
+<p><a href="mailto:aung_min_rou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aung_min_rou@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="6" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>Mon</p>
+<p>Thu</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>1530-1815</p>
+<p>1530-1815</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>Scouts Room, 1S2</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Ms Maheshwari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maheswari_thangaiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maheswari_thangaiah@moe.edu.sg</a>
+<a href="mailto:Tam_siew_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
@@ -655,7 +655,34 @@ on interest / ability and not on the points awarded.&nbsp;
 <p>Ms Adelia Nivaashini Chandra Segar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nivaashini_chandra_segar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nivaashini_chandra_segar@moe.edu.sg</a>
+<p><a href="mailto:nivaashini_chandra_segar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nivaashini_chandra_segar@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tam Siew Kee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tam_siew_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tam_siew_kee@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lai Kuok Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lai_kuok_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_kuok_liang@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Low Jian Hung&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_jian_hung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_jian_hung@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -664,26 +691,26 @@ on interest / ability and not on the points awarded.&nbsp;
 <p>Mr S Rozaini Bin Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:srozaini_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">srozaini_yusoff@moe.edu.sg</a>
+<p><a href="mailto:srozaini_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">srozaini_yusoff@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>10</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>NCDCC</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>NCDCC Room, 2S4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -705,6 +732,15 @@ on interest / ability and not on the points awarded.&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Ummahani Binte Nur Badren</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ummahani_nur_badren@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ummahani_nur_badren@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Heng Kee Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -713,21 +749,21 @@ on interest / ability and not on the points awarded.&nbsp;
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>11</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Badminton</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Mon</p>
 <p>Thu</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>1530-1815</p>
 <p>1530-1815</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>ISH Level 2 and 3, 2S6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -753,15 +789,6 @@ on interest / ability and not on the points awarded.&nbsp;
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thou_reaksmey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thou_reaksmey@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Phua Song Yuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:phua_song_yuan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_song_yuan_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -986,10 +1013,10 @@ on interest / ability and not on the points awarded.&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Ashikin Binte Abu Bakar</p>
+<p>Mr Joyan Tan Zhe-Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_ashikin_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ashikin_abu_bakar@moe.edu.sg</a>
+<p><a href="mailto:joyan_tan_zhe_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joyan_tan_zhe_yuan@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -1030,19 +1057,19 @@ on interest / ability and not on the points awarded.&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Subashini A/P Jaiseelan</p>
+<p>Ms Kwek Jo Ee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:subahshini_ap_jaiseelan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subahshini_ap_jaiseelan@moe.edu.sg</a>
+<p><a href="mailto:Kwek_jo_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kwek_jo_ee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kwek Jo Ee</p>
+<p>Ms Subashini A/P Jaiseelan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Kwek_jo_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kwek_jo_ee@moe.edu.sg</a>
+<p><a href="mailto:subahshini_ap_jaiseelan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subahshini_ap_jaiseelan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
