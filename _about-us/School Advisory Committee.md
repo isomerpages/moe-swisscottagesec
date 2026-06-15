@@ -54,8 +54,9 @@ variant: markdown
         Mr Kenneth Leong
       </td>
       <td style="width: 33.33%; padding: 10px; text-align: center;">
-				<img style="width: 150px; height: auto;" alt="Ms Alexis Kam Bee Lay" src="/images/About us/School Advisory Committee/Ms_Alexis_Kam_Bee_Lay.jpeg"><br>
-        
+				<img style="width: 150px; height: auto;" alt="Ms Alexis Kam Bee Lay" src="/images/About us/School Advisory Committee/Ms_Alexis_Kam_Bee_Lay.jpg"><br>
+             <strong>SAC Member</strong><br>
+        Ms Alexis Kam Bee Lay
       </td>
       <td style="width: 33.33%; padding: 10px; text-align: center;">
         <img style="width: 150px; height: auto;" alt="Ms Rose Siow Wen Szu" src="/images/About us/School Advisory Committee/2025_sac_rose.png"><br>
