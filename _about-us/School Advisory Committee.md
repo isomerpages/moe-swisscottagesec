@@ -54,6 +54,7 @@ variant: markdown
         Mr Kenneth Leong
       </td>
       <td style="width: 33.33%; padding: 10px; text-align: center;">
+				<img style="width: 150px; height: auto;" alt="Ms Alexis Kam Bee Lay" src="/images/About us/School Advisory Committee/Ms_Alexis_Kam_Bee_Lay.jpeg"><br>
         
       </td>
       <td style="width: 33.33%; padding: 10px; text-align: center;">
