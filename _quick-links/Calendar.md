@@ -4,7 +4,7 @@ permalink: /quick-links/calendar/
 description: ""
 variant: tiptap
 ---
-<p><strong><u>2026 Term 1</u></strong>
+<p><strong><u>2026 Term 3</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -36,13 +36,13 @@ variant: tiptap
 <p>1&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W0</p>
+<p>T3W1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1</p>
+<p>3/7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First day of school</p>
+<p>Swiss Olympics</p>
 </td>
 </tr>
 <tr>
@@ -50,13 +50,13 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W1</p>
+<p>T3W2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/1 &amp; 8/1</p>
+<p>6/7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA orientation (sec1)</p>
+<p>Youth Day Holiday</p>
 </td>
 </tr>
 <tr>
@@ -64,13 +64,13 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W1</p>
+<p>T3W2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9/1</p>
+<p>7/7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 MTP (evening)</p>
+<p>GCE O - Level MTL Listening Comprehension Exam</p>
 </td>
 </tr>
 <tr>
@@ -78,13 +78,13 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W2</p>
+<p>T3W2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14/1</p>
+<p>10/7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 MTP</p>
+<p>Sec 2 Museum-based Learning</p>
 </td>
 </tr>
 <tr>
@@ -92,13 +92,14 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W2</p>
+<p>T3W3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16/1</p>
+<p>13/7 – 17/7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL #1</p>
+<p>GCE O/N- Level Oral Exam
+<br>(EL and MTL)</p>
 </td>
 </tr>
 <tr>
@@ -106,13 +107,13 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W3</p>
+<p>T3W3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19/1 - 21/1</p>
+<p>14/7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 &amp; 3 - Phototaking</p>
+<p>HBL #10</p>
 </td>
 </tr>
 <tr>
@@ -120,13 +121,13 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W3</p>
+<p>T3W3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21/1</p>
+<p>15/7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 MTP</p>
+<p>HBL #11</p>
 </td>
 </tr>
 <tr>
@@ -134,13 +135,13 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W4</p>
+<p>T3W3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28/1 – 31/1</p>
+<p>16/7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Camp</p>
+<p>HBL #12</p>
 </td>
 </tr>
 <tr>
@@ -148,13 +149,14 @@ variant: tiptap
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W4</p>
+<p>T3W3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30/1</p>
+<p>17/7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL #2</p>
+<p>Sec 1 Learning journey to Jurong Lake</p>
+<p>Sec 2 Museum-based Learning</p>
 </td>
 </tr>
 <tr>
@@ -162,13 +164,13 @@ variant: tiptap
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W6</p>
+<p>T3W4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>21/7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 CCA Selection Results</p>
+<p>Racial Harmony Day Commemoration</p>
 </td>
 </tr>
 <tr>
@@ -176,13 +178,13 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W6</p>
+<p>T3W4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10/2</p>
+<p>23/7 – 31/7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 MTP</p>
+<p>N-Level Prelim</p>
 </td>
 </tr>
 <tr>
@@ -190,13 +192,13 @@ variant: tiptap
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W6</p>
+<p>T3W6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13/2</p>
+<p>7/8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL #3</p>
+<p>National Day Observance &amp; Speech Day</p>
 </td>
 </tr>
 <tr>
@@ -204,13 +206,13 @@ variant: tiptap
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W7</p>
+<p>T3W6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16/2</p>
+<p>9/8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CNY Celebration (school)</p>
+<p>National Day</p>
 </td>
 </tr>
 <tr>
@@ -218,13 +220,13 @@ variant: tiptap
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W7</p>
+<p>T3W7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17/2 – 18/2</p>
+<p>10/8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CNY School Holiday</p>
+<p>Public Holiday off-in-lieu</p>
 </td>
 </tr>
 <tr>
@@ -232,13 +234,13 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W7</p>
+<p>T3W7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19/1</p>
+<p>13/8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 start CCA</p>
+<p>Sec2 Subject Talk by selected IP HODs</p>
 </td>
 </tr>
 <tr>
@@ -246,13 +248,13 @@ variant: tiptap
 <p>16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W8</p>
+<p>T3W7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27/2</p>
+<p>14/8 – 2/9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL #4</p>
+<p>O-Level Prelim</p>
 </td>
 </tr>
 <tr>
@@ -260,13 +262,13 @@ variant: tiptap
 <p>17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W9</p>
+<p>T3W9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/3</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Geog LJ - pm (selected classes)</p>
+<p>CCA Last Day</p>
 </td>
 </tr>
 <tr>
@@ -274,13 +276,13 @@ variant: tiptap
 <p>18</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W10</p>
+<p>T3W10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13/3</p>
+<p>3/9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL #5</p>
+<p>ACES Day &amp; Teachers’ Day Celebration</p>
 </td>
 </tr>
 <tr>
@@ -288,13 +290,13 @@ variant: tiptap
 <p>19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W10</p>
+<p>T3W10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14/3 (Sat)</p>
+<p>4/9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Past vs Present (Students + Alumni Games)</p>
+<p>Teachers’ Day</p>
 </td>
 </tr>
 <tr>
@@ -302,18 +304,18 @@ variant: tiptap
 <p>20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>March</p>
+<p>September</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16/3 – 17/3</p>
+<p>7/9 – 9/9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff and Students Protected Leave</p>
+<p>Students and Staff protected leave</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>2026 Term 2</u></strong>
+<p><strong><u>2026 Term 4</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -325,7 +327,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Term</strong>
@@ -342,16 +344,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>1&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W1</p>
+<p>T4W1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23/3</p>
+<p>14/9 – 24/9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Public Holiday off-in-lieu</p>
+<p>GCE N – Level Exam (Phase 1)</p>
 </td>
 </tr>
 <tr>
@@ -359,13 +361,13 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W1</p>
+<p>T4W2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27/3</p>
+<p>21/9 – 2/10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Geog LJ - pm (selected classes)</p>
+<p>End of Year Exam</p>
 </td>
 </tr>
 <tr>
@@ -373,13 +375,13 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W2</p>
+<p>T4W2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31/3</p>
+<p>23/9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2,4,5 PTC – from 15:30 onwards</p>
+<p>GCE O - Level MTL 'B' Oral Exam</p>
 </td>
 </tr>
 <tr>
@@ -387,13 +389,13 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W2</p>
+<p>T4W2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3/4</p>
+<p>25/9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Good Friday</p>
+<p>Graduation Day 2026 &amp; Last Day for Sec 4/5</p>
 </td>
 </tr>
 <tr>
@@ -401,13 +403,13 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W3</p>
+<p>T4W3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7/4</p>
+<p>30/9 – 13/10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 PTC – from 15:30 onwards</p>
+<p>GCE O - Level Science Practical Exam</p>
 </td>
 </tr>
 <tr>
@@ -415,13 +417,13 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W4</p>
+<p>T4W4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17/4</p>
+<p>5/10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL #6</p>
+<p>Marking Day</p>
 </td>
 </tr>
 <tr>
@@ -429,13 +431,13 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W4</p>
+<p>T4W4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17/4</p>
+<p>5/10 – 13/10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Sci Amb LJ&nbsp;&nbsp;</p>
+<p>GCE N – Level Exam (Phase 2)</p>
 </td>
 </tr>
 <tr>
@@ -443,13 +445,13 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W6</p>
+<p>T4W4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27/4</p>
+<p>6/10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 CCA Stand Down</p>
+<p>HBL #13 (Sec 1 – 3)</p>
 </td>
 </tr>
 <tr>
@@ -457,13 +459,13 @@ variant: tiptap
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W6</p>
+<p>T4W5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1/5</p>
+<p>12/10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Labour Day</p>
+<p>CCA Resumption</p>
 </td>
 </tr>
 <tr>
@@ -471,13 +473,13 @@ variant: tiptap
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W6</p>
+<p>T4W5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8/5</p>
+<p>15/10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 Check CCA Records</p>
+<p>GCE O - Level English Listening Comprehension Exam</p>
 </td>
 </tr>
 <tr>
@@ -485,13 +487,13 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W8</p>
+<p>T4W5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13/5</p>
+<p>16/10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Love Your Device</p>
+<p>Progression Meeting (no school for students)</p>
 </td>
 </tr>
 <tr>
@@ -499,13 +501,13 @@ variant: tiptap
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W8</p>
+<p>T4W6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15/5</p>
+<p>19/10 – 10/11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL #7</p>
+<p>GCE O – Level Exam</p>
 </td>
 </tr>
 <tr>
@@ -513,14 +515,13 @@ variant: tiptap
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W8</p>
+<p>T4W6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15/5</p>
+<p>22/10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 EL O Level Oral Prelim</p>
-<p>Sec 4/5 MTL NA/NT Level Oral Prelim</p>
+<p>Deepavali Concert &amp; Talent Time</p>
 </td>
 </tr>
 <tr>
@@ -528,13 +529,14 @@ variant: tiptap
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W9</p>
+<p>T4W6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/5 – 24/5</p>
+<p>23/10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALP/Horizons Trip (various students)</p>
+<p>Last day of school;
+<br>Sec1,2,3 Parent-Teacher Conference</p>
 </td>
 </tr>
 <tr>
@@ -542,14 +544,13 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W10</p>
+<p>T4W7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25/5 – 26/5</p>
-<p>28/5 – 29/5</p>
+<p>26/10-30/10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 &amp; 4 Intensive Mother Tongue</p>
+<p>Sec3 Headstart Programme</p>
 </td>
 </tr>
 <tr>
@@ -557,13 +558,13 @@ variant: tiptap
 <p>16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W10</p>
+<p>T4W7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25/5 – 26/5</p>
+<p>31/10 – 5/11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Camp</p>
+<p>Horizons Trip</p>
 </td>
 </tr>
 <tr>
@@ -571,13 +572,13 @@ variant: tiptap
 <p>17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W10</p>
+<p>T4W8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25/5</p>
+<p>8/11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL #8</p>
+<p>Deepavali</p>
 </td>
 </tr>
 <tr>
@@ -585,38 +586,10 @@ variant: tiptap
 <p>18</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W10</p>
+<p>T4W9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26/5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HBL #9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>T2W10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>27/5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Haji</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1/6</p>
+<p>9/11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Public Holiday off-in-lieu</p>
@@ -624,55 +597,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T4W9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14/11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Swiss Cottage Open House</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T4W9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec1 Registration (online)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>21</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>June</p>
+<p>December</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GCE O Level MTL/B Exam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3/6 - 4/6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4/5 Supplementary Lessons (am)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3/6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 EL NA/NT Level Oral Prelim (pm)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8/6 – 19/6</p>
+<p>30/11 – 18/12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students and Staff protected leave</p>
@@ -680,16 +639,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25</p>
+<p>22</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>June</p>
+<p>December</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22/6 - 23/6</p>
+<p>25/12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 Supplementary Lessons (am)</p>
+<p>Christmas</p>
 </td>
 </tr>
 </tbody>
