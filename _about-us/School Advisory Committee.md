@@ -37,7 +37,7 @@ variant: markdown
         Mr Elgin Goh
       </td>
       <td style="width: 33.33%; padding: 10px; text-align: center;">
-        <img style="width: 150px; height: auto;" src="/images/About us/School Advisory Committee/2025_sac_jamingan.png"><br>
+        <img style="width: 150px; height: auto;" src="/images/About us/School Advisory Committee/jamin_gan_wei_en.jpg"><br>
         <strong>SAC Member</strong><br>
         Mr Jamin Gan Wei En
       </td>
@@ -47,20 +47,30 @@ variant: markdown
         Mdm Amanda Low Chew Ni
       </td>
     </tr>
-    <tr>
+		  <tr>
       <td style="width: 33.33%; padding: 10px; text-align: center;">
         <img style="width: 150px; height: auto;" alt="Mr Kenneth Leong" src="/images/About us/School Advisory Committee/2025_sac_kennethleong.png"><br>
         <strong>SAC Member</strong><br>
         Mr Kenneth Leong
       </td>
       <td style="width: 33.33%; padding: 10px; text-align: center;">
-        
+				<img style="width: 150px; height: auto;" alt="Ms Alexis Kam Bee Lay" src="/images/About us/School Advisory Committee/Ms_Alexis_Kam_Bee_Lay.jpg"><br>
+             <strong>SAC Member</strong><br>
+        Ms Alexis Kam Bee Lay
       </td>
       <td style="width: 33.33%; padding: 10px; text-align: center;">
         <img style="width: 150px; height: auto;" alt="Ms Rose Siow Wen Szu" src="/images/About us/School Advisory Committee/2025_sac_rose.png"><br>
         <strong>SAC Member</strong><br>
         Ms Rose Siow Wen Szu
       </td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%; padding: 10px; text-align: center;">
+        <img style="width: 150px; height: auto;" alt="Ms Gan Lixing" src="/images/About us/School Advisory Committee/Lixing.jpg"><br>
+        <strong>SAC Member</strong><br>
+        Ms Gan Lixing 
+      </td>
+
     </tr>
   </tbody>
 </table>
