@@ -40,16 +40,16 @@ variant: markdown
 |  |  |
 |---|---|
 | Mrs Lim-Ong Ching Ching | Head of Department / Craft and Technology |
-| Mdm Chok Shuk Yin | Head of Department / CCE and Student Well-being |
-| Mr Koh Joon Teck | Subject Head / Smart Electrical Technology and Design &amp; Technology |
-| Mr Lee Hongyun Eric | Teacher / Design and Technology and Smart Electrical Technology |
-| Mr Simon Wong Yin Kew | Teacher / Design and Technology |
-| Mdm Iznur Shahidah Bte Ishak | Teacher / Design and Technology |
-| Mdm Koh Shin Yee | Teacher / Food and Nutrition |
-| Mdm Su Ziyan | Teacher / Food and Nutrition |
+| Mdm Chok Shuk Yin | Head of Department / CCE and Student Well-being / Music |
+| Mr Koh Joon Teck | Subject Head / Design and Technology |
+| Mr Lee Hongyun Eric | Subject Head / Student Well-being / Design and Technology |
+| Mr Rosman Bin Aziz | Flexi Adjunct Teacher / Design and Technology |
+| Mr Tan Yong Huat |  Flexi Adjunct Teacher / Design and Technology |
+| Ms Zahrah | Teacher / Nutrition and Food Science |
+| Mdm Su Ziyan | Teacher / Nutrition and Food Science |
 | Mdm Nurfarihah Bte Ahmad Rifa’eh |  Teacher / Art |
+| Mdm Iznur Shahidah Bte Ishak | Teacher / Art |
 | Ms Nur Aqilah Bte Johari |  Teacher / Art |
-| Mr Tan Yong Huat |  Teacher  |
 | Mr Chua Soo Chuan | Educational Workshop Instructor |
 | Mr S. Rozaini Bin Yusoff | Educational Workshop Instructor |
 | Mdm Kahyati Bte Sapuan | Kitchen Assistant |
