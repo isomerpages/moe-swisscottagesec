@@ -45,12 +45,10 @@ adapt to the evolving needs of stakeholders.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p>Ms Ng Poh Keow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p>Head of Department / Mathematics (Acting)</p>
 </td>
 </tr>
 <tr>
@@ -58,31 +56,7 @@ adapt to the evolving needs of stakeholders.</p>
 <p>Mr Ang Hanping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department / Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Pow Tian Si Zoe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Heng Teng Boon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / 21CC &amp; ECG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Poh Keow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Lead Teacher / Mathematics （Acting）</p>
 </td>
 </tr>
 <tr>
@@ -91,6 +65,14 @@ adapt to the evolving needs of stakeholders.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher / Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Heng Teng Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / 21CC &amp; ECG</p>
 </td>
 </tr>
 <tr>
@@ -144,6 +126,14 @@ adapt to the evolving needs of stakeholders.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Lay Kwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Pow Tian Si Zoe</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / Mathematics</p>
